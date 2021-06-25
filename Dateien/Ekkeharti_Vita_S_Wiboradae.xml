@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ekkeharti Vita S. Wiboradae</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="S">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Württembergische Landesbibliothek</repository>
+                        <idno>Bibl. 2°58</idno>
+                        <altIdentifier type="url">
+                           <idno>http://digital.wlb-stuttgart.de/purl/bsz332502295</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Augsburg, Staats- und Stadtbibliothek</repository>
+                        <idno>2°203</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Boll">
+                  <bibl>
+                     <title>Acta Sanctorum Mai t. 1</title>
+                  </bibl>
+               </witness>
+
+            </listWit>
+            <listPerson>
+               <person xml:id="wibo">
+                  <persName type="normalisiert">Wiborada</persName>
+               </person>
+            </listPerson>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding location="internal" method="parallel-segmentation"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb ed="S" n="130ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/>
+            <head>
+               <app>
+                  <lem>Incipit uita ·s· wiberadę uirginis et martyris</lem>
+                  <rdg wit="#A">Incipit vita et passio sancte Wiborade virginis et martiris . aput
+                     sanctum gallum .vj.nonas may</rdg>
+                  <rdg wit="#Boll"><note>Incipit deest</note></rdg>
+               </app> ·</head>
+         </div>
+         <div n="I(1)">
+            <p><hi>BEATISSIMA</hi> igitur uirgo dei <persName ref="#wibo">wiborada</persName> ex <app>
+                  <lem>alamannorum</lem>
+                  <rdg wit="#Boll">Alemannorum</rdg>
+               </app><cb ed="#S" n="130rb"/> qui et sueui stirpe oriunda · parentibus bene natis
+               uitęque laudabilis nobilitate pollentibus · christianę quoque militię exercitio
+               <app><lem>inter</lem><rdg wit="#A">intra</rdg></app> primas dominici agminis alas · uexilla salutis strenue subsequentibus · ueluti
+               bona arbor bonę radicis ex germine pullulauit · Quę etiam <seg source="#Sap_11.21">per diuinę scientię
+               prouidentiam omnia in mensura pondere · <app><lem>numeroque</lem><rdg wit="#Boll">numero</rdg></app> ineffabiliter disponentem</seg> · quasi
+               quodam praesagio dignum sortita est nomen · Nam <persName ref="#wibo">wiborat</persName> teutonica lingua prolatum ·
+               si latini sermonis translatione mutetur · consilium mulierum sonat · Et reuera huic
+               apte tale congruit nomen · quę sibi primitus consulens · <seg type="cf." source="#Lc_10.38-40">utrasque sorores <app><lem>recte</lem><rdg wit="#A">recti</rdg></app>
+               agendi magistras</seg> · ambas <app><lem>inquam</lem><rdg wit="Boll">in quantum<note>!</note></rdg></app> christi amatrices martham scilicet et mariam imitans
+               · per actiuę quidem sudorem conuersationis · ad speculatiuę fastigium contemplationis
+               ascendens · cunctis iter rectum querentibus non solum mulieribus sed et uiris mundum spernendi
+               <app><rdg wit="#A">et</rdg></app> · domino seruiendi · <app><lem>eiqueh</lem><rdg wit="#Boll">et</rdg></app> indefesse et inconuulse adherendi consilium
+               praerogauit pariter et exemplum·</p>
+         </div>
+      </body>
+   </text>
+</TEI>

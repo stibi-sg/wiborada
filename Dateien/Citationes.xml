@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Citation list Ekkeharti Vita S. Wiboradae</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+      <back>
+         <div>
+            <cit xml:id="Sap_11.21">
+               <bibl>Sap 11,21</bibl>
+               <quote>sed et sine his uno spiritu occidi poterant persecutionem passi ab ipsis
+                  factis suis et dispersi per spiritum virtutis tuae sed omnia mensura et numero et
+                  pondere disposuisti</quote>
+            </cit>
+            <cit xml:id="Lc_10.38-40">
+               <bibl>Lc 10,38-40</bibl>
+               <quote>factum est autem dum irent et ipse intravit in quoddam castellum et mulier
+                  quaedam Martha nomine excepit illum in domum suam et huic erat soror nomine Maria
+                  quae etiam sedens secus pedes Domini audiebat verbum illius. Martha autem
+                  satagebat circa frequens ministerium quae stetit et ait Domine non est tibi curae
+                  quod soror mea reliquit me solam ministrare dic ergo illi ut me adiuvet.</quote>
+            </cit>
+
+         </div>
+      </back>
+   </text>
+
+</TEI>
