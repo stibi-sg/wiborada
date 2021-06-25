@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -46,9 +45,9 @@
             </listPerson>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
+      <!--<encodingDesc>
          <variantEncoding location="internal" method="parallel-segmentation"/>
-      </encodingDesc>
+      </encodingDesc>-->
    </teiHeader>
    <text>
       <body>
@@ -77,7 +76,7 @@
                agendi magistras</seg> · ambas <app><lem>inquam</lem><rdg wit="Boll">in quantum<note>!</note></rdg></app> christi amatrices martham scilicet et mariam imitans
                · per actiuę quidem sudorem conuersationis · ad speculatiuę fastigium contemplationis
                ascendens · cunctis iter rectum querentibus non solum mulieribus sed et uiris mundum spernendi
-               <app><rdg wit="#A">et</rdg></app> · domino seruiendi · <app><lem>eiqueh</lem><rdg wit="#Boll">et</rdg></app> indefesse et inconuulse adherendi consilium
+               <app><rdg wit="#A">et</rdg></app> · domino seruiendi · <app><lem>eique</lem><rdg wit="#Boll">et</rdg></app> indefesse et inconuulse adherendi consilium
                praerogauit pariter et exemplum·</p>
          </div>
       </body>
