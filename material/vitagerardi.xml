@@ -1,0 +1,1838 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="la">Vita Gerardi (BHL 3429)</title>
+                <title type="alternative" xml:lang="la">Laudatio sancti Gerardi episcopi
+                    Potentini</title>
+                <author ref="#Manfr">Manfredi di Potenza (Manfredus Potentinus)</author>
+                <respStmt>
+                    <resp>Edizione a cura di</resp>
+                    <name xml:id="GUARN">Biagio Luca Guarnaccio</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisione alla codifica di:</resp>
+                    <name>Fulvio Delle Donne</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>BUP - Basilicata University Press</publisher>
+                <pubPlace>Potenza</pubPlace>
+                <date>Giugno 2020</date>
+                <availability>
+                    <p>Il progetto è realizzato per la libera consultazione. Tutti i contenuti sono
+                        riproducibili a patto che se ne indichi la fonte.</p>
+                    <licence><ref target="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC 4.0 BY NC ND</ref></licence>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="B">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Bruxelles</settlement>
+                                <repository>Bibliothèque royale de Belgique</repository>
+                                <idno>8926</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <objectDesc form="codex">
+                                    <supportDesc material="cart">
+                                        <support>
+                                            <p>Carta</p>
+                                        </support>
+                                        <extent>cc. 10r-13v</extent>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout columns="1"/>
+                                    </layoutDesc>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+                                <p> scritto nel <origDate>XVII sec.</origDate>
+                                </p>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="N">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Napoli</settlement>
+                                <repository>Biblioteca Nazionale "Vittorio Emanuele
+                                    III"</repository>
+                                <idno>IX C 33</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <objectDesc form="codex">
+                                    <supportDesc material="cart">
+                                        <support>
+                                            <p>Carta</p>
+                                        </support>
+                                        <extent>cc. 322r-328r</extent>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout columns="1"/>
+                                    </layoutDesc>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+                                <p> scritto nel <origDate>XVII sec.</origDate>
+                                </p>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="P">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Potenza</settlement>
+                                <repository>Biblioteca Provinciale di Potenza</repository>
+                                <idno>I 4</idno>
+                                <msName>Rendina-Picernese</msName>
+                            </msIdentifier>
+                            <msContents>
+                                <msItem>
+                                    <author>Giuseppe Rendina</author>
+                                    <author>Gerardo Picernese</author>
+                                    <title>«Istoria della città di Potenza»</title>
+                                </msItem>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc form="codex">
+                                    <supportDesc material="cart">
+                                        <support>
+                                            <p>Carta</p>
+                                        </support>
+                                        <extent>cc. 134r-141v (pp. 260-275 mecc.)</extent>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout columns="1"/>
+                                    </layoutDesc>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+                                <p> scritto nel <origDate>XVIII sec.</origDate>
+                                </p>
+                                <p> copia di Gerardo Picernese della <title>«Istoria della città di
+                                        Potenza»</title> di Giuseppe Rendina </p>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="V">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Roma</settlement>
+                                <repository>Biblioteca Apostolica Vaticana</repository>
+                                <idno>Vat. lat. 12064</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <objectDesc form="codex">
+                                    <supportDesc material="cart">
+                                        <support>
+                                            <p>Carta</p>
+                                        </support>
+                                        <extent>cc. 99r-102r</extent>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout columns="1"/>
+                                    </layoutDesc>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+                                <p> scritto nel <origDate>XVI sec.</origDate>
+                                </p>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="u">
+                        <bibl>
+                            <author>Ferdinando Ughelli</author>
+                            <title>Italia sacra sive de episcopis Italiae et insularum
+                                adiacentium</title>
+                            <pubPlace>Romae</pubPlace>
+                            <publisher>Sumptibus Blasii Deversin</publisher>
+                            <biblScope unit="volume">7</biblScope>
+                            <date>1659</date>
+                            <extent>coll. 178-184</extent>
+                        </bibl>
+                    </witness>
+                </listWit>
+                <listPerson>                    
+                    <person xml:id="Call2">
+                        <persName>
+                            <forename xml:lang="it">Callisto (Callixtus) II</forename>
+                            <forename type="alternative" xml:lang="it">Guido</forename>
+                            <surname xml:lang="it">dei conti di Borgogna</surname>
+                            <roleName>papa</roleName>
+                         </persName>
+                    </person>                    
+                    <person xml:id="Coleti">
+                        <persName>
+                            <forename xml:lang="it">Nicola</forename>
+                            <surname xml:lang="it">Coleti</surname>
+                         </persName>
+                    </person>                                       
+                    <person xml:id="Ferraris">
+                        <persName>
+                            <forename xml:lang="it">Lucio</forename>
+                            <surname xml:lang="it">Ferraris</surname>
+                         </persName>
+                    </person>                    
+                    <person xml:id="Ger">
+                        <persName>
+                            <forename xml:lang="it">Gerardo (Gerardus)</forename>
+                            <surname xml:lang="it">di Potenza (Potentinus)</surname>
+                            <roleName>vescovo di Potenza</roleName>
+                            <roleName>santo</roleName>
+                         </persName>
+                    </person>
+                    <person xml:id="Greg">
+                        <persName>
+                            <forename xml:lang="it">Gregorio</forename>
+                            <surname xml:lang="it">Magno</surname>
+                         </persName>
+                    </person>
+                    <person xml:id="GugPal">
+                        <persName>
+                            <forename xml:lang="it">Guglielmo (Guilelmus)</forename>
+                            <roleName>cardinale vescovo di Palestrina</roleName>
+                         </persName>
+                    </person>
+                    <person xml:id="GuiGrav">
+                        <persName>
+                            <forename xml:lang="it">Guido</forename>
+                            <roleName>vescovo di Gravina</roleName>
+                         </persName>
+                    </person>                                                            
+                    <person xml:id="LeoGrum">
+                        <persName>
+                            <forename xml:lang="it">Leone</forename>
+                            <roleName>vescovo di Grumento</roleName>
+                         </persName>
+                    </person>
+                    <person xml:id="Manfr">
+                        <persName>
+                            <forename xml:lang="it">Manfredi (Manfredus)</forename>
+                            <surname xml:lang="it">di Potenza (Potentinus)</surname>
+                            <roleName>vescovo di Potenza</roleName>
+                            <roleName>presunto agiografo di s. Gerardo</roleName>
+                         </persName>
+                    </person>                                                                                                                                         
+                    <person xml:id="PetrAc">
+                        <persName>
+                            <forename xml:lang="it">Pietro (Petrus)</forename>
+                            <roleName>arcivescovo di Acerenza</roleName>
+                         </persName>
+                    </person>                    
+                    <person xml:id="Racioppi">
+                        <persName>
+                            <forename xml:lang="it">Giacomo</forename>
+                            <surname xml:lang="it">Racioppi</surname>
+                         </persName>
+                    </person>
+                    <person xml:id="Rendina">
+                        <persName>
+                            <forename xml:lang="it">Giuseppe</forename>
+                            <surname xml:lang="it">Rendina</surname>
+                         </persName>
+                    </person>                                        
+                    <person xml:id="Ughelli">
+                        <persName>
+                            <forename xml:lang="it">Ferdinando</forename>
+                            <surname xml:lang="it">Ughelli</surname>
+                         </persName>
+                    </person>
+                </listPerson>
+                
+                <listBibl>
+                    
+                    <listBibl n="Fonti">
+                    <head>Opere ed edizioni</head>
+                    
+                    <bibl xml:id="Bibl_Gen">
+                        <title xml:lang="la">Liber Genesis</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Num">
+                        <title xml:lang="la">Liber Numeri</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Ps">
+                        <title xml:lang="la">Liber Psalmorum</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Sap">
+                        <title xml:lang="la">Liber Sapientiae</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Mt">
+                        <title xml:lang="la">Evangelium secundum Matthaeum</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Mc">
+                        <title xml:lang="la">Evangelium secundum Marcum</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Io">
+                        <title xml:lang="la">Evangelium secundum Ioannem</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Act">
+                        <title xml:lang="la">Actus Apostolorum</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_1Petr">
+                        <title xml:lang="la">Epistola prima Beati Petri Apostoli</title>
+                    </bibl>
+                    <bibl xml:id="Bibl_Iacob">
+                        <title xml:lang="la">Epistola catholica Beati Iacobi Apostoli</title>
+                    </bibl>
+                    
+                    <bibl xml:id="Bern_SermdeSan">
+                        <title level="a">Sermones de sanctis. In festo omnium sanctorum</title>
+                        <author ref="Bern">BERNARDUS CLARAVAELLENSIS</author>
+                        <editor ref="#Migne">Jean Paul Migne</editor>
+                        <title level="s">Patrologia Latina</title>
+                        <biblScope unit="volume">183</biblScope>
+                        <biblScope unit="column">453, 462, 475</biblScope>
+                        <pubPlace>Parigi</pubPlace>
+                        <date>1862</date>
+                    </bibl>
+                    <bibl xml:id="Greg_Hom">
+                        <title level="a">Homiliae in Evangelia</title>
+                        <author ref="Greg">GREGORIUS MAGNUS</author>
+                        <editor ref="#Migne">Jean Paul Migne</editor>
+                        <title level="s">Patrologia Latina</title>
+                        <biblScope unit="volume">76</biblScope>
+                        <biblScope unit="column">1207</biblScope>
+                        <pubPlace>Parigi</pubPlace>
+                        <date>1857</date>
+                    </bibl>
+                    <bibl xml:id="Paol_Car">
+                        <title level="a">Carmina</title>
+                        <author ref="Paol">PAOLINO DI NOLA</author>
+                        <editor ref="#Hartel">Wilhelm von Hartel</editor>
+                        <title level="s">CSEL</title>
+                        <biblScope unit="volume">30</biblScope>
+                        <biblScope unit="page">45</biblScope>
+                        <pubPlace>Praga-Vienna-Lipsia</pubPlace>
+                        <date>1894</date>
+                    </bibl>
+                        
+                        <biblStruct xml:id="Pater_LibTes">
+                            <analytic>
+                                <author>PATERIUS BRIXENSIS </author>
+                                <title level="a">Sancti Paterii liber de expositione Veteris ac Novi
+                                    Testamenti, de diversis libris Sancti Gregorii papae concinnatus</title>
+                            </analytic>
+                            <monogr>
+                                <title level="s">Sancti Gregorii papae I cognomento Magni opera
+                                    omnia, 4, II</title>
+                                <editor ref="#MonBenSM">Monachi Sancti Ordinis Benedicti e Congregatione
+                                    Sancti Mauri. </editor>
+                                <imprint>
+                                    <biblScope unit="vol">1</biblScope>
+                                    <pubPlace> Parigi</pubPlace>
+                                    <date>1705</date>
+                                    <biblScope unit="column">274</biblScope>
+                                </imprint>
+                            </monogr>                        
+                        </biblStruct>                                  
+                    
+                    <bibl xml:id="Sulp_VM">
+                        <title level="a">Vita Martini</title>
+                        <author ref="Sulp">SULPICIUS SEVERUS</author>
+                        <editor ref="#Mohrmann">Christine Mohrmann. </editor>
+                        <title level="m">Vita di Martino. Vita di Ilarione. In memoria di
+                            Paola</title>
+                        <biblScope unit="page">12</biblScope>
+                        <pubPlace> Roma-Milano</pubPlace>
+                        <date>2007</date>
+                        <title level="s">Vite dei santi</title>
+                        <biblScope unit="volume">4</biblScope>
+                    </bibl>
+                    
+                    <bibl xml:id="AASS">
+                        <title xml:lang="la">Acta Sanctorum. Octobris</title>
+                        <author> DE BUCK Remigius</author>
+                        <biblScope unit="volume">13</biblScope>
+                        <biblScope unit="page">464-472</biblScope>
+                        <pubPlace>Parigi</pubPlace>
+                        <date>1883</date>
+                    </bibl>
+                    <bibl xml:id="BHL">
+                        <title xml:lang="la">Bibliotheca hagiographica latina</title>
+                        <biblScope unit="volume">K-Z</biblScope>
+                        <biblScope unit="number">7711</biblScope>
+                        <author ref="#Bollandisti">SOCII BOLLANDIANI </author>
+                        <pubPlace>Bruxelles</pubPlace>
+                        <date>1900-1901</date>
+                    </bibl>
+                    
+                    
+                    <bibl xml:id="Moroni_Diz">
+                        <title xml:lang="it">Dizionario di erudizione storico-ecclesiastica</title>
+                        <biblScope unit="volume">33</biblScope>
+                        <biblScope unit="page">218-219</biblScope>
+                        <author ref="#Moroni">MORONI, Gaetano </author>
+                        <pubPlace>Venezia</pubPlace>
+                        <date>1845</date>
+                    </bibl>
+                    <bibl xml:id="Stasolla_Enc">
+                        <title level="a">Hadrumetum</title>
+                        <title level="m">Enciclopedia Archeologica. Africa</title>
+                        <biblScope unit="page">480-481</biblScope>
+                        <author ref="#Stasolla">STASOLLA, Francesca Romana </author>
+                        <pubPlace>Roma</pubPlace>
+                        <date>2005</date>
+                    </bibl>
+                    
+                    <biblStruct xml:id="Josi_Enc">
+                        <analytic>
+                            <author>JOSI, Enrico </author>
+                            <title level="a">Adrumeto</title>
+                        </analytic>
+                        <monogr>
+                            <title level="s">Enciclopedia Cattolica, I</title>
+                            <imprint>
+                                <biblScope unit="vol">1</biblScope>
+                                <pubPlace>Città del Vaticano</pubPlace>
+                                <date>1948</date>
+                                <biblScope unit="pages">350-351</biblScope>
+                            </imprint>
+                        </monogr>                        
+                    </biblStruct>                    
+                </listBibl>
+                
+                <listBibl n="Studi">
+                    <bibl xml:id="Cappelletti_LeCh">
+                        <title xml:lang="it">Le Chiese d’Italia dalla loro origine sino ai nostri
+                            giorni</title>
+                        <biblScope unit="volume">20</biblScope>
+                        <biblScope unit="page">379-386</biblScope>
+                        <author ref="#Cappelletti">CAPPELLETTI, Giuseppe</author>
+                        <pubPlace>Venezia</pubPlace>
+                        <date>1866</date>
+                    </bibl>                                           
+                    <bibl xml:id="Racioppi_Lav">
+                        <title xml:lang="it">L'agiografia di San Laverio del MCLXII</title>
+                        <biblScope unit="page">79-85</biblScope>
+                        <author ref="#Racioppi">RACIOPPI, Giacomo </author>
+                        <pubPlace>Roma</pubPlace>
+                        <date>1881</date>
+                    </bibl>                                     
+                    <bibl xml:id="Racioppi_Par">
+                        <title xml:lang="it">Paralipomeni della storia della denominazione di
+                            Basilicata</title>
+                        <biblScope unit="page">64-67</biblScope>
+                        <author ref="#Racioppi">RACIOPPI, Giacomo</author>
+                        <pubPlace>Roma</pubPlace>
+                        <date>1875</date>
+                    </bibl>                    
+                    <bibl xml:id="Racioppi_Storia">
+                        <title xml:lang="it">Storia dei popoli della Lucania e della
+                            Basilicata</title>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="page">146-147</biblScope>
+                        <author ref="#Racioppi">RACIOPPI, Giacomo</author>
+                        <pubPlace>Roma</pubPlace>
+                        <date>1889</date>
+                    </bibl>                    
+                </listBibl>
+                
+                    <listBibl n="Repertori e lessici">
+                    <bibl xml:id="DuCange_1">
+                        <title xml:lang="la">Glossarium mediae et infimae latinitatis, I</title>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="column">468</biblScope>
+                        <author ref="#DuCange">DU CANGE du Fresne, Charles</author>
+                        <pubPlace>Niort</pubPlace>
+                        <date>1883</date>
+                    </bibl>
+                    <bibl xml:id="DuCange_5">
+                        <title xml:lang="la">Glossarium mediae et infimae latinitatis, V</title>
+                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="column">219</biblScope>
+                        <author ref="#DuCange">DU CANGE du Fresne, Charles</author>
+                        <pubPlace>Niort</pubPlace>
+                        <date>1885</date>
+                    </bibl>
+                    <bibl xml:id="DuCange_7">
+                        <title xml:lang="la">Glossarium mediae et infimae latinitatis, VII</title>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="column">262</biblScope>
+                        <author ref="#DuCange">DU CANGE du Fresne, Charles</author>
+                        <pubPlace>Niort</pubPlace>
+                        <date>1886</date>
+                    </bibl>
+                        <bibl xml:id="Ferraris_Bib">
+                            <title xml:lang="it">Prompta bibliotheca canonica, juridica, moralis,
+                                theologica</title>
+                            <biblScope unit="volume">5</biblScope>
+                            <biblScope unit="page">247-253</biblScope>
+                            <author ref="#Ferraris">FERRARIS, Lucio </author>
+                            <pubPlace>Bologna</pubPlace>
+                            <date>1763</date>
+                        </bibl>
+                        <bibl xml:id="Gams_Series">
+                            <title xml:lang="la">Series episcoporum Ecclesiae Catholicae</title>
+                            <biblScope unit="page">XVI, 843, 884, 894</biblScope>
+                            <author ref="#Gams">GAMS, Pius Bonifacius</author>
+                            <pubPlace>Ratisbona</pubPlace>
+                            <date>1873</date>
+                        </bibl>
+                    <bibl xml:id="Kehr_IP">
+                        <title xml:lang="la">Regesta Pontificum Romanorum. Italia Pontificia</title>
+                        <biblScope unit="volume">9</biblScope>
+                        <biblScope unit="page">373-376</biblScope>
+                        <author ref="#Kehr">KEHR, Paul Fridolin </author>
+                        <pubPlace>Berlino</pubPlace>
+                        <date>1962</date>
+                    </bibl>
+                    <bibl xml:id="Ughelli_IS7">
+                        <title xml:lang="la">Italia sacra sive de episcopis Italiae et insularum
+                            adiacentium, VII</title>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="column">24, 42-47, 166, 697-698</biblScope>
+                        <author ref="#Ughelli">UGHELLI, Ferdinando </author>
+                        <pubPlace>Roma</pubPlace>
+                        <date>1659</date>
+                    </bibl>
+                    <bibl xml:id="Ughelli_IS1">
+                        <title xml:lang="la">Italia sacra sive de episcopis Italiae et insularum
+                            adiacentium, I</title>
+                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="column">225-226</biblScope>
+                        <author ref="#Ughelli">UGHELLI, Ferdinando</author>
+                        <pubPlace>Roma</pubPlace>
+                        <date>1644</date>
+                    </bibl>
+                    <bibl xml:id="Coleti_IS7">
+                        <title xml:lang="la">Italia sacra sive de episcopis Italiae et insularum
+                            adiacentium, VII</title>
+                        <biblScope unit="volume">7</biblScope>
+                        <biblScope unit="column">135-138</biblScope>
+                        <author ref="#Coleti">UGHELLI, Ferdinando (seconda ed. a cura di Nicola
+                            COLETI)</author>
+                        <pubPlace>Venezia</pubPlace>
+                        <date>1721</date>
+                    </bibl>
+                    </listBibl>  
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+            <tagsDecl> </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text n="Vita Gerardi" subtype="edition_text" type="prose" xml:id="text_Vita">
+        <front>
+            <titlePage>
+                <titlePart>La «Vita Gerardi» di Manfredi di Potenza</titlePart>
+            </titlePage>            
+                <p>La «Vita Gerardi» o «Laudatio sancti Gerardi episcopi Potentini» (BHL 3429) è
+                    l’unica opera a noi nota attribuita a <persName ref="#Manfr"> Manfredi, </persName> vescovo di Potenza. La presente
+                    edizione, a differenza di quella degli «Acta Sanctorum» (1883), si basa su tutti
+                    e quattro i testimoni manoscritti attualmente noti e reperibili del testo, oltre
+                    che sull’edizione a stampa di <persName ref="#Ughelli"> Ughelli </persName> (1659). Tutte le dette copie manoscritte,
+                    molto probabilmente, sono derivate da un unico originale/archetipo potentino,
+                    essendo stata molto limitata la circolazione dell’opera. Tradizionalmente
+                    collocata all’inizio del XII secolo, epoca in cui visse il patrono potentino
+                    <persName ref="#Ger"> Gerardo </persName> (vescovo dal 1111 al 1119), l’epoca di composizione della sua «vita»,
+                    più plausibilmente, andrebbe ricollocata secondo una cronologia più bassa, come
+                    lascerebbero pensare alcune evidenze emerse a seguito di una attenta indagine
+                    diplomatico-storiografica: facciamo riferimento, in primis, alla
+                    istituzionalizzazione tarda (dal secondo quarto del XIV secolo), a Potenza, del
+                    culto del santo, e alla mancanza di sue notizie, prima del Quattrocento, nelle
+                    cronache della sua città natale, Piacenza. Per quel che concerne il compilatore
+                    poi, come accennato sopra, l’unica ipotesi plausibile prevede l’attribuzione
+                    della «Vita Gerardi» a <persName ref="#Manfr"> Manfredi, </persName> sulla base di un unico passo dell’opera stessa
+                    (capitolo X.2), in cui il vescovo-agiografo rivela la sua identità e il suo
+                    ruolo di postulatore per la canonizzazione di <persName ref="#Ger"> Gerardo </persName> presso papa 
+                    <persName ref="#Call2">Callisto II, </persName>
+                    che lo avrebbe elevato all’onore degli altari nel 1123 o 1224, «viva voce», cioè
+                    con responso esclusivamente orale, secondo una procedura ancora possibile fino
+                    alle soglie dell’età moderna; il condizionale, però, rimane d’obbligo, mancando
+                    prove esterne sull’effettiva storicità dell’evento, come già nell’Ottocento
+                    sottolinearono <persName ref="#Racioppi"> Racioppi </persName> e i bollandisti.</p>
+                <p>Tenendo conto che tutti e 4 i testimoni manoscritti sono apografi di età moderna
+                    (secc. XVI-XVIII) e data la fluidità di queste tipologie di testi, si è ritenuto
+                    opportuno non procedere alla constitutio secondo una metodologia rigorosamente
+                    maasiana/genetica. Il testo è stato suddiviso in capitoli (ricalcando quasi del
+                    tutto la divisione degli «Acta Sanctorum») e paragrafato ex novo. Per agevolarne
+                    la comprensione si è scelto di ripristinare i dittonghi e normalizzare il più
+                    possibile la grafia: la j è stata resa in i, mentre è stato distinto l'uso di
+                    u/v.</p>            
+        </front>
+        <body>           
+            <!--   ########## frontespizio ##########   -->
+            <div type="Frontespizio" n="©" xml:id="frontediz">                
+                <fw place="top-middle" type="frontespizio" rend="bold">MANFREDUS POTENTINUS</fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <fw place="top-middle" type="frontespizio"><emph>Vita Gerardi (BHL 3429)</emph></fw>
+                <fw place="top-middle" type="frontespizio">sive</fw>
+                <fw place="top-middle" type="frontespizio"><emph>Laudatio sancti <persName ref="#Ger"> Gerardi  </persName> episcopi Potentini</emph></fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <fw place="top-middle" type="frontespizio"> -</fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <fw place="top-middle" type="frontespizio" rend="bold"> edizione critica e digitale</fw>
+                <fw place="top-middle" type="frontespizio" rend="bold"> a cura di</fw>
+                <fw place="top-middle" type="frontespizio" rend="bold"> Biagio Luca Guarnaccio</fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <fw place="top-middle" type="frontespizio"> -</fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <fw place="top-middle" type="frontespizio"> revisione </fw>
+                <fw place="top-middle" type="frontespizio"> a cura di</fw>
+                <fw place="top-middle" type="frontespizio"> Fulvio Delle Donne</fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <fw place="top-left" type="frontespizio"> -</fw>
+                <fw place="top-left" type="frontespizio">© 2020 - <hi rend="italic">Open
+                    access </hi><ref target="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC 4.0 BY NC ND)</ref></fw>
+                <fw place="top-left" type="frontespizio"> -</fw>
+                <fw place="top-left" type="frontespizio"> ISBN 978-88-31309-04-2</fw>
+                <fw place="top-left" type="frontespizio"> -</fw>
+                <p> Versione in <ref target="http://web.unibas.it/bup/Libri/Vita_Gerardi.pdf">PDF</ref> di questa edizione. </p>
+                <fw place="top-left" type="frontespizio"> -</fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <fw place="top-left" type="frontespizio"> -</fw>
+                <fw place="bottom-right"> Sistema di visualizzazione: <ref target="http://evt.labcd.unipi.it/"> EVT - Edition Visualization
+                    Technology.</ref>
+                </fw>
+                <fw place="top-left" type="frontespizio"> -</fw>                
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+
+                <fw place="top-right"> __________________________________________________</fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+                <lb/>
+                <fw place="top-middle">   </fw>
+            </div>
+            <div type="Vita" n="Gerardi" xml:lang="la">
+                <head xml:id="la-title"> <fw place="top-middle" type="lib">Vita <app>
+                        <lem>almi</lem>
+                        <rdg wit="#B #u">sanctissimi</rdg>
+                        <rdg wit="#N">sancti</rdg>
+                        <rdg wit="#P">beatissimi ex almi corr.</rdg>
+                    </app> patris nostri <persName ref="#Ger"> Gerardi </persName> <app>
+                        <lem>episcopi et confessoris</lem>
+                        <rdg wit="#B #u">om.</rdg>
+                        <rdg wit="#N">episcopi</rdg>
+                        <rdg wit="#P">Placentini et episcopi Potentini</rdg>
+                    </app></fw>
+                </head>
+            </div>
+            <div type="Capitulum" n="I" xml:id="la-cI" xml:lang="la">
+                <head>Capitulum I</head>
+                <p n="1" xml:id="la-I.1"> <hi rend="bold">  I.1</hi> 
+                    <seg source="#Bern_SermdeSan_I"><seg source="#Bern_SermdeSan_II"><seg source="#Bern_SermdeSan_V">                                         
+                        Sicut enim <note n="▼">L’apertura con «enim» sta, forse, a indicare la
+                            perdita di una parte incipitaria nel ms. originale, ma al momento ciò
+                            non sembra dimostrabile.</note> in omnibus libris divinis et in omni
+                        narratione passionum omnium sanctorum operae pretium est non quaerere
+                        phaleratas dictiones verborum sed rei gestae veritatem, sic et <app>
+                            <lem>nos</lem>
+                            <rdg wit="#B">vos</rdg>
+                        </app> perutile duximus vestris sanctissimis auribus, nobis auditum
+                        praestantibus, de vita et moribus sancti <persName ref="#Ger"> Gerardi </persName> episcopi et confessoris
+                        intimare veritatem sanctam, <app>
+                            <lem>igitur</lem>
+                            <rdg wit="#P">ergo</rdg>
+                        </app> atque magnificam simul et gloriosam, <app>
+                            <lem>omnique</lem>
+                            <rdg wit="#N">omniumque</rdg>
+                        </app> veneratione colendam, gloriosissimi <persName ref="#Ger"> patris </persName><app>
+                            <lem>nostri</lem>
+                            <rdg wit="#V">Girardi add.</rdg>
+                        </app> ac <persName ref="#Ger"> pastoris eximii </persName><app>
+                            <lem> Gerardi  episcopi.</lem>
+                            <rdg wit="#V">om.</rdg>
+                        </app>
+                    </seg></seg></seg>
+                </p>
+                <p n="2" xml:id="la-I.2"> <hi rend="bold">I.2 </hi><seg source="#Bern_SermdeSan_I"><seg source="#Bern_SermdeSan_II"><seg source="#Bern_SermdeSan_V"> Nobis, fratres carissimi, hodie, festivitatem divina Domini <app>
+                            <lem>pietas</lem>
+                            <rdg wit="#B #u">pietate</rdg>
+                        </app> concedere <app>
+                            <lem>dignata</lem>
+                            <rdg wit="#B #u">dignatus</rdg>
+                        </app> est, quam non minus in caelestibus credimus venerandam, dum a nobis
+                    peccatoribus et indignis cum omni devotione veneratur in terris. </seg></seg></seg>
+                </p>
+                <p n="3" xml:id="la-I.3"> <hi rend="bold">I.3 </hi> <app>
+                        <lem>Nam</lem>
+                        <rdg wit="#B #P #u">etiam</rdg>
+                    </app> licet omnis fidelis Christianus non sit expers omnium sanctorum
+                    solemnitatum sed amator et laudator, nobis tamen proprie hoc <app>
+                        <lem>peculiarius</lem>
+                        <rdg wit="B">peculiaris</rdg>
+                    </app> est, manifestis vocibus et indiciis, qui eius partes episcopatus
+                    incolimus, magis hanc festitivatem laudare et <app>
+                        <lem>celebrare </lem>
+                        <rdg wit="#B #P #u">celebrem ducere</rdg>
+                    </app>
+                    <app>
+                        <lem>ad honorem et gloriam</lem>
+                        <rdg wit="#B #u">ad gloriam et honorem</rdg>
+                    </app> Domini nostri Iesu Christi et sancti confessoris eius <persName ref="#Ger"> Gerardi </persName>. </p>
+                <p n="4" xml:id="la-I.4"> <hi rend="bold">I.4 </hi> Obitus <app>
+                        <lem>namque</lem>
+                        <rdg wit="#B #P #u">itaque</rdg>
+                    </app> domini confessoris <persName ref="#Ger"> Gerardi </persName> tertio calendas <app>
+                        <lem>novembris</lem>
+                        <rdg wit="#P">quibus add.</rdg>
+                    </app> celebratur vocibus exultantibus et corde iucundo, prout possumus;
+                    amabiliter a nobis miseris famulis extollatur, ita, tamen, quod quidquid laudis
+                    et honoris <app>
+                        <lem>impenditur ei</lem>
+                        <rdg wit="#B #P #u">impenditur</rdg>
+                    </app> a nobis <app>
+                        <lem>nostri Conditoris gratiae referatur</lem>
+                        <rdg wit="#N #V">referatur gratia nostri Conditoris</rdg></app>: 
+                    sicut enim, fratres, vestra testatur praesentia, creditis huius diei
+                    recursum non <app>
+                        <lem>solum ad animam</lem>
+                        <rdg wit="#B">solum animam</rdg>
+                        <rdg wit="#N #V">ad solum animam </rdg>
+                        <rdg wit="#P">ad solam animam </rdg>
+                    </app>
+                    <note n="▼">Qui per «anima» bisognerebbe intendere la vita animale, in
+                        contrapposizione a quella eterna.</note> sed ad aeternam pertinere salutem,
+                    dum, igitur, ad annua celebraturi concurritis festa pastoris, gaudia quaeritis <app>
+                        <lem>vestri Conditoris</lem>
+                        <rdg wit="#B #P #u">om.</rdg></app>, devotis itaque precibus et solerti studio dum ad sacras convenitis
+                    vigilias huius confessoris celebrare, votivas epulas paradisi desideratis <app>
+                        <lem>sumere</lem>
+                        <rdg wit="#B #u">summe</rdg>
+                    </app> aeternas. </p>
+                <p n="5" xml:id="la-I.5"> <hi rend="bold">I.5 </hi> Ille etenim devotionem <app>
+                        <lem>nostram</lem>
+                        <rdg wit="#B #P #u">vestram</rdg>
+                    </app> non deserit, cuius <note n="▼">«Ille-cuius»: si riferisce a <persName ref="#Ger"> Gerardo </persName>.</note>
+                    <app>
+                        <lem>nos</lem>
+                        <rdg wit="#B #P #u">vos</rdg>
+                    </app> reverentia <app>
+                        <lem>congregavit</lem>
+                        <rdg wit="#B #P #u">cognovit</rdg></app>; vestris, nempe, fratres, pius pater <app>
+                        <lem>sanctis</lem>
+                        <rdg wit="#B #P #u">om.</rdg>
+                    </app> congaudet obsequiis et in suorum <app>
+                        <lem>exultat</lem>
+                        <rdg wit="#P">exultationibus</rdg>
+                    </app> numero filiorum. </p>
+            </div>
+            <div type="Capitulum" n="II" xml:id="la-cII" xml:lang="la">
+                <head>Capitulum II</head>
+                <p n="1" xml:id="la-II.1"> <hi rend="bold">II.1 </hi> O veneranda sancti patris nostri festivitas, quam
+                    sic decoravit divina <app>
+                        <lem>bonitas</lem>
+                        <rdg wit="#B #P #u">pietas</rdg></app>, ut <app>
+                        <lem>eum</lem>
+                        <rdg wit="#B #V">om.</rdg>
+                    </app>
+                    <app>
+                        <lem>recipere non recuset</lem>
+                        <rdg wit="#B #u">non recuset recipere</rdg>
+                    </app> angelorum societas! O vere beata et <app>
+                        <lem>magnis</lem>
+                        <rdg wit="#N #u">magis</rdg>
+                    </app> laudibus praeferenda solemnitas, de qua angeli gratulantur in <app>
+                        <lem>astris</lem>
+                        <rdg wit="#B #u">sanctos</rdg></app>, coetus apostolorum et martyrum ac confessorum omniumque sanctorum non <app>
+                        <lem>desinunt</lem>
+                        <rdg wit="#N">desinit</rdg>
+                        <rdg wit="#P">desinant</rdg>
+                    </app> custodire <app>
+                        <lem>et honorare</lem>
+                        <rdg wit="#B #u">om.</rdg>
+                    </app> in collegio suo! </p>
+                <p n="2" xml:id="la-II.2"> <hi rend="bold">II.2 </hi> Praecipue namque die migrationis eius, <app>
+                        <lem>in terris</lem>
+                        <rdg wit="#V">om.</rdg>
+                    </app> per <app>
+                        <lem>implorationem eius</lem>
+                        <rdg wit="#B #P #u">miserationis eius implorationem</rdg>
+                        <rdg wit="#N">imploratione</rdg>
+                    </app> reserantur <app>
+                        <lem>mutorum labia, aperiuntur caecorum lumina, redduntur</lem>
+                        <rdg wit="#P">om.</rdg>
+                    </app> pristinae sanitati multorum corpora infirma, et sic cunctorum piorum
+                    sumuntur a Deo <app>
+                        <lem>iusta</lem>
+                        <rdg wit="#B">iuxta</rdg>
+                    </app> vota. </p>
+                <p n="3" xml:id="la-II.3"> <hi rend="bold">II.3 </hi> Igitur, fratres carissimi, annualem circulum
+                    revolventes et sacra eius beneficia implorantes, quod voce <app>
+                        <lem>promimus</lem>
+                        <rdg wit="#P">promovimus</rdg>
+                    </app> teneamus affectu; ipse <app>
+                        <lem>equidem</lem>
+                        <rdg wit="#u">equidem</rdg>
+                    </app> non surdus auditor, benignissime auxilium non denegat miserationis: quis
+                    enim aeger crebro ad eum veniens non melioratus regreditur, quis praesumptor
+                    delictorum cum gemitu indulgentiam postulans vacuus abscessit? Prorsus nullus. </p>
+                <p n="4" xml:id="la-II.4"> <hi rend="bold">II.4 </hi> Hunc quidem Propheta <app>
+                        <lem>prospexerat</lem>
+                        <rdg wit="#P">prespexerat</rdg>
+                    </app> cum diceret: 
+                    <seg source="#Bibl_Ps_109.4">                    
+                    «tu es sacerdos in aeternum secundum ordinem <app>
+                            <lem>Melchisedech</lem>
+                            <rdg wit="#B #u">item de eodem add.</rdg>
+                        </app>
+                    </seg>»; 
+                    <seg source="#Bibl_Ps_64.5">
+                    «beatus quem elegisti et assumpsisti, Domine, <app>
+                            <lem>inhabitabit</lem>
+                            <rdg wit="#N #P">habitabit</rdg>
+                        </app> in atriis tuis»! </seg> Magnum etenim et admirabile <app>
+                        <lem>praemium</lem>
+                        <rdg wit="#B">proemium</rdg>
+                    </app> huic Dominus tanto concessit viro, ut, apud populum Potentinum pauco
+                    degens tempore, pastor eorum promeruit fieri, gloria eum expectante paradisi.
+                    Iste omnino, fratres, vere est praedicandus Christi sacerdos, quem populus
+                    Potentinus sibi voluit sic repente fieri <app>
+                        <lem>praeferendum</lem>
+                        <rdg wit="#B #P #u #V">praeferendus</rdg></app>. </p>
+            </div>
+            <div type="Capitulum" n="III" xml:id="la-cIII" xml:lang="la">
+                <head>Capitulum III</head>
+                <p n="1" xml:id="la-III.1"> <hi rend="bold">III.1 </hi> Hic nobili Placentinorum editus progenie, litteris
+                    ad plene imbutus, ad Apuliam divino nutu <app>
+                        <lem>destinatur</lem>
+                        <rdg wit="#B #N">destinatus</rdg>
+                    </app>
+                    <app>
+                        <lem>Potentiam</lem>
+                        <rdg wit="#u">venit add.</rdg></app>, illic vero, parvo tempore degens, qualis eius fuerit vita sanctissima
+                    eius <app>
+                        <lem>declarant</lem>
+                        <rdg wit="#B #u">declararunt</rdg>
+                    </app> merita. </p>
+                <p n="2" xml:id="la-III.2"> <hi rend="bold">III.2 </hi> Confidenter igitur illius adiutus hortatu qui
+                    dixit: 
+                    <seg source="#Bibl_Ps_80.11">
+                     «aperi os tuum <app>
+                            <lem>et ego adimplebo</lem>
+                            <rdg wit="#N #P #V">et implebo</rdg>
+                        </app> illud», </seg>
+                    <app>
+                        <lem>et</lem>
+                        <rdg wit="#B #u">ut</rdg>
+                    </app>
+                    <seg source="#Bibl_Gen_3"><seg source="#Bibl_Num_22.22-33">
+                     qui bruti animalis voluit os fari </seg></seg>
+                    <note n="▼">«qui-fari»: si riferisce solamente agli episodi biblici del serpente
+                        tentatore (Gn. 3) e dell’asina di Balaam (Num. 22, 22-33), oppure anche a
+                        qualche episodio agiografico o patristico?</note> , pauca de hoc sancto viro
+                    miracula auditoribus intimare curavi; <app>
+                        <lem>quaedam quae</lem>
+                        <rdg wit="#N #V">quedamque</rdg>
+                        <rdg wit="#P">quaedam</rdg>
+                    </app> nostris oculis vidimus, quaedam quoque (quoniam non est hominis ubique
+                    videre et esse) quae ab aliis viris religiosis <app>
+                        <lem>cognovimus</lem>
+                        <rdg wit="#B">cognoscimus</rdg>
+                    </app> et corde scripta tenuimus, subsequenter <app>
+                        <lem>aperiemus</lem>
+                        <rdg wit="#B #u">aperuimus</rdg></app>; sed quoniam perutile duximus significare vobis qualiter in confinio
+                    Apuliae episcopalem adeptus est dignitatem, <app>
+                        <lem>seu</lem>
+                        <rdg wit="#P">sed</rdg>
+                        <rdg wit="#u">serio</rdg>
+                    </app> quales in eo populus <app>
+                        <lem>cognovit</lem>
+                        <rdg wit="#B #P #V">cognoverit</rdg>
+                    </app> actiones, quam <app>
+                        <lem>paucioribus</lem>
+                        <rdg wit="#u">paucis</rdg>
+                    </app> potero servata castigatione veritatis notabo. </p>
+                <p n="3" xml:id="la-III.3"> <hi rend="bold">III.3 </hi> <app>
+                        <lem>Precor</lem>
+                        <rdg wit="#B #u">peto</rdg>
+                    </app> itaque legentium et audientium benevolentiam ut non mordeant, <app>
+                        <lem>more subsannantium</lem>
+                        <rdg wit="#B">more substantiantium</rdg>
+                        <rdg wit="u">subsannantium more</rdg></app>, breviloquium nostrum, sed corde credulo in melius vertant quod
+                    humiliter expectant; non quaerant, quaeso, phaleratas dictiones philosophorum
+                    sed claram veritatem <app>
+                        <lem>veridicorum verborum</lem>
+                        <rdg wit="#B">vere dictorum verborum</rdg>
+                        <rdg wit="#u">veridicorum</rdg></app>. Adsit igitur nobis beati <persName ref="#Ger"> Gerardi </persName> pia <app>
+                        <lem>advocatio</lem>
+                        <rdg wit="#B">iuvatio</rdg>
+                        <rdg wit="u">invocatio</rdg></app>, ut de eo quicquid vestra expectat pia auditio nostra <app>
+                        <lem>examussim</lem>
+                        <rdg wit="#N #P #V">eximia</rdg>
+                        <rdg wit="#u">ad amussim</rdg>
+                    </app>
+                    <app>
+                        <lem>teneat</lem>
+                        <rdg wit="#P">neneat</rdg>
+                    </app> narratio, ad <app>
+                        <lem>cuius</lem>
+                        <rdg wit="#B #u">eius</rdg>
+                    </app> ergo vitam sanctissimam, quibus viguit virtutibus <app>
+                        <lem>quibusque</lem>
+                        <rdg wit="#P #V">quibusve</rdg>
+                    </app> floruit operibus stylum narrandi convertimus. </p>
+            </div>
+            <div type="Capitulum" n="IV" xml:id="la-cIV" xml:lang="la">
+                <head>Capitulum IV</head>
+                <p n="1" xml:id="la-IV.1"> <hi rend="bold">IV.1 </hi> Ex nobili itaque, ut diximus, genere editus, Italas
+                    perlustrans provincias, Potentiae pervenit ad urbem. Sancto <app>
+                        <lem>etenim</lem>
+                        <rdg wit="#u">enim</rdg>
+                    </app> plenus Spiritu verba veritatis non cessabat ostendere dictis et exemplis.
+                    Iustus quia erat iustitiam et <app>
+                        <lem>aequitatem</lem>
+                        <rdg wit="#B #u">veritatem</rdg>
+                    </app> tenebat, castus ut erat castitatem tenere docebat; humilis, benignus,
+                    mansuetus, humilitatem, benignitatem, mansuetudinem habere omnes iubebat; <app>
+                        <lem>aiebat</lem>
+                        <rdg wit="#B #u">dicebat</rdg>
+                    </app> enim: 
+                    <seg source="#Bibl_1Petr_5.6"><seg source="#Bibl_Iacob_4.10">                    
+                     «humiliamini sub potenti manu <app>
+                            <lem>Dei</lem>
+                            <rdg wit="#P">Domini</rdg></app>, ut vos exaltet in tempore tribulationis». </seg></seg>
+                </p>
+                <p n="2" xml:id="la-IV.2"> <hi rend="bold">IV.2 </hi> Corpore integer <app>
+                        <lem>et mente</lem>
+                        <rdg wit="#N">om.</rdg></app>, <app>
+                        <lem>decidentes</lem>
+                        <rdg wit="#V">decedentes</rdg>
+                    </app> in luxuriosam rabiem accusabat constanter; vir peritus et <app>
+                        <lem>gnarus</lem>
+                        <rdg wit="#B #u">ornatus</rdg>
+                        <rdg wit="#P">ignarus</rdg></app>, cunctorum spernebat imprudentiam malorum. Nocturnis <app>
+                        <lem>assiduis</lem>
+                        <rdg wit="#B">assiduus</rdg>
+                    </app> vigiliis pervigil indesinenter vacabat orationibus; <app>
+                        <lem>audierat enim in psalmo</lem>
+                        <rdg wit="#N #P">om.</rdg></app>: 
+                    <seg source="#Bibl_Ps_118.62">
+                     «media nocte <app>
+                            <lem>surgebam</lem>
+                            <rdg wit="#N #P">surgebat</rdg>
+                     </app> ad confitendum tibi»,</seg> 
+                        <seg source="#Bibl_Ps_9.12">
+                         «psallite Domino qui habitat in Sion annunciate inter gentes
+                        studia eius».</seg>
+                </p>
+                <p n="3" xml:id="la-IV.3"> <hi rend="bold">IV.3 </hi> Tanta in eo erat sobrietas, ut 
+                    <seg source="#Sulp_VM_2.7">                    
+                    monachus <app>
+                            <lem>penitus</lem>
+                            <rdg wit="#N">peritus</rdg>
+                            <rdg wit="#P">perfectus</rdg>
+                        </app> putaretur; </seg> legerat utique: sancti 
+                    <seg source="#Greg_Hom_XXVII.4"><seg source="#Pater_LibTes_I.XI.265">carnem domant, <app>
+                            <lem>spiritum</lem>
+                            <rdg wit="#B">spiritu</rdg>
+                        </app> roborant fide et operibus coruscant </seg></seg>
+                    <note n="▼"> «carnem-coruscant»: l’omelia citata fu composta da <persName ref="#Greg">Gregorio Magno</persName> per la festa di san Pancrazio martire, che si
+                        tiene il 12 maggio, che è anche giorno della traslazione del 1250 delle
+                        reliquie di <persName ref="#Ger">Gerardo</persName>, a detta di <persName ref="#Rendina">Rendina</persName>
+                    </note> et ideo fideles <app>
+                        <lem>inventi sunt</lem>
+                        <rdg wit="#V">inveniuntur</rdg></app>; talium <note n="▼">«talium»: cioè dei santi.</note> itaque secutus vestigia
+                    aeternorum gaudia adeptus est praemiorum; regnat igitur in caelis cum <app>
+                        <lem>sanctis omnibus</lem>
+                        <rdg wit="#u">omnibus sanctis</rdg></app>, quia Deo carus est inventus cum illis: <app>
+                        <lem>adiuvent nos eius merita cuius vita fulget gloriosa</lem>
+                        <rdg wit="#B">adiuvent nos eorum-gloriosa</rdg>
+                        <rdg wit="#N">adiuvent ergo eius-gloriosa</rdg>
+                        <rdg wit="#P">adiuvent ergo nos eius-gloriosa</rdg>
+                        <rdg wit="#V">om.</rdg></app>. </p>
+            </div>
+            <div type="Capitulum" n="V" xml:id="la-cV" xml:lang="la">
+                <head>Capitulum V</head>
+                <p n="1" xml:id="la-V.1"> <hi rend="bold">V.1 </hi> <app>
+                        <lem>Cum</lem>
+                        <rdg wit="#V">Dum</rdg>
+                    </app> igitur his et aliis beatus <persName ref="#Ger"> Gerardus </persName> multis polleret virtutibus, vir
+                    veneranda canitie decoratus, cathedra pontificali a <app>
+                        <lem>clero populoque</lem>
+                        <rdg wit="#N #P">populo</rdg>
+                    </app> Potentino est dignus inventus: eligitur itaque vir per omnia sanctissimus
+                    et ad metropolitanum Acheruntinum <app>
+                        <lem>archiepiscopum</lem>
+                        <rdg wit="#B #u">episcopum</rdg>
+                        <rdg wit="#V">om.</rdg>
+                    </app> deducitur consecrandus; eo igitur consecrato et ad sedem propriam
+                    regresso, ingens clamor laetitiae et exultationis ad Deum extollitur, iucundatur
+                    civitas de tanto pastore, gaudet cunctus populus decoratus novo domino. </p>
+                <p n="2" xml:id="la-V.2"> <hi rend="bold">V.2 </hi> 
+                    <seg source="#Paol_Car_13, 26-27">
+                    O beata Apulia, quae noviter ornaris novo patrono </seg> , sed <app>
+                        <lem>beatior</lem>
+                        <rdg wit="#B #u">beata</rdg>
+                    </app> Potentia, quae decoraris proprio domino. Iam novum sidus fulsit in
+                    Apuliae confinibus, <app>
+                        <lem>quoniam</lem>
+                        <rdg wit="#N #P">nam</rdg>
+                    </app> pontificali <app>
+                        <lem>infula</lem>
+                        <rdg wit="#N">insula</rdg>
+                        <rdg wit="#P">impula</rdg>
+                    </app> beatus est <app>
+                        <lem>infulatus</lem>
+                        <rdg wit="#N">insulatus</rdg>
+                        <rdg wit="#P">impulatus</rdg>
+                    </app> <persName ref="#Ger"> Gerardus: </persName> pontificali <app>
+                        <lem>ergo</lem>
+                        <rdg wit="#V">om.</rdg>
+                    </app> decoratus gloria humilior, mansuetior, benignior et in omni virtute
+                    studiosior apparuit per omnia tempora; ac <app>
+                        <lem>proinde</lem>
+                        <rdg wit="#N #V">perinde</rdg>
+                    </app>
+                    <app>
+                        <lem>ei</lem>
+                        <rdg wit="#V">om.</rdg>
+                    </app> Dominus tantae efficacitatis tribuit abundantiam ut cunctus populus
+                    universis gauderet quae videbat ab eo fieri. </p>
+                <p n="3" xml:id="la-V.3"> <hi rend="bold">V.3  </hi>Fuerunt praeterea de fratribus viri boni testimonii
+                    monachi et clerici, qui testimonio fidei <app>
+                        <lem>veritatisque</lem>
+                        <rdg wit="#B #N">veritatis quae qui</rdg>
+                        <rdg wit="#P #u">veritatis</rdg>
+                    </app>
+                    <app>
+                        <lem>asseruerunt</lem>
+                        <rdg wit="#B #u #V">asserunt</rdg>
+                    </app> Deum, pro eius amore, in loco 
+                    <seg source="#Bibl_Io_2.3-10">ubi nihil vini erat, de aqua fecisse vinum. Cum itaque apud
+                        dioecesem <app>
+                            <lem>quandam</lem>
+                            <rdg wit="#N">quedam</rdg>
+                            <rdg wit="#P">ad quandam</rdg>
+                            <rdg wit="#u">quondam</rdg>
+                            <rdg wit="#V">quandam suam</rdg>
+                        </app> Sanctam Mariam nomine <app>
+                            <lem>accessisset</lem>
+                            <rdg wit="#B #N #P #u">accessum</rdg></app>, aestivo tempore, gratia visitandi <app>
+                            <lem>fratres, in sitim</lem>
+                            <rdg wit="#B #u">habuisset in sitim</rdg>
+                            <rdg wit="#N #P">habuisset sitimque</rdg>
+                        </app> fratres <app>
+                            <lem>impatienter</lem>
+                            <rdg wit="#B #V">om.</rdg>
+                            <rdg wit="#N">impatientes</rdg>
+                        </app>
+                        <app>
+                            <lem>cum eo versi</lem>
+                            <rdg wit="#B #u">cum eo universi</rdg>
+                            <rdg wit="#V">om.</rdg></app>, vinum quod non erat in loco illo studiose quaerebant; quod cum vir
+                        Dei <app>
+                            <lem>tantopere</lem>
+                            <rdg wit="#N #P">tanto tempore</rdg>
+                        </app> suos <app>
+                            <lem>desiderare videret</lem>
+                            <rdg wit="#P">vivere desideraret</rdg></app>, commotus animo, aquam sibi de fonte <app>
+                            <lem>afferri</lem>
+                            <rdg wit="#P">apponi</rdg>
+                            <rdg wit="#V">afferre</rdg>
+                        </app> praecepit, signo itaque crucis Domini facto, contra naturam mutavit <app>
+                            <lem>aqua</lem>
+                            <rdg wit="#B #P">aquam</rdg>
+                        </app> confestim saporis <app>
+                            <lem>sensuram</lem>
+                            <rdg wit="#N">censuram</rdg>
+                            <rdg wit="#P">sensua</rdg></app>: ipsa <note n="▼"> «ipsa»: in ed. <persName ref="#Coleti">Coleti</persName> dell’
+                                <title ref="#Coleti_IS7">Italia sacra 7 (Venezia 1721), 136</title>, è «ipse»: 
+                                se si accetta questa lezione il soggetto non è più l’acqua
+                            ma <persName ref="#Ger">Gerardo</persName>. </note> enim suum saporem mutavit
+                        in <app>
+                            <lem>vini</lem>
+                            <rdg wit="#B #N #P #u">vinum</rdg>
+                        </app>
+                        <app>
+                            <lem>dulcorem</lem>
+                            <rdg wit="#N">dulciorem</rdg>
+                            <rdg wit="#P">om.</rdg>
+                            <rdg wit="#u">dulce</rdg>
+                        </app>
+                    </seg> . </p>
+                <p n="4" xml:id="la-V.4"> <hi rend="bold">V.4 </hi> Stupefacti ad haec socii admiratione virtutis, beatus,
+                    ut erat nihil <app>
+                        <lem>terrenae</lem>
+                        <rdg wit="#B #N #P #u">om.</rdg>
+                    </app> gloriae appetens, postulavit <app>
+                        <lem>dexteras</lem>
+                        <rdg wit="#V">dexteram</rdg>
+                    </app> suorum sibi dari omnium sociorum, ne tantae virtutis gloriam <app>
+                        <lem>producerent</lem>
+                        <rdg wit="#B #N #u">producant</rdg>
+                        <rdg wit="#P">perducant</rdg>
+                    </app> ad terrenam et vanam famam; dansque illis vitae suae terminum, ne de eo
+                    prorumpant famam in saeculum. Sed quoniam Deus non <app>
+                        <lem>diu</lem>
+                        <rdg wit="#B #P #u">om.</rdg>
+                    </app> patitur suum <app>
+                        <lem>sidus</lem>
+                        <rdg wit="#V">om.</rdg>
+                    </app> occultari tenebris, post transitum eius vitae clarere dedit <app>
+                        <lem>illum</lem>
+                        <rdg wit="#V">illud</rdg>
+                    </app> in saeculum. </p>
+            </div>
+            <div type="Capitulum" n="VI" xml:id="la-cVI" xml:lang="la">
+                <head>Capitulum VI</head>
+                <p n="1" xml:id="la-VI.1"> <hi rend="bold">VI.1 </hi> Igitur quia de vita et moribus eius mentionem <app>
+                        <lem>fecimus</lem>
+                        <rdg wit="#B #N #u">facimus</rdg></app>, qualiter ad <app>
+                        <lem>Deum</lem>
+                        <rdg wit="#B #u">Dominum</rdg>
+                    </app> de hoc saeculo migravit, dictis pariter ostendamus et scriptis. Octavo
+                    itaque ordinationis suae anno, cum iam omnis ardor <app>
+                        <lem>carnalis</lem>
+                        <rdg wit="#B #u">carnaliter</rdg>
+                    </app>
+                    <app>
+                        <lem>eum</lem>
+                        <rdg wit="#B #P #u">om.</rdg>
+                    </app> deseruisset, quem vix aut nunquam visus est habuisse, <app>
+                        <lem>reddidit</lem>
+                        <rdg wit="#u #V">reddit</rdg>
+                    </app> Domino animam 
+                    <seg source="#Bibl_Mt_16.25-26"><seg source="#Bibl_Mc_8.35-37"><seg source="#Bibl_Io_12.2">                    
+                     quam perdiderat mundo. </seg></seg></seg> Angeli itaque migrantem ad
+                    Dominum laeti suscipiunt in caelis, et aeternaliter regnantem cum gaudio secum
+                    gaudent habitare; in astris canunt Deo laudes angeli pro eo, quem susceperunt
+                    collegam in caelo; in terris omnis exultat Ecclesia, quia illum praemittit ad
+                    siderea regna, <app>
+                        <lem>quem vult habere</lem>
+                        <rdg wit="#P">quae multa habere vult</rdg>
+                        <rdg wit="#u">quae vult habere</rdg>
+                    </app> praemium ad caelestia gaudia. </p>
+                <p n="2" xml:id="la-VI.2"> <hi rend="bold">VI.2 </hi> Cives itaque eius dolent suo orbati pastore, sed
+                    angeli gaudent de caelico aucto grege, populus de amisso domino plorat et coetus
+                    angelicus hymnidicis vocibus exultat, quia illum <app>
+                        <lem>recipiunt</lem>
+                        <rdg wit="#V">receperunt</rdg>
+                    </app> in astris, quem semper <app>
+                        <lem>noverant</lem>
+                        <rdg wit="#u">noverunt</rdg>
+                    </app> Deo <app>
+                        <lem>fidum</lem>
+                        <rdg wit="#N">sidum</rdg>
+                        <rdg wit="#P">filium</rdg>
+                    </app> in terris. Congaudeamus igitur pariter et nos, fratres carissimi,
+                    gratiasque <app>
+                        <lem>Deo agamus</lem>
+                        <rdg wit="#B">agamus</rdg>
+                        <rdg wit="#u">agamus Deo</rdg></app>, qui dignatus est nos decorare corona gloriosissimi <app>
+                        <lem>et magnifici</lem>
+                        <rdg wit="#B #V">et magnifici ac</rdg>
+                        <rdg wit="#N">et magnificissimi</rdg>
+                        <rdg wit="#P">om.</rdg>
+                    </app> patris nostri <persName ref="#Ger"> Gerardi </persName>. </p>
+            </div>
+            <div type="Capitulum" n="VII" xml:id="la-cVII" xml:lang="la">
+                <head>Capitulum VII</head>
+                <p n="1" xml:id="la-VII.1"> <hi rend="bold">VII.1 </hi> Igitur quia et angelorum et hominum gaudia
+                    praelibavimus, ad virtutes quas Dominus post eius obitum suis revelare dignatus
+                    est famulis, nostrum <app>
+                        <lem>vertamus</lem>
+                        <rdg wit="#N">versamus</rdg>
+                    </app> articulum. Non multo itaque tempore post ex quo <app>
+                        <lem>vitam finivit</lem>
+                        <rdg wit="#B #u">finivit vitam</rdg>
+                    </app> sanctus Dei <app>
+                        <lem>famulus</lem>
+                        <rdg wit="#B #u">om.</rdg></app>, fuit <app>
+                        <lem>homo</lem>
+                        <rdg wit="#V">om.</rdg>
+                    </app> quadragenarius, <app>
+                        <lem>quem</lem>
+                        <rdg wit="#u">quae</rdg>
+                    </app> oculis nostris vidimus, tantum palmis extensis et curvis incedens
+                    genibus, qui cum <app>
+                        <lem>se</lem>
+                        <rdg wit="#B #u">om.</rdg>
+                    </app> Deo et confessori Christi <persName ref="#Ger"> Gerardo </persName> devovisset, <app>
+                        <lem>et ad sepulchrum beati viri venisset</lem>
+                        <rdg wit="#B #u">om.</rdg></app>, liberam abeundi virtutem accepit, firmato gressu pedum suorum. </p>
+                <p n="2" xml:id="la-VII.2"> <hi rend="bold">VII.2 </hi> Itaque, quod auribus nostris ad praesens de beato
+                    viro legimus, <app>
+                        <lem>nulli</lem>
+                        <rdg wit="#B #N #P #u">nullum</rdg>
+                    </app> dubium sit nos mentiri non audere, scriptura clamante: 
+                    <seg source="#Bibl_Sap_1.1">
+                    «os quod mentitur occidit animam» </seg> , et item laudat
+                    dicens: 
+                    <seg source="#Bibl_Ps_14.3">
+                    «qui loquitur veritatem in corde suo, qui non egit dolum in
+                        lingua sua nec fecit proximo suo malum et opprobrium non accepit adversus <app>
+                            <lem>proximos suos</lem>
+                            <rdg wit="#B #N #u">et cetera add.</rdg></app>».</seg>  </p>
+                <p n="3" xml:id="la-VII.3"> <hi rend="bold">VII.3 </hi> O miraculum mirandum, o res laudanda! Quis
+                    quadragenarium <app>
+                        <lem>audit paralyticum proprio prius incessu destitutum</lem>
+                        <rdg wit="#B">audit aut paralyticum-destitutum</rdg>
+                        <rdg wit="#N">paralyticum-destitutum om.</rdg>
+                        <rdg wit="#P">aut paralyticum-restitutum</rdg>
+                        <rdg wit="#u">aut paralyticum-destitutum</rdg></app>, novae <app>
+                        <lem>ambulationi</lem>
+                        <rdg wit="#V">ambulationis</rdg>
+                    </app> redditum et facile <app>
+                        <lem>credit</lem>
+                        <rdg wit="#B #N #P">creditur</rdg>
+                        <rdg wit="#u">crediderit</rdg>
+                    </app> ? <app>
+                        <lem>Quis non contremiscens stupet tanto miraculo</lem>
+                        <rdg wit="#N">om.</rdg>
+                    </app> ? Nisi enim Dominus et Salvator noster <app>
+                        <lem>Iesus</lem>
+                        <rdg wit="#N">om.</rdg>
+                    </app> Christus, tempore praedicationis suae, hominem multum tempus <app>
+                        <lem>in aegritudinem existentem</lem>
+                        <rdg wit="#B">in aegritudinem habentem</rdg>
+                        <rdg wit="#N">in aegritudine existentem</rdg>
+                        <rdg wit="#P">in aegritudine instantem</rdg>
+                    </app>
+                    <note n="▼">«hominem-existentem»: non si capisce a quale miracolo alluda qui l’autore;
+                        i Vangeli solo in un caso ci riferiscono dettagli sul tempo trascorso in
+                        malattia da un miracolato: parliamo della guarigione dell’emorroissa (Mt. 9,
+                        20-22, Mc. 5, 24-34, Lc. 8, 43-48)</note> curasset, nequaquam horum populus
+                    fieret credulus testimoniorum. </p>
+                <p n="4" xml:id="la-VII.4"> <hi rend="bold">VII.4 </hi> Prodigia <app>
+                        <lem>ergo Domini</lem>
+                        <rdg wit="#N #P">erga Deum</rdg>
+                    </app> clara et manifesta nostra reddunt testimonia vera et credibilia; ait enim
+                    ipse discipulis suis: 
+                    <seg source="#Bibl_Io_14.12">
+                    «maiora his facietis» </seg> ; si ergo maius <app>
+                        <lem>fieri</lem>
+                        <rdg wit="#V">futurum</rdg>
+                    </app> credimus, minus fieri non dubitamus. Vertentes itaque, fratres, stylum ad
+                    seriem narrandam virtutum, sicut proposuimus verissimaque vidimus seu
+                    indubitanter audivimus, pauca de multis dicemus. </p>
+            </div>
+            <div type="Capitulum" n="VIII" xml:id="la-cVIII" xml:lang="la">
+                <head>Capitulum VIII</head>
+                <p n="1" xml:id="la-VIII.1"> <hi rend="bold">VIII.1 </hi> Fuit <app>
+                        <lem>homo itaque maniacus</lem>
+                        <rdg wit="#B #u">homo itaque monachus ut</rdg>
+                        <rdg wit="#N">monacus itaque vi</rdg>
+                        <rdg wit="#P">homo itaque demoniacus qui</rdg>
+                    </app>
+                    <note n="▼"> «maniacus»: si tratta di un caso di instabilità psichica o di possessione
+                        diabolica, o entrambi; cfr. <title ref="#DuCange_5">Glossarium mediae et
+                            infimae latinitatis 5 (Niort 1885), 219</title>. </note> vi ad
+                    sepulchrum beati viri adductus, quem Domini pietas, per merita et intercessionem
+                    beati confessoris Christi <persName ref="#Ger"> Gerardi,  </persName> ad plenam reduxit memoriam sensuum et <app>
+                        <lem>intellectuum</lem>
+                        <rdg wit="#B #N">intellectum</rdg>
+                        <rdg wit="#P #u">intellectus</rdg></app>.</p>
+                <p n="2" xml:id="la-VIII.2"> <hi rend="bold">VIII.2 </hi> De similibus praeterea <app>
+                        <lem>multis ad</lem>
+                        <rdg wit="#N #P">multos ad</rdg>
+                        <rdg wit="#V">ad</rdg>
+                    </app> eum venisse et sanitatem recepisse nullus vestrum teneat ambiguum; ideo
+                    nos de multis unum <app>
+                        <lem>tantum</lem>
+                        <rdg wit="#u">tamen</rdg>
+                    </app>
+                    <app>
+                        <lem>sumpsimus</lem>
+                        <rdg wit="#P">scripsimus</rdg></app>, ne prolixitas multorum miraculorum hebetaret <app>
+                        <lem>audientiam</lem>
+                        <rdg wit="#B #u">mentem audientium</rdg>
+                        <rdg wit="#P">mentem audientiam</rdg>
+                        <rdg wit="#V">audientia</rdg>
+                    </app> multorum <app>
+                        <lem>virorum</lem>
+                        <rdg wit="#P">mirorum</rdg></app>. </p>
+                <p n="3" xml:id="la-VIII.3"> <hi rend="bold">VIII.3 </hi> Etenim quia unum tantum causa compendiosae
+                    brevitatis <app>
+                        <lem>narravimus</lem>
+                        <rdg wit="#N #P">narramus</rdg>
+                    </app>
+                    <app>
+                        <lem>in genere</lem>
+                        <rdg wit="#N">in generum</rdg>
+                    </app>
+                    <app>
+                        <lem>maniacorum</lem>
+                        <rdg wit="#B">inaniatorum</rdg>
+                        <rdg wit="#P #u">inanitorum</rdg></app>, <app>
+                        <lem>narremus</lem>
+                        <rdg wit="#B #N #u">narramus</rdg>
+                    </app> item unum vel ad multum plus <app>
+                        <lem>duo</lem>
+                        <rdg wit="#N">Deo</rdg>
+                    </app> in genere caecorum, qui lumen suorum receperunt oculorum, et cum multi
+                    alii fuerint illuminati, quos nos scribentes non vidimus sed testimonio multorum
+                    didicimus: sanum non duximus non visum mandare auditoribus, timentes Deum in non
+                    visis virtutibus; </p>
+                <p n="4" xml:id="la-VIII.4"> <hi rend="bold">VIII.4 </hi> etenim si Christus magister <app>
+                        <lem>noster</lem>
+                        <rdg wit="#V">vir</rdg>
+                    </app> et Dominus multa miracula quae fecerat voluit fieri occulta, qui nullum
+                    prorsus timebat peccatum fugiebat humanam laudem, <app>
+                        <lem>quanto</lem>
+                        <rdg wit="#P">tanto</rdg>
+                    </app> magis nos fragiles peccatores fugere debemus quae oculis et auribus non
+                    cognovimus narrare aliis, praesertim cum tot sint miracula quae per eum Dominus
+                    et Salvator noster dignatus est ostendere nobis praesentibus, quod nos prius
+                    scribendi facultas desereret quam vera notitia miraculorum quae facta sunt in
+                    praesentia nostrorum <app>
+                        <lem>oculorum</lem>
+                        <rdg wit="#P">referrere add.</rdg>
+                    </app> ! </p>
+                <p n="5" xml:id="la-VIII.5"> <hi rend="bold">VIII.5 </hi> Nos vero ob hoc scribere ea fugimus, non quod ea
+                    facta <note n="▼">«ob-ea facta»: cioè dei miracoli a cui l’autore non ha assistito
+                        personalmente.</note> non <app>
+                        <lem>credimus</lem>
+                        <rdg wit="#B #u #V">credamus</rdg></app>, sed quod in peccatum quodlibet minus vel plus dicendo cadere timemus
+                        <note n="▼">«minus-timemus»: sottintende qui, in più o in meno rispetto al vero,
+                        come ribadisce poco sotto.</note> ; praeterea itaque tanta <app>
+                        <lem>est</lem>
+                        <rdg wit="#B #u #V">nos</rdg>
+                    </app> copia virtutum eius, <app>
+                        <lem>quas</lem>
+                        <rdg wit="#u">quae</rdg>
+                    </app> per eum Dominus coram nobis quotidie <app>
+                        <lem>operatur</lem>
+                        <rdg wit="#u">quod add.</rdg></app>, nulla nos tenet voluntas seu cogit necessitas aliorum <app>
+                        <lem>testimonium</lem>
+                        <rdg wit="#V">testimonia</rdg>
+                    </app> scribere virorum. </p>
+            </div>
+            <div type="Capitulum" n="IX" xml:id="la-cIX" xml:lang="la">
+                <head>Capitulum IX</head>
+                <p n="1" xml:id="la-IX.1"> <hi rend="bold">IX.1 </hi> Dicamus igitur de virtutibus et prodigiis oculis
+                    nostris ostensis, ut dum <app>
+                        <lem>nitimur</lem>
+                        <rdg wit="#V">utimur</rdg></app>, scribendo, placere Deo et sancto <persName ref="#Ger"> Gerardo,  </persName> non <app>
+                        <lem>videamur</lem>
+                        <rdg wit="#V">videamus</rdg>
+                    </app> dixisse plus vero, quod semper est contrarium Deo. </p>
+                <p n="2" xml:id="la-IX.2"> <hi rend="bold">IX.2 </hi> Fuerunt <app>
+                        <lem>ergo</lem>
+                        <rdg wit="#P #V">item</rdg>
+                    </app> plures homines <app>
+                        <lem>tenti</lem>
+                        <rdg wit="#P">detenti in</rdg>
+                    </app>
+                    <app>
+                        <lem>carcere</lem>
+                        <rdg wit="#N">carceres</rdg></app>, quos praesentia beati <persName ref="#Ger"> Gerardi, </persName> tempore nocturno, liberavit visitando;
+                    compedes namque quibus tenebantur, virtute <app>
+                        <lem>Dei</lem>
+                        <rdg wit="#V">Domini</rdg>
+                    </app> et <app>
+                        <lem>visitatione</lem>
+                        <rdg wit="#B">visitatio</rdg>
+                        <rdg wit="#P">visitationem</rdg>
+                    </app> beati <persName ref="#Ger"> Gerardi, </persName> 
+                    <seg source="#Bibl_Act_12.7"><seg source="#Bibl_Act_16.26">
+                    de pedibus eorum ceciderunt </seg></seg> et hi de carcere eruti cum
+                    omni celeritate visitarunt <note n="▼">«visitarunt»: leggi «visitaverunt».</note>
+                    sepulchrum <app>
+                        <lem>sanctissimi</lem>
+                        <rdg wit="#B #u">beati</rdg>
+                        <rdg wit="#P">beatissimi</rdg>
+                    </app> viri <app>
+                        <lem>liberatoris</lem>
+                        <rdg wit="#N #P">visitatoris</rdg>
+                    </app> sui, <app>
+                        <lem>ibique</lem>
+                        <rdg wit="#B #u">hique</rdg>
+                    </app> vota <app>
+                        <lem>Deo</lem>
+                        <rdg wit="#V">Domino</rdg>
+                    </app> et sancto <persName ref="#Ger"> Gerardo </persName> cum hymnis et laudibus <app>
+                        <lem>devotissime</lem>
+                        <rdg wit="#V">diutissime</rdg>
+                    </app> persolventes <note n="▼">«vota-persolventes»: si possono intendere questi
+                        «vota», come promesse di conversione, di ravvedimento per gli errori
+                        passati.</note> , hilares 
+                        <seg source="#Bibl_Act_21.6">                        
+                        redierunt in sua </seg> . Et quoniam Potentina Ecclesia multis
+                    eius floret virtutibus, satis iucundum Deo et hominibus credimus non praeterire
+                    silentio miracula, quae saepissime didicimus facta in eadem Ecclesia.</p>
+                <p n="3" xml:id="la-IX.3"> <hi rend="bold">IX.3 </hi> Cum autem sacrista <note n="▼"> «sacrista»: è il chierico
+                        addetto alla custodia dei vasi sacri, sottoposto all’arcidiacono; trattasi
+                        di una dignità e non di un grado sacerdotale (cfr. <title ref="#DuCange_7">Glossarium mediae et infimae latinitatis 7 (Niort 1886), 262</title> ).
+                    </note> in praedicta Ecclesia, more solito, lampades ardentes supra sepulchrum
+                    praedicti confessoris extingueret, per nullum ignem terrenum <app>
+                        <lem>appositum</lem>
+                        <rdg wit="#u">om.</rdg></app>, sed sola Domini voluntate, qui 
+                    <seg source="#Bibl_Ps_113.11">«omnia quaecumque voluit fecit» </seg> in caelo et in terra,
+                    saepenumero <app>
+                        <lem>accensae sunt</lem>
+                        <rdg wit="#u">vidimus et nos hoc prodigium persaepe add.</rdg></app>. Candelae 
+                    quoque ardentes visae sunt cecidisse et arsisse super pannos
+                    sepulchri <note n="▼">«pannos sepulchri»: si tratterebbe di tovaglie d’altare o di
+                        meri arredi decorativi.</note> eius, longitudine unius cubiti vel plus eo,
+                    et nihil laesionis habuisse. </p>
+            </div>
+            <div type="Capitulum" n="X" xml:id="la-cX" xml:lang="la">
+                <head>Capitulum X</head>
+                <p n="1" xml:id="la-X.1"> <hi rend="bold">X.1 </hi> Haec et alia multa ad <app>
+                        <lem>declarandum</lem>
+                        <rdg wit="#B #u">celebrandum</rdg>
+                        <rdg wit="#P">declarandi</rdg>
+                    </app> Dei amicum miracula facta sunt; verum, quia longum est narrare non solum <app>
+                        <lem>languentes, quos</lem>
+                        <rdg wit="#V">quot languentes</rdg>
+                    </app> vidimus sanatos eius intercessionibus, verum etiam genera infirmitatum,
+                    quae manifesta sunt <note n="▼"> «verum-manifesta sunt»: in relazione a <persName ref="#Ger">Gerardo</persName> e alla sua «virtus». Nel senso che anche
+                        riferire non il numero dei miracolati, bensì solo il numero dei diversi tipi
+                        di malanni e disagi curati da <persName ref="#Ger"> Gerardo </persName> sarebbe troppo impegnativo; si tratta
+                        ovviamente di una iperbole retorica. </note> , prius nos tempus desereret
+                    quam copia narrandarum virtutum <app>
+                        <lem>deficiet</lem>
+                        <rdg wit="#P">deficiat</rdg></app>. Prolixa <app>
+                        <lem>quidem</lem>
+                        <rdg wit="#P">quidam</rdg>
+                    </app> loquacitas miraculorum obturationem aurium et hebetationem multorum
+                    faceret cordium; taedia itaque <app>
+                        <lem>timentes auditorum</lem>
+                        <rdg wit="#u">om.</rdg></app>, desistimus scribere multas species prodigiorum. </p>
+                <p n="2" xml:id="la-X.2"> <hi rend="bold">X.2 </hi> <app>
+                        <lem>Dicamus</lem>
+                        <rdg wit="#u">dicamque</rdg>
+                    </app> igitur breviloquio quomodo ad canonizandum sanctitas et veneratio
+                    gloriosissimi viri pervenerit. Apparuit itaque, fratres carissimi, mihi <persName ref="#Manfr"> Manfredo </persName>
+                    <note n="▼"> «mihi <persName ref="#Manfr"> Manfredo»: </persName> è la prima e unica auto-menzione esplicita
+                        dell’autore: di <persName ref="#Manfr">Manfredi</persName> non sappiamo altro che
+                        questo, che cioè fu vescovo di Potenza dopo <persName ref="#Ger">Gerardo</persName>
+                        e che fu il postulatore della sua causa di canonizzazione. </note> , levi
+                    somno detento, praedictus <app>
+                        <lem>vir</lem>
+                        <rdg wit="#N #P">sanctus add.</rdg></app>, canitie venerandus, terribiliter iniungens mihi me curam habere sui;
+                    quod cum ego <app>
+                        <lem>stupens</lem>
+                        <rdg wit="#V">ac tremens add.</rdg>
+                    </app> et ignarus quid iuberet, cogitarem, rursum adiecit: «curam non fugias <app>
+                        <lem>mei</lem>
+                        <rdg wit="#B #u">nostri</rdg>
+                    </app> corporis et Ecclesiae Christi, <app>
+                        <lem>quoniam</lem>
+                        <rdg wit="#B #N #u">quem</rdg>
+                    </app> authorizandus <note n="▼"> «authorizandus»: il verbo «auctorizo» è usato anche
+                        nella vita di s. Sigeberto ( <title ref="#BHL">BHL 7711</title> ); cfr.
+                            <title ref="#DuCange_1">Glossarium mediae et infimae latinitatis 1
+                            (Niort 1883), 468</title>
+                    </note> tuo tempore sum <app>
+                        <lem>reservatus</lem>
+                        <rdg wit="#B #u">reversatus</rdg></app>»; adhuc quidem me <app>
+                        <lem>haesitantem</lem>
+                        <rdg wit="#P">visitantem</rdg></app>, manum extendit quasi ad feriendum et abscessit. </p>
+                <p n="3" xml:id="la-X.3"> <hi rend="bold">X.3 </hi> Expergefactus ad haec, tacitus expectavi quid sibi
+                    vellet visio talis, <app>
+                        <lem>at</lem>
+                        <rdg wit="#V">adest</rdg>
+                    </app> non multo tempore post, clerus ac populus Potentinus, quasi <app>
+                        <lem>promissa</lem>
+                        <rdg wit="#B #u">praemissa</rdg>
+                        <rdg wit="#P">promisso</rdg>
+                    </app> beati <persName ref="#Ger"> Gerardi </persName> completurus, utilem sibi unanimiter <app>
+                        <lem>deposcunt</lem>
+                        <rdg wit="#u">poscunt</rdg>
+                    </app> dari pastorem: me quoque inutilem servum et Dei famulum, Ecclesiae suae <app>
+                        <lem>conclamant</lem>
+                        <rdg wit="#B #N #u">conclamarunt</rdg>
+                    </app> necessarium; animadversio igitur illorum et petitio est adimpleta
+                    continuo. </p>
+                <p n="4" xml:id="la-X.4"> <hi rend="bold">X.4 </hi> Post consecrationem itaque meam, non immemor iniunctae
+                    mihi voluntatis beati <persName ref="#Ger"> Gerardi,  </persName> eius securus <app>
+                        <lem>hortaminibus</lem>
+                        <rdg wit="#P">ploraminibus</rdg></app>, <app>
+                        <lem>urbe</lem>
+                        <rdg wit="#N">Urbem</rdg>
+                    </app> progrediens cum <app>
+                        <lem>Potentinis</lem>
+                        <rdg wit="#P">Potentina</rdg>
+                    </app>
+                    <app>
+                        <lem>civibus</lem>
+                        <rdg wit="#B #u">om.</rdg>
+                    </app>
+                    <app>
+                        <lem>Romanum</lem>
+                        <rdg wit="#P">Romam</rdg>
+                    </app> adimus pontificem: illum etenim satis invenimus benignum et petitioni <app>
+                        <lem>nostrae</lem>
+                        <rdg wit="#N">om.</rdg>
+                    </app> per omnia placitum. Consensus eius et omnium cardinalium approbat hoc
+                    fieri <note n="▼"> «hoc fieri»: che cioè <persName ref="#Ger">Gerardo</persName> sia
+                        canonizzato. </note>, communi decreto fratrum omnium: fit itaque examinatio
+                    de vita tanti viri inter cardinales et est visa haberi digna inter sanctos
+                    confessores. </p>
+                <p n="5" xml:id="la-X.5"> <hi rend="bold">X.5 </hi> <app>
+                        <lem>Postquam</lem>
+                        <rdg wit="#B #N">Postque</rdg>
+                    </app>
+                    <app>
+                        <lem>vero</lem>
+                        <rdg wit="#N">om.</rdg>
+                    </app> a Romano pontifice <persName ref="#Call2">Callisto </persName> nomine viva voce <note n="▼"> «viva voce»: senza un
+                        processo canonico organizzato per gradi e senza documentazione scritta, cfr.
+                            <persName ref="#Ferraris">Lucio Ferraris</persName> , <title ref="#Ferraris_Bib">Prompta bibliotheca canonica, juridica, moralis, theologica 5 (Bologna
+                            1763), 247-253</title>
+                    </note> canonizatus est, episcopus <app>
+                        <lem>Palestinus</lem>
+                        <rdg wit="#P #u">Preanestinus</rdg>
+                    </app> nomine <persName ref="#GugPal">Guilelmus, </persName> et <persName ref="#PetrAc"> Petrus Acheruntinus archiepiscopus, </persName> et 
+                    <persName ref="#GuiGrav">Guido
+                    Gravinensis episcopus </persName> et <persName ref="#LeoGrum"> Leo </persName> <app>
+                        <lem>Drumentinus</lem>
+                        <rdg wit="#u">Grumentinus</rdg>
+                    </app>
+                    <note n="▼"> «episcopus Palestinus-Drumentinus»: i vescovi qui nominati sono il
+                        metropolita del vescovo di Potenza ( <persName ref="#PetrAc">Pietro di
+                            Acerenza</persName>, il cui presulato va dal 1102 al 1142 ca., cfr. <title ref="#Gams_Series">Series episcoporum Ecclesiae Catholicae (Ratisbona
+                            1873), 843</title> ), un suffraganeo acheruntino assieme a un vescovo
+                        limitaneo della stessa metropolia (rispettivamente i vescovi di Gravina,
+                            <persName ref="#GuiGrav">Guido</persName> , presule nel periodo 1099-1123, cfr.
+                            <title ref="#Gams_Series">Series cit., 884</title> , e di
+                        Grumento-Marsico, <persName ref="#LeoGrum">Leone</persName>, del cui episcopato non
+                        conosciamo gli estremi cronologici, cfr. <title ref="#Gams_Series">Series
+                            cit., 894</title> ) e il cardinale vescovo di Palestrina <persName ref="#GugPal">Guglielmo</persName> , uno dei sette hebdomadarii papali
+                        (1123-1137, cfr. <title ref="#Gams_Series">Series cit., XVI</title> ). Tutti
+                        i suddetti vescovi sono personaggi attestasti da almeno una fonte che non
+                        sia la «Vita Gerardi», come si può velocemente riscontrare, in primis, in
+                            <title>Italia sacra 1 (Roma 1644, 225-226)</title> e <title>7 (42-47,
+                            166, 697-698)</title>. </note> episcopus <app>
+                        <lem>mittuntur</lem>
+                        <rdg wit="#P">miserunt</rdg>
+                    </app> ad decorandam et confirmandam <app>
+                        <lem>sui</lem>
+                        <rdg wit="#u">suam</rdg>
+                    </app> domini et pastoris sententiam: veniunt itaque Potentiam et cum <app>
+                        <lem>omni</lem>
+                        <rdg wit="#B #u">om.</rdg>
+                    </app> humilitate providentur <note n="▼">«providentur»: le lezioni di tutti i
+                        testimoni riportano «providentia», ma congetturiamo qui «providentur»,
+                        ipotizzando un errore paleografico.</note> , facta <app>
+                        <lem>condonatione</lem>
+                        <rdg wit="#N">condonationis</rdg>
+                    </app> quadraginta dierum omnium venientium ad annuam festivitatem sancti
+                    confessoris Christi, ad laudem et gloriam Domini nostri Iesu Christi, qui cum
+                    Patre et Spiritu Sancto vivit et regnat, <app>
+                        <lem>nunc et semper, et ante omnia</lem>
+                        <rdg wit="#N">om.</rdg>
+                    </app> saecula saeculorum. Amen. </p>
+            </div>
+        </body>
+        <back>
+            <head>Fontes</head>
+            <div>
+                <cit xml:id="Bern_SermdeSan_I">
+                    <bibl>
+                        <author>Bernardo di Chiaravalle</author>
+                        <title>Sermones de Sanctis. In festo Omnium Sanctorum</title>
+                        <citedRange corresp="#Bern_SermdeSan_I">I</citedRange>
+                    </bibl>
+                    <quote>Festivitatem hodiernam Sanctorum omnium cum omni devotione dignum est
+                        celebrari.</quote>
+                </cit>
+                <cit xml:id="Bern_SermdeSan_II">
+                    <bibl>
+                        <author>Bernardo di Chiaravalle</author>
+                        <title>Sermones de Sanctis. In festo Omnium Sanctorum</title>
+                        <citedRange corresp="#Bern_SermdeSan_II">Sermo II</citedRange>
+                    </bibl>
+                    <quote>Quia Sanctorum omnium festivam hodie, dilectissimi, omnique dignissimam
+                        devotione memoriam celebramus, operae pretium puto de communi eorum
+                        felicitate, in qua beata iam requie perfruuntur, et futura quam
+                        praestolantur consummatione, adiuvante Spiritu sancto sermonem facere
+                        caritati vestrae, ita sane, ut non opinionis propriae coniecturas, sed
+                        divinorum librorum sequar auctoritatem; ne prophetare videar de corde meo,
+                        sed innitar, quoad poter, testimoniis Scripturarum.</quote>
+                </cit>
+                <cit xml:id="Bern_SermdeSan_V">
+                    <bibl>
+                        <author>Bernardo di Chiaravalle</author>
+                        <title>Sermones de Sanctis. In festo Omnium Sanctorum</title>
+                        <citedRange corresp="#Bern_SermdeSan_V">Sermo V</citedRange>
+                    </bibl>
+                    <quote>Festiva nobis est dies, et inter praecipuas solemnitates hodierna
+                        solemnitas numeratur. […] Omnes siquidem novimus festivitatem Omnium
+                        Sanctorum dici, et esse, quam hodie celebramus. Omnium, inquam, sive
+                        coelestium, sive terrestrium. Sunt enim sancti de coelo, et sunt sancti de
+                        terra: itemque eorum qui de terra sunt, quidam adhuc in terra, aliqui iam in
+                        coelo.</quote>
+                </cit>
+                <cit xml:id="Bibl_Ps_109.4">
+                    <bibl>
+                        <title>Liber Psalmorum</title>
+                        <citedRange corresp="#Bibl_Ps_109, 4">109, 4</citedRange>
+                    </bibl>
+                    <quote>Tu es sacerdos in aeternum secundum ordinem Melchisedech.</quote>
+                </cit>
+                <cit xml:id="Bibl_Ps_64.5">
+                    <bibl>
+                        <title>Liber Psalmorum</title>
+                        <citedRange corresp="#Bibl_Ps_64, 5">64, 5</citedRange>
+                    </bibl>
+                    <quote>Beatus quem elegisti et assumpsisti: inhabitabit in atriis tuis.</quote>
+                </cit>
+                <cit xml:id="Bibl_Ps_80.11">
+                    <bibl>
+                        <title>Liber Psalmorum</title>
+                        <citedRange corresp="#Bibl_Ps_80, 11">80, 11</citedRange>
+                    </bibl>
+                    <quote>Dilata os tuum, et implebo illud.</quote>
+                </cit>
+                <cit xml:id="Bibl_Gen_3">
+                    <bibl>
+                        <title>Liber Genesis</title>
+                        <citedRange corresp="#Bibl_Gen_3">3</citedRange>
+                    </bibl>
+                    <quote>Sed et serpens erat callidior cunctis animantibus terrae quae fecerat
+                        Dominus Deus. Qui dixit ad mulierem: Cur praecepit vobis Deus ut non
+                        comederetis de omni ligno paradisi? Cui respondit mulier: De fructu
+                        lignorum, quae sunt in paradiso, vescimur: de fructu vero ligni quod est in
+                        medio paradisi, praecepit nobis Deus ne comederemus, et ne tangeremus illud,
+                        ne forte moriamur. Dixit autem serpens ad mulierem: Nequaquam morte
+                        moriemini. Scit enim Deus quod in quocumque die comederitis ex eo,
+                        aperientur oculi vestri, et eritis sicut dii, scientes bonum et malum. Vidit
+                        igitur mulier quod bonum esset lignum ad vescendum, et pulchrum oculis,
+                        aspectuque delectabile: et tulit de fructu illius, et comedit: deditque viro
+                        suo, qui comedit. Et aperti sunt oculi amborum; cumque cognovissent se esse
+                        nudos, consuerunt folia ficus, et fecerunt sibi perizomata. Et cum audissent
+                        vocem Domini Dei deambulantis in paradiso ad auram post meridiem, abscondit
+                        se Adam et uxor eius a facie Domini Dei in medio ligni paradisi. Vocavitque
+                        Dominus Deus Adam, et dixit ei: Ubi es? Qui ait: Vocem tuam audivi in
+                        paradiso, et timui, eo quod nudus essem, et abscondi me. Cui dixit: Quis
+                        enim indicavit tibi quod nudus esses, nisi quod ex ligno de quo praeceperam
+                        tibi ne comederes, comedisti? Dixitque Adam: Mulier, quam dedisti mihi
+                        sociam, dedit mihi de ligno, et comedi. Et dixit Dominus Deus ad mulierem :
+                        Quare hoc fecisti? Quae respondit: Serpens decepit me, et comedi. Et ait
+                        Dominus Deus ad serpentem: Quia fecisti hoc, maledictus es inter omnia
+                        animantia, et bestias terrae: super pectus tuum gradieris, et terram comedes
+                        cunctis diebus vitae tuae. Inimicitias ponam inter te et mulierem, et semen
+                        tuum et semen illius: ipsa conteret caput tuum, et tu insidiaberis calcaneo
+                        eius. Mulieri quoque dixit: Multiplicabo aerumnas tuas, et conceptus tuos :
+                        in dolore paries filios, et sub viri potestate eris, et ipse dominabitur
+                        tui. Adae vero dixit : Quia audisti vocem uxoris tuae, et comedisti de
+                        ligno, ex quo praeceperam tibi ne comederes, maledicta terra in opere tuo :
+                        in laboribus comedes ex ea cunctis diebus vitae tuae. Spinas et tribulos
+                        germinabit tibi, et comedes herbam terrae. In sudore vultus tui vesceris
+                        pane, donec revertaris in terram de qua sumptus es: quia pulvis es et in
+                        pulverem reverteris. Et vocavit Adam nomen uxoris suae, Heva: eo quod mater
+                        esset cunctorum viventium. Fecit quoque Dominus Deus Adae et uxori eius
+                        tunicas pelliceas, et induit eos: et ait: Ecce Adam quasi unus ex nobis
+                        factus est, sciens bonum et malum : nunc ergo ne forte mittat manum suam, et
+                        sumat etiam de ligno vitae, et comedat, et vivat in aeternum. Et emisit eum
+                        Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus
+                        est. Eiecitque Adam: et collocavit ante paradisum voluptatis cherubim, et
+                        flammeum gladium, atque versatilem, ad custodiendam viam ligni
+                        vitae.</quote>
+                </cit>
+                <cit xml:id="Bibl_Num_22.22-33">
+                    <bibl>
+                        <title>Liber Numeri</title>
+                        <citedRange corresp="#Bibl_Num_22, 22-33">22, 22-33</citedRange>
+                    </bibl>
+                    <quote>Et iratus est Deus. Stetitque angelus Domini in via contra Balaam, qui
+                        insidebat asinae, et duos pueros habebat secum. Cernens asina angelum
+                        stantem in via, evaginato gladio, avertit se de itinere, et ibat per agrum.
+                        Quam cum verberaret Balaam, et vellet ad semitam reducere, stetit angelus in
+                        angustiis duarum maceriarum, quibus vineae cingebantur. Quem videns asina,
+                        iunxit se parieti, et attrivit sedentis pedem. At ille iterum verberabat
+                        eam: et nihilominus angelus ad locum angustum transiens, ubi nec ad
+                        dexteram, nec ad sinistram poterat deviare, obvius stetit. Cumque vidisset
+                        asina stantem angelum, concidit sub pedibus sedentis: qui iratus,
+                        vehementius caedebat fuste latera eius. Aperuitque Dominus os asinae, et
+                        locuta est: Quid feci tibi? cur percutis me ecce iam tertio? Respondit
+                        Balaam: Quia commeruisti, et illusisti mihi: utinam haberem gladium, ut te
+                        percuterem! Dixit asina: Nonne animal tuum sum, cui semper sedere
+                        consuevisti usque in praesentem diem? dic quid simile umquam fecerim tibi.
+                        At ille ait: Numquam. Protinus aperuit Dominus oculos Balaam, et vidit
+                        angelum stantem in via, evaginato gladio, adoravitque eum pronus in terram.
+                        Cui angelus: Cur, inquit, tertio verberas asinam tuam? ego veni ut
+                        adversarer tibi, quia perversa est via tua, mihique contraria: et nisi asina
+                        declinasset de via, dans locum resistenti, te occidissem, et illa
+                        viveret.</quote>
+                </cit>
+                <cit xml:id="Bibl_1Petr_5.6">
+                    <bibl>
+                        <title>Epistola prima Beati Petri Apostoli</title>
+                        <citedRange corresp="#Bibl_1Petr_5, 6">5, 6</citedRange>
+                    </bibl>
+                    <quote>Humiliamini igitur sub potenti manu Dei, ut vos exaltet in tempore
+                        visitationis.</quote>
+                </cit>
+                <cit xml:id="Bibl_Iacob_4.10">
+                    <bibl>
+                        <title>Epistola catholica Beati Iacobi Apostoli</title>
+                        <citedRange corresp="#Bibl_Iacob_4, 10">4, 10</citedRange>
+                    </bibl>
+                    <quote>Humiliamini in conspectu Domini, et exaltabit vos.</quote>
+                </cit>
+                <cit xml:id="Bibl_Ps_118.62">
+                    <bibl>
+                        <title>Epistola prima Beati Petri Apostoli</title>
+                        <citedRange corresp="#Bibl_Ps_118, 62">118, 62</citedRange>
+                    </bibl>
+                    <quote>Media nocte surgebam ad confitendum tibi.</quote>
+                </cit>
+                <cit xml:id="Bibl_Ps_9.12">
+                    <bibl>
+                        <title>Liber Psalmorum</title>
+                        <citedRange corresp="#Bibl_Ps_9, 12">9, 12</citedRange>
+                    </bibl>
+                    <quote>Psallite Domino qui habitat in Sion; annuntiate inter gentes studia
+                        ejus.</quote>
+                </cit>
+                <cit xml:id="Sulp_VM_2.7">
+                    <bibl>
+                        <author>Sulpicio Severo</author>
+                        <title>Vita Martini</title>
+                        <citedRange corresp="#Sulp_VM_2, 7">2, 7</citedRange>
+                    </bibl>
+                    <quote>Nam frugalitatem in eo laudari non est necesse, qua ita usus est, ut iam
+                        illo tempore non miles, sed monachus putaretur.</quote>
+                </cit>
+                <cit xml:id="Greg_Hom_XXVII.4">
+                    <bibl>
+                        <author>Gregorio Magno</author>
+                        <title>Homiliae in Evangelia</title>
+                        <citedRange corresp="#Greg_Hom_XXVII, 4">XXVII, 4</citedRange>
+                    </bibl>
+                    <quote>Ecce electi Dei carnem domant, spiritum roborant, daemonibus
+                        imperant,virtutibus coruscant.</quote>
+                </cit>
+                <cit xml:id="Pater_LibTes_I.XI.265">
+                    <bibl>
+                        <author>Paterio di Brescia</author>
+                        <title>Sancti Paterii liber de expositione Veteris ac Novi Testamenti, de
+                            diversis libris sancti Gregorii papae concinnatus</title>
+                        <citedRange corresp="#Pater_LibTes_I, XI, 265">I, XI, 265</citedRange>
+                    </bibl>
+                    <quote>Ecce electi Dei carnem domant, spiritum roborant, daemonibus
+                        imperant,virtutibus coruscant.</quote>
+                </cit>
+                <cit xml:id="Paol_Car_13.26-27">
+                    <bibl>
+                        <author>Paolino di Nola</author>
+                        <title/>
+                        <citedRange corresp="#Paol_Car_13, 26-27">13, 26-27</citedRange>
+                    </bibl>
+                    <quote>O felix Felice tuo tibi praesule Nola, inclita cive sacro, caelesti firma
+                        patrono.</quote>
+                </cit>
+                <cit xml:id="Bibl_Io_2.3-10">
+                    <bibl>
+                        <title>Evangelium secundum Ioannem</title>
+                        <citedRange corresp="#Bibl_Io_2, 3-10">2, 3-10</citedRange>
+                    </bibl>
+                    <quote>Et deficiente vino, dicit mater Iesu ad eum: Vinum non habent. Et dicit
+                        ei Iesus: Quid mihi et tibi est, mulier? nondum venit hora mea. Dicit mater
+                        eius ministris: Quodcumque dixerit vobis, facite. Erant autem ibi lapideae
+                        hydriae sex positae secundum purificationem Iudaeorum, capientes singulae
+                        metretas binas vel ternas. Dicit eis Iesus: Implete hydrias aqua. Et
+                        impleverunt eas usque ad summum. Et dicit eis Iesus: Haurite nunc, et ferte
+                        architriclino. Et tulerunt. Ut autem gustavit architriclinus aquam vinum
+                        factam, et non sciebat unde esset, ministri autem sciebant, qui hauserant
+                        aquam: vocat sponsum architriclinus, et dicit ei: Omnis homo primum bonum
+                        vinum ponit et cum inebriati fuerint, tunc id, quod deterius est. Tu autem
+                        servasti bonum vinum usque adhuc.</quote>
+                </cit>
+                <cit xml:id="Bibl_Mt_16.25-26">
+                    <bibl>
+                        <title>Evangelium secundum Matthaeum</title>
+                        <citedRange corresp="#Bibl_Mt_16, 25-26">16, 25-26</citedRange>
+                    </bibl>
+                    <quote>Qui enim voluerit animam suam salvam facere, perdet eam: qui autem
+                        perdiderit animam suam propter me, inveniet eam. Quid enim prodest homini,
+                        si mundum universum lucretur, animae vero suae detrimentum patiatur ? aut
+                        qum dabit homo commutationem pro anima sua?</quote>
+                </cit>
+                <cit xml:id="Bibl_Mc_8.35-37">
+                    <bibl>
+                        <title>Evangelium secundum Marcum</title>
+                        <citedRange corresp="#Bibl_Mc_8, 35-37">8, 35-37</citedRange>
+                    </bibl>
+                    <quote>Qui enim voluerit animam suam salvam facere, perdet eam: qui autem
+                        perdiderit animam suam propter me, et Evangelium, salvam faciet eam. Quid
+                        enim proderit homini, si lucretur mundum totum et detrimentum animae suae
+                        faciat? Aut quid dabit homo commutationis pro anima sua?</quote>
+                </cit>
+                <cit xml:id="Bibl_Io_12.25">
+                    <bibl>
+                        <title>Evangelium secundum Ioannem</title>
+                        <citedRange corresp="#Bibl_Io_12, 25">12, 25</citedRange>
+                    </bibl>
+                    <quote>Qui amat animam suam, perdet eam; et qui odit animam suam in hoc mundo,
+                        in vitam aeternam custodit eam.</quote>
+                </cit>
+                <cit xml:id="Bibl_Sap_1.11">
+                    <bibl>
+                        <title>Liber Sapientiae</title>
+                        <citedRange corresp="#Bibl_Sap_1, 11">1, 11</citedRange>
+                    </bibl>
+                    <quote>Os autem quod mentitur occidit animam.</quote>
+                </cit>
+                <cit xml:id="Bibl_Ps_14.3">
+                    <bibl>
+                        <title>Liber Psalmorum</title>
+                        <citedRange corresp="#Bibl_Ps_14, 3">14, 3</citedRange>
+                    </bibl>
+                    <quote>Qui loquitur veritatem in corde suo: qui non egit dolum in lingua sua,
+                        nec fecit proximo suo malum, et opprobrium non accepit adversus proximos
+                        suos.</quote>
+                </cit>
+                <cit xml:id="Bibl_Io_14.12">
+                    <bibl>
+                        <title>Evangelium secundum Ioannem</title>
+                        <citedRange corresp="#Bibl_Io_14, 12">14, 12</citedRange>
+                    </bibl>
+                    <quote>Amen, amen dico vobis, qui credit in me, opera quae ego facio, et ipse
+                        faciet, et maiora horum faciet.</quote>
+                </cit>
+                <cit xml:id="Bibl_Act_12.7">
+                    <bibl>
+                        <title>Actus Apostolorum</title>
+                        <citedRange corresp="#Bibl_Act_12, 7">12, 7</citedRange>
+                    </bibl>
+                    <quote>Et ecce angelus Domini astitit, et lumen refulsit in habitaculo:
+                        percussoque latere Petri, excitavit eum, dicens: Surge velociter. Et
+                        ceciderunt catenae de manibus eius.</quote>
+                </cit>
+                <cit xml:id="Bibl_Act_16.26">
+                    <bibl>
+                        <title>Actus Apostolorum</title>
+                        <citedRange corresp="#Bibl_Act_16, 26">16, 26</citedRange>
+                    </bibl>
+                    <quote>Subito vero terraemotus factus est magnus, ita ut moverentur fundamenta
+                        carceris. Et statim aperta sunt omnia ostia: et universorum vincula soluta
+                        sunt.</quote>
+                </cit>
+                <cit xml:id="Bibl_Act_21.6">
+                    <bibl>
+                        <title>Actus Apostolorum</title>
+                        <citedRange corresp="#Bibl_Act_21, 6">21, 6</citedRange>
+                    </bibl>
+                    <quote>Et cum valefecissemus invicem, ascendimus navem: illi autem redierunt in
+                        sua.</quote>
+                </cit>
+                <cit xml:id="Bibl_Ps_113.11">
+                    <bibl>
+                        <title>Liber Psalmorum</title>
+                        <citedRange corresp="#Bibl_Ps_113, 11">113, 11</citedRange>
+                    </bibl>
+                    <quote>Deus autem noster in caelo; omnia quaecumque voluit fecit.</quote>
+                </cit>
+            </div>
+        </back>
+    </text>
+</TEI>
