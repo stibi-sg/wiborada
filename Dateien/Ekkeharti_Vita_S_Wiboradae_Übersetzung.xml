@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div corresp="#vw1_I.1">
+            <p>Wiborada, die seligste Jungfrau Gottes, dem Stamm der Alemannen, die auch Schwaben
+               heißen, entsprossen, wuchs wie ein guter Baum aus guter Wurzel von wohlgeborenen
+               Eltern, die durch den Adel eines lobenswerten Lebens Macht hatten und im Dienst des
+               christlichen Kriegsvolkes in den ersten Reihen des Heeres des Herrn kraftvoll den
+               Feldzeichen des Heils folgten. Durch die Vorsehung göttlichen Wissens, die
+               unaussagbar ‘alles nach Maß, Gewicht und Zahl ordnet’, erhielt sie wie durch eine
+               Weissagung einen ihrer würdigen Namen. Denn wenn man das, was als Wiborat in
+               deutscher Zunge erklingt, durch Übersetzung ins Lateinische verwandelt, dann lautet
+               es Frauen-Rat. Dieser Name paßt wahrhaftig zu der, die zuerst sich Rat schuf, indem
+               sie beide Schwestern als Lehrerinnen des rechten Tuns nachahmte — ich will sagen die
+               beiden Liebhaberinnen Christi, Martha und Maria —, durch die Mühe tätigen Lebens zum
+               Gipfel der beschauenden Betrachtung aufstieg und allen, die den rechten Weg suchen,
+               Frauen wie Männern, den Rat und das Beispiel gab, die Welt zu verachten, Gott zu
+               dienen und ihm unermüdlich und unerschüttert anzuhangen.</p>
+         </div>
+         <div corresp="#vw1_II.1">
+            <p>Von der Wiege an ihrem allmächtigen Schöpfer ergeben, ja von ihm, der sie kannte,
+               noch ehe sie im Mutterschoß gebildet war, voll Erbarmen aufgenommen, unterdrückte sie
+               mit bescheidener Bedachtheit alle Verlockungen übermütiger Ausschweifung, alle
+               Leichtfertigkeit des Kindesalters und bändigte sie mit einer gewissen Strenge und
+               Reife. Sie mied ungehörige Kinderspiele, verachtete die possenhaften Schaustellungen
+               der Gaukler, verschmähte die Ammenmärchen und verschloß keusch die Ohren vor allen
+               anzüglichen Liedern, als hätte sie sich vorgenommen, mit Sara, der Tochter Raguels
+               und künftigen Gattin des heiligen Tobias, zuversichtlich zum Herrn zu sagen: ‘Nie
+               habe ich mich den Spielenden beigesellt, noch denen, die in Leichtfertigkeit
+               wandeln’. Nicht verwunderlich, wenn der Heilige Geist in der Zeit der Wahrheit und
+               der Gnade seine Dienerin, die er sich zur Braut ausersehen hatte, schon in frühester
+               Blüte mit Sorgfalt so unversehrt aufwachsen ließ, der im Schatten des Gesetzes ein
+               kleines Mädchen so sehr behütete, das für das Brautgemach eines gerechten Mannes
+               ausersehen war.</p>
+         </div>
+         <div corresp="#vw1_III.2">
+            <p>Nicht unerwähnt möchte ich lassen, daß die ehrwürdige Jungfrau, von der wir reden
+               wollen, eine Schwester von größter Einfalt und Unschuld hatte, die in zartestem Alter
+               den Sinn und die Taten hohen Alters zeigte und alle Übertretungen schlüpfriger
+               Verwegenheit mied. Als sie eines Tages ihre Altersgenossinnen aufforderten, zum
+               Spielen hinauszugehen, blickte jene selige Seele voll Eifer zum Himmel, seufzte immer
+               wieder, horchte genauer und schilderte endlich das innere Entzücken ihres Geistes
+               unter Seufzern mit den Worten: «Was habe ich mit den leeren Eitelkeiten dieser Welt
+               zu tun? Ich höre im Himmel Glockenschlag und -klang und die süße Harmonie des
+               Engelsgesangs. Dort will ich hin, gern möchte ich dabei sein.» Sie sagte nicht mehr
+               und füllte den Schoß mit Tränen. Wenige Tage später war sie von ihrem Leib gelöst,
+               gewiß in den Himmel gewandert, wohin sie kurz zuvor so verlockend eingeladen worden
+               war. Ihre ‘Seele geﬁel Gott; deshalb eilte er, sie aus der Mitte der Laster
+               hinwegzunehmen’.</p>
+         </div>
+
+      </body>
+   </text>
+</TEI>

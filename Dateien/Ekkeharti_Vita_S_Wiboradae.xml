@@ -29,10 +29,23 @@
                         <repository>Augsburg, Staats- und Stadtbibliothek</repository>
                         <idno>2°203</idno>
                      </msIdentifier>
+                     <head>
+                        <title type="incipit"> Incipit vita et passio sancte Wiborade virginis et
+                           martiris · aput sanctum gallum ·vj· nonas may</title>
+                        <origPlace>Reichsabtei St. Ulrich und Afra zu Augsburg</origPlace>
+                        <origDate>1464</origDate></head>
+                     <msContents>
+                        <msItem>
+                           <bibl>
+                              <biblScope>fol. 80r-110r</biblScope>
+                           </bibl>
+                        </msItem>
+                     </msContents>
                   </msDesc>
                </witness>
                <witness xml:id="Boll">
                   <bibl>
+                     <author/>
                      <title>Acta Sanctorum Mai t. 1</title>
                   </bibl>
                </witness>
@@ -61,12 +74,13 @@
                   <rdg wit="#Boll"><note>Incipit deest</note></rdg>
                </app> ·</head>
          </div>
-         <div n="I(1)">
+         <div n="I(1)" xml:id="vw1_I.1">
             <p><hi>BEATISSIMA</hi> igitur uirgo dei <persName ref="#wibo">wiborada</persName> ex <app>
-                  <lem>alamannorum</lem>
+                  <lem><persName>alamannorum</persName></lem>
                   <rdg wit="#Boll">Alemannorum</rdg>
-               </app><cb ed="#S" n="130rb"/> qui et sueui stirpe oriunda · parentibus bene natis
-               uitęque laudabilis nobilitate pollentibus · christianę quoque militię exercitio <app>
+               </app><cb ed="#S" n="130rb"/> qui et <persName>sueui</persName> stirpe oriunda ·
+               parentibus bene natis uitęque laudabilis nobilitate pollentibus · christianę quoque
+               militię exercitio <app>
                   <lem>inter</lem>
                   <rdg wit="#A">intra</rdg>
                </app> primas dominici agminis alas · uexilla salutis strenue subsequentibus · ueluti
@@ -84,9 +98,10 @@
                   </app> agendi magistras</seg> · ambas <app>
                   <lem>inquam</lem>
                   <rdg wit="Boll">in quantum<note>!</note></rdg>
-               </app> christi amatrices martham scilicet et mariam imitans · per actiuę quidem
-               sudorem conuersationis · ad speculatiuę fastigium contemplationis ascendens · cunctis
-               iter rectum querentibus non solum mulieribus sed et uiris mundum spernendi <app>
+               </app> christi amatrices <persName>martham</persName> scilicet et
+                  <persName>mariam</persName> imitans · per actiuę quidem sudorem conuersationis ·
+               ad speculatiuę fastigium contemplationis ascendens · cunctis iter rectum querentibus
+               non solum mulieribus sed et uiris mundum spernendi <app>
                   <rdg wit="#A">et</rdg>
                </app> · domino seruiendi · <app>
                   <lem>eique</lem>
@@ -94,7 +109,7 @@
                </app> indefesse et inconuulse adherendi consilium praerogauit pariter et
                exemplum·</p>
          </div>
-         <div n="II (1)">
+         <div n="II(1)" xml:id="vw1_II.1">
             <p> Hęc ergo ab ipsis cunabulis factori suo omnipotenti deo deuota immo ab ipso qui eam <app>
                   <lem>et</lem>
                   <rdg wit="#Boll">etiam</rdg>
@@ -111,22 +126,59 @@
                      <lem>ueteranarum</lem>
                      <rdg wit="#A #Boll">veteranorum</rdg>
                   </app> fabulas detestans</seg> · ad incesta quęque carmina pudicas aures obdurauit
-               · ac si cum sara <app>
+               · ac si cum <persName>sara</persName>
+               <app>
                   <lem>illa</lem>
                   <rdg wit="#Boll">id est</rdg>
-               </app> raguelis ﬁlia <app>
-                  <lem>tobie</lem>
+               </app>
+               <persName>raguelis</persName> ﬁlia <app>
+                  <lem><persName>tobie</persName></lem>
                   <rdg wit="#S">tobis</rdg>
                </app> sancti coniuge futura · domino ﬁducialiter dicere et ipsa proposuerit · <seg
                   type="cf." source="#Tb_3.17">Nunquam cum ludentibus miscui me · neque cum his qui
-                  in leuitate ambulant</seg> · Nec mirum si spiritus sanctus in tempore ue<cb
-                  ed="#S" n="130va"/>ritatis et gratię famulam suam quam sibimet ipsi prouiderat
-               sponsam · in primeuo adhuc ﬂore uernantem tantę integritatis diligentia <app>
+                  in leuitate ambulant</seg> · Nec mirum si spiritus sanctus in tempore ue<pb
+                  ed="#S" n="130va"
+                  facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/262" break="no"
+               />ritatis et gratię famulam suam quam sibimet ipsi prouiderat sponsam · in primeuo
+               adhuc ﬂore uernantem tantę integritatis diligentia <app>
                   <lem>enutriuit</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
                   <rdg wit="#Boll"><note>suppl.</note>praemunivit</rdg>
                </app> · qui in umbra legis tantopere custodiuit puellulam iusti uiri thalamo
                copulandam· </p>
+         </div>
+         <div n="III(2)" xml:id="vw1_III.2">
+            <p>Sed opere precium <app>
+                  <lem>puto</lem>
+                  <rdg wit="#Boll"><note>deest</note></rdg>
+               </app> praelibare · quia uenerabili huic uirgini quam dicturi sumus · soror erat
+               summę simplicitatis et innocentię · <seg type="cf." source="#Gregorius_M_Dial._II.1"
+                  >in annis tenerrimis animos actusque gerens seniles</seg> · cunctos lubricę
+               temeritatis excessus euitans · Quam cum die quadam coęuulę secum ad ludendum
+               adhortarentur exire · <app>
+                  <lem>beata</lem>
+                  <rdg wit="#Boll">bene</rdg>
+               </app> illa <app>
+                  <lem>anima</lem>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> alacriter ad ęthera suspiciens · et iterum iterumque <app>
+                  <lem>congemiscens</lem>
+                  <rdg wit="#Boll">ingemiscens</rdg>
+               </app> · <seg type="cf." source="#Benedicti_Regula_prol._9">auresque attonitas</seg>
+               acutius subrigens · internam mentis iocunditatem · tandem inter suspiria prodidit
+               dicens · Quid mihi et inanibus huius saeculi uanitatibus? Audio in cęlis signa
+               sonitusque <app>
+                  <lem>campanorum</lem>
+                  <rdg wit="#Boll">campanarum</rdg>
+               </app> · ac dulcisonam angelicę modulationis armoniam · Illuc ire desidero · his
+               interesse delector · Nec plura <seg type="cf." source="#Verg_Aen_IV_30">effata ·
+                  lacrimis gremium <app>
+                     <lem>compleuit</lem>
+                     <rdg wit="#Boll">replevit</rdg>
+                  </app> obortis</seg> · Post paucos uero dies came soluta est · in cęlum nimirum
+               profecta · quo paulo ante tam suauiter est inuitata · <seg source="#Sap_4.14">Placita
+                  enim erat deo anima illius · propter hoc properauit educere illam de medio
+                  iniquitatum</seg>· </p>
          </div>
       </body>
    </text>
