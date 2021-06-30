@@ -53,6 +53,42 @@
                <quote>numquam cum ludentibus miscui me neque cum his qui in levitate ambulant
                   participem me praebui</quote>
             </cit>
+            <cit xml:id="Gregorius_M_Dial._II.1">
+               <bibl>Gregorius M., Dial. II 1</bibl>
+            </cit>
+            <cit xml:id="Benedicti_Regula_prol._9">
+               <bibl>Benedicti Regula prol. 9</bibl>
+            </cit>
+            <cit xml:id="Verg_Aen_IV_30">
+               <bibl>Virgil., Aen. IV 30</bibl>
+            </cit>
+            <cit xml:id="Sap_4.14">
+               <bibl>Sap 4,14</bibl>
+               <quote>placita enim erat Deo anima illius propter hoc properavit educere illum de
+                  medio iniquitatum populi autem videntes et non intellegentes nec ponentes in
+                  praecordiis talia</quote>
+            </cit>
+            <cit xml:id="Mt_6.33">
+               <bibl>Mt 6,33</bibl>
+               <quote>quaerite autem primum regnum et iustitiam eius et omnia haec adicientur
+                  vobis</quote>
+            </cit>
+            <cit xml:id="Benedict_Regula_43.3">
+               <bibl>Benedicti Regula 43,3</bibl>
+            </cit>
+            <cit xml:id="Prv_31.27">
+               <bibl>Prv 31,27</bibl>
+               <quote>SADE considerat semitas domus suae et panem otiosa non comedet</quote>
+            </cit>
+            <cit xml:id="II_Th_3.10">
+               <bibl>II Th 3,10</bibl>
+               <quote>nam et cum essemus apud vos hoc denuntiabamus vobis quoniam si quis non vult
+                  operari nec manducet</quote>
+            </cit>
+            <cit xml:id="Ps_127.2">
+               <bibl>Ps 127,2</bibl>
+               <quote>laborem manuum tuarum cum comederis beatus tu et bene tibi erit</quote>
+            </cit>
          </div>
       </back>
    </text>

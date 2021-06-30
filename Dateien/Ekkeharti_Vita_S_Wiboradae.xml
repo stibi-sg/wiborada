@@ -180,6 +180,47 @@
                   enim erat deo anima illius · propter hoc properauit educere illam de medio
                   iniquitatum</seg>· </p>
          </div>
+         <div n="IV(3)" xml:id="vw1_IV.3">
+            <p>Sed ut ad cepta regrediar · beata wiborada sicut ab illicitis se quibusque subtraxit
+               · ita in bonis omnibus se studiosa sagacitate exercuit · Nam uelut ab ipsius domini
+               ore <app>
+                  <lem>perceperit</lem>
+                  <rdg wit="#A">percipit</rdg>
+               </app> · primum <seg source="#Mt_6.33">querite regnum dei et iusticiam eius</seg> ·
+               legeritque scriptum · <seg source="#Benedicti_Regula_43.3">nihil diuino operi
+                  praeponendum</seg> · Cotidie ad ęcclesiam quę a domo paterna mille et eo amplius
+               distabat passibus · uia montuosa et difficili sepius nudipes ire certabat · adeo ut
+               et parentes suos religionis sacrę ut diximus amatores · sed tamen in labore <app>
+                  <lem>mundialium</lem>
+                  <rdg wit="#S">mundialiorum</rdg>
+               </app> more occupatos · plerunque quamuis infans de neglegentia diuinarum rerum
+                  admo<cb ed="#S" n="130vb" break="no"/>nuerit · et ad ęcclesiam frequentius
+               occurrere studii sui feruore compulerit · <seg source="#Prv_31.27">Panem uero otiosa
+                  non comedit</seg> · sed operibus manuum suarum impigre continueque institerat · <app>
+                  <lem>ac si iam scripturarum auctoritate conuenta</lem>
+                  <rdg wit="#S">si iam<note>corr. ex suam</note></rdg>
+                  <rdg wit="#A">ut summa scripturarum auctoritate conuenta</rdg>
+                  <rdg wit="#Boll">acsi summa Scripturarum conventa</rdg>
+               </app> · et comminationem pertimesceret et diligeret sponsionem · <app>
+                  <lem>comminationem</lem>
+                  <rdg wit="#A">suam<note>add.</note></rdg>
+               </app> quidem qua dicitur · <seg type="cf." source="#II_Th_3.10">qui non laborat <app>
+                     <lem>nec</lem>
+                     <rdg wit="#A #Boll">non</rdg>
+                  </app> manducet</seg> · sponsionem autem quę sic exhortatur · <seg
+                  source="#Ps_127.2">labores manuum tuarum <app>
+                     <lem>quia</lem>
+                     <rdg wit="#A">qui</rdg>
+                  </app> manducabis · beatus es et bene tibi erit</seg> · Frequentiam vero non solum <app>
+                  <lem>extraneorum</lem>
+                  <rdg wit="#Boll">externorum</rdg>
+               </app> uerum etiam notorum cognatorum domesticorum fratrum <app>
+                  <lem>quoque</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> sororumque prout licuit · fugere studuit · sola commorari · sola operari ·
+               secreta semper amare · quatenus et superﬂua facilius potuisset alloquia declinare ·
+               et sanctis meditationibus aciem mentis liberius inﬁgere ·</p>
+         </div>
       </body>
    </text>
 </TEI>
