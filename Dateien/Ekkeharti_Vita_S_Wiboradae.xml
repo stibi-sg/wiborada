@@ -334,6 +334,51 @@
                   type="cf." source="Isid_Etym_VI_2.15">naturale organum</seg> ori cordique suo
                compaginando conexuit ·</p>
          </div>
+
+         <div n="VII(6)" xml:id="vw1_VII.6">
+            <p><seg type="cf." source="#Ado_Pass_Des_440C"><app>
+                     <lem>Rem</lem>
+                     <rdg wit="#Boll"><note>legerunt</note>Deinde</rdg>
+                  </app> relaturus sum</seg> huic non dissimilem · et <app>
+                  <lem>nimis</lem>
+                  <rdg wit="#Boll">magis</rdg>
+               </app> admirandam · Uespere sabbati quę lucescit in dominicam incipientis
+               quadragesimę · cum idem sacerdos inter alia domesticę confabulationis dicta · se pro
+               labore diei sequentis sollicitum esse conquereretur · maximeque pro cantu qui tractus
+               dicitur · <app>
+                  <lem>et</lem>
+                  <rdg wit="#A">qui</rdg>
+               </app> eodem die admodum protrahitur eo quod non haberet scolasticum uel quemlibet
+               concinendi peritum adiutorem · <app>
+                  <lem>uirgo eum</lem>
+                  <rdg wit="#A">Quem virgo</rdg>
+               </app> sancta modesta increpatione compescuit · deumque ministris suis in omni
+               oportunitate certissimum adiutorem commonuit <app>
+                  <lem>semper</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> assistere · Quid multa? Superueniente die crastina competenti missarum tempore
+               presbyter ad altare procedit · sacrę actionis officium solemne imponit · Cum quo sine
+               mora wiborada decantare cępit tam efﬁcaciter et <app>
+                  <lem>auctoraliter</lem>
+                  <rdg wit="#A">auctorialiter</rdg>
+               </app> · ut non in ordine uersuum · uel in proprietate dictionum · aut in ipsa musici
+               tenoris <app>
+                  <lem>euphonia</lem>
+                  <rdg wit="#A">euphania</rdg>
+               </app> sacerdote inferior uideretur · <app>
+                  <lem>sed ei</lem>
+                  <rdg wit="#A">ut</rdg>
+               </app> cum sustentationis solatio et gaudium ingereret · et stuporem admirationis
+               incuteret · <seg type="cf." source="#Ado_Pass_Des_438A">Tua sunt hęc christe
+                  miracula</seg> · cui mortua uiuunt · insensibilia sapiunt · cęca contemplantur ·
+               surda audiunt · muta diserta sunt · <seg type="cf." source="Lc_10.21">qui abscondisti
+                  secretum sapientię tuę thesaurum a sapi<pb ed="#S" n="131va"
+                     facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/264" break="no"
+                  />entibus huius saeculi et prudentibus et reuelasti <app>
+                     <lem>eum</lem>
+                     <rdg wit="#A">ea</rdg>
+                  </app> paruulis </seg>·</p>
+         </div>
       </body>
    </text>
 </TEI>

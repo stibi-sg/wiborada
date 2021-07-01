@@ -102,6 +102,18 @@
             <cit xml:id="Isid_Etym_VI_2.15">
                <bibl>Isid., Etym. VI 2, 15</bibl>
             </cit>
+            <cit xml:id="Ado_Pass_Des_440C">
+               <bibl>Ado, Passio S. Desiderii, Migne PL 123, col. 440C</bibl>
+            </cit>
+            <cit xml:id="Ado_Pass_Des_438A">
+               <bibl>Ado, Passio S. Desiderii, Migne PL 123, col. 438A</bibl>
+            </cit>
+            <cit xml:id="Lc_10.21">
+               <bibl>Lc 10,21</bibl>
+               <quote>in ipsa hora exultavit Spiritu Sancto et dixit confiteor tibi Pater Domine caeli
+               et terrae quod abscondisti haec a sapientibus et prudentibus et revelasti ea parvulis
+               etiam Pater quia sic placuit ante te</quote>
+            </cit>
          </div>
       </back>
    </text>
