@@ -89,6 +89,19 @@
                <bibl>Ps 127,2</bibl>
                <quote>laborem manuum tuarum cum comederis beatus tu et bene tibi erit</quote>
             </cit>
+            <cit xml:id="Sulp_Sev_Dial_II_1.5">
+               <bibl>Sulpicius Severus, Dial. II 1,5</bibl>
+            </cit>
+            <cit xml:id="Is_3.23">
+               <bibl>Is 3,23</bibl>
+               <quote>et specula et sindones et vittas et theristra</quote>
+            </cit>
+            <cit xml:id="Not_Gest_Karol_II_7">
+               <bibl>Notker, Gesta Karoli II 7</bibl>
+            </cit>
+            <cit xml:id="Isid_Etym_VI_2.15">
+               <bibl>Isid., Etym. VI 2, 15</bibl>
+            </cit>
          </div>
       </back>
    </text>

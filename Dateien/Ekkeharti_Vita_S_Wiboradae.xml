@@ -65,7 +65,7 @@
    <text>
       <body>
          <div>
-            <pb ed="S" n="130ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/>
+            <pb ed="#S" n="130ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/>
             <head>
                <app>
                   <lem>Incipit uita ·s· wiberadę uirginis et martyris</lem>
@@ -74,6 +74,7 @@
                   <rdg wit="#Boll"><note>Incipit deest</note></rdg>
                </app> ·</head>
          </div>
+
          <div n="I(1)" xml:id="vw1_I.1">
             <p><hi>BEATISSIMA</hi> igitur uirgo dei <persName ref="#wibo">wiborada</persName> ex <app>
                   <lem><persName>alamannorum</persName></lem>
@@ -109,6 +110,7 @@
                </app> indefesse et inconuulse adherendi consilium praerogauit pariter et
                exemplum·</p>
          </div>
+
          <div n="II(1)" xml:id="vw1_II.1">
             <p> Hęc ergo ab ipsis cunabulis factori suo omnipotenti deo deuota immo ab ipso qui eam <app>
                   <lem>et</lem>
@@ -147,6 +149,7 @@
                </app> · qui in umbra legis tantopere custodiuit puellulam iusti uiri thalamo
                copulandam· </p>
          </div>
+
          <div n="III(2)" xml:id="vw1_III.2">
             <p>Sed opere precium <app>
                   <lem>puto</lem>
@@ -180,10 +183,11 @@
                   enim erat deo anima illius · propter hoc properauit educere illam de medio
                   iniquitatum</seg>· </p>
          </div>
+
          <div n="IV(3)" xml:id="vw1_IV.3">
-            <p>Sed ut ad cepta regrediar · beata wiborada sicut ab illicitis se quibusque subtraxit
-               · ita in bonis omnibus se studiosa sagacitate exercuit · Nam uelut ab ipsius domini
-               ore <app>
+            <p>Sed ut ad cepta regrediar · beata <persName ref="#wibo">wiborada</persName> sicut ab
+               illicitis se quibusque subtraxit · ita in bonis omnibus se studiosa sagacitate
+               exercuit · Nam uelut ab ipsius domini ore <app>
                   <lem>perceperit</lem>
                   <rdg wit="#A">percipit</rdg>
                </app> · primum <seg source="#Mt_6.33">querite regnum dei et iusticiam eius</seg> ·
@@ -220,6 +224,115 @@
                </app> sororumque prout licuit · fugere studuit · sola commorari · sola operari ·
                secreta semper amare · quatenus et superﬂua facilius potuisset alloquia declinare ·
                et sanctis meditationibus aciem mentis liberius inﬁgere ·</p>
+         </div>
+
+         <div n="V(4)" xml:id="vw1_V.4">
+            <p>Quadam itaque celebri festiuitate · cum <app>
+                  <lem>ad</lem>
+                  <rdg wit="#S"><note>supra lin. add.</note></rdg>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> ęcclesiam processura coacta a parentibus cultioribus se indueret <app>
+                  <lem>uestibus</lem>
+                  <rdg wit="#A #Boll">vestimentis</rdg>
+               </app> · crinalibus uerticem redimiret ornaculis · laxos sinus preciosioris amictus
+               aureolis praeﬁgeret ﬁbulis · posita in equo una cum genitrice et sociis ire perrexit
+               · Cum ecce uia media · caput dolere grauiter cępit · confestimque per spiritum diuina
+               se sentiens uisitatione commonitam · <seg type="cf." source="#Sulp_Sev_Dial_II_1.5"
+                  >ab equo desiliit nudaque tellure residens · reductis <app>
+                     <lem>intra</lem>
+                     <rdg wit="#Boll">inter</rdg>
+                  </app> amphibalum manibus aurum primo pectoris soluit · deinde <seg type="cf."
+                     source="#Is_3.23">subtus theristrum uittatoriam uerticis compositionem</seg>
+                  detrahens et reuellens</seg> · sinu interiore recondit · Cui e uestigio mater
+               superueniens · quid causę sit quod ibi substitit et quare remoretur inquirit · Quam <app>
+                  <lem>dissimulata</lem>
+                  <rdg wit="#Boll">dissimulate</rdg>
+               </app> pro tempore <app>
+                  <lem>causa</lem>
+                  <rdg wit="#Boll"><note>deest</note></rdg>
+               </app> uti procederet adhortatur · se quoque <app>
+                  <lem>continuo</lem>
+                  <rdg wit="#Boll">continue</rdg>
+               </app> subsequi proﬁtetur · Cunque eam comites ut equum reascenderet perurgerent ·
+               penitus non consensit · sed pedestri <app>
+                  <lem>itinere</lem>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> ad ęcclesiam usque peruenit · Hęc dies ultima aliquid in ea<pb ed="#S"
+                  n="131ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/263"/>
+               compositorię superﬂuitatis · siue superﬂuę compositionis aspexit · Post hanc diem
+               nullus eam <app>
+                  <lem>iumento</lem>
+                  <rdg wit="#A">in iumento</rdg>
+               </app> · uel alicuius uehiculi adminiculo · <app>
+                  <lem>quoad uiueret</lem>
+                  <rdg wit="#S #A"><note>separant</note>quo adviveret</rdg>
+               </app> impositam uidit · excepto cum sicut dicturi sumus · romam orationis gratia
+               peteret · si ei necessitas <app>
+                  <lem>transmeandi</lem>
+                  <rdg wit="#A">transeundi</rdg>
+               </app> alicuius ﬂuminis aut torrentis forte <app>
+                  <lem>euenerit</lem>
+                  <rdg wit="#A">eueniret</rdg>
+               </app> ·</p>
+         </div>
+
+         <div n="VI(5)" xml:id="vw1_VI.5">
+            <p>Hoc modo illa in tenerrimis · et uix habilibus magno intellectui annis · mundi
+               uoluptatibus renuntians · et matrimonii contractionem <app>
+                  <lem>mente</lem>
+                  <rdg wit="#Boll">mirifice</rdg>
+               </app> contempnens · procos quoslibet aduentantes · solius sponsi christi amore
+               despiciens · fratri suo Hittoni clerico apud cęnobium sancti Galli confessoris
+               christi tunc temporis in scolis agenti seruire disposuit · cui diebus certis
+               uestimenta et pleraque alia necessaria per ﬁdeles internuncios destinauit · In quo
+               etiam monasterio reuerentissimis quibusdam patribus ad obuoluenda <app>
+                  <lem>sacrorum</lem>
+                  <rdg wit="#A #Boll">sanctorum</rdg>
+               </app> librorum uolumina propriis manibus decora solebat contexere linteamina ·
+               Memorato itaque fratre eius ad prespiteratus ordinem promoto · sincerę et laudandę
+               caritatis <app>
+                  <lem>glutino</lem>
+                  <rdg wit="#S">glutine</rdg>
+               </app>
+               <app>
+                  <lem>coherens</lem>
+                  <rdg wit="#A">adherens</rdg>
+               </app> eo dictante psalmos quibus iuuencula <app>
+                  <lem><note>non</note>nullam</lem>
+                  <rdg wit="#S #A #Boll">nullam</rdg>
+                  <rdg wit="#A"><note>postea delevit</note></rdg>
+                  <rdg source="#Berschin">nonnullam</rdg>
+               </app> operam dedit partim ac sparsim ediscere cępit · Cunque ille tum diuinis
+               operibus tum incidentibus causis aliis praepeditus · ab insinuanda ei lectione
+               pigritaret · pro accipiendo psalmo quinquagesimo soror ei sedulo assidebat · nec
+               tamen ut ad hoc uacare uellet obtinere praeualuit · Cum ecce nocte quadam sacerdoti
+               in somnis persona astitit · specie fulgida · auctoritate metuenda · graui eum
+               animaduersione corripiens · ac terribili comminatione interdicens · <seg type="cf."
+                  source="#Not_Gest_Karol_II_7">ne quid die <app>
+                     <lem>proximo</lem>
+                     <rdg wit="#A #Boll">proxima</rdg>
+                  </app> gustare praesumat · priusquam uirgo psalmum diu multumque ﬂagitatum
+                  ediscat</seg> · Quid plura? De nocte <app>
+                  <lem>consurgens</lem>
+                  <rdg wit="#Boll">surgens</rdg>
+               </app> sororem accersit · uisum aperit · seque paratum ad demonstrationem pos<cb
+                  ed="#S" n="131rb" break="no"/>tulati sepius psalmi afﬁrmat · His illa auditis ·
+               alacriter ad meditandum accingitur · et non solum <app>
+                  <lem>ex prioris <app>
+                        <lem>feruore</lem>
+                        <rdg wit="#A #Boll"><note>deest</note></rdg>
+                     </app> desiderii · sed etiam studio fratris ieiunio absoluendi</lem>
+                  <rdg wit="#A"><note>seriem verborum confundit ita</note>ex prioris desiderii
+                     studio · sed eciam fratris ieiunio absoluendi</rdg>
+               </app> · propinata scripturę pocula sitibundo pectore hauriens · psalmum cum omni
+               celeritate excepit · ac memorie fundamento ﬁrmauit · Quinquaginta ergo psalmis
+               sparsim ut dictum est a memorato germano suo perceptis · reliquos solo sancti
+               spiritus magisterio imbuente <app>
+                  <lem>apprehendit</lem>
+                  <rdg wit="#A">comprehendit</rdg>
+               </app> · et continuato recitandi usu reciproca ruminatione eos conﬁciens · quasi <seg
+                  type="cf." source="Isid_Etym_VI_2.15">naturale organum</seg> ori cordique suo
+               compaginando conexuit ·</p>
          </div>
       </body>
    </text>
