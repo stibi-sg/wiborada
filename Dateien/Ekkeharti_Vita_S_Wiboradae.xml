@@ -229,7 +229,7 @@
          <div n="V(4)" xml:id="vw1_V.4">
             <p>Quadam itaque celebri festiuitate · cum <app>
                   <lem>ad</lem>
-                  <rdg wit="#S"><note>supra lin. add.</note></rdg>
+                  <rdg wit="#S"><note>supra lin. add.</note>ad</rdg>
                   <rdg wit="#A"><note>deest</note></rdg>
                </app> ęcclesiam processura coacta a parentibus cultioribus se indueret <app>
                   <lem>uestibus</lem>
@@ -298,10 +298,9 @@
                   <lem>coherens</lem>
                   <rdg wit="#A">adherens</rdg>
                </app> eo dictante psalmos quibus iuuencula <app>
-                  <lem><note>non</note>nullam</lem>
+                  <lem><supplied>non</supplied>nullam</lem>
                   <rdg wit="#S #A #Boll">nullam</rdg>
                   <rdg wit="#A"><note>postea delevit</note></rdg>
-                  <rdg source="#Berschin">nonnullam</rdg>
                </app> operam dedit partim ac sparsim ediscere cępit · Cunque ille tum diuinis
                operibus tum incidentibus causis aliis praepeditus · ab insinuanda ei lectione
                pigritaret · pro accipiendo psalmo quinquagesimo soror ei sedulo assidebat · nec
@@ -400,6 +399,69 @@
                   ipsa per se eis et alimenta praebuit · et fomenta exhibuit · balnea ministrauit ·
                   lectisternia disposuit · ipsa eos et reclinauit · et competenti tempore
                   eleuauit</seg> ·</p>
+         </div>
+
+         <div n="IX(8)" xml:id="vw1_IX.8">
+            <p>Cępit inter hęc fratrem cotidianis monitis perurgere · ut quia scirent beato petro
+               apostolorum principi commissam esse curam gregis dominici <app>
+                  <lem>clauesque</lem>
+                  <rdg wit="#Boll">claves</rdg>
+               </app> regni cęlestis cum potestate ligandi soluendique contraditas · eius aliorumque
+               sanctorum limina romę quibus incomparabiliter urbs eadem illustratur pariter debeant
+               uisitare · Qui cum sanis eius adhortationibus accommodaret assensum · iter aggressi
+               sunt · In qua profectione <app>
+                  <lem>quid</lem>
+                  <rdg wit="#Boll">quantum</rdg>
+               </app> gemituum <app>
+                  <lem>lacrimarumue</lem>
+                  <rdg wit="#Boll">lacrimarumque</rdg>
+               </app> profu<cb ed="#S" n="131vb" break="no"/>derit · quali deuotione loca martyrum <app>
+                  <lem>circuierit</lem>
+                  <rdg wit="#Boll">circumierit</rdg>
+               </app> tumbasque eorum affectu quanto <app>
+                  <lem>amplexata</lem>
+                  <rdg wit="#Boll">amplexa</rdg>
+               </app> fuerit · solus <app>
+                  <lem>et</lem>
+                  <rdg wit="#A">iste</rdg>
+               </app> instigator et remunerator bonorum omnium nouerat deus · Quanta uero in eundo
+               et redeundo largitatis munera pie prodiga disperserit · quidue pauperibus dederit ·
+               iusticię eius in seculum seculi <app>
+                  <lem>mansurę</lem>
+                  <rdg wit="#Boll"><note>deest</note></rdg>
+               </app> commemorandum <app>
+                  <lem>derelinquo</lem>
+                  <rdg wit="#A">relinquo</rdg>
+               </app>.</p>
+         </div>
+
+         <div n="X(9)" xml:id="vw1_X.9">
+            <p>Post hęc autem cum regrederentur ad patriam · ut uirtus stare loco nescit · sed
+               semper ad meliora proﬁcere gestit · uirgo dei <seg type="cf." source="#Ps_83.6"
+                  >ascensiones in corde suo</seg> disponens · per gradus scalę qua <seg type="cf."
+                  source="#Ps_83.8">ibunt sancti de uirtute in uirtutem ut uideant deum deorum in
+                  syon</seg> · cum animum iam actualis exercitii sudore decoctum · in radium
+               contemplatiuę iocunditatis <app>
+                  <lem>transferre moliretur</lem>
+                  <rdg wit="#A #Boll">transferrit</rdg>
+               </app> · pro fratris salute cui eatenus sedula <app>
+                  <lem>seruitute</lem>
+                  <rdg wit="#A #Boll">virtute<note>!</note></rdg>
+               </app> ministrauerat anxia sagaci eum affabilitate adorta est · persuadens · <seg
+                  type="cf." source="Greg_M_Epist_V_53a_1">ut periculosum <app>
+                     <lem>seculi ﬂuitantis</lem>
+                     <rdg wit="#A #Boll">fluctuantis seculi</rdg>
+                  </app> naufragium deuitans · ad quietem uitę monasticę se conferat</seg> · ubi
+               diuinis operibus liberius ac tutius insistere ualeat · Sibi quoque proﬁtetur esse
+               cordi · artioris propositi studium · quomodo uel ubi deus annuerit quantocius aggredi
+               · nec difficile obtinuit quod cum pietatis sinceritate suggessit · Obsequitur salubri
+               consilio sororis religiosa simplicitas fratris · omnique dilatione <app>
+                  <lem>seposita</lem>
+                  <rdg wit="#A">supposita</rdg>
+               </app> ad cęnobium sancti Galli confessoris christi confugiens · regulari iugo legis
+               ceruices corporis inclinauit et cordis · In quo etiam quam pudice · quam modeste ·
+               quam patienter sancteque uixerit · multi nostrorum qui adhuc superesse uidentur
+               meminerunt ·</p>
          </div>
       </body>
    </text>
