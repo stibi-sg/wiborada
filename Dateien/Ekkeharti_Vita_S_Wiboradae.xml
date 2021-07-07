@@ -91,6 +91,9 @@
                <person xml:id="suod">
                   <persName type="normalisiert">Uodalricus</persName>
                </person>
+               <person xml:id="wald">
+                  <persName type="normalisiert">Waldrammus</persName>
+               </person>
                <person xml:id="wibo">
                   <persName type="normalisiert">Wiborada</persName>
                </person>
@@ -882,6 +885,123 @@
                gratia sanctę uirgini concessa · ad proprium hospiciolum unde procul aberrauerat <app>
                   <rdg wit="#A"><note>add.</note>cum</rdg>
                </app> magno gaudio reportat ·</p>
+         </div>
+
+         <div n="XXII(19)" xml:id="vw1_XXII.19">
+            <p>Quidam uenerabilis monachus et presbyter fuit in congregatione sancti <persName
+                  ref="#gall">Galli</persName> literis eruditus et egregius praedicator nomine <app>
+                  <lem><persName ref="#wald">waldrammus</persName></lem>
+                  <rdg wit="#A">wadramus</rdg>
+                  <rdg wit="#Boll">Waldramus</rdg>
+               </app> · Hic habuit familiarem quendam in ministerio sibimet carum · et ﬁdeliter
+               seruientem · Per hunc ergo idem senior caritatis gratia sepius suam benedictionem
+               dominę wiboradę mittere consueuerat · Cunque hac missione directus adueniret · et
+               allata praesentaret · sicut omnibus ad se uenientibus fecit · remuneratus ab ea
+               fragmen <app>
+                  <lem>benedicti</lem>
+                  <rdg wit="#A">bti</rdg>
+                  <rdg wit="#Boll">beati<note>!</note></rdg>
+               </app> panis accepit · Quod accipiens · et inde egrediens · prius ut credo alio
+               saturatus edulio gustum sanctiﬁcati panis deuitat · et obuianti cuidam pauperi illum
+               porrigens sine ulla <app>
+                  <lem>tarditate</lem>
+                  <rdg wit="#A">tardacione</rdg>
+               </app> properat ad dominum suum · Nec multum post idem febre correptus · et magna
+               inﬁrmitate detentus · manducare nec bibere potuit · Et cum de die in diem egritudo
+               crescens non minueretur · suus senior ualde dolens super eum interrogat si scire
+               potuisset unde ei tam subita inﬁrmitas eueniret · Quo respondente se scire non posse
+               · inquit · Nunquid excogitare poteris · si aliquando illuc missus a me aliquid
+                  benedi<cb ed="#S" n="133vb" break="no"/>ctionis <app>
+                  <lem>de</lem>
+                  <rdg wit="#A">a</rdg>
+               </app> sancta wiborada acceperis? Qui demum pietatis illius memor · et suę culpę uel
+               arrogantię conscius · quanta uoce potuit exclamat · Domine <app>
+                  <lem>meus</lem>
+                  <rdg wit="#Boll">mi</rdg>
+               </app> · scio et cognosco hac de causa me nunc tanta inﬁrmitate teneri · quia a
+               sanctis et largis <app>
+                  <lem>illius</lem>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> manibus panem accepi · sed <app>
+                  <lem>minime</lem>
+                  <rdg wit="#A"><note>inepte inter manibus et panem accepi posuit</note></rdg>
+               </app> de eo propter peccata mea gustaui · tradens <app>
+                  <lem>illud</lem>
+                  <rdg wit="#Boll">illum</rdg>
+               </app> cuidam <app>
+                  <lem>mihi occurrenti</lem>
+                  <rdg wit="#Boll">qui mihi occurreret</rdg>
+               </app> · At ille de sanctitate beatę uirginis certissimus · simul et reatum iacentis
+               agnoscens · adduci <app>
+                  <lem>caballum</lem>
+                  <rdg wit="#A #Boll">cabellum<note>!</note></rdg>
+               </app> praecepit · quem superimpositum ante conspectum illius praesentare mandat ·
+               Sancta itaque uirgo agnita molestia · ualde illius contumaciam redarguit · panemque <app>
+                  <lem>iterato benedicens ei porrigit</lem>
+                  <rdg wit="#A #Boll">benedicens iterato porrigit</rdg>
+               </app> · Quo <app>
+                  <lem>degustato</lem>
+                  <rdg wit="#S"><note>ex deangustato corr.</note></rdg>
+               </app> statim conualuit · et post paruum labentis temporis interuallum plena sanitate
+               recepta · sicut antea fecit suo domino gaudens ministrauit.</p>
+         </div>
+
+         <div n="XXIII(20)" xml:id="vw1_XXIII.20">
+            <p>Quadam nocte apparuit in uisu beatę <persName ref="#wibo">wiboradę</persName> quędam
+               famula <app>
+                  <lem>sua quę</lem>
+                  <rdg wit="#Boll">suae, qua</rdg>
+               </app> dum in seculi actibus <app>
+                  <lem>detinebatur</lem>
+                  <rdg wit="#A #Boll">detineretur</rdg>
+               </app> probabilis conuersationis ducens uitam migrauit <app>
+                  <lem>ad dominum</lem>
+                  <rdg wit="#Boll"><note>deest</note></rdg>
+               </app> · et inquit ad eam · O domina karissima · calicem et patenam · uel corporale ·
+               sed et fanonem cum quo solita es offerre omnia pura et munda aqua lauare praecipias ·
+               Illę enim oblatę in proximo factę non sunt mundę · quia fidelis uestra domestica alio
+               opere detenta sorori suę has facere iniunxit · At sancta uirgo · quę enim inquit es
+               tu? Respondit · Ego sum illa quondam famula tua · et huc missa <app>
+                  <lem>sum</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> hęc eadem nunciare tibi · Dic mihi ait · quomodo tecum est? At illa <app>
+                  <lem>dixit</lem>
+                  <rdg wit="#A #Boll">ait</rdg>
+               </app> · Domina<app>
+                  <rdg wit="#A"><note>add.</note>mi</rdg>
+               </app> · dei gratia et tuis meritis · inenarrabilibus bonis utor · et delectabili
+               requie perfruor · Ad hęc sancta · uade inquit ad praeparatam tibi requiem · et mei
+               memor esse digneris · Facto autem mane · aduocans ministram · quis inquit quas hac
+               uice tulisti fecit oblatas? Respondit · Ego domina · Cui sancta ait · Cur hoc te
+               facere ﬁngis quod non fecisti? Mox<pb ed="#S" n="134ra"
+                  facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/269"/> illa reatus
+               sui et neglegentię memor · ueniam petens inquit · Piissima domina · audeo dicere
+               aliquid? At illa · Dic <app>
+                  <lem>ait</lem>
+                  <rdg wit="#A">inquit</rdg>
+               </app> quod uis · Quomodo inquit domina <app>
+                  <lem>mea</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> scire poteris <app>
+                  <lem>omne quod</lem>
+                  <rdg wit="#A">omnia quae</rdg>
+               </app> facio? Quis mei apud te delator est facti ? Nullam causam te celari posse
+               credo · Beata uirgo respondit · Hac nocte quiescenti apparuit mihi in uisu famula mea
+               quondam fidelissima · nunc in christo soror <app>
+                  <lem>karissima</lem>
+                  <rdg wit="#A">dilectissima</rdg>
+                  <rdg wit="#Boll">carissima</rdg>
+               </app> · hęc omnia quę ad nos pertinent · et quę diuina gratia illius meritis
+               rependere uoluit · per ordinem pandens · Nunc praeceptum nobis sine ulla tarditate
+               studeas <app>
+                  <lem>implere</lem>
+                  <rdg wit="#A">adimplere</rdg>
+               </app> · Uasa offertoria et diuino cultui praeparata corporale et linteum oblaticium
+               mundissima lympha purgare non pigeat · ulterius caueto ne in dei seruitio rebus
+               exercendis crimen surrepat <app>
+                  <lem>neglegentis</lem>
+                  <rdg wit="#Boll">neglegentiae</rdg>
+               </app> ·</p>
          </div>
       </body>
    </text>
