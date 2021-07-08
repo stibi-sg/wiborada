@@ -178,6 +178,17 @@
                <bibl>Sir 32,24</bibl>
                <quote>fili sine consilio nihil facias et post factum non paeniteberis</quote>
             </cit>
+            <cit xml:id="Mt_26.24">
+               <bibl>Mt 26,24</bibl>
+               <quote>Filius quidem hominis vadit sicut scriptum est de illo vae autem homini illi
+                  per quem Filius hominis traditur bonum erat ei si natus non fuisset homo
+                  ille</quote>
+            </cit>
+            <cit xml:id="Mc_14.21">
+               <bibl>Mc 14,21</bibl>
+               <quote>et Filius quidem hominis vadit sicut scriptum est de eo vae autem homini illi
+                  per quem Filius hominis traditur bonum ei si non esset natus homo ille</quote>
+            </cit>
          </div>
       </back>
    </text>
