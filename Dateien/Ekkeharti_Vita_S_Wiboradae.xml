@@ -54,6 +54,9 @@
                <person xml:id="burc">
                   <persName type="normalisiert">Burchardus</persName>
                </person>
+               <person xml:id="engi">
+                  <persName>Engilbertus</persName>
+               </person>
                <person xml:id="gall">
                   <persName>Gallus</persName>
                </person>
@@ -76,6 +79,9 @@
                <person xml:id="mart">
                   <persName>Martha</persName>
                </person>
+               <person xml:id="paul">
+                  <persName>Paulus</persName>
+               </person>
                <person xml:id="pert">
                   <persName type="normalisiert">Pertherada</persName>
                </person>
@@ -84,6 +90,9 @@
                </person>
                <person xml:id="rach">
                   <persName>Rachilda</persName>
+               </person>
+               <person xml:id="regi">
+                  <persName>Reginlinda</persName>
                </person>
                <person xml:id="salo">
                   <persName>Salomon</persName>
@@ -97,6 +106,10 @@
                <person xml:id="suod">
                   <persName type="normalisiert">Uodalricus</persName>
                </person>
+               <person xml:id="unga">
+                  <persName xml:lang="la">Ungarii</persName>
+                  <persName xml:lang="de">die Ungarn</persName>
+               </person>
                <person xml:id="wald">
                   <persName type="normalisiert">Waldrammus</persName>
                </person>
@@ -108,12 +121,21 @@
                </person>
             </listPerson>
             <listPlace>
+               <place xml:id="baio">
+                  <placeName xml:lang="la">Baioariorum provincia</placeName>
+                  <placeName xml:lang="de">Provinz der Bayern</placeName>
+               </place>
                <place xml:id="cell">
-                  <placeName>S. Georgii cella in montibus sita St. Georgen</placeName>
+                  <placeName xml:lang="la">S. Georgii cella in montibus sita</placeName>
+                  <placeName xml:lang="de">St. Georgen</placeName>
                </place>
                <place xml:id="cons">
                   <placeName xml:lang="la">constantiensis</placeName>
                   <placeName xml:lang="de">Konstanz</placeName>
+               </place>
+               <place xml:id="ital">
+                  <placeName xml:lang="la">Italia</placeName>
+                  <placeName xml:lang="de">Italien</placeName>
                </place>
                <place xml:id="pota">
                   <placeName xml:lang="la">Potamicus lacus</placeName>
@@ -521,7 +543,7 @@
                </app> · pro fratris salute cui eatenus sedula <app>
                   <lem>seruitute</lem>
                   <rdg wit="#A #Boll">virtute<note>!</note></rdg>
-               </app> ministrauerat anxia sagaci eum affabilitate adorta est · persuadens · <seg
+               </app> ministrauerat anxia sagaci eum affabilitate adorta est · persuadens · <seg 
                   type="cf." source="#Greg_M_Epist_V_53a_1">ut periculosum <app>
                      <lem>seculi fluitantis</lem>
                      <rdg wit="#A #Boll">fluctuantis seculi</rdg>
@@ -1184,6 +1206,149 @@
                   <lem>iuramenti</lem>
                   <rdg wit="#S"><note>deest</note></rdg>
                </app> et sponsionis quam uirgini deo dignę promiserat ad propria remeauit ·</p>
+         </div>
+
+         <div n="XXVII(23)" xml:id="vw1_XXVII.23">
+            <p>Non post multum temporis idem dux iter suum dirigens ad <placeName ref="#ital"
+                  >italiam</placeName> · <app>
+                  <lem><persName ref="#regi">Reginlindę</persName></lem>
+                  <rdg wit="#A">relinginde</rdg>
+                  <rdg wit="#Boll">Rolingindae</rdg>
+               </app> matronę sibimet in <app>
+                  <lem>coniugium</lem>
+                  <rdg wit="#Boll">matrimonium</rdg>
+               </app> sociatę · omnia quę sancta <persName ref="#wibo">wiborada</persName> et
+               periculosa et ad salutem animę pertinentia praemonuit ex ordine narrauit · hoc ei
+               praecipue iniungens ut si ad propria <app>
+                  <lem>uita comite</lem>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> non redisset · calicem cum patena monasterio restituere non distulisset · Sed
+               heu hominem dolendum · non solum istum sed unumquemque qui ipse sibi dum potest
+               consulere desinit et non cogitat <seg type="cf."
+                  source="#Ps_102.15 #Is_40.6-8 #Iac_1.10-11 #I_Pt_1.24-25">quia uilitati fęni quod
+                  in campis uirescit et florescit <app>
+                     <lem>et</lem>
+                     <rdg wit="#A #S"><note>deest</note></rdg>
+                  </app> mane incisum arescit assimilatus est</seg> · Dux itaque sicut mente
+               conceperat magno comitatu italiam ingressus · dum totam sibi terram subicere et
+               multos decipere cogitat · ipse dolositate illius gentis praeuentus · <seg type="cf."
+                  source="Ps_7.16">dum studet euadere subito lapsu infrenis equi in foueam ueluti
+                  casui illius <app>
+                     <lem>praeparatam</lem>
+                     <rdg wit="#A">praeparata</rdg>
+                  </app> cecidit</seg> · hocque insperato obitu miserabiliter <date when="0926-04"
+                  >uitam finiuit</date> ·</p>
+         </div>
+
+         <div n="XXVIII(23)" xml:id="vw1_XXVIII.23">
+            <p>Igitur <persName ref="#regi">Reginlinda</persName> matrona domini sui ducis obitu
+               comperto non sicut antea ab ipso commonita fuerat de sacratisq uasis fecit · sed
+               patenam precioso opere decoratam secum retinuit · aliamque multo minorem minorisque
+               precii fabricatam sicut in praesenti cernimus cum praedicto calice monasterio
+               restituere praecepit ·</p>
+         </div>
+
+         <div n="XXIX(24)" xml:id="vw1_XXIX.24">
+            <p><date when="0925-06-28">Quadam die post celebratam solemnitatem beati <persName
+                     ref="#iohab">iohannis</persName> baptistę ante <app>
+                     <lem>festiuitatem</lem>
+                     <rdg wit="#A">festum</rdg>
+                  </app> sanctorum apostolorum <persName ref="#petr">petri</persName> et <persName
+                     ref="#paul">pauli</persName></date> inter meridianum tempus et nonam · solito
+               sedili in <pb ed="#S" n="135r"
+                  facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/271"/> psalmodia
+               beata residente iacens ante eam patens psalterium subito se ultro complicuit · in
+               quod paulisper caput reclinans obdormiuit · Hoc tenui somno per uisum ei reuelatum
+               est seuam gentem <app>
+                  <lem><persName ref="#unga">ungariorum</persName></lem>
+                  <rdg wit="#Boll">Hungarorum</rdg>
+               </app> anno futuro in kalendis <app>
+                  <lem>maii</lem>
+                  <rdg wit="#S"><note>secundam i erasit</note></rdg>
+               </app> aliis terris peruagatis et deuastatis ad monasterium sancti <app>
+                  <lem><persName ref="#gall">Galli</persName></lem>
+                  <rdg wit="#A"><note>nomen linea rubra produxit</note></rdg>
+               </app> peruenturam · et in eadem reuelatione ostensum est illi quod per martyrii
+               gloriam ipsis paganis eam uulnerantibus <app>
+                  <lem>sui laboris</lem>
+                  <rdg wit="#Boll"><note>deest</note></rdg>
+               </app> et certaminis praemia in cęlestis regni beatitudine percipere deberet · Mox
+               euigilans et de uisione sollicita intentione pertractans · <seg type="cf."
+                  source="#vw1_XX.17">inter spem metumque posita</seg> · spe suę uocationis · metu
+               populi contritionis · aliquantis diebus conticuit · Deinde cogitans se deliquisse si
+               revelata a deo aliis non manifestaret · uirum uenerabilem <persName ref="#wald"
+                  >waldrammum</persName>
+               <seg type="cf." source="#vw1_XXII.19">cuius antea fecimus mentionem</seg> sibi
+               affabilem secretius ad se uocatum · paganorum aduentum tempusque signatum pronunciat
+               · ipsi autem nec unquam ulli quę ei de sua passione reuelata fuerant pandens ·
+               Insuper admonuit ut palam in <app>
+                  <lem>ęcclesia</lem>
+                  <rdg wit="#A">ecclesiam</rdg>
+               </app> cunctis aduenientibus sed et undique circumquaque manentibus imminens
+               periculum patefacere curaret · Se etiam in hoc laborare promittens quatenus dilatione
+               tanti temporis <app>
+                  <lem>concessa</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> orationum frequentatione · ieiuniorum celebratione · <app>
+                  <lem>sacrata</lem>
+                  <rdg wit="#Boll">sancta</rdg>
+               </app> elemosinarum largitione · sine intermissione misericordiam domini iugiter
+               implorantes iram superni <app>
+                  <lem>iudicis</lem>
+                  <rdg wit="#A"><note>omisit</note></rdg>
+               </app> propter multimoda cunctorum populorum delicta seuientis · aliquatenus bonis
+               actibus insistendo <app>
+                  <lem>mitigarent</lem>
+                  <rdg wit="#Boll">mitigaret</rdg>
+               </app></p>
+         </div>
+
+         <div n="XXX(25)" xml:id="vw1_XXX.25">
+            <p>Cunque illius anni circulus uergeretur · et tempus <app>
+                  <lem>praedictum</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> maii mensis sanctę uirgini per uisionem ostensum appropinquaret · subito fama
+               terras peruolante nunciatur paganos tota <placeName ref="#baio">prouincia
+                  baioariorum</placeName> esse diffusos · Sed corda hominum peccatis exigentibus quo
+               imminens exitium euadere possent cum heu dura <app>
+                  <lem>semper</lem>
+                  <rdg wit="#A"><note>omisit</note></rdg>
+               </app> essent ad credendum · iterum<cb ed="#S" n="135rb"/> atque iterum fama
+               percrebrescente de aduentu paganorum · antea credere noluerunt quam seuiens interitus
+               gladio imminente · hanc etiam prouinciam usque ad <placeName ref="#pota">lacum
+                  potamicum</placeName>
+               <app>
+                  <lem>et</lem>
+                  <rdg wit="#Boll"><note>deest</note></rdg>
+               </app> gens barbarica circumsepsit · plures et innumeros occidit · cuncta uillarum <app>
+                  <lem>ędificia</lem>
+                  <rdg wit="#A #Boll">officia</rdg>
+               </app> circumquaque ignis incendio deuastauit · Plurimi etiam apud nostrates imminens
+               periculum tarde uel nullatenus credentes domini tamen misericordiam sine
+               intermissione implorare studuerunt · <app>
+                  <lem>aliqui</lem>
+                  <rdg wit="#A #Boll">alii</rdg>
+               </app> etiam <app>
+                  <lem>ex illis</lem>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> nullo modo crediderunt · Quidam etiam de familia iuga montis excelsi supra
+               monasterium positi scandentes · flammarum et fumi usque ad ęthera tendentis indicio ·
+               uix aliquando credere potuerunt · Abbas itaque monasterii <persName ref="#engi"
+                  >Engilbertus</persName> nomine uir prouidus · cum iam castellum quoddam monasterio
+               proximum ualde firmasset · undecim fratres de praecipuis monachis misit ad beatam
+                  <persName ref="#wibo">wiboradam</persName> · quatenus cum illa tractarent quomodo
+               ipsa saluari possit · et se ob paganorum seuitiam deuitandam de clausula educere
+               pateretur · et hoc illi dicerent · quia domino protegente scirent eam quidem de se
+               ipsa esse securam · nec periculum mortis pauere · sed ob statum loci · et in eo
+               commorantium uel deo seruientium pro quibus semper <app>
+                  <lem>deuote</lem>
+                  <rdg wit="#Boll">devota</rdg>
+               </app> orauit · et adhuc orare deberet domino confortante uitam sibi illius per longa
+               tempora fore necessariam · At illi iuxta praeceptum properantes · consilium et
+               uoluntatem abbatis sanctę uirgini indicarunt · Quę ut audiuit sermones istos ·
+               gratanter suscepit · et certa de uisione praeterito sibi anno ostensa · sed et de spe
+               retributionis ęternę · inducias usque mane postulans · dum sibi apud abbatem ipsum
+               colloqui liceret · illis abeundi licentiam tribuit ·</p>
          </div>
       </body>
    </text>
