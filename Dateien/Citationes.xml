@@ -102,6 +102,10 @@
             <cit xml:id="Isid_Etym_VI_2.15">
                <bibl>Isid., Etym. VI 2, 15</bibl>
             </cit>
+            <cit xml:id="Acta_SS_Mai_7_552">
+               <bibl>Acta SS Maii <biblScope>t. 7</biblScope><citedRange>p. 552</citedRange></bibl>
+               
+            </cit>
             <cit xml:id="Ado_Pass_Des_440C">
                <bibl>Ado, Passio S. Desiderii, Migne PL 123, col. 440C</bibl>
             </cit>
@@ -215,6 +219,9 @@
             <cit xml:id="Ps_7.16">
                <bibl>Ps_7.16</bibl>
                <quote>lacum aperuit et effodit eum et incidet in interitum quem operatus est</quote>
+            </cit>
+            <cit xml:id="Greg_Tur_Hist_VI_6">
+               <bibl>Gregorius Turon., Histor. VI 6</bibl>
             </cit>
          </div>
       </back>
