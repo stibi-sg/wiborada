@@ -104,7 +104,7 @@
             </cit>
             <cit xml:id="Acta_SS_Mai_7_552">
                <bibl>Acta SS Maii <biblScope>t. 7</biblScope><citedRange>p. 552</citedRange></bibl>
-               
+
             </cit>
             <cit xml:id="Ado_Pass_Des_440C">
                <bibl>Ado, Passio S. Desiderii, Migne PL 123, col. 440C</bibl>
@@ -152,10 +152,16 @@
                <quote>et post dies octo iterum erant discipuli eius intus et Thomas cum eis venit
                   Iesus ianuis clausis et stetit in medio et dixit pax vobis</quote>
             </cit>
-            <cit xml:id="Eph_6.16">
+            <cit xml:id="Eph_6.11-17">
                <bibl>Eph 6,16</bibl>
-               <quote>in omnibus sumentes scutum fidei in quo possitis omnia tela nequissimi ignea
-                  extinguere</quote>
+               <quote>induite vos arma Dei ut possitis stare adversus insidias diaboli quia non est
+                  nobis conluctatio adversus carnem et sanguinem sed adversus principes et
+                  potestates adversus mundi rectores tenebrarum harum contra spiritalia nequitiae in
+                  caelestibus propterea accipite armaturam Dei ut possitis resistere in die malo et
+                  omnibus perfectis stare state ergo succincti lumbos vestros in veritate et induti
+                  loricam iustitiae et calciati pedes in praeparatione evangelii pacis in omnibus
+                  sumentes scutum fidei in quo possitis omnia tela nequissimi ignea extinguere et
+                  galeam salutis adsumite et gladium Spiritus quod est verbum Dei</quote>
             </cit>
             <cit xml:id="Greg_M_Dial_III_30">
                <bibl>Gregorius M., Dial. III 30</bibl>
@@ -222,6 +228,26 @@
             </cit>
             <cit xml:id="Greg_Tur_Hist_VI_6">
                <bibl>Gregorius Turon., Histor. VI 6</bibl>
+            </cit>
+            <cit xml:id="Hor_carm_I_4.13">
+               <bibl>Horat., Carm. I 4,13</bibl>
+            </cit>
+            <cit xml:id="Ado_Pass_Des_441C">
+               <bibl>Ado, Passio S. Desiderii, Migne PL 123, col. 441C</bibl>
+            </cit>
+            <cit xml:id="Wala_Gall_I_32">
+               <bibl>Walahfrid, Vita S. Galli I 32</bibl>
+            </cit>
+            <cit xml:id="Ct_4.1">
+               <bibl>Ct 4,1</bibl>
+               <quote>quam pulchra es amica mea quam pulchra es oculi tui columbarum absque eo quod
+                  intrinsecus latet capilli tui sicut greges caprarum quae ascenderunt de monte
+                  Galaad</quote>
+            </cit>
+            <cit xml:id="Ct_6.3">
+               <bibl>Ct 6,3</bibl>
+               <quote>pulchra es amica mea suavis et decora sicut Hierusalem terribilis ut castrorum
+                  acies ordinata</quote>
             </cit>
          </div>
       </back>
