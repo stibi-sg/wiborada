@@ -51,6 +51,15 @@
                </witness>
             </listWit>
             <listPerson>
+               <person xml:id="alam">
+                  <persName xml:lang="la">Alamanni</persName>
+                  <persName xml:lang="de">die Alemannen</persName>
+               </person>
+               <person xml:id="blit">
+                  <persName type="normalisiert">Blitdruda</persName>
+                  <persName type="alternativ">Pliddruda</persName>
+                  <note type="bio">B. Rachildae germana</note>
+               </person>
                <person xml:id="burc">
                   <persName type="normalisiert">Burchardus</persName>
                   <persName type="alternativ">Purchardus</persName>
@@ -121,6 +130,10 @@
                   <persName>Sara</persName>
                   <note type="bio">Raguelis filia</note>
                </person>
+               <person xml:id="sueu">
+                  <persName xml:lang="la">Suevi</persName>
+                  <persName xml:lang="de">die Schwaben</persName>
+               </person>
                <person xml:id="tobi">
                   <persName>Tobias</persName>
                </person>
@@ -153,6 +166,14 @@
                </person>
             </listPerson>
             <listPlace>
+               <place xml:id="alap">
+                  <placeName xml:lang="la">provincia Alamannia</placeName>
+                  <placeName xml:lang="de">Alemannien</placeName>
+               </place>
+               <place type="river" xml:id="arar">
+                  <placeName xml:lang="la">araris fluvius</placeName>
+                  <placeName xml:lang="de">Aare</placeName>
+               </place>
                <place xml:id="baio">
                   <placeName xml:lang="la">Baioariorum provincia</placeName>
                   <placeName xml:lang="de">Provinz der Bayern</placeName>
@@ -165,6 +186,10 @@
                   <placeName xml:lang="la">constantiensis</placeName>
                   <placeName xml:lang="de">Konstanz</placeName>
                </place>
+               <place xml:id="fric">
+                  <placeName xml:lang="la">pagus Frichgowe</placeName>
+                  <placeName xml:lang="de">Frickgau</placeName>
+               </place>
                <place xml:id="ital">
                   <placeName xml:lang="la">Italia</placeName>
                   <placeName xml:lang="de">Italien</placeName>
@@ -176,6 +201,10 @@
                <place xml:id="pota">
                   <placeName xml:lang="la">Potamicus lacus</placeName>
                   <placeName xml:lang="de">Bodensee</placeName>
+               </place>
+               <place type="river" xml:id="renu">
+                  <placeName xml:lang="la">renus</placeName>
+                  <placeName xml:lang="de">Rhein</placeName>
                </place>
                <place xml:id="rom">
                   <placeName xml:lang="la">Roma</placeName>
@@ -209,11 +238,11 @@
          </div>
          <div n="I(1)" xml:id="vw1_I.1">
             <p><hi>BEATISSIMA</hi> igitur uirgo dei <persName ref="#wibo">wiborada</persName> ex <app>
-                  <lem><persName>alamannorum</persName></lem>
+                  <lem><persName ref="#alam">alamannorum</persName></lem>
                   <rdg wit="#Boll">Alemannorum</rdg>
-               </app><cb ed="#S" n="130rb"/> qui et <persName>sueui</persName> stirpe oriunda ·
-               parentibus bene natis uitęque laudabilis nobilitate pollentibus · christianę quoque
-               militię exercitio <app>
+               </app><cb ed="#S" n="130rb"/> qui et <persName ref="#sueu">sueui</persName> stirpe
+               oriunda · parentibus bene natis uitęque laudabilis nobilitate pollentibus ·
+               christianę quoque militię exercitio <app>
                   <lem>inter</lem>
                   <rdg wit="#A">intra</rdg>
                </app> primas dominici agminis alas · uexilla salutis strenue subsequentibus · ueluti
@@ -1341,8 +1370,8 @@
                   <rdg wit="#A"><note>omisit</note></rdg>
                </app> essent ad credendum · iterum<cb ed="#S" n="135rb"/> atque iterum fama
                percrebrescente de aduentu paganorum · antea credere noluerunt quam seuiens interitus
-               gladio imminente · hanc etiam prouinciam usque ad <placeName ref="#pota">lacum
-                  potamicum</placeName>
+               gladio imminente · hanc etiam <placeName ref="#alap">prouinciam</placeName> usque ad
+                  <placeName ref="#pota">lacum potamicum</placeName>
                <app>
                   <lem>et</lem>
                   <rdg wit="#Boll"><note>deest</note></rdg>
@@ -1728,6 +1757,117 @@
                   <lem>adminiculo</lem>
                   <rdg wit="#S">adminiculo<note>ex adminuculo corr.</note></rdg>
                </app> adductus titubanti gressu membris etiam dissolutis uix aduenerat ·</p>
+         </div>
+         <div n="XL(36)" xml:id="vw1_XL.36">
+            <p>His et tantis signorum uirtutibus iugiter ad sepulchrum beatę uirginis ostensis ·
+               uenerabilis abbas <app>
+                  <lem><persName ref="#engi">engilbertus</persName></lem>
+                  <rdg wit="#A">engelbertus</rdg>
+               </app> anniuersario depositionis illius tempore adueniente · <date when="0927-05-01"
+                  >anteriori die</date> uocauit ad se <persName ref="#hitt">Hittonem</persName>
+               monachum fratrem ipsius uenerandę martyris · et aliis plurimis patribus de
+               congregatione presentibus rationem cum illo de <app>
+                  <lem>ipsis</lem>
+                  <rdg wit="#Boll">ipsius</rdg>
+               </app> uirtutibus habuit · <app>
+                  <lem>Quique</lem>
+                  <rdg wit="#A">Quibus</rdg>
+                  <rdg wit="#Boll">Qui</rdg>
+               </app> cum plurima quę uel nota omnibus uel adhuc ignota fuerant ueritatis assertione
+               in medium proferret · omni dubitatione summota abbas certissimus quanti meriti
+               quantique honoris glorificatione ante deum digna haberetur · quę tantis signis et
+               uirtutibus inter homines claresceret · cum consilio fratrum eidem monacho et
+               presbytero mandat ut superuenturę noctis uigilias cum psalmodia et dulci ymnorum
+               modulatione sicut antiquorum patrum ordinatione de uirginibus conscriptum habemus cum
+               dei licentia et adiutorio ad tumu<cb ed="#S" n="137rb" break="no"/>lum eius
+               deuotissime adimpleret · deinde etiam superuenientem diem sinaxi et missarum <app>
+                  <lem>adimpletione</lem>
+                  <rdg wit="#Boll">celebratione</rdg>
+               </app> solemnem duceret · At ille magna gratulatione cum matutinas laudes iuxta
+               preceptum sibi ad sepulchrum sanctę uirginis deuotus exsolueret · <date
+                  when="0927-05-02">illucescente iam die</date> gratia quiescendi paululum ad
+               domicilium rediit · Cunque lectulo se collocaret et obdormisset · adest in uisu beata
+               uirgo de seruitio <app>
+                  <lem>dei</lem>
+                  <rdg wit="#Boll">deo</rdg>
+               </app> reuerenter expleto · grates reddidit · sed tamen aliquid fore quod sibi
+               displiceret indicat · At ille · audio inquit uocem loquentis · sed cui respondere
+               debeam <app>
+                  <lem>nescio</lem>
+                  <rdg wit="#A #Boll">non scio</rdg>
+               </app> · Ego sum <app>
+                  <lem>ait</lem>
+                  <rdg wit="#A">inquit</rdg>
+               </app>
+               <persName ref="#wibo">wiborada</persName> · et in ipsa hora lętanti uultu et <app>
+                  <lem>noto antea</lem>
+                  <rdg wit="#A">voto · ante se</rdg>
+                  <rdg wit="#S"><note>interpunxit</note>noto · antea</rdg>
+               </app> · sibi quasi arridentem <app>
+                  <lem>conspexit</lem>
+                  <rdg wit="#A #Boll">conspicit</rdg>
+               </app> · Cui ait · Quid est domina quod deliqui? At illa · altariolum meum uelamine
+               meis manibus dum in carcere huius seculi morabar semper coopertum expoliasti · et
+               aliud preciosius quod alterius est superexpandisti · Surge citius et nil moratus ·
+               quod nostrum est restitue loco suo · Quod ille audiens · concitus surrexit et ilico
+               preceptum perfecit ·</p>
+         </div>
+         <div n="XLI(37)" xml:id="vw1_XLI.37">
+            <p>Hoc etiam silentio pretereundum non esse utile arbitramur · quod sancta uirgo et
+               martyr non solum ad sepulchrum suum fidelibus aduenientibus et deuote illius solatium
+               petentibus medicina salubri occurrit · uerum etiam his qui procul positi seu
+               infirmitate · seu qualicunque labore detenti · si fideliter illius prestolantur
+               auxilium diuina opitulante clementia assistere non cessat ·</p>
+         </div>
+         <div n="XLII(37)" xml:id="vw1_XLII.37">
+            <p>In <placeName ref="#fric">pago frichgowe</placeName> nuncupato quem <placeName
+                  ref="#arar">araris fluuius</placeName> uno latere preterfluit · et ex altera parte
+               nobilissimus fluuiorum <placeName ref="#alap">alamanniam</placeName> penetrans
+                  <placeName ref="#renu">renus</placeName> inundat · fuit quędam mater familias
+               laudabilem uitam seculariter ducens nomine <app>
+                  <lem><persName ref="#blit">blitdruda</persName></lem>
+                  <rdg wit="#A #Boll">hiltruda</rdg>
+               </app> beatę <persName ref="#rach">rachildę</persName> reclusę germana · <ref
+                  target="#vw1_XXXIX.35">Quę superueniente infirmitate tanta corpo<pb ed="#S"
+                     n="137va" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/276"
+                     break="no"/>ris molestia detinebatur · ut ablata facultate manducandi · bibendi
+                  · ambulandi · sedendi · quidue paululum in lectulo quiescendi extremum alitum uix
+                  trahere uideretur ·</ref> Cunque diu tantis languoribus fatigata tabesceret ·
+               tandem superna miserante clementia quę in se sperantes salubriter castigat ut saluet
+               · paululum resumpto ęgri pectoris spiramine · uoce qua poterat beatę uirginis
+               implorans auxilium · Beatissima ait uirgo et martyr Christi dignissima <persName
+                  ref="#wibo">wiborada</persName> · succurre mihi miserę ualde laboranti · <seg
+                  type="cf." source="#II_Tim_1.12">Scio enim et credo quia dei gratia concedente
+                  potes tuis precibus pugnantem in me morbum aliquandiu releuare</seg> · quo membra
+               paululum diu fatigata quiescant · Hęc fessa orando <app>
+                  <lem>flebiliter</lem>
+                  <rdg wit="#S">flebiliter<note>-li- supr. lin.</note></rdg>
+               </app> ut postea retulit neque dormiens neque penitus uigilans · uidit sibi assistere
+               sanctam uirginem et in manu tenere iacinctinę pellis particulam similitudinem
+               habentis uaginę qua enses obduci solent · Quam etiam super eam <app>
+                  <lem>iaciens</lem>
+                  <rdg wit="#A">iacens</rdg>
+               </app> inquit · Optasti a me ut aliquantulum dormias · quiesce et dormi cum
+               benedictione domini · Ilico somni suauitate salubriter obtenta · dormiuit illam
+               noctem et magnam partem sequentis diei · Deinde euigilans et circa manentes ob
+               custodiam sui uocans · date inquit mihi ad manducandum quantotius ut corpus morbo et
+               fame <app>
+                  <lem>pene</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> consumptum paulisper recreem quia nihil mali patior · Dei enim gratia et <app>
+                  <lem>meritis</lem>
+                  <rdg wit="#Boll"><note>deest</note></rdg>
+               </app> dominę meę <persName ref="#wibo">wiboradę</persName> liberata sum ab hac
+               infirmitate · Quę post paululum corporis uiribus pleniter resumptis · ad monasterium
+               sancti <persName ref="#gall">Galli</persName> properat · moxque uisitato sanctę
+               uirginis <app>
+                  <lem>tumulo</lem>
+                  <rdg wit="#A">tumulum</rdg>
+               </app> ob receptam sanitatem <app>
+                  <lem>laudes</lem>
+                  <rdg wit="#Boll">laudat</rdg>
+               </app> et gratias deo omnipotenti meritisque illius oblata benedictione deuota
+               persoluit ·</p>
          </div>
       </body>
    </text>
