@@ -51,6 +51,10 @@
                </witness>
             </listWit>
             <listPerson>
+               <person xml:id="agne">
+                  <persName>S. Agnes</persName>
+                  <note type="bio">martyr</note>
+               </person>
                <person xml:id="alam">
                   <persName xml:lang="la">Alamanni</persName>
                   <persName xml:lang="de">die Alemannen</persName>
@@ -64,6 +68,11 @@
                   <persName type="normalisiert">Burchardus</persName>
                   <persName type="alternativ">Purchardus</persName>
                   <note type="bio">dux Alamannorum</note>
+               </person>
+               <person xml:id="eggi">
+                  <persName type="normalisiert">Eggibertus</persName>
+                  <persName type="alternativ">Egibertus</persName>
+                  <note type="bio">archipresbyter basilicae S. Magni</note>
                </person>
                <person xml:id="engi">
                   <persName type="normalisiert">Engilbertus</persName>
@@ -121,6 +130,9 @@
                <person xml:id="regi">
                   <persName>Reginlinda</persName>
                   <note type="bio">uxor Burchardi ducis</note>
+               </person>
+               <person xml:id="regins">
+                  <persName>Reginsinda</persName>
                </person>
                <person xml:id="salo">
                   <persName>Salomon [III.]</persName>
@@ -1755,7 +1767,10 @@
                martyris ueluti de precipitio mortis ereptus · non sine admiratione ipse per se
                gradiens ad claustrum rediit · qui aliorum <app>
                   <lem>adminiculo</lem>
-                  <rdg wit="#S">adminiculo<note>ex adminuculo corr.</note></rdg>
+                  <rdg wit="#S">admin<subst>
+                        <del>u</del>
+                        <add>i</add>
+                     </subst>culo<note>ex adminuculo corr.</note></rdg>
                </app> adductus titubanti gressu membris etiam dissolutis uix aduenerat ·</p>
          </div>
          <div n="XL(36)" xml:id="vw1_XL.36">
@@ -1868,6 +1883,66 @@
                   <rdg wit="#Boll">laudat</rdg>
                </app> et gratias deo omnipotenti meritisque illius oblata benedictione deuota
                persoluit ·</p>
+         </div>
+         <div n="XLIII(38)" xml:id="vw1_XLIII.38">
+            <p>Post obitum <persName ref="#hitt">Hittonis</persName> presbyter quidam <persName
+                  ref="#eggi">Eggibertus</persName> nomine seculo renuncians ad <cb ed="#S"
+                  n="137vb"/> monasterium uenit · ibique ab abbate benigne susceptus est · Hic in
+               monasterio probabilem ducens uitam · cum omnibus conuersatio eius placuisset
+               successor domni <persName ref="#hitt">hittonis</persName> effectus · ab abbate
+                  <placeName ref="#emag">sancti magni ęcclesiam</placeName> suscepit regendam ·
+               Contigit autem post paucos annos infirmitate superueniente tantis illum doloribus
+               oculorum cruciari · ut nec requiem habere · nec per se quoquam incedere obtenebrato
+               uisu potuisset · Cunque in hac infirmitate aliquandiu laborasset et adhibita medicina
+               nihil profecisset · adueniente <date when="--01-21">festiuitate sanctę <persName
+                     ref="#agne">Agnetis</persName> martyris</date> fide <app>
+                  <lem>roboratus</lem>
+                  <rdg wit="#A #Boll">armatus</rdg>
+               </app> cellam qua beatę uirginis et martyris <persName ref="#wibo"
+                  >wiboradę</persName> membra tumulata quiescunt ingreditur · ibique ante sepulchrum
+               prostratus diu supplicem fudit orationem · Tandem uoce flebili precibus pia uota
+               coniungens · domina mea ait sanctissima · credo quia apud omnipotentis dei
+               misericordiam meę infirmitati potes implorare remedium · Scias etiam quia <app>
+                  <lem>si</lem>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> in his laboribus tuis meritis mihi succurrere dignaris · quod omni ebdomada
+               dum uiuo · et uires corporis habeo ad altarium tuo sepulcro appositum missam de
+               sancta cruce feria sexta celebrare non desinam · His uotis et orationibus finitis cum
+               paululum obdormisset <ref target="#vw1_XXXIX.35">moxque eadem hora euigilasset</ref>
+               · fugato omni dolore et cecitate tantam claritatem oculorum sibi sentiebat adesse ·
+               ut se in iuuenili ętate clarius uidere non posse fateretur · sicque post omnibus
+               diebus uitę suę sana et clara oculorum acie perdurans · largitori omnium bonorum et
+               beniuolę largitrici quod promiserat deuote et fideliter <app>
+                  <lem>implere</lem>
+                  <rdg wit="#A">adimplere</rdg>
+               </app> non cessat ·</p>
+         </div>
+         <div n="XLIV(39)" xml:id="vw1_XLIV.39">
+            <p>Mulier quędam <persName ref="#regins">reginsinda</persName> nomine iugi capitis
+               dolore laborabat · Hęc comperta fama de uirtutibus sanctę uirginis qualiter domini
+               aspirante gratia infirmantibus medebatur · in festiuitate anniuersa<pb ed="#S"
+                  n="138ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/277"
+                  break="no"/>ria depositionis illius ad sepulchrum uenit · ibique cum fletibus
+               deuotis precibus insistens · uotis se constrinxit si illius medelam mereretur quamdiu
+               uiueret diem transitus sui festiue celebraret · Cunque paululum obdormisset · labente
+               infirmitate sana recessit · Iterumque anniuersaria depositione natalis ipsius
+               insistente · uesperascente iam die telam habens erectam usque ad extremitatem texendi
+               prope perductam · anni preteriti promissa reminiscens ait in corde suo · Laborem
+               operis mei finem aspiciens · cito perficiam · sicque quod uotis promiseram domninę
+               meę festiuum diem celebrare non desinam · Nec mora doloribus capitis antea sibi <app>
+                  <lem>ualde</lem>
+                  <rdg wit="#A">vald</rdg>
+               </app> notis stimulata cecidit · stratumque causa huius infirmitatis ueluti obliuioni
+               traditum per uim requisiuit · sicque magnis cruciata doloribus tandem reatus sui
+               pęnam considerans · iterato ad sepulchrum uenit · ibique se ream et preuaricatricem
+               uoti decedentis anni proclamans · uota uotis adiungit · preces precibus · sicque
+               omnem lacrimabiliter emendationem debiti promittens obdormiuit · Tunc uisum est ei
+               quasi aliquis ueniret et magnam grauitatem ligni in modum trabis super caput eius
+               proiecisset · <app>
+                  <lem>Mox</lem>
+                  <rdg wit="#A">moxque</rdg>
+               </app> euigilans sedata infirmitate capitis · deo et sanctę uirgini gratias agens
+               propria habitacula lętabunda reuisit ·</p>
          </div>
       </body>
    </text>
