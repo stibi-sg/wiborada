@@ -69,6 +69,16 @@
                   <persName type="alternativ">Purchardus</persName>
                   <note type="bio">dux Alamannorum</note>
                </person>
+               <person xml:id="cral">
+                  <persName type="normalisiert">Craloh</persName>
+                  <persName type="alternativ">Gralo</persName>
+                  <note type="bio">abba</note>
+               </person>
+               <person xml:id="egge">
+                  <persName>Eggehardus [I]</persName>
+                  <persName type="alternativ">Ekkehardus [I]</persName>
+                  <note>decanus S. Galli</note>
+               </person>
                <person xml:id="eggi">
                   <persName type="normalisiert">Eggibertus</persName>
                   <persName type="alternativ">Egibertus</persName>
@@ -1943,6 +1953,114 @@
                   <rdg wit="#A">moxque</rdg>
                </app> euigilans sedata infirmitate capitis · deo et sanctę uirgini gratias agens
                propria habitacula lętabunda reuisit ·</p>
+         </div>
+         <div n="XLV(40)" xml:id="vw1_XLV.40">
+            <p>Sed ut aliquantum ab ordine temporis <app>
+                  <lem>digrediamur</lem>
+                  <rdg wit="#A #Boll">degrediamur</rdg>
+               </app>· dum <persName ref="#cral">craloh</persName>
+               <app>
+                  <lem>abba</lem>
+                  <rdg wit="#Boll">abbas</rdg>
+               </app> uenerandus cęnobio preesset · sanctus <persName ref="#suod"
+                  >ǒdalricus</persName> episcopus <app>
+                  <lem>qui</lem>
+                  <rdg wit="#A #S"><note>deest</note></rdg>
+               </app> nunc felici obitu cum christo <app>
+                  <lem>gaudet</lem>
+                  <rdg wit="#A">gauderet</rdg>
+               </app> et fideli deuotione poscentibus opem <app>
+                  <lem>in</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> diuersis necessitatibus mirabiliter misericorditerque accommodat uenit ad
+               monasterium · <ref target="#vw1_XIX.17 #vw1_XX.17">Cunque pro sua consuetudine loca
+                  sancta circuiret · ad tumulum nutricis quondam suę wiboradę oraturus
+                  accessit</ref> · Qui expleta oratione · inter reliquos circumstantes respiciens
+               uirum uenerabilem eiusdem mo<cb ed="#S" n="138rb" break="no"/>nasterii monachum et
+               bene doctum <app>
+                  <lem>nomine <persName ref="#egge">Eggehardum</persName></lem>
+                  <rdg wit="#S">nomine · Eggehardum<note>interpunxit</note></rdg>
+               </app> · interrogabat eum dicens · Estne aliquid karissime ab aliquo fratrum quos
+               doctissimos scimus de preclara sanctę uirginis uita et passione per literas memorię
+               traditum? Cui ille · nemo ait adhuc eorum manum ad huiusmodi opus inchoandum extendit
+               · De quo tarditatem meam reprehendo · debitorem me sciens eius laudis <app>
+                  <lem>proferendę</lem>
+                  <rdg wit="#A">preferende</rdg>
+               </app> si uires scientię cum quantitate materię concordarent · Quod episcopus audiens
+               auidusque <app>
+                  <lem>preconiorum</lem>
+                  <rdg wit="#A">precuniorum</rdg>
+               </app> eius audiendorum requisiuit quid illud esset in quo se debitorem asseueraret ·
+               Et ille · egritudinis inquit incommoditatem gutta infestante · et totum corpus meum <app>
+                  <lem>contrahente</lem>
+                  <rdg wit="#A">contrahentem</rdg>
+               </app> tantopere incurri · ut inter intolerabiliter sęuientes dolores spem
+               recuperandę sospitatis amitterem · medicis revera pro leuamine languoris
+               assistentibus omnemque suę artis industriam cassatam fatentibus · Quapropter quantum
+               humanum desperabam auxilium · tantum cępi intentius implorare <app>
+                  <lem>diuinum</lem>
+                  <rdg wit="#S"><note>pars posterior in ras.</note></rdg>
+               </app> · Interea dum sanctorum patrocinia diuersorum uotis precibusque flagitarem ·
+               meritis sanctę uirginis ad memoriam <app>
+                  <lem>reductis</lem>
+                  <rdg wit="#Boll">redactis</rdg>
+               </app> · rogaui ut cilicium quo sanctos artus pro mortificatione carnis attriuerat ·
+               mihi quamuis indigno apportaretur · Quo impetrato · uoui ut si mihi uitę <app>
+                  <lem>incolomitas</lem>
+                  <rdg wit="#Boll">incolumitas</rdg>
+               </app> per merita sanctę uirginis concederetur quod <app>
+                  <lem>scirem</lem>
+                  <rdg wit="#A">scire</rdg>
+               </app> aut discere possem de laudandis eius actibus scripto <app>
+                  <lem>me</lem>
+                  <rdg wit="#A #Boll"><note>deest</note></rdg>
+               </app> memorię commendaturum · Cunque post illam sponsionem sanctum illud <app>
+                  <lem>sanctę</lem>
+                  <rdg wit="#A"><note>deest</note></rdg>
+               </app> uirginis indumentum mihi <app>
+                  <lem>aliquotiens</lem>
+                  <rdg wit="#Boll">aliquoties</rdg>
+               </app> superextenderetur · ilico cępi <app>
+                  <lem>leuius</lem>
+                  <rdg wit="#A">lenius</rdg>
+               </app> habere · ac deinde non multis diebus exactis plena sospitate conualui · sed
+               adhuc diuersis obstaculorum occasionibus impeditus uotum soluere cessaui · Sanctus
+               antistes hoc audiens modestis eum increpationibus hortabatur ne se infidelem
+               sponsorem exhiberet · sed id quod aliquandiu neglexerat <pb ed="#S" n="138va"
+                  facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/278"/> citius
+               aggrederetur perficere · Cuius salubria monita ille humiliter audiens · et in nullo
+               dubitans <app>
+                  <lem>eorum</lem>
+                  <rdg wit="#Boll"><supplied>multa</supplied>eorum<note>coniec. Boll. De hoc loco et
+                        de genetivo partitivo «eorum» disputavi ZSKG 66, 1972, p. 253 sq. Cf. huius
+                        vitae c. XI (supra p. 48): «cum nec vicinorum nec aliquis ex ipsius familia
+                        aliter suspicaretur».</note></rdg>
+               </app> quę a diuersis personis audiuit · ut proposuerat scribere inchoauit · et
+               pleraque scribendo comprehendit ·</p>
+         </div>
+         <div n="XLVI(40)" xml:id="vw1_XLVI.40">
+            <p>Notum sit omnibus christum amantibus quia ea quę dictauimus in ueritate comperta
+               fidelium antecessorum relatione conscripsimus · Testantur etiam hoc plurimi et
+               nostris adhuc temporibus uariis infirmitatibus pressi · id est frigoretici · capitis
+               egritudine · dentium dolore · aurium · oculorum · manuum · pedum · omniumque
+               membrorum qui ad sepulchrum beatę uirginis medelam recuperationis experiuntur ·
+               prestante domino nostro IESU CHRISTO · qui cum <app>
+                  <rdg wit="#A #Boll">deo</rdg>
+               </app> patre et spiritu sancto uiuit et regnat deus · per infinita secula seculorum · <app>
+                  <lem>AMEN</lem>
+                  <rdg wit="#S"><note>Litteris graecissantibus scripsit</note>AMEN</rdg>
+               </app> ·</p>
+         </div>
+         <div>
+            <p><app>
+                  <lem>Explicit vita <app>
+                        <rdg wit="#A">et passio</rdg>
+                     </app>sanctę <app>
+                        <lem><persName ref="#wibo">Wiberadę</persName></lem>
+                        <rdg wit="#A">wiborade</rdg>
+                     </app> uirginis et martyris ·</lem>
+                  <rdg wit="#Boll"><note>Explicit deest</note></rdg>
+               </app></p>
          </div>
       </body>
    </text>
