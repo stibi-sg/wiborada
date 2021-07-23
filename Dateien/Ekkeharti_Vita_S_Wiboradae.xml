@@ -49,6 +49,17 @@
                      <title>Acta Sanctorum Mai t. 1</title>
                   </bibl>
                </witness>
+               <witness xml:id="G">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>St. Gallen, Stiftsbibliothek</repository>
+                        <idno>393</idno>
+                        <altIdentifier type="url">
+                           <idno>https://www.e-codices.unifr.ch/de/list/one/csg/0393</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
             </listWit>
             <listPerson>
                <person xml:id="agne">
@@ -99,6 +110,9 @@
                   <persName>Hitto</persName>
                   <note type="bio">frater S. Wiboradae</note>
                </person>
+               <person xml:id="iob">
+                  <persName>Iob</persName>
+               </person>
                <person xml:id="iohab">
                   <persName xml:lang="la">Iohannes baptista</persName>
                   <persName xml:lang="de">Johannes der Täufer</persName>
@@ -137,6 +151,10 @@
                <person xml:id="rach">
                   <persName>S. Rachilda reclusa</persName>
                </person>
+               <person xml:id="ragu">
+                  <persName>Raguel</persName>
+                  <note>vide <persName ref="#sara">Sara</persName></note>
+               </person>
                <person xml:id="regi">
                   <persName>Reginlinda</persName>
                   <note type="bio">uxor Burchardi ducis</note>
@@ -158,6 +176,9 @@
                </person>
                <person xml:id="tobi">
                   <persName>Tobias</persName>
+               </person>
+               <person xml:id="sata">
+                  <persName>Satan</persName>
                </person>
                <person xml:id="suod">
                   <persName type="normalisiert">S. Uodalricus</persName>
@@ -315,7 +336,7 @@
                   <lem>illa</lem>
                   <rdg wit="#Boll">id est</rdg>
                </app>
-               <persName>raguelis</persName> filia <app>
+               <persName ref="#ragu">raguelis</persName> filia <app>
                   <lem><persName ref="#tobi">tobie</persName></lem>
                   <rdg wit="#S">tobis</rdg>
                </app> sancti coniuge futura · domino fiducialiter dicere et ipsa proposuerit · <seg
@@ -359,7 +380,7 @@
                   lacrimis gremium <app>
                      <lem>compleuit</lem>
                      <rdg wit="#Boll">replevit</rdg>
-                  </app> obortis</seg> · Post paucos uero dies came soluta est · in cęlum nimirum
+                  </app> obortis</seg> · Post paucos uero dies carne soluta est · in cęlum nimirum
                profecta · quo paulo ante tam suauiter est inuitata · <seg source="#Sap_4.14">Placita
                   enim erat deo anima illius · propter hoc properauit educere illam de medio
                   iniquitatum</seg>· </p>
@@ -382,7 +403,10 @@
                occurrere studii sui feruore compulerit · <seg source="#Prv_31.27">Panem uero otiosa
                   non comedit</seg> · sed operibus manuum suarum impigre continueque institerat · <app>
                   <lem>ac si iam</lem>
-                  <rdg wit="#S">ac si iam <note>corr. ex suam</note></rdg>
+                  <rdg wit="#S">ac s<subst>
+                        <del>u</del>
+                        <add>i i</add>
+                     </subst>am <note>corr. ex «ac suam»</note></rdg>
                   <rdg wit="#A">ut summa</rdg>
                   <rdg wit="#Boll">acsi summa</rdg>
                </app> scripturarum <app>
@@ -444,9 +468,8 @@
                   n="131ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/263"/>
                compositorię superfluitatis · siue superfluę compositionis aspexit · Post hanc diem
                nullus eam <app>
-                  <lem>iumento</lem>
-                  <rdg wit="#A">in iumento</rdg>
-               </app> · uel alicuius uehiculi adminiculo · <app>
+                  <rdg wit="#A">in</rdg>
+               </app> iumento · uel alicuius uehiculi adminiculo · <app>
                   <lem>quoad uiueret</lem>
                   <rdg wit="#S #A"><note>separant</note>quo adviveret</rdg>
                </app> impositam uidit · excepto cum sicut dicturi sumus · <placeName ref="#rom"
@@ -513,8 +536,8 @@
                   <lem>apprehendit</lem>
                   <rdg wit="#A">comprehendit</rdg>
                </app> · et continuato recitandi usu reciproca ruminatione eos conficiens · quasi
-                  <seg type="cf." source="Isid_Etym_VI_2.15">naturale organum</seg> ori cordique suo
-               compaginando conexuit ·</p>
+                  <seg type="cf." source="#Isid_Etym_VI_2.15">naturale organum</seg> ori cordique
+               suo compaginando conexuit ·</p>
          </div>
          <div n="VII(6)" xml:id="vw1_VII.6">
             <p>
@@ -561,8 +584,8 @@
                </app> cum sustentationis solatio et gaudium ingereret · et stuporem admirationis
                incuteret · <seg type="cf." source="#Ado_Pass_Des_438A">Tua sunt hęc christe
                   miracula</seg> · cui mortua uiuunt · insensibilia sapiunt · cęca contemplantur ·
-               surda audiunt · muta diserta sunt · <seg type="cf." source="Lc_10.21">qui abscondisti
-                  secretum sapientię tuę thesaurum a sapi<pb ed="#S" n="131va"
+               surda audiunt · muta diserta sunt · <seg type="cf." source="#Lc_10.21">qui
+                  abscondisti secretum sapientię tuę thesaurum a sapi<pb ed="#S" n="131va"
                      facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/264" break="no"
                   />entibus huius saeculi et prudentibus et reuelasti <app>
                      <lem>eum</lem>
@@ -622,7 +645,7 @@
                </app> commemorandum <app>
                   <lem>derelinquo</lem>
                   <rdg wit="#A">relinquo</rdg>
-               </app>.</p>
+               </app>·</p>
          </div>
          <div n="X(9)" xml:id="vw1_X.9">
             <p>Post hęc autem cum regrederentur ad patriam · ut uirtus stare loco nescit · sed
@@ -670,9 +693,10 @@
                </app> sui iam iamque minitare · pro nihilo pendens omnia oblectamenta blandientis ·
                respuit · contempsit · atque calcauit · Et cum actualem eximio largitatis affectu
                uitam praetenderet · interioris tamen hominis perspicacibus oculis <seg
-                  source="I_Cor_13.12">facie ad faciem</seg> domini semper iocundatur contemplatione
-               · Nam quis recitando poterit explicare · quanta continentia corpus fragile a mundi
-               illecebris refrenando compesceret · et ob seruitium christi carnem spiritui subiacere <app>
+                  source="#I_Cor_13.12">facie ad faciem</seg> domini semper iocundatur
+               contemplatione · Nam quis recitando poterit explicare · quanta continentia corpus
+               fragile a mundi illecebris refrenando compesceret · et ob seruitium christi carnem
+               spiritui subiacere <app>
                   <lem>coegisset</lem>
                   <rdg wit="#A">coegit</rdg>
                </app>? Multa etenim tempora transierunt ex quo se ab usu carnium uinique abstinuit ·
@@ -702,14 +726,14 @@
                tutamine se aduersus inimici <app>
                   <lem>infestantis</lem>
                   <rdg wit="#S">in se stantis<note>!</note></rdg>
-               </app> insidias die noctuque muniuit · <seg type="cf." source="Ven_Fort_Rad_5"
+               </app> insidias die noctuque muniuit · <seg type="cf." source="#Ven_Fort_Rad_5"
                   >Solebat enim noctibus de domo furtim excedere</seg> · seque incomitatam ad
                ęcclesiam conferre · ibique precum iugi instantia pernoctare · Nempe cum solis
                occubitu somni quies a cunctis peteretur · ipsa lectuli qui semper sumptuosi
                suppellectilis ornatu pa<cb ed="#S" n="132rb" break="no"/>ratus assistebat spreuit
                accubitum · <seg source="#Io_20.26">ianuisque clausis</seg> eędem quę supra <app>
                   <lem>memoratę</lem>
-                  <rdg wit="#A">commemorate<note>ex commemorauimus corr.</note></rdg>
+                  <rdg wit="#A">commemorate<note>corr. ex commemorauimus</note></rdg>
                </app> sunt germanę cilicium super nudam humum <app>
                   <lem>substernebant</lem>
                   <rdg wit="#A #Boll">sternebant</rdg>
@@ -824,9 +848,9 @@
                quibus aliquam partem ad usus pauperum cotidie <cb ed="#S" n="132vb"/> dispensandam
                reseruari precepit · partem etiam deuotis fidelibus commendans conseruari fecit ·
                quatenus una die in anno circumquaque de cellis uicinę mulieres congregatę · in amore
-               dei et sanctorum eius lętificarentur · Cunque omnes aduocatę ad cellam sancti
-                  <persName ref="#geor">georgii</persName> alacriter conuenissent · una earum
-               opulentior cęteris <app>
+               dei et sanctorum eius lętificarentur · Cunque omnes aduocatę ad <placeName
+                  ref="#cell">cellam sancti <persName ref="#geor">georgii</persName></placeName>
+               alacriter conuenissent · una earum opulentior cęteris <app>
                   <lem>aduenire</lem>
                   <rdg wit="#A #Boll">venire</rdg>
                </app> renuit · dicens se illius quidem elemosinę indigam nequaquam esse · Cunque hoc
@@ -848,7 +872,7 @@
                fastidiuit · Cunque magnis cruciata doloribus se penitus deficere crederet · <app>
                   <lem>manducare</lem>
                   <rdg wit="#Boll">et nec manducare</rdg>
-                  <note>Uno neque duplicem negationem exprimi posse docet Kühner-Stegmann,
+                  <note>Uno «neque» duplicem negationem exprimi posse docet Kühner-Stegmann,
                      Auführliche Grammatik t. 2,2, Hannover 1914, p. 562sq.</note>
                </app> neque bibere <app>
                   <lem>ualens</lem>
@@ -861,7 +885,7 @@
                gaudens domum regressa est ·</p>
          </div>
          <div n="XVII(15)" xml:id="vw1_XVII.15">
-            <p>Beata igitur wiborada sicut predictum <app>
+            <p>Beata igitur <persName ref="#wibo">wiborada</persName> sicut predictum <app>
                   <lem>est</lem>
                   <rdg wit="#Boll"><note>deest</note></rdg>
                </app>
@@ -874,8 +898,7 @@
                quam tota uita sitiebat iam parata · missis quibusdam monachis iussit eam duci ad se
                · Quam episcopus cum paucis prosecutus et benedicens · clausulam <app>
                   <lem>obserauit</lem>
-                  <rdg wit="#Boll">observavit</rdg>
-                  <note>!</note>
+                  <rdg wit="#Boll">observavit<note>!</note></rdg>
                </app> · Ast inimicus atrox inuidus omnis boni diabolus terrorem illi incutere
                temptans · caput hominis hispidum et horridum tanquam uiuens et ore hianti sua
                malicia proferens · ante illam iacentem in oratione proiecit · At sancta uirgo <app>
@@ -919,7 +942,7 @@
                   <rdg wit="#A #Boll">ad</rdg>
                </app> monasterium · Qui quidem edoctus · cum <app>
                   <lem>ad</lem>
-                  <rdg wit="#S"><note>supra lineam add.</note></rdg>
+                  <rdg wit="#S"><note>supra lineam add.</note>ad</rdg>
                </app>
                <app>
                   <lem>intellegibilem</lem>
@@ -1029,11 +1052,11 @@
                   <rdg wit="#Boll">Waldramus</rdg>
                </app> · Hic habuit familiarem quendam in ministerio sibimet carum · et fideliter
                seruientem · Per hunc ergo idem senior caritatis gratia sepius suam benedictionem
-               dominę wiboradę mittere consueuerat · Cunque hac missione directus adueniret · et
-               allata praesentaret · sicut omnibus ad se uenientibus fecit · remuneratus ab ea
-               fragmen <app>
+               dominę <persName ref="#wibo">wiboradę</persName> mittere consueuerat · Cunque hac
+               missione directus adueniret · et allata praesentaret · sicut omnibus ad se
+               uenientibus fecit · remuneratus ab ea fragmen <app>
                   <lem>benedicti</lem>
-                  <rdg wit="#A">bti<note>contrahit</note></rdg>
+                  <rdg wit="#A">bti<note>contraxit</note></rdg>
                   <rdg wit="#Boll">beati<note>!</note></rdg>
                </app> panis accepit · Quod accipiens · et inde egrediens · prius ut credo alio
                saturatus edulio gustum sanctificati panis deuitat · et obuianti cuidam pauperi illum
@@ -1048,8 +1071,9 @@
                   benedi<cb ed="#S" n="133vb" break="no"/>ctionis <app>
                   <lem>de</lem>
                   <rdg wit="#A">a</rdg>
-               </app> sancta wiborada acceperis? Qui demum pietatis illius memor · et suę culpę uel
-               arrogantię conscius · quanta uoce potuit exclamat · Domine <app>
+               </app> sancta <persName ref="#wibo">wiborada</persName> acceperis? Qui demum pietatis
+               illius memor · et suę culpę uel arrogantię conscius · quanta uoce potuit exclamat ·
+               Domine <app>
                   <lem>meus</lem>
                   <rdg wit="#Boll">mi</rdg>
                </app> · scio et cognosco hac de causa me nunc tanta infirmitate teneri · quia a
@@ -1058,7 +1082,7 @@
                   <rdg wit="#A"><note>deest</note></rdg>
                </app> manibus panem accepi · sed <app>
                   <lem>minime</lem>
-                  <rdg wit="#A"><note>inepte inter manibus et panem accepi posuit</note></rdg>
+                  <rdg wit="#A"><note>inepte inter «manibus» et «panem accepi» posuit</note></rdg>
                </app> de eo propter peccata mea gustaui · tradens <app>
                   <lem>illud</lem>
                   <rdg wit="#Boll">illum</rdg>
@@ -1075,7 +1099,7 @@
                   <rdg wit="#A #Boll">benedicens iterato porrigit</rdg>
                </app> · Quo <app>
                   <lem>degustato</lem>
-                  <rdg wit="#S"><note>ex deangustato corr.</note></rdg>
+                  <rdg wit="#S">de<del>an</del>gustato<note>ex «deangustato» corr.</note></rdg>
                </app> statim conualuit · et post paruum labentis temporis interuallum plena sanitate
                recepta · sicut antea fecit suo domino gaudens ministrauit.</p>
          </div>
@@ -1189,7 +1213,7 @@
                   <lem>nimis</lem>
                   <rdg wit="#Boll"><note>deest</note></rdg>
                </app> obstupefacta <app>
-                  <rdg wit="#A">ait<note>add.</note></rdg>
+                  <rdg wit="#A"><note>add.</note>ait</rdg>
                </app> · quis inquit domine <app>
                   <lem>mi</lem>
                   <rdg wit="#Boll"><note>deest</note></rdg>
@@ -1226,9 +1250,9 @@
                   <rdg wit="#A"><note>deest</note></rdg>
                </app> tantis iniuriis afflixisti? Crucem eius auream cum sanctorum reliquiis
                refertam · contumaciter de isto loco tecum asportare ausus es · At ille cum hanc non
-               sponte sed monachis offerentibus et sibi dantibus se suscepisse <app>
-                  <lem>testaretur · non propter amorem tuum ait</lem>
-                  <rdg wit="#A">testaretur · illa ait· Non</rdg>
+               sponte sed monachis offerentibus et sibi dantibus se suscepisse testaretur ·<app>
+                  <lem> non propter amorem tuum ait</lem>
+                  <rdg wit="#A">illa ait· Non</rdg>
                </app> hoc fecerunt · sed propter timorem · <app>
                   <lem>et</lem>
                   <rdg wit="#Boll">Sed</rdg>
@@ -1274,7 +1298,7 @@
                </app> benedictione percep<cb ed="#S" n="134vb" break="no"/>ta ad domicilium sanctę
                   <persName ref="#rach">rachildę</persName> processit · Quę a spirituali matre
                praemonita · illis uerbis similia promittentem · humiliter suscepit ac dimisit · <app>
-                  <rdg wit="#Boll"><note type="Kapitel">23</note></rdg>
+                  <rdg wit="#Boll"><note type="Kapitel">(23)</note></rdg>
                </app>Mane facto · sicut sancta uirgo praedixerat · inito consilio <app>
                   <lem>monachi</lem>
                   <rdg wit="#A">fratres</rdg>
@@ -1310,10 +1334,10 @@
                      <lem>et</lem>
                      <rdg wit="#A #S"><note>deest</note></rdg>
                   </app> mane incisum arescit assimilatus est</seg> · Dux itaque sicut mente
-               conceperat magno comitatu italiam ingressus · dum totam sibi terram subicere et
-               multos decipere cogitat · ipse dolositate illius gentis praeuentus · <seg type="cf."
-                  source="Ps_7.16">dum studet euadere subito lapsu infrenis equi in foueam ueluti
-                  casui illius <app>
+               conceperat magno comitatu <placeName ref="#ital">italiam</placeName> ingressus · dum
+               totam sibi terram subicere et multos decipere cogitat · ipse dolositate illius gentis
+               praeuentus · <seg type="cf." source="#Ps_7.16">dum studet euadere subito lapsu
+                  infrenis equi in foueam ueluti casui illius <app>
                      <lem>praeparatam</lem>
                      <rdg wit="#A">praeparata</rdg>
                   </app> cecidit</seg> · hocque insperato obitu miserabiliter <date when="0926-04"
@@ -1321,14 +1345,16 @@
          </div>
          <div n="XXVIII(23)" xml:id="vw1_XXVIII.23">
             <p>Igitur <persName ref="#regi">Reginlinda</persName> matrona domini sui ducis obitu
-               comperto non sicut antea ab ipso commonita fuerat de sacratisq uasis fecit · sed
-               patenam precioso opere decoratam secum retinuit · aliamque multo minorem minorisque
-               precii fabricatam sicut in praesenti cernimus cum praedicto calice monasterio
-               restituere praecepit ·</p>
+               comperto non sicut antea ab ipso commonita fuerat de <app>
+                  <lem>sacratis</lem>
+                  <rdg wit="#Boll">sanctis</rdg>
+               </app> uasis fecit · sed patenam precioso opere decoratam secum retinuit · aliamque
+               multo minorem minorisque precii fabricatam sicut in praesenti cernimus cum praedicto
+               calice monasterio restituere praecepit ·</p>
          </div>
          <div n="XXIX(24)" xml:id="vw1_XXIX.24">
             <p><date when="0925-06-28">Quadam die post celebratam solemnitatem beati <persName
-                     ref="#iohab">iohannis</persName> baptistę ante <app>
+                     ref="#iohab">iohannis baptistę</persName> ante <app>
                      <lem>festiuitatem</lem>
                      <rdg wit="#A">festum</rdg>
                   </app> sanctorum apostolorum <persName ref="#petr">petri</persName> et <persName
@@ -1342,7 +1368,7 @@
                   <rdg wit="#Boll">Hungarorum</rdg>
                </app> anno futuro in kalendis <app>
                   <lem>maii</lem>
-                  <rdg wit="#S">mai<note>secundam i erasit</note></rdg>
+                  <rdg wit="#S">mai<note>secundam «i» erasit</note></rdg>
                </app> aliis terris peruagatis et deuastatis ad monasterium sancti <app>
                   <lem><persName ref="#gall">Galli</persName></lem>
                   <rdg wit="#A">Galli<note>nomen linea rubra produxit</note></rdg>
@@ -1378,7 +1404,7 @@
                actibus insistendo <app>
                   <lem>mitigarent</lem>
                   <rdg wit="#Boll">mitigaret</rdg>
-               </app></p>
+               </app> ·</p>
          </div>
          <div n="XXX(25)" xml:id="vw1_XXX.25">
             <p>Cunque illius anni circulus uergeretur · et tempus <app>
@@ -1461,25 +1487,31 @@
                   <rdg wit="#A #Boll">dari</rdg>
                </app> poscit · quod eam in <app>
                   <lem>tantum</lem>
-                  <rdg wit="#S">tantum<note>ex tantam correxit</note></rdg>
+                  <rdg wit="#S">tant<subst>
+                        <del>a</del>
+                        <add>u</add>
+                     </subst>m<note>ex «tantam» correxit</note></rdg>
                </app> suis uerbis fatigauit · et pro certo cognoscens quamuis ipsa non diceret
                aliquam suę uocationis <app>
                   <lem>reuelationem</lem>
-                  <rdg wit="#S">reuelationem<note>ex reuelationes corr.</note></rdg>
+                  <rdg wit="#S">reuelatione<subst>
+                        <del>s</del>
+                        <add>m</add>
+                     </subst><note>ex «reuelationes» corr.</note></rdg>
                </app> sibimet factam · <app>
                   <lem>interrogat</lem>
                   <rdg wit="#A">interrogantque</rdg>
                </app> quod nunc sibimet rebus agendis consilium daret · At illa inquit · Sancte
                pater · nullam moram interponas · quin temetipsum et animas tibi a deo commendatas
-               saluare studeas · <seg type="cf." source="Greg_Tur_Hist_VI_6">Thesaurum sancti
+               saluare studeas · <seg type="cf." source="#Greg_Tur_Hist_VI_6">Thesaurum sancti
                      <persName ref="#gall">Galli</persName> sicut iam <app>
                      <lem>cępisti</lem>
                      <rdg wit="#A">capisti</rdg>
                   </app> · et quicquid ad usus monachorum vel familię adhuc reliquum est hodie et
                   hac nocte portando et uehendo ad castellum transmittere non tardes</seg> ·
-               Crastina enim die <app>
-                  <lem>sine omni dubietate</lem>
-                  <rdg wit="#A">sine dubitatione</rdg>
+               Crastina enim die sine<app>
+                  <lem>omni dubietate</lem>
+                  <rdg wit="#A">dubitatione</rdg>
                </app> uallis ista undique circumsepta <app>
                   <lem>seua</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
@@ -1497,7 +1529,7 @@
                   <rdg wit="#A">somptibus</rdg>
                </app> uel usibus monachorum esse poterat · cum omni cautela et festinatione ad
                castellum transmisit · <app>
-                  <rdg wit="#Boll"><note type="Kapitel">27</note></rdg>
+                  <rdg wit="#Boll"><note type="Kapitel">(27)</note></rdg>
                </app>Uenerunt etiam <app>
                   <lem>et</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
@@ -1509,9 +1541,10 @@
                   <lem>seruabitur</lem>
                   <rdg wit="#A #Boll">salvabitur</rdg>
                </app> · Ite ad hospitium uestrum · et maturius surgentes uenite ad nos ut
-               benedictione dei sanctique magni de manibus nostris percepta · gaudentes redeatis ad
-               propria · Illucescente itaque altera die propinqui beatę <persName ref="#rach"
-                  >Rachildę</persName> sicut erant religiosi uerbis et consolationibus <app>
+               benedictione dei <persName ref="#magn">sanctique magni</persName> de manibus nostris
+               percepta · gaudentes redeatis ad propria · Illucescente itaque altera die propinqui
+               beatę <persName ref="#rach">Rachildę</persName> sicut erant religiosi uerbis et
+               consolationibus <app>
                   <lem>uenerandę</lem>
                   <rdg wit="#A #Boll">sanctae</rdg>
                </app> uirginis fidem adhibentes · omni sollicitudine postposita pro filia sua
@@ -1519,7 +1552,7 @@
                ostensis · licentiam abeundi postulauerunt · Quibus illa · accipite ait benedictionem
                domini de manibus meis · et paululum gustantes ite cum <app>
                   <lem>pace</lem>
-                  <rdg wit="#S">pace<note>ex pauce corr.</note></rdg>
+                  <rdg wit="#S">pa<del>u</del>ce<note>ex «pauce» corr.</note></rdg>
                </app> · Cunque hoc factum fuisset illius sanctis orationibus muniti et dei gratię
                sanctorumque <app>
                   <lem>eius</lem>
@@ -2050,8 +2083,6 @@
                   <lem>AMEN</lem>
                   <rdg wit="#S"><note>Litteris graecissantibus scripsit</note>AMEN</rdg>
                </app> ·</p>
-         </div>
-         <div>
             <p><app>
                   <lem>Explicit vita <app>
                         <rdg wit="#A">et passio</rdg>
@@ -2061,6 +2092,118 @@
                      </app> uirginis et martyris ·</lem>
                   <rdg wit="#Boll"><note>Explicit deest</note></rdg>
                </app></p>
+         </div>
+         <div>
+            <head><app>
+                  <lem><supplied>Ekkeharti IV</supplied> Epitaphium sancte <persName ref="#wibo"
+                        >Wiberade</persName> ·</lem>
+                  <rdg wit="#A">Incipit epitalmus beate wiborade</rdg>
+                  <rdg wit="#Boll">Epitaphium B. Wiboradae</rdg>
+               </app></head>
+         </div>
+         <div>
+            <p><lg>
+                  <l>Filius altithroni postquam resplenduit orbi ·</l>
+                  <l><app>
+                        <lem>Christus</lem>
+                        <rdg wit="#S">XPICTUS</rdg>
+                     </app> in hoc mundo <app>
+                        <rdg wit="#A">de</rdg>
+                     </app> uirgine natus homo ·</l>
+                  <l><date when="0926-05-01">Annis nongentis uiginti quinque uolutis</date> ·</l>
+                  <l>Post quatuor menses bis quattuorque dies ·</l>
+                  <l>Wiborada deo meritis dignissima uirgo·</l>
+                  <l>Palma martyrii scandit ad astra poli ·</l>
+                  <l>Illa hic sponte sua moribundo corpore <app>
+                        <lem>clausa</lem>
+                        <rdg wit="#S">clausa<note>«s» supr. lin.</note></rdg>
+                     </app> ·</l>
+                  <l>Visibus humanis abdita et alloquiis ·</l>
+                  <l>Celebs cęlesti sponso sed cognita soli ·</l>
+                  <l>Affatu angelico pascitur atque cibo ·</l>
+                  <l>Hac parsimonia durauit tempora multa ·</l>
+                  <l>Semper ut instantem <app>
+                        <lem>mortis itura diem</lem>
+                        <rdg wit="#A">meritis itura dieta</rdg>
+                     </app> ·</l>
+                  <l>Demum a paganis maii tunc passa <date when="--05-01">kalendis</date> ·</l>
+                  <l><date when="--05-02">Mane <app>
+                           <lem>sequente</lem>
+                           <rdg wit="#A #Boll">sequenti</rdg>
+                        </app></date> obiit mane perenne <app>
+                        <lem>petit</lem>
+                        <rdg wit="#A">pecijt</rdg>
+                     </app> ·</l>
+                  <l>Cuius amore sacro curamus membra sepulchro ·</l>
+                  <l>Debita soluentes fundimus atque preces ·</l>
+                  <l>Eius at exultans <app>
+                        <lem>uictrici</lem>
+                        <rdg wit="#A">nutrici</rdg>
+                     </app> et dote coruscans ·</l>
+                  <l>Spiritus in cęlo <app>
+                        <lem>uiuit</lem>
+                        <rdg wit="#A">uenit</rdg>
+                     </app> ouatque DEO ·</l>
+               </lg>
+            </p>
+         </div>
+         <div>
+            <pb ed="#G" n="260" facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>
+            <head><supplied>Ekkeharti IV</supplied> Epitaphium sanctę <persName ref="#rach"
+                  >Rachildę</persName> uirginis reclusę ·</head>
+            <lg>
+               <l>In cruce confregit postquam uictorque subegit ·</l>
+               <l>Leuiathan hamo Uirgine natus homo</l>
+               <l><date when="0917">Annis nongentis · <app>
+                        <lem>denis septemque</lem>
+                        <rdg wit="#G">denis septemque<note>in ras.</note></rdg>
+                     </app> uolutis</date></l>
+               <l>Orbe peragrato · <app>
+                     <lem>astat</lem>
+                     <rdg wit="#G">asttat</rdg>
+                  </app> item domino ·</l>
+               <l>Iob sibi <app>
+                     <lem>femineum</lem>
+                     <rdg wit="#G">femineum<note>in ras.</note></rdg>
+                  </app> iuuenili <app>
+                     <lem>floreque</lem>
+                     <rdg wit="#G">floreque<note>«-que» in ras.</note></rdg>
+                  </app>
+                  <app>
+                     <lem>mactum</lem>
+                     <rdg wit="#G">mactum<note>in ras.</note></rdg>
+                  </app> ·</l>
+               <l><app>
+                     <lem>Expetit</lem>
+                     <rdg wit="#G">Expetit<note>«Ex-» in ras.</note></rdg>
+                  </app> ut temptet <app>
+                     <lem>uirgineum</lem>
+                     <rdg wit="#G">uirgineum<note>«-eum» in ras.</note></rdg>
+                  </app> cruciet ·</l>
+               <l>Nec mora · concessam premit ille dolore <persName ref="#rach">Rachildam</persName>
+                  ·</l>
+               <l>Uel sexu superet <persName ref="#iob">Iob</persName> sibi sufficeret ·</l>
+               <l>Uertice cum planta Iacet ulcere <app>
+                     <lem>uirgo cruenta</lem>
+                     <rdg wit="#G">uirgo cruenta<note>«uirgo crue-» in ras.</note></rdg>
+                  </app> ·</l>
+               <l>Uoce minus poterat · Corde deum memorat ·</l>
+               <l>Talis at ingreditur tamen hoc specus hic sepelitur</l>
+               <l>Uiua · Uigil sponso · sufficiens oleo ·</l>
+               <l>Nulla ut luciuomum ualet arte restinguere lyknum ·</l>
+               <l>Liquit item nostram <persName ref="#iob">Iob</persName>
+                  <persName ref="#sata">satan</persName> emeritam ·</l>
+               <l>Martyris imperio <persName ref="#wibo">Uuiborade</persName> docta propinquo ·</l>
+               <l><app>
+                     <lem>His</lem>
+                     <rdg wit="#G">His<note>in ras.</note></rdg>
+                  </app> crucibus palmam emeruit sociam ·</l>
+               <l>Quę datur in <date when="0946-11-23">nonis decimi</date> sibi parta <date
+                     when="0946-11-23">kalendis</date> ·</l>
+               <l>His animam cęlo · Ossa dat hic tumulo · <app>
+                     <rdg wit="#G">Finitur<note>rubr.</note></rdg>
+                  </app></l>
+            </lg>
          </div>
       </body>
    </text>
