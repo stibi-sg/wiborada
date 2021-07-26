@@ -65,10 +65,15 @@
                <person xml:id="agne">
                   <persName>S. Agnes</persName>
                   <note type="bio">martyr</note>
+                  <birth type="ca." when="0237"/>
+                  <death type="ca." when="0250"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Agnes_von_Rom</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/114430704X</idno>
                </person>
                <person xml:id="alam">
                   <persName xml:lang="la">Alamanni</persName>
                   <persName xml:lang="de">die Alemannen</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Alamannen</idno>
                </person>
                <person xml:id="blit">
                   <persName type="normalisiert">Blitdruda</persName>
@@ -79,32 +84,52 @@
                   <persName type="normalisiert">Burchardus</persName>
                   <persName type="alternativ">Purchardus</persName>
                   <note type="bio">dux Alamannorum</note>
+                  <birth type="ca." when="0883"/>
+                  <death when="0926-04"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Burchard_II._(Schwaben)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/121574490</idno>
                </person>
                <person xml:id="cral">
                   <persName type="normalisiert">Craloh</persName>
                   <persName type="alternativ">Gralo</persName>
                   <note type="bio">abba</note>
+                  <death when="0958-02-26"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Craloh</idno>
                </person>
                <person xml:id="egge">
                   <persName>Eggehardus [I]</persName>
                   <persName type="alternativ">Ekkehardus [I]</persName>
                   <note>decanus S. Galli</note>
+                  <birth when="0910"/>
+                  <death when="0973-01-14"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ekkehard_I._(St._Gallen)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/100940382</idno>
                </person>
                <person xml:id="eggi">
                   <persName type="normalisiert">Eggibertus</persName>
                   <persName type="alternativ">Egibertus</persName>
                   <note type="bio">archipresbyter basilicae S. Magni</note>
                </person>
+               <person xml:id="ekke">
+                  <persName>Ekkehartus IV</persName>
+                  <birth type="ca." when="0980"/>
+                  <death when="1056"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ekkehard_IV._(St._Gallen)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118529722</idno>
+               </person>
                <person xml:id="engi">
                   <persName type="normalisiert">Engilbertus</persName>
                   <persName type="alternativ">Engelbertus</persName>
                   <note type="bio">abbas</note>
+                  <death when="0934-08-13"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Engilbert_II._von_St._Gallen</idno>
                </person>
                <person xml:id="gall">
                   <persName>S. Gallus</persName>
-               </person>
-               <person xml:id="geor">
-                  <persName>Georg</persName>
+                  <birth type="ca." when="0550"/>
+                  <death type="ca." when="0645"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Gallus_(Heiliger)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118537350</idno>
                </person>
                <person xml:id="hitt">
                   <persName>Hitto</persName>
@@ -112,10 +137,14 @@
                </person>
                <person xml:id="iob">
                   <persName>Iob</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ijob</idno>
+                  <idno>http://d-nb.info/gnd/118551353</idno>
                </person>
                <person xml:id="iohab">
                   <persName xml:lang="la">Iohannes baptista</persName>
                   <persName xml:lang="de">Johannes der Täufer</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Johannes_der_T%C3%A4ufer</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118557858</idno>
                </person>
                <person xml:id="kebi">
                   <persName type="normalisiert">Kebini</persName>
@@ -123,22 +152,42 @@
                   <persName type="alternativ">Kebenina</persName>
                   <note type="bio">fidelis ministra, una e duabus ancillis</note>
                </person>
+               <person xml:id="leui">
+                  <persName>Leviathan</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Leviathan_(Mythologie)</idno>
+               </person>
                <person xml:id="magn">
                   <persName>S. Magnus</persName>
+                  <birth type="ca." when="0699"/>
+                  <death type="ca." when="0772"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Magnus_von_F%C3%BCssen</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118865870</idno>
                </person>
                <person xml:id="mari">
                   <persName>Maria</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Maria_von_Bethanien</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118577816</idno>
                </person>
                <person xml:id="mart">
                   <persName>Martha</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Martha_von_Bethanien</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118578219</idno>
                </person>
                <person xml:id="notk">
                   <persName>Notkerus [II]</persName>
                   <note type="bio">medicus, magister et monachus</note>
+                  <birth type="ca." when="0905"/>
+                  <death when="0975-09-12"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Notker_II.</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118735640</idno>
                </person>
                <person xml:id="paul">
                   <persName>Paulus apostolus</persName>
                   <note type="bio">pastor ecclesiae</note>
+                  <birth type="ca." when="0010"/>
+                  <death type="ca." when="0060"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Paulus_von_Tarsus</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118641549</idno>
                </person>
                <person xml:id="pert">
                   <persName type="normalisiert">Pertherada</persName>
@@ -147,17 +196,26 @@
                </person>
                <person xml:id="petr">
                   <persName>Petrus apostolus</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Simon_Petrus</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118593323</idno>
                </person>
                <person xml:id="rach">
                   <persName>S. Rachilda reclusa</persName>
+                  <idno type="gnd">http://d-nb.info/gnd/138367760</idno>
                </person>
                <person xml:id="ragu">
                   <persName>Raguel</persName>
                   <note>vide <persName ref="#sara">Sara</persName></note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ragu%C3%ABl</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/1217602976</idno>
                </person>
                <person xml:id="regi">
                   <persName>Reginlinda</persName>
                   <note type="bio">uxor Burchardi ducis</note>
+                  <birth type="ca." when="0888"/>
+                  <death type="ca." when="0958"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Regelinda</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/136195172</idno>
                </person>
                <person xml:id="regins">
                   <persName>Reginsinda</persName>
@@ -165,24 +223,37 @@
                <person xml:id="salo">
                   <persName>Salomon [III.]</persName>
                   <note type="bio">Constantiensis episcopus</note>
+                  <birth type="ca." when="0860"/>
+                  <death type="ca." when="0919"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Salomo_III._von_Konstanz</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118964593</idno>
                </person>
                <person xml:id="sara">
                   <persName>Sara</persName>
                   <note type="bio">Raguelis filia</note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Sara_(Frau_des_Tobias)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/189569395</idno>
                </person>
                <person xml:id="sueu">
                   <persName xml:lang="la">Suevi</persName>
                   <persName xml:lang="de">die Schwaben</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Herzogtum_Schwaben</idno>
                </person>
                <person xml:id="tobi">
                   <persName>Tobias</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Tobias_(Sohn_des_Tobit)</idno>
                </person>
                <person xml:id="sata">
                   <persName>Satan</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Satan</idno>
                </person>
                <person xml:id="suod">
                   <persName type="normalisiert">S. Uodalricus</persName>
                   <note type="bio">Augustae episcopus</note>
+                  <birth when="0890"/>
+                  <death when="0973-07-04"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ulrich_von_Augsburg</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118625284</idno>
                </person>
                <person xml:id="uoda">
                   <persName xml:lang="la">Uodalricus</persName>
@@ -193,6 +264,7 @@
                   <persName type="normalisiert" xml:lang="la">Ungarii</persName>
                   <persName type="alternativ" xml:lang="la">Ungri</persName>
                   <persName xml:lang="de">die Ungarn</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ungarn</idno>
                </person>
                <person xml:id="wald">
                   <persName type="normalisiert">Waldrammus</persName>
@@ -203,9 +275,14 @@
                   <persName type="normalisiert">Wiborada</persName>
                   <persName type="alternativ">Wiberada</persName>
                   <persName type="alternativ">Wiborat</persName>
+                  <death when="0926-05-01"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Wiborada</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/11880717X</idno>
                </person>
                <person xml:id="zach">
                   <persName>Zacharias</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Zacharias_(Vater_des_Johannes)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/1147236577</idno>
                </person>
             </listPerson>
             <listPlace>
@@ -826,7 +903,7 @@
                   <rdg wit="#A">diximus</rdg>
                </app> domesticis festinanter ad nauem properat · et prospero cursu ad litus optatum
                perueniunt · Deinde in <placeName ref="#cell">cella quadam in montibus sita iuxta
-                  ęcclesiam sancti <persName ref="#geor">georgii</persName></placeName> · <app>
+                  ęcclesiam sancti georgii</placeName> · <app>
                   <lem>parua</lem>
                   <rdg wit="#A">parvaque</rdg>
                </app> constructa mansiuncula · <date from="0912" to="0916">pene annis quatuor</date>
@@ -849,7 +926,7 @@
                reseruari precepit · partem etiam deuotis fidelibus commendans conseruari fecit ·
                quatenus una die in anno circumquaque de cellis uicinę mulieres congregatę · in amore
                dei et sanctorum eius lętificarentur · Cunque omnes aduocatę ad <placeName
-                  ref="#cell">cellam sancti <persName ref="#geor">georgii</persName></placeName>
+                  ref="#cell">cellam sancti georgii</placeName>
                alacriter conuenissent · una earum opulentior cęteris <app>
                   <lem>aduenire</lem>
                   <rdg wit="#A #Boll">venire</rdg>
@@ -891,7 +968,7 @@
                </app>
                <date from="0912" to="0916">pene annos quatuor</date> in <placeName ref="#cell">cella
                   sancti <app>
-                     <lem><persName ref="#geor">georgii</persName></lem>
+                     <lem>georgii</lem>
                      <rdg wit="#A">georij</rdg>
                   </app></placeName> probatis moribus et uirtutibus adornata in dei seruitio
                permanebat · Uenerabilis itaque pontifex iterum ad monasterium ueniens · clausula
@@ -1579,14 +1656,14 @@
                   <rdg wit="#Boll">adsunt</rdg>
                </app> quos aduenire credere noluistis · Senior etiam et monachus <persName
                   ref="#hitt">Hitto</persName> adhuc in <placeName ref="#emag">ęcclesia sancti
-                     <persName ref="#magn">magni</persName></placeName> consistens quia ipsius
+                    magni</placeName> consistens quia ipsius
                ęcclesię custos erat · secum deliberans ut nusquam fugeret · hortatu et preceptis
                sanctę <persName ref="#wibo">wiboradę</persName> tandem compulsus · in proximum lucum
                monti adiacenti inherentem cum duobus sibi famulantibus uix aufugit ·</p>
          </div>
          <div n="XXXIII(29)" xml:id="vw1_XXXIII.29">
             <p>Interea uesanus quidam et deo odibilis ascitis sibi similibus sociis · ad <placeName
-                  ref="#emag">sancti <persName ref="#magn">magni</persName> basilicam</placeName>
+                  ref="#emag">sancti magni basilicam</placeName>
                una properant · ignique supposito · cum mansiunculam sanctę uirginis exurere uellent
                · diuina uirtute flammę restinctę sunt · Cunque effectum peruersę <pb ed="#S"
                   n="136ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/273"/>
@@ -1607,14 +1684,18 @@
                   <rdg wit="#Boll">tegimine</rdg>
                </app> preter cilicium ablato · libratis asciolis tria capiti uulnera <app>
                   <lem>sanctę</lem>
-                  <rdg wit="#S">sanctę<note>ex sancti corr.</note></rdg>
+                  <rdg wit="#S">sanct<subst>
+                        <del>i</del>
+                        <add>ę</add>
+                     </subst><note>ex «sancti» corr.</note></rdg>
                </app>
                <app>
                   <rdg wit="#A #Boll">virgini et<note>add.</note></rdg>
                </app> martyri infligunt · et seminecem relinquentes discesserunt · At sanguis
                undatim profluens · cilicium pene totum perfudit · sed et murus eiusdem <app>
                   <lem>claustri</lem>
-                  <rdg wit="#A"><note>claustri del. et in marg. adiecit</note>clausu...</rdg>
+                  <rdg wit="#A"><del>claustri</del><note>«claustri» del.</note></rdg>
+                  <rdg wit="#A"><note>in marg. adiecit</note>clausu ...</rdg>
                </app> sancti sanguinis aspersione perfusus per multa tempora martyrium sanctę
                uirginis aduenientibus patefecit · Qui nullis abolitionibus quamuis mera calce sepius
                obductus quin se panderet obtegi potuit · Nos etiam hoc uerum esse proximis
@@ -1629,13 +1710,12 @@
                ante suum transitum subueniret · deuotus et fide <app>
                   <lem>firmatus</lem>
                   <rdg wit="#A">formatus</rdg>
-               </app> aduenit · Cunque <placeName ref="#emag">ęcclesiam sancti <persName ref="#magn"
-                     >magni</persName></placeName> orandi gratia intraret · rogat se ad uenerandę
+               </app> aduenit · Cunque <placeName ref="#emag">ęcclesiam sancti magni</placeName> orandi gratia intraret · rogat se ad uenerandę
                uirginis sepulchrum duci · ibique querulas preces domino fundens cum sanctę martyris
                auxilium flagitasset · <app>
                   <lem>surrexit</lem>
                   <rdg wit="#A #Boll">surrexerunt</rdg>
-               </app> · et quia antea audiuit clausulę eius murum aspergine sancti cruoris infusum -
+               </app> · et quia antea audiuit clausulę eius murum aspergine sancti cruoris infusum ·
                petiit sibi monstrari locum · Hocque facto · aliis discedentibus cultello parum quid
                sanguinolenti pulueris abradens · et linte<cb ed="#S" n="136rb" break="no"/>olo
                inuoluens secum retinuit · <app>
@@ -1666,7 +1746,7 @@
                familia ad monasterium rediit · Sed et alii multi ex diuersis locis in idipsum
                castellum congregati ad propria remearunt · Predictus etiam monachus et presbyter
                tercio die passionis eius rediens clam ad <placeName ref="#emag">basilicam sancti
-                     <persName ref="#magn">magni</persName></placeName> sibi commendatam ·
+                     magni</placeName> sibi commendatam ·
                assumptisque quibusdam de fratribus et laicis una cum illis et fideli eius ministra
                intrantes clausulam ubi sancta membra iacebant · solitam orationem super illam
                fecerunt · Cunque sanctum corpusculum iugi parsimonia consumptum · et <ref type="cf."
@@ -1796,7 +1876,7 @@
                   target="#vw1_XXXV.31">ossibus tenui cute et neruis uix coherentibus</ref>
                <ref type="cf." target="#vw1_XLII.37"><app>
                      <lem>supremum</lem>
-                     <rdg wit="#A #S">suppmu<note>contrahunt</note></rdg>
+                     <rdg wit="#A #S">suppmu<note>contraxerunt</note></rdg>
                   </app> spiritum trahere uideretur · nilque somni uel edulii capere potuerit</ref>
                · Hic cum morti proximus esse <app>
                   <lem>cerneretur</lem>
@@ -1813,7 +1893,7 @@
                   <rdg wit="#S">admin<subst>
                         <del>u</del>
                         <add>i</add>
-                     </subst>culo<note>ex adminuculo corr.</note></rdg>
+                     </subst>culo<note>ex «adminuculo» corr.</note></rdg>
                </app> adductus titubanti gressu membris etiam dissolutis uix aduenerat ·</p>
          </div>
          <div n="XL(36)" xml:id="vw1_XL.36">
@@ -1860,7 +1940,7 @@
                <persName ref="#wibo">wiborada</persName> · et in ipsa hora lętanti uultu et <app>
                   <lem>noto antea</lem>
                   <rdg wit="#A">voto · ante se</rdg>
-                  <rdg wit="#S"><note>interpunxit</note>noto · antea</rdg>
+                  <rdg wit="#S">noto · antea<note>interpunxit</note></rdg>
                </app> · sibi quasi arridentem <app>
                   <lem>conspexit</lem>
                   <rdg wit="#A #Boll">conspicit</rdg>
@@ -1886,20 +1966,21 @@
                   <lem><persName ref="#blit">blitdruda</persName></lem>
                   <rdg wit="#A #Boll">hiltruda</rdg>
                </app> beatę <persName ref="#rach">rachildę</persName> reclusę germana · <ref
-                  target="#vw1_XXXIX.35">Quę superueniente infirmitate tanta corpo<pb ed="#S"
-                     n="137va" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/276"
-                     break="no"/>ris molestia detinebatur · ut ablata facultate manducandi · bibendi
-                  · ambulandi · sedendi · quidue paululum in lectulo quiescendi extremum alitum uix
-                  trahere uideretur ·</ref> Cunque diu tantis languoribus fatigata tabesceret ·
-               tandem superna miserante clementia quę in se sperantes salubriter castigat ut saluet
-               · paululum resumpto ęgri pectoris spiramine · uoce qua poterat beatę uirginis
-               implorans auxilium · Beatissima ait uirgo et martyr Christi dignissima <persName
-                  ref="#wibo">wiborada</persName> · succurre mihi miserę ualde laboranti · <seg
-                  type="cf." source="#II_Tim_1.12">Scio enim et credo quia dei gratia concedente
-                  potes tuis precibus pugnantem in me morbum aliquandiu releuare</seg> · quo membra
-               paululum diu fatigata quiescant · Hęc fessa orando <app>
+                  type="cf." target="#vw1_XXXIX.35">Quę superueniente infirmitate tanta corpo<pb
+                     ed="#S" n="137va"
+                     facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/276" break="no"
+                  />ris molestia detinebatur · ut ablata facultate manducandi · bibendi · ambulandi
+                  · sedendi · quidue paululum in lectulo quiescendi extremum alitum uix trahere
+                  uideretur ·</ref> Cunque diu tantis languoribus fatigata tabesceret · tandem
+               superna miserante clementia quę in se sperantes salubriter castigat ut saluet ·
+               paululum resumpto ęgri pectoris spiramine · uoce qua poterat beatę uirginis implorans
+               auxilium · Beatissima ait uirgo et martyr Christi dignissima <persName ref="#wibo"
+                  >wiborada</persName> · succurre mihi miserę ualde laboranti · <seg type="cf."
+                  source="#II_Tim_1.12">Scio enim et credo quia dei gratia concedente potes tuis
+                  precibus pugnantem in me morbum aliquandiu releuare</seg> · quo membra paululum
+               diu fatigata quiescant · Hęc fessa orando <app>
                   <lem>flebiliter</lem>
-                  <rdg wit="#S">flebiliter<note>-li- supr. lin.</note></rdg>
+                  <rdg wit="#S">flebiliter<note>«-li-» supr. lin.</note></rdg>
                </app> ut postea retulit neque dormiens neque penitus uigilans · uidit sibi assistere
                sanctam uirginem et in manu tenere iacinctinę pellis particulam similitudinem
                habentis uaginę qua enses obduci solent · Quam etiam super eam <app>
@@ -1951,11 +2032,11 @@
                </app> in his laboribus tuis meritis mihi succurrere dignaris · quod omni ebdomada
                dum uiuo · et uires corporis habeo ad altarium tuo sepulcro appositum missam de
                sancta cruce feria sexta celebrare non desinam · His uotis et orationibus finitis cum
-               paululum obdormisset <ref target="#vw1_XXXIX.35">moxque eadem hora euigilasset</ref>
-               · fugato omni dolore et cecitate tantam claritatem oculorum sibi sentiebat adesse ·
-               ut se in iuuenili ętate clarius uidere non posse fateretur · sicque post omnibus
-               diebus uitę suę sana et clara oculorum acie perdurans · largitori omnium bonorum et
-               beniuolę largitrici quod promiserat deuote et fideliter <app>
+               paululum obdormisset <ref type="cf." target="#vw1_XXXIX.35">moxque eadem hora
+                  euigilasset</ref> · fugato omni dolore et cecitate tantam claritatem oculorum sibi
+               sentiebat adesse · ut se in iuuenili ętate clarius uidere non posse fateretur ·
+               sicque post omnibus diebus uitę suę sana et clara oculorum acie perdurans · largitori
+               omnium bonorum et beniuolę largitrici quod promiserat deuote et fideliter <app>
                   <lem>implere</lem>
                   <rdg wit="#A">adimplere</rdg>
                </app> non cessat ·</p>
@@ -2006,11 +2087,11 @@
                   <lem>in</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
                </app> diuersis necessitatibus mirabiliter misericorditerque accommodat uenit ad
-               monasterium · <ref target="#vw1_XIX.17 #vw1_XX.17">Cunque pro sua consuetudine loca
-                  sancta circuiret · ad tumulum nutricis quondam suę wiboradę oraturus
-                  accessit</ref> · Qui expleta oratione · inter reliquos circumstantes respiciens
-               uirum uenerabilem eiusdem mo<cb ed="#S" n="138rb" break="no"/>nasterii monachum et
-               bene doctum <app>
+               monasterium · <ref type="cf." target="#vw1_XIX.17 #vw1_XX.17">Cunque pro sua
+                  consuetudine loca sancta circuiret · ad tumulum nutricis quondam suę <persName
+                     ref="#wibo">wiboradę</persName> oraturus accessit</ref> · Qui expleta oratione
+               · inter reliquos circumstantes respiciens uirum uenerabilem eiusdem mo<cb ed="#S"
+                  n="138rb" break="no"/>nasterii monachum et bene doctum <app>
                   <lem>nomine <persName ref="#egge">Eggehardum</persName></lem>
                   <rdg wit="#S">nomine · Eggehardum<note>interpunxit</note></rdg>
                </app> · interrogabat eum dicens · Estne aliquid karissime ab aliquo fratrum quos
@@ -2032,7 +2113,7 @@
                assistentibus omnemque suę artis industriam cassatam fatentibus · Quapropter quantum
                humanum desperabam auxilium · tantum cępi intentius implorare <app>
                   <lem>diuinum</lem>
-                  <rdg wit="#S"><note>pars posterior in ras.</note></rdg>
+                  <rdg wit="#S">diuinum<note>pars posterior in ras.</note></rdg>
                </app> · Interea dum sanctorum patrocinia diuersorum uotis precibusque flagitarem ·
                meritis sanctę uirginis ad memoriam <app>
                   <lem>reductis</lem>
@@ -2064,10 +2145,10 @@
                aggrederetur perficere · Cuius salubria monita ille humiliter audiens · et in nullo
                dubitans <app>
                   <lem>eorum</lem>
-                  <rdg wit="#Boll"><supplied>multa</supplied>eorum<note>coniec. Boll. De hoc loco et
-                        de genetivo partitivo «eorum» disputavi ZSKG 66, 1972, p. 253 sq. Cf. huius
-                        vitae c. XI (supra p. 48): «cum nec vicinorum nec aliquis ex ipsius familia
-                        aliter suspicaretur».</note></rdg>
+                  <rdg wit="#Boll"><supplied>multa</supplied> eorum<note>coniec. Boll. De hoc loco
+                        et de genetivo partitivo «eorum» disputavi ZSKG 66, 1972, p. 253 sq. <ref
+                           type="cf." target="#vw1_XI.10">Cf. huius vitae c. XI</ref> «vicinorum nec
+                        aliquis ex ipsius familia aliter suspicaretur».</note></rdg>
                </app> quę a diuersis personis audiuit · ut proposuerat scribere inchoauit · et
                pleraque scribendo comprehendit ·</p>
          </div>
@@ -2095,8 +2176,8 @@
          </div>
          <div>
             <head><app>
-                  <lem><supplied>Ekkeharti IV</supplied> Epitaphium sancte <persName ref="#wibo"
-                        >Wiberade</persName> ·</lem>
+                  <lem><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
+                     sancte <persName ref="#wibo">Wiberade</persName> ·</lem>
                   <rdg wit="#A">Incipit epitalmus beate wiborade</rdg>
                   <rdg wit="#Boll">Epitaphium B. Wiboradae</rdg>
                </app></head>
@@ -2112,7 +2193,7 @@
                      </app> uirgine natus homo ·</l>
                   <l><date when="0926-05-01">Annis nongentis uiginti quinque uolutis</date> ·</l>
                   <l>Post quatuor menses bis quattuorque dies ·</l>
-                  <l>Wiborada deo meritis dignissima uirgo·</l>
+                  <l><persName ref="#wibo">Wiborada</persName> deo meritis dignissima uirgo·</l>
                   <l>Palma martyrii scandit ad astra poli ·</l>
                   <l>Illa hic sponte sua moribundo corpore <app>
                         <lem>clausa</lem>
@@ -2149,11 +2230,11 @@
          </div>
          <div>
             <pb ed="#G" n="260" facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>
-            <head><supplied>Ekkeharti IV</supplied> Epitaphium sanctę <persName ref="#rach"
-                  >Rachildę</persName> uirginis reclusę ·</head>
+            <head><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
+               sanctę <persName ref="#rach">Rachildę</persName> uirginis reclusę ·</head>
             <lg>
                <l>In cruce confregit postquam uictorque subegit ·</l>
-               <l>Leuiathan hamo Uirgine natus homo</l>
+               <l><persName ref="#leui">Leuiathan</persName> hamo Uirgine natus homo</l>
                <l><date when="0917">Annis nongentis · <app>
                         <lem>denis septemque</lem>
                         <rdg wit="#G">denis septemque<note>in ras.</note></rdg>
@@ -2162,7 +2243,7 @@
                      <lem>astat</lem>
                      <rdg wit="#G">asttat</rdg>
                   </app> item domino ·</l>
-               <l>Iob sibi <app>
+               <l><persName ref="#iob">Iob</persName> sibi <app>
                      <lem>femineum</lem>
                      <rdg wit="#G">femineum<note>in ras.</note></rdg>
                   </app> iuuenili <app>
