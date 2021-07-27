@@ -15,12 +15,21 @@
                <witness xml:id="S">
                   <msDesc>
                      <msIdentifier>
-                        <repository>Württembergische Landesbibliothek</repository>
+                        <repository>Stuttgart, Württembergische Landesbibliothek</repository>
                         <idno>Bibl. 2°58</idno>
+                        <objectName>Stuttgarter Passionale</objectName>
                         <altIdentifier type="url">
                            <idno>http://digital.wlb-stuttgart.de/purl/bsz332502295</idno>
                         </altIdentifier>
                      </msIdentifier>
+                     <head><title type="incipit">Incipit uita ·s· wiberadę uirginis et martyris</title></head>
+                     <msContents>
+                        <msItem>
+                           <bibl>
+                              <biblScope>fol. 130r-138v</biblScope>
+                           </bibl>
+                        </msItem>
+                     </msContents>
                   </msDesc>
                </witness>
                <witness xml:id="A">
@@ -45,9 +54,13 @@
                </witness>
                <witness xml:id="Boll">
                   <bibl>
-                     <author/>
+                     <editor>Gesellschaft der Bollandisten</editor>/>
                      <title>Acta Sanctorum Mai t. 1</title>
-                  </bibl>
+                     <idno type="Nachdruck">https://gallica.bnf.fr/ark:/12148/bpt6k6036w</idno>
+                     <biblScope>p. 284-293</biblScope>
+                     <date>1680</date>
+                     <placeName>Antwerpen</placeName>
+                  </bibl>                  
                </witness>
                <witness xml:id="G">
                   <msDesc>
@@ -86,7 +99,8 @@
                   <note type="bio">dux Alamannorum</note>
                   <birth type="ca." when="0883"/>
                   <death when="0926-04"/>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Burchard_II._(Schwaben)</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Burchard_II._(Schwaben)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/121574490</idno>
                </person>
                <person xml:id="cral">
@@ -102,7 +116,8 @@
                   <note>decanus S. Galli</note>
                   <birth when="0910"/>
                   <death when="0973-01-14"/>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ekkehard_I._(St._Gallen)</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Ekkehard_I._(St._Gallen)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/100940382</idno>
                </person>
                <person xml:id="eggi">
@@ -114,7 +129,8 @@
                   <persName>Ekkehartus IV</persName>
                   <birth type="ca." when="0980"/>
                   <death when="1056"/>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ekkehard_IV._(St._Gallen)</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Ekkehard_IV._(St._Gallen)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118529722</idno>
                </person>
                <person xml:id="engi">
@@ -122,7 +138,8 @@
                   <persName type="alternativ">Engelbertus</persName>
                   <note type="bio">abbas</note>
                   <death when="0934-08-13"/>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Engilbert_II._von_St._Gallen</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Engilbert_II._von_St._Gallen</idno>
                </person>
                <person xml:id="gall">
                   <persName>S. Gallus</persName>
@@ -143,7 +160,8 @@
                <person xml:id="iohab">
                   <persName xml:lang="la">Iohannes baptista</persName>
                   <persName xml:lang="de">Johannes der Täufer</persName>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Johannes_der_T%C3%A4ufer</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Johannes_der_T%C3%A4ufer</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118557858</idno>
                </person>
                <person xml:id="kebi">
@@ -225,7 +243,8 @@
                   <note type="bio">Constantiensis episcopus</note>
                   <birth type="ca." when="0860"/>
                   <death type="ca." when="0919"/>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Salomo_III._von_Konstanz</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Salomo_III._von_Konstanz</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118964593</idno>
                </person>
                <person xml:id="sara">
@@ -241,7 +260,9 @@
                </person>
                <person xml:id="tobi">
                   <persName>Tobias</persName>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Tobias_(Sohn_des_Tobit)</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Tobias_(Sohn_des_Tobit)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118623028</idno>
                </person>
                <person xml:id="sata">
                   <persName>Satan</persName>
@@ -281,7 +302,8 @@
                </person>
                <person xml:id="zach">
                   <persName>Zacharias</persName>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Zacharias_(Vater_des_Johannes)</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Zacharias_(Vater_des_Johannes)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/1147236577</idno>
                </person>
             </listPerson>
@@ -289,53 +311,79 @@
                <place xml:id="alap">
                   <placeName xml:lang="la">provincia Alamannia</placeName>
                   <placeName xml:lang="de">Alemannien</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Alamannen</idno>
                </place>
-               <place type="river" xml:id="arar">
+               <place xml:id="arar">
                   <placeName xml:lang="la">araris fluvius</placeName>
                   <placeName xml:lang="de">Aare</placeName>
+                  <note type="description">Fluss</note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Aare</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4000019-9</idno>
                </place>
                <place xml:id="baio">
                   <placeName xml:lang="la">Baioariorum provincia</placeName>
                   <placeName xml:lang="de">Provinz der Bayern</placeName>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Stammesherzogtum_Baiern</idno>
                </place>
                <place xml:id="cell">
                   <placeName xml:lang="la">S. Georgii cella in montibus sita</placeName>
                   <placeName xml:lang="de">St. Georgen</placeName>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/St._Georgen_(St._Gallen)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4543890-0</idno>
                </place>
                <place xml:id="cons">
                   <placeName xml:lang="la">constantiensis</placeName>
                   <placeName xml:lang="de">Konstanz</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Konstanz</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4032215-4</idno>
                </place>
                <place xml:id="fric">
                   <placeName xml:lang="la">pagus Frichgowe</placeName>
                   <placeName xml:lang="de">Frickgau</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Frickgau</idno>
+                  <idno type="gnd">https://de.wikipedia.org/wiki/Frickgau</idno>
                </place>
                <place xml:id="ital">
                   <placeName xml:lang="la">Italia</placeName>
                   <placeName xml:lang="de">Italien</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Italien</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4027833-5</idno>
                </place>
                <place xml:id="emag">
                   <placeName xml:lang="la">S. Magni ecclesia (basilica)</placeName>
                   <placeName xml:lang="de">St. Mangen</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Kirche_St._Mangen</idno>
                </place>
                <place xml:id="pota">
                   <placeName xml:lang="la">Potamicus lacus</placeName>
                   <placeName xml:lang="de">Bodensee</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Bodensee</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4007403-1</idno>
                </place>
                <place type="river" xml:id="renu">
                   <placeName xml:lang="la">renus</placeName>
                   <placeName xml:lang="de">Rhein</placeName>
+                  <note type="description">Fluss</note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Rhein</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4049739-2</idno>
                </place>
                <place xml:id="rom">
                   <placeName xml:lang="la">Roma</placeName>
                   <placeName xml:lang="de">Rom</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Rom</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4050471-2</idno>
                </place>
                <place xml:id="syon">
                   <placeName type="normalisiert">Sion</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Zion</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4387761-8</idno>
                </place>
                <place xml:id="turi">
                   <placeName xml:lang="la">Turicinus pagus</placeName>
                   <placeName xml:lang="de">Zürichgau</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Z%C3%BCrichgau</idno>
                </place>
             </listPlace>
          </sourceDesc>
@@ -926,8 +974,8 @@
                reseruari precepit · partem etiam deuotis fidelibus commendans conseruari fecit ·
                quatenus una die in anno circumquaque de cellis uicinę mulieres congregatę · in amore
                dei et sanctorum eius lętificarentur · Cunque omnes aduocatę ad <placeName
-                  ref="#cell">cellam sancti georgii</placeName>
-               alacriter conuenissent · una earum opulentior cęteris <app>
+                  ref="#cell">cellam sancti georgii</placeName> alacriter conuenissent · una earum
+               opulentior cęteris <app>
                   <lem>aduenire</lem>
                   <rdg wit="#A #Boll">venire</rdg>
                </app> renuit · dicens se illius quidem elemosinę indigam nequaquam esse · Cunque hoc
@@ -1656,19 +1704,18 @@
                   <rdg wit="#Boll">adsunt</rdg>
                </app> quos aduenire credere noluistis · Senior etiam et monachus <persName
                   ref="#hitt">Hitto</persName> adhuc in <placeName ref="#emag">ęcclesia sancti
-                    magni</placeName> consistens quia ipsius
-               ęcclesię custos erat · secum deliberans ut nusquam fugeret · hortatu et preceptis
-               sanctę <persName ref="#wibo">wiboradę</persName> tandem compulsus · in proximum lucum
-               monti adiacenti inherentem cum duobus sibi famulantibus uix aufugit ·</p>
+                  magni</placeName> consistens quia ipsius ęcclesię custos erat · secum deliberans
+               ut nusquam fugeret · hortatu et preceptis sanctę <persName ref="#wibo"
+                  >wiboradę</persName> tandem compulsus · in proximum lucum monti adiacenti
+               inherentem cum duobus sibi famulantibus uix aufugit ·</p>
          </div>
          <div n="XXXIII(29)" xml:id="vw1_XXXIII.29">
             <p>Interea uesanus quidam et deo odibilis ascitis sibi similibus sociis · ad <placeName
-                  ref="#emag">sancti magni basilicam</placeName>
-               una properant · ignique supposito · cum mansiunculam sanctę uirginis exurere uellent
-               · diuina uirtute flammę restinctę sunt · Cunque effectum peruersę <pb ed="#S"
-                  n="136ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/273"/>
-               uoluntatis se non posse perficere cernerent · <seg type="cf."
-                  source="#Greg_Tur_Hist_VI_6"><app>
+                  ref="#emag">sancti magni basilicam</placeName> una properant · ignique supposito ·
+               cum mansiunculam sanctę uirginis exurere uellent · diuina uirtute flammę restinctę
+               sunt · Cunque effectum peruersę <pb ed="#S" n="136ra"
+                  facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/273"/> uoluntatis se
+               non posse perficere cernerent · <seg type="cf." source="#Greg_Tur_Hist_VI_6"><app>
                      <lem>circueuntes</lem>
                      <rdg wit="#A">circumeuntibus</rdg>
                      <rdg wit="#Boll">circumeuntes</rdg>
@@ -1710,9 +1757,9 @@
                ante suum transitum subueniret · deuotus et fide <app>
                   <lem>firmatus</lem>
                   <rdg wit="#A">formatus</rdg>
-               </app> aduenit · Cunque <placeName ref="#emag">ęcclesiam sancti magni</placeName> orandi gratia intraret · rogat se ad uenerandę
-               uirginis sepulchrum duci · ibique querulas preces domino fundens cum sanctę martyris
-               auxilium flagitasset · <app>
+               </app> aduenit · Cunque <placeName ref="#emag">ęcclesiam sancti magni</placeName>
+               orandi gratia intraret · rogat se ad uenerandę uirginis sepulchrum duci · ibique
+               querulas preces domino fundens cum sanctę martyris auxilium flagitasset · <app>
                   <lem>surrexit</lem>
                   <rdg wit="#A #Boll">surrexerunt</rdg>
                </app> · et quia antea audiuit clausulę eius murum aspergine sancti cruoris infusum ·
@@ -1746,16 +1793,15 @@
                familia ad monasterium rediit · Sed et alii multi ex diuersis locis in idipsum
                castellum congregati ad propria remearunt · Predictus etiam monachus et presbyter
                tercio die passionis eius rediens clam ad <placeName ref="#emag">basilicam sancti
-                     magni</placeName> sibi commendatam ·
-               assumptisque quibusdam de fratribus et laicis una cum illis et fideli eius ministra
-               intrantes clausulam ubi sancta membra iacebant · solitam orationem super illam
-               fecerunt · Cunque sanctum corpusculum iugi parsimonia consumptum · et <ref type="cf."
-                  target="#vw1_XXXIX.35">ossa arida uix tenui cute et neruis coherentia</ref> ad
-               lauandum cilicio cruore rigente nudarent · <seg type="cf."
-                  source="#Ado_Pass_Des_441C">uulnera capitis sana reppererunt · pedes etiam antea
-                  asperitate duri et nimii frigoris truncatos sanitati pristinę redintegratos
-                  inuenerunt</seg> · uno tantum brachio et crure sicut adhuc uiuens ad se
-               contraxerat aliquantulum curuatis · Inspicientes etiam corpusculum inuenerunt
+                  magni</placeName> sibi commendatam · assumptisque quibusdam de fratribus et laicis
+               una cum illis et fideli eius ministra intrantes clausulam ubi sancta membra iacebant
+               · solitam orationem super illam fecerunt · Cunque sanctum corpusculum iugi parsimonia
+               consumptum · et <ref type="cf." target="#vw1_XXXIX.35">ossa arida uix tenui cute et
+                  neruis coherentia</ref> ad lauandum cilicio cruore rigente nudarent · <seg
+                  type="cf." source="#Ado_Pass_Des_441C">uulnera capitis sana reppererunt · pedes
+                  etiam antea asperitate duri et nimii frigoris truncatos sanitati pristinę
+                  redintegratos inuenerunt</seg> · uno tantum brachio et crure sicut adhuc uiuens ad
+               se contraxerat aliquantulum curuatis · Inspicientes etiam corpusculum inuenerunt
                cicatrices ferreę catenulę qua se circumligatam habebat <app>
                   <lem>sulcatas</lem>
                   <rdg wit="#S #Boll"><note>deest</note></rdg>

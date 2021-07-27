@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Uita sanctae Uuiboradę virginis atque martyris Christi</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Stiftsbibliothek St. Gallen</repository>
+                        <idno>560</idno>
+                        <altIdentifier type="url">
+                           <idno>https://www.e-codices.unifr.ch/de/list/one/csg/0560</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <bibl><biblScope>p. 374-544</biblScope></bibl>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="B"><msDesc>
+                     <msIdentifier>
+                        <repository>Stiftsbibliothek St. Gallen</repository>
+                        <idno>564</idno>
+                        <altIdentifier type="url">
+                           <idno>https://www.e-codices.unifr.ch/en/list/one/csg/0564</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <bibl><biblScope>p. 231-320</biblScope></bibl>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="C">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Heidelberg, Universitätsbibliothek</repository>
+                        <idno>Sal. IX 21</idno>
+                        <altIdentifier type="url">
+                           <idno>https://digi.ub.uni-heidelberg.de/diglit/salIX21</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <bibl><biblScope>f. 62r-79r</biblScope></bibl>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Vad_70"><msDesc>
+                     <msIdentifier>
+                        <repository>Kantonsbibliothek (Vadiana), St. Gallen</repository>
+                        <idno>70 (L12)</idno>
+                        <altIdentifier type="url">
+                           <idno>https://www.e-codices.unifr.ch/en/list/one/vad/0070</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <bibl><biblScope>f. 25v-36v</biblScope></bibl>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Sang_610"><msDesc>
+                     <msIdentifier>
+                        <repository>Stiftsbibliothek St. Gallen</repository>
+                        <idno>610</idno>
+                        <altIdentifier type="url">
+                           <idno>https://www.e-codices.unifr.ch/en/list/one/csg/0610</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <bibl><biblScope>p. 113a-132b</biblScope></bibl>
+                        </msItem>
+                     </msContents>
+                  </msDesc></witness>
+               <witness xml:id="Basil_D.I.18"><msDesc>
+                     <msIdentifier>
+                        <repository>Universitätsbibliothek Basel</repository>
+                        <idno>D I 18</idno>
+                     </msIdentifier>
+                     <head>
+                        <origPlace>Kartäuserkloster St. Margarethen in Kleinbasel</origPlace>
+                        <origDate>1508</origDate>
+                     </head>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <!--<encodingDesc>
+         <variantEncoding location="internal" method="parallel-segmentation"/>
+      </encodingDesc>-->
+   </teiHeader>
+   <text>
+      <body>
+         <div type="prologue">
+            <pb ed="#A" n="374" facs="https://www.e-codices.unifr.ch/de/csg/0560/374"/>
+            <head>INCIPIT PROLOGVS HERIMANNI CNOBIT SANCTI GALLI DE VITA SANCT VVIBORAD VIRGINIS
+               ATQUE MARTYRIS CHRISTI</head>
+         </div>
+         <div type="contents">
+            <head>CAPITULA LIBRI SEQUENTIS</head>
+            <list>
+               <item n="I">Quali parentela beata uuiborada originem duxit · et qualis eius
+                  conuersatio in annis infantię fuit · <ptr target="#vw2_I"/></item>
+               <item n="II">Quam laudabile sit nomen illius · <ptr target="#vw2_II"/></item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
