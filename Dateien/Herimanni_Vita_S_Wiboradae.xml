@@ -117,9 +117,47 @@
          <div type="contents">
             <head>CAPITULA LIBRI SEQUENTIS</head>
             <list>
-               <item n="I">Quali parentela beata uuiborada originem duxit · et qualis eius
-                  conuersatio in annis infantię fuit · <ptr target="#vw2_I"/></item>
-               <item n="II">Quam laudabile sit nomen illius · <ptr target="#vw2_II"/></item>
+               <item n="I"><ref target="#vw2_I">Quali parentela beata uuiborada originem duxit · et
+                     qualis eius conuersatio in annis infantię fuit ·</ref></item>
+               <item n="II"><ref target="#vw2_II">Quam laudabile sit nomen illius ·</ref></item>
+               <item n="III"><ref target="#vw2_III">Quomodo quędam soror illius noluit ad chorum
+                     exire cum coequalibus · eo quod audisset angelicos concentus ·</ref></item>
+               <item n="IIII"><ref target="#vw2_IIII">Qualis eius conuersatio fuit · quando ad
+                     intellegibilem aetatem peruenit ·</ref></item>
+               <item n="V"><ref target="#vw2_V">Quomodo quodam festo die cum parentibus ad ęcclesiam
+                     processura · noluit priuatam uestem mutare nisi ab illis coacta · et quod
+                     grauiter caput dolore coepit in uia · quodque <pb ed="#A" n="387"
+                        facs="https://www.e-codices.unifr.ch/de/csg/0560/387"/> illa dies maximę
+                     fuit inceptiua non amare transitoria ·</ref></item>
+               <item n="VI"><ref target="#vw2_VI">Quod frater eius hitto eam psalmos docturus · cum
+                     eum tederet inceptus · per uisionem est correptus ·</ref></item>
+               <item n="VII"><ref target="#vw2_VII">Quomodo in dominica incipientis quadragesimae ·
+                     adiuta est fratrem suum in missarum celebratione · </ref></item>
+               <item n="VIII"><ref target="#vw2_VIII">Quomodo hortata est eundem fratrem suum · ut
+                     relictis omnibus monachicum susciperet habitum · illoque prebente consensum ·
+                     presbiter ęcclesię beati magni efficitur ad ultimum ·</ref></item>
+               <item n="VIIII"><ref target="#vw2_VIIII">Quale propositum elegit sibimet ipsi post
+                     fratris conuersionem · et quomodo diabolus eam terruit · ad basilicam nocte
+                     gradientem ·</ref></item>
+               <item n="X"><ref target="#vw2_X">Quomodo seruientem cuiusdam matronę doemoniosum ·
+                     suis precibus reddidit <app>
+                        <lem>sensatum</lem>
+                        <rdg wit="#A">sensatim</rdg>
+                        <rdg wit="#B">sensatum<note>corr. ex «sensatim»</note></rdg>
+                     </app> ·</ref></item>
+               <item n="XI"><ref target="#vw2_XI">Quomodo diabolus ei infamiam adulterii per quandam
+                     ipsius ancillam impingebat · et qualiter diuina clementia coram salomone
+                     episcopo · copiosaque multitudine eius innocentiam per iudicium comprobabat
+                     ·</ref></item>
+               <item n="XII"><ref target="#vw2_XII">Quomodo ultio diuinitus illata est eidem ancillę
+                     ·</ref></item>
+               <pb ed="#A" n="388" facs="https://www.e-codices.unifr.ch/de/csg/0560/388/0/"/>
+               <item n="XIII"><ref target="#vw2_XIII">Quod salomon episcopus post iudicium eam in
+                     tantum amare coepit · quod etiam cum equitatu illam ad constantiam perduci
+                     precepit · illaque spreto equitatu ad pedes eundo eo peruenit ·</ref></item>
+               <item n="XIIII"><ref target="#vw2_XIIII">Quomodo cilia reclusa eam diuinis eloquiis
+                     ędificatura · ei ostendit sua marsupia · illius oboedientiam in horum
+                     feneratoria augmentatione probatura ·</ref></item>
             </list>
          </div>
       </body>

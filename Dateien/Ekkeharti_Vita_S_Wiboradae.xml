@@ -22,7 +22,9 @@
                            <idno>http://digital.wlb-stuttgart.de/purl/bsz332502295</idno>
                         </altIdentifier>
                      </msIdentifier>
-                     <head><title type="incipit">Incipit uita ·s· wiberadę uirginis et martyris</title></head>
+                     <head><title type="incipit">Incipit uita ·s· wiberadę uirginis et
+                           martyris</title>
+                        <origDate type="ca.">1144</origDate></head>
                      <msContents>
                         <msItem>
                            <bibl>
@@ -54,13 +56,13 @@
                </witness>
                <witness xml:id="Boll">
                   <bibl>
-                     <editor>Gesellschaft der Bollandisten</editor>/>
-                     <title>Acta Sanctorum Mai t. 1</title>
+                     <editor>Gesellschaft der Bollandisten</editor>/> <title>Acta Sanctorum Mai t.
+                        1</title>
                      <idno type="Nachdruck">https://gallica.bnf.fr/ark:/12148/bpt6k6036w</idno>
                      <biblScope>p. 284-293</biblScope>
                      <date>1680</date>
                      <placeName>Antwerpen</placeName>
-                  </bibl>                  
+                  </bibl>
                </witness>
                <witness xml:id="G">
                   <msDesc>
@@ -68,9 +70,15 @@
                         <repository>St. Gallen, Stiftsbibliothek</repository>
                         <idno>393</idno>
                         <altIdentifier type="url">
-                           <idno>https://www.e-codices.unifr.ch/de/list/one/csg/0393</idno>
+                           <idno>https://www.e-codices.unifr.ch/de/csg/0393/260</idno>
                         </altIdentifier>
                      </msIdentifier>
+                     <head><title>Epitaphium sanctę Rachildę uirginis reclusę ·</title></head>
+                     <msContents>
+                        <msItem>
+                           <bibl><biblScope>p. 260</biblScope></bibl>
+                        </msItem>
+                     </msContents>
                   </msDesc>
                </witness>
             </listWit>
@@ -398,16 +406,18 @@
             <pb ed="#S" n="130ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/>
             <head>
                <app>
-                  <lem>Incipit uita ·s· wiberadę uirginis et martyris</lem>
-                  <rdg wit="#A">Incipit vita et passio sancte Wiborade virginis et martiris · aput
-                     sanctum gallum ·vj· nonas may</rdg>
+                  <lem>Incipit uita ·s· <persName ref="#wibo">wiberadę</persName> uirginis et
+                     martyris</lem>
+                  <rdg wit="#A">Incipit vita et passio sancte <persName ref="#wibo"
+                        >Wiborade</persName> virginis et martiris · aput sanctum <persName
+                        ref="#gall">gallum</persName> ·vj· nonas may</rdg>
                   <rdg wit="#Boll"><note>Incipit deest</note></rdg>
                </app> ·</head>
          </div>
          <div n="I(1)" xml:id="vw1_I.1">
             <p><hi>BEATISSIMA</hi> igitur uirgo dei <persName ref="#wibo">wiborada</persName> ex <app>
                   <lem><persName ref="#alam">alamannorum</persName></lem>
-                  <rdg wit="#Boll">Alemannorum</rdg>
+                  <rdg wit="#Boll"><persName ref="#alam">Alemannorum</persName></rdg>
                </app><cb ed="#S" n="130rb"/> qui et <persName ref="#sueu">sueui</persName> stirpe
                oriunda · parentibus bene natis uitęque laudabilis nobilitate pollentibus ·
                christianę quoque militię exercitio <app>
@@ -463,7 +473,7 @@
                </app>
                <persName ref="#ragu">raguelis</persName> filia <app>
                   <lem><persName ref="#tobi">tobie</persName></lem>
-                  <rdg wit="#S">tobis</rdg>
+                  <rdg wit="#S"><persName ref="#tobi">tobis</persName></rdg>
                </app> sancti coniuge futura · domino fiducialiter dicere et ipsa proposuerit · <seg
                   type="cf." source="#Tb_3.17">Nunquam cum ludentibus miscui me · neque cum his qui
                   in leuitate ambulant</seg> · Nec mirum si spiritus sanctus in tempore ue<pb
@@ -829,13 +839,13 @@
                uariis deliciarum uteretur opulentiis · exceptis duabus quę ei familiares erant ·
                quarum una <app>
                   <lem><persName ref="#kebi">kebini</persName></lem>
-                  <rdg wit="#Boll">Kebeni</rdg>
+                  <rdg wit="#Boll"><persName ref="#kebi">Kebeni</persName></rdg>
                   <rdg source="#Acta_SS_Maii_7_552"><note>Contra fidem codicis Augustani
-                        contulerunt</note>Kelmi</rdg>
+                        contulerunt</note><persName ref="#kebi">Kelmi</persName></rdg>
                </app> altera <app>
                   <lem><persName ref="#pert">pertherada</persName></lem>
-                  <rdg wit="#A">bertheda</rdg>
-                  <rdg wit="#Boll">Bertherada</rdg>
+                  <rdg wit="#A"><persName ref="#pert">bertheda</persName></rdg>
+                  <rdg wit="#Boll"><persName ref="#pert">Bertherada</persName></rdg>
                </app> uocabatur · quę pia sodalitate germanę multa tempora in sanctę uirginis
                ministerio pariter perdurauere · Nam cum plerumque lautiora et delicatiora ciborum
                alimenta ei praepararentur · <seg type="cf." source="#Ven_Fort_Rad_4">istę ut
@@ -1173,8 +1183,8 @@
             <p>Quidam uenerabilis monachus et presbyter fuit in congregatione sancti <persName
                   ref="#gall">Galli</persName> literis eruditus et egregius praedicator nomine <app>
                   <lem><persName ref="#wald">waldrammus</persName></lem>
-                  <rdg wit="#A">wadramus</rdg>
-                  <rdg wit="#Boll">Waldramus</rdg>
+                  <rdg wit="#A"><persName ref="#wald">wadramus</persName></rdg>
+                  <rdg wit="#Boll"><persName ref="#wald">Waldramus</persName></rdg>
                </app> · Hic habuit familiarem quendam in ministerio sibimet carum · et fideliter
                seruientem · Per hunc ergo idem senior caritatis gratia sepius suam benedictionem
                dominę <persName ref="#wibo">wiboradę</persName> mittere consueuerat · Cunque hac
@@ -1345,7 +1355,7 @@
                </app> tantum scelus in te perpetrauit · uel tam sordidis et ruptis uestibus induit?
                At ille · tyrannus ait <app>
                   <lem><persName ref="#burc">burchardus</persName></lem>
-                  <rdg wit="#A">burckhardus</rdg>
+                  <rdg wit="#A"><persName ref="#burc">burckhardus</persName></rdg>
                </app> non dux sed praedator et desolator <app>
                   <lem>istius</lem>
                   <rdg wit="#A">huius</rdg>
@@ -1423,7 +1433,7 @@
                </app> benedictione percep<cb ed="#S" n="134vb" break="no"/>ta ad domicilium sanctę
                   <persName ref="#rach">rachildę</persName> processit · Quę a spirituali matre
                praemonita · illis uerbis similia promittentem · humiliter suscepit ac dimisit · <app>
-                  <rdg wit="#Boll"><note type="Kapitel">(23)</note></rdg>
+                  <rdg wit="#Boll"><note type="chapter">(23)</note></rdg>
                </app>Mane facto · sicut sancta uirgo praedixerat · inito consilio <app>
                   <lem>monachi</lem>
                   <rdg wit="#A">fratres</rdg>
@@ -1441,8 +1451,8 @@
             <p>Non post multum temporis idem dux iter suum dirigens ad <placeName ref="#ital"
                   >italiam</placeName> · <app>
                   <lem><persName ref="#regi">Reginlindę</persName></lem>
-                  <rdg wit="#A">relinginde</rdg>
-                  <rdg wit="#Boll">Rolingindae</rdg>
+                  <rdg wit="#A"><persName ref="#regi">relinginde</persName></rdg>
+                  <rdg wit="#Boll"><persName ref="#regi">Rolingindae</persName></rdg>
                </app> matronę sibimet in <app>
                   <lem>coniugium</lem>
                   <rdg wit="#Boll">matrimonium</rdg>
@@ -1490,13 +1500,13 @@
                quod paulisper caput reclinans obdormiuit · Hoc tenui somno per uisum ei reuelatum
                est seuam gentem <app>
                   <lem><persName ref="#unga">ungariorum</persName></lem>
-                  <rdg wit="#Boll">Hungarorum</rdg>
+                  <rdg wit="#Boll"><persName ref="#unga">Hungarorum</persName></rdg>
                </app> anno futuro in kalendis <app>
                   <lem>maii</lem>
                   <rdg wit="#S">mai<note>secundam «i» erasit</note></rdg>
                </app> aliis terris peruagatis et deuastatis ad monasterium sancti <app>
                   <lem><persName ref="#gall">Galli</persName></lem>
-                  <rdg wit="#A">Galli<note>nomen linea rubra produxit</note></rdg>
+                  <rdg wit="#A"><persName ref="#gall">Galli</persName><note>nomen linea rubra produxit</note></rdg>
                </app> peruenturam · et in eadem reuelatione ostensum est illi quod per martyrii
                gloriam ipsis paganis eam uulnerantibus <app>
                   <lem>sui laboris</lem>
@@ -1654,7 +1664,7 @@
                   <rdg wit="#A">somptibus</rdg>
                </app> uel usibus monachorum esse poterat · cum omni cautela et festinatione ad
                castellum transmisit · <app>
-                  <rdg wit="#Boll"><note type="Kapitel">(27)</note></rdg>
+                  <rdg wit="#Boll"><note type="chapter">(27)</note></rdg>
                </app>Uenerunt etiam <app>
                   <lem>et</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
@@ -1666,7 +1676,7 @@
                   <lem>seruabitur</lem>
                   <rdg wit="#A #Boll">salvabitur</rdg>
                </app> · Ite ad hospitium uestrum · et maturius surgentes uenite ad nos ut
-               benedictione dei <persName ref="#magn">sanctique magni</persName> de manibus nostris
+               benedictione dei sanctique <persName ref="#magn">magni</persName> de manibus nostris
                percepta · gaudentes redeatis ad propria · Illucescente itaque altera die propinqui
                beatę <persName ref="#rach">Rachildę</persName> sicut erant religiosi uerbis et
                consolationibus <app>
@@ -1880,8 +1890,8 @@
                </app> · Quibus etiam ante fenestram ędicule interfuit uenerabilis magister et
                monachus <app>
                   <lem><persName ref="#notk">notkerus</persName></lem>
-                  <rdg wit="#A">nocerus</rdg>
-                  <rdg wit="#Boll">Nokerus</rdg>
+                  <rdg wit="#A"><persName ref="#notk">nocerus</persName></rdg>
+                  <rdg wit="#Boll"><persName ref="#notk">Nokerus</persName></rdg>
                </app> medicus · Illa etiam fidelis ministra ambarum quondam uirginum in angulo
                ipsius cellulę paruo lectuli stramine ob cautelam <app>
                   <lem>custodię</lem>
@@ -1946,7 +1956,7 @@
             <p>His et tantis signorum uirtutibus iugiter ad sepulchrum beatę uirginis ostensis ·
                uenerabilis abbas <app>
                   <lem><persName ref="#engi">engilbertus</persName></lem>
-                  <rdg wit="#A">engelbertus</rdg>
+                  <rdg wit="#A"><persName ref="#engi">engelbertus</persName></rdg>
                </app> anniuersario depositionis illius tempore adueniente · <date when="0927-05-01"
                   >anteriori die</date> uocauit ad se <persName ref="#hitt">Hittonem</persName>
                monachum fratrem ipsius uenerandę martyris · et aliis plurimis patribus de
@@ -2010,7 +2020,7 @@
                   <placeName ref="#renu">renus</placeName> inundat · fuit quędam mater familias
                laudabilem uitam seculariter ducens nomine <app>
                   <lem><persName ref="#blit">blitdruda</persName></lem>
-                  <rdg wit="#A #Boll">hiltruda</rdg>
+                  <rdg wit="#A #Boll"><persName ref="#blit">hiltruda</persName></rdg>
                </app> beatę <persName ref="#rach">rachildę</persName> reclusę germana · <ref
                   type="cf." target="#vw1_XXXIX.35">Quę superueniente infirmitate tanta corpo<pb
                      ed="#S" n="137va"
@@ -2139,7 +2149,7 @@
                · inter reliquos circumstantes respiciens uirum uenerabilem eiusdem mo<cb ed="#S"
                   n="138rb" break="no"/>nasterii monachum et bene doctum <app>
                   <lem>nomine <persName ref="#egge">Eggehardum</persName></lem>
-                  <rdg wit="#S">nomine · Eggehardum<note>interpunxit</note></rdg>
+                  <rdg wit="#S">nomine · <persName ref="#egge">Eggehardum</persName><note>interpunxit</note></rdg>
                </app> · interrogabat eum dicens · Estne aliquid karissime ab aliquo fratrum quos
                doctissimos scimus de preclara sanctę uirginis uita et passione per literas memorię
                traditum? Cui ille · nemo ait adhuc eorum manum ad huiusmodi opus inchoandum extendit
@@ -2215,7 +2225,7 @@
                         <rdg wit="#A">et passio</rdg>
                      </app>sanctę <app>
                         <lem><persName ref="#wibo">Wiberadę</persName></lem>
-                        <rdg wit="#A">wiborade</rdg>
+                        <rdg wit="#A"><persName ref="#wibo">wiborade</persName></rdg>
                      </app> uirginis et martyris ·</lem>
                   <rdg wit="#Boll"><note>Explicit deest</note></rdg>
                </app></p>
@@ -2224,8 +2234,8 @@
             <head><app>
                   <lem><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
                      sancte <persName ref="#wibo">Wiberade</persName> ·</lem>
-                  <rdg wit="#A">Incipit epitalmus beate wiborade</rdg>
-                  <rdg wit="#Boll">Epitaphium B. Wiboradae</rdg>
+                  <rdg wit="#A">Incipit epitalmus beate <persName ref="#wibo">wiborade</persName></rdg>
+                  <rdg wit="#Boll">Epitaphium B. <persName ref="#wibo">Wiboradae</persName></rdg>
                </app></head>
          </div>
          <div>
