@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div corresp="#vw2_prol">
+            <p>Herimanns, Mönch in St. Gallen, Vorrede zum Leben der heiligen Wiborada, Jungfrau und
+               Martyrin Christi.</p>
+            <p>Den modernen Schriftstellern wird meist von den Vätern vorgehalten,
+               sie veränderten die Überlieferung der Alten in Schrift oder Tat, und vorgeworfen, sie
+               träten ihre Tugenden mit Füßen und ließen nichts als ihre eigenen Werke gelten. Doch
+               muß man der Väter ehrwürdiges Alter in Betracht ziehen, das sie des Verdachtes
+               enthebt, daß sie irgendetwas tadelten, nicht weil sie es für plump und abgeschmackt
+               halten, sondern nur, weil es neu ist ›und weil sie nur gelten lassen, was ihnen
+               selbst gefiel, oder weil es sie geniert, sich Jüngeren zu fügen und als Alte das
+               wertlos zu nennen, was sie als bartlose Knaben einst erlernten‹. ›Ich bin nicht
+               persönlich dem Livius gram und nicht der Meinung, daß seine Gedichte getilgt werden
+               sollen‹. Denn da ich las, daß einer der Früheren Gott gebeten habe, den Geist
+               irgendeines Menschen zu erwecken, um seine Jungfrau Wiborada, schön an so vielen
+               Tugenden, mit einem zierlicheren Stil gefällig darzustellen, wozu soll ich dann erst
+               von den Späteren sprechen, die sich dies gewünscht haben, da doch schon einige von
+               ihnen sich an diesem Werk versuchen wollten, wenn ein Aufschub ihres zeitlichen
+               Lebens ihren Wünschen entsprochen hätte. Dennoch hatte ich niemals im Sinn, so etwas
+               anzufangen, indem ich einmal die Ungeschliffenheit meines Geistes erwog, dann
+               wiederum, damit man nicht von mir glaube, ich wolle durch meinen Eifer zu meinen
+               Gunsten die Nachlässigkeit der Väter kritisieren. Diese Kritik geschieht gewöhnlich
+               auf zwei Arten: entweder aus freien Stücken, wenn sich einer überheblich anmaßt, ›den
+               schlafenden Homer‹ zu wecken, oder wenn sich einer wie Tucca und Varius nach Virgils
+               vorzeitigem Tod gehorsam bemüht, nur das ›Überflüssige‹ abzuschneiden. Zu jenem ruft
+               die Überheblichkeit auf, zu diesem zwingt der Gehorsam. Der Gehorsam, wie ihr wißt,
+               ihr Lieben, ist uns notwendig, wenn wir in Vollkommenheit den Ertrag der Freiheit
+               gewinnen wollen. Denn obwohl ihn jedes menschliche Geschöpf gegenüber Gott leisten
+               muß, wie der Apostel mahnt, betrifft es dennoch besonders jene, unter deren Leitung
+               wir in den Klöstern leben und von denen wir genau wissen, daß sie vor dem strengen
+               Richter Rechenschaft ablegen werden für unsere Vergehen und daß es, wenn sie sich
+               entschuldigen können, unsere Verdammung bedeutet. Als du, ehrwürdiger Vater Ulrich,
+               im Jahre 1072 der Fleischwerdung des Herrn durch seine wunderbare Fügung zu dieser
+               Leitung berufen und zum Nachfolger deines Abtes Nortpert guten Andenkens, der 38
+               Jahre über die Herde des heiligen Gallus gewacht hatte, nicht nur aufgrund einer
+               erfreulichen Anordnung, sondern auch durch die gemeinsame Wahl der Brüder erhoben
+               wurdest, da hast du mir, wie es deiner Väterlichkeit gefiel, die Last aufgebürdet,
+               die ich früher scheute, meiner Nichtigkeit aufzuerlegen, nämlich mich zu bemühen, das
+               Leben der denkwürdigen Jungfrau, das bisweilen wegen der Einfalt verschiedener
+               Schriftsteller im Überfluß der Worte gleichsam in Blättern wuchert, mit der Sichel
+               knapperen Ausdrucks zu stutzen. Ich aber habe, obwohl ich in diesem Gehorsam mir
+               bewußt bin, eine untragbare Last meinen schwachen Schultern aufzuladen, dennoch nicht
+               die Zunge zu Worten des Widerspruchs gespitzt und vorgezogen, eher unter dem
+               Rutenbündel deiner Vorschriften zu sterben, als diesen zu widersprechen und in den
+               Ruf des Ungehorsams zu geraten. ›Auch will ich ‹— um mit einem Grammatiker zu
+               sprechen — ›ein Beispiel vor Augen stellen, damit es die andern nicht verdrieße, das,
+               was ich in Unkenntnis übergangen oder falsch gesagt habe, — denn ich glaube, daß
+               nichts an menschlichen Erfindungen wirklich vollkommen sein kann — durch eigenen
+               Fleiß hinzuzufügen oder zu verändern.‹ Aber bevor ich daran gehe, die mir
+               aufgebürdete Last abzutragen, meine ich, es sei der Mühe wert, kurz vorzutragen,
+               durch welche Männer die wunderbaren Taten dieser Jungfrau den Nachfahren zum
+               erstenmal bekannt wurden, damit keiner den Makel der Fehlerhaftigkeit meinem Buch
+               anlaste, wenn eröffnet wird, daß ich nicht ein neuer Autor dieses Berichtes bin,
+               sondern vielmehr Gefolgsmann anderer Autoren. In jener Zeit also, als der ehrwürdige
+               Craloh die klösterliche Gemeinschaft des heiligen Gallus leitete, war darunter auch
+               ein Bruder namens Ekkehard, ein Mann, der nur aus Weisheit und Tugenden bestand. Als
+               dieser einmal fast an der Wassersucht gestorben wäre, gelobte er der heiligen
+               Wiborada, alles, was er über ihre Heiligkeit in Erfahrung bringen könnte, schriftlich
+               niederzulegen, wenn sie ihm alsbald ein Heilmittel bei Gott erbitte. O du großer Arzt
+               mit Rute und Stab, o du, der du die Heiligkeit deiner Erwählten vermehrst! Auf der
+               Stelle kam ihm in den Sinn, sich die Kutte der Martyrin bringen zu lassen und sie auf
+               die wassersüchtigen Glieder auszubreiten. Sobald dies verrichtet war, fühlte er sich
+               sofort etwas besser und nach wenigen Tagen war er wieder vollständig gesund. Da
+               erinnerte er sich an sein Gelübde, suchte Kebeni auf, die der heiligen Jungfrau von
+               ihrer Wiege an bis zum Zeitpunkt des Todes diente, und erzählte ihr, durch welche
+               Gelübde er sich verpflichtet hatte, und daß er am nächsten Tag zu ihr kommen werde,
+               um ausführlicher von ihr über dieses Thema unterrichtet zu werden. Bei seinen Worten
+               wunderte sie sich sehr und fürchtete sich auch nicht wenig, weil die Krankheit des
+               Vergessens das, was von ihr zu erfragen war, schon längst aufgesogen hatte.
+               Schließlich warf sie sich auf den Rat eines Priesters am Grab ihrer Herrin nieder, um
+               darum zu beten, daß jener selbst, der durch Esdras das von den Chaldäern verbrannte
+               Gesetz wieder aufrichten wollte, die Verdienste seiner Martyrin, inwieweit sie nach
+               der Erinnerung der Menschen in Vergessenheit geraten waren, durch sie enthüllen möge.
+               Nachdem sie noch mehr Bitten dieser Art verrichtet hatte, erhob sie sich und trat mit
+               nicht minderer Angst aus der Basilika, als sie hineingegangen war. Denn sie wußte
+               nicht, daß ihr der Trost sehr nahe war. In der folgenden Nacht aber, als sie sich dem
+               Schlaf hingegeben hatte, schien es ihr, als ob sie nochmals den Ort des Gebets
+               aufsuchte und als ob die selige Jungfrau ihr ein Pergamentstückchen mit goldenen
+               Buchstaben entgegenhielt und dazu sprach: «Nimm das Gewünschte!» Bald wachte sie auf,
+               jede Gebrechlichkeit ihres Vergessens war weggeblasen, sie verfügte so vollkommen
+               über die Kraft ihrer Erinnerung und war am folgenden Tag nicht nur ganz beruhigt
+               darüber, was sie besagtem Bruder antworten solle, sondern lud darüber hinaus von sich
+               aus dazu ein, ihm das gewünschte Thema von Anfang an bis zum Empfang des
+               Siegespreises mit der Martyrerpalme mitzuteilen. Jener aber ›nahm es ins Innerste
+               seiner Sinne auf‹ und in glühender Aufmerksamkeit rief er mit dem Psalmisten aus:
+               ›Mir obliegen, Gott, Gelübde gegen dich, Dankopfer, die ich darbringen will, denn du
+               hast mich dem Tode entrissen‹ Aber als er zum Teil diese Gelübde erfüllt hatte, wehe,
+               kam ihm der schreckliche Tod zuvor. Doch hatte er für sein Vorhaben viele Erben. Da
+               aber das Wissen einzelner verschieden ist, vermischten sie bisweilen weniger
+               Notwendiges mit Notwendigem. Ich, der ich ihren Spuren nachsetze, habe mich darum
+               bemüht, das, was mir der Erinnerung wert schien, knapp zusammenzutragen, um die
+               Heiligkeit dieser Jungfrau zu bestätigen, nicht um jenen einen Vorwurf zu machen,
+               sondern weil es der Wahrheit mehr entspricht, besonders aber, um dir zu gehorchen,
+               wie ich oben schon gesagt habe, ehrwürdigster Vater. </p>
+         </div>
+      </body>
+   </text>
+</TEI>
