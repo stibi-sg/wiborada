@@ -109,12 +109,13 @@
    </teiHeader>
    <text>
       <body>
-         <div type="prologue" xml:id="prol">
+         <div type="prologue" xml:id="vw2_prol">
             <pb ed="#A" n="374" facs="https://www.e-codices.unifr.ch/de/csg/0560/374"/>
             <head>INCIPIT PROLOGVS <app>
-                  <lem>HERIMANNI</lem>
-                  <rdg wit="#A #B">HEPIMANNI<note>graecissando scripsit Herimannus in autographo
-                        Sangall. cod. 560, quod scriptor codicis 564 imitatus est</note></rdg>
+                  <lem><persName ref="#heri">HERIMANNI</persName></lem>
+                  <rdg wit="#A #B">HEPIMANNI<note>graecissando scripsit <persName ref="#heri"
+                           >Herimannus</persName> in autographo Sangall. cod. 560, quod scriptor
+                        codicis 564 imitatus est</note></rdg>
                   <rdg wit="#Vad_70 #Sang_610">Hepidanni</rdg>
                </app> CĘNOBITĘ SANCTI <persName ref="#gall">GALLI</persName> DE VITA SANCTĘ
                   <persName ref="#wibo">VVIBORADĘ</persName> VIRGINIS <app>
@@ -143,75 +144,109 @@
                         </app></seg></l>
                   <l><seg source="#Hor_epist_II_I.70">esse reor ·</seg></l>
                </lg> Cum enim legerim aliquem priorum deum orasse · quo dignaretur alicuius spiritum
-               suscitare · qui uirginem suam wiboradam tot uirtutibus decoram uenustiori stilo
-               faceret saporam · quid dicam posteros optasse · <ref target="#vw1_XLV.40">cum aliqui
-                  eorum si temporalis uitae dilatio illorum uotis responderet hoc opus uoluissent
-                     adtem<pb ed="#A" n="377"
+               suscitare · qui uirginem suam <persName ref="#wibo">wiboradam</persName> tot
+               uirtutibus decoram uenustiori stilo faceret saporam · quid dicam posteros optasse ·
+                  <ref target="#vw1_XLV.40">cum aliqui eorum si temporalis uitae dilatio illorum
+                  uotis responderet hoc opus uoluissent adtem<pb ed="#A" n="377"
                      facs="https://www.e-codices.unifr.ch/de/csg/0560/377/0/" break="no"
                   />ptare</ref> · tamen numquam in animum duxi quid tale aggredi · tum considerans
                rusticitatem mei ingenii · tum ne putarer meo studio mihi ad fauorem patrum
                negligentiam uelle denotare · hęc denotatio duobus modis euenire solet · cum uel
-               quilibet arrogans iniussus presumit suscitare dormitantemd homerum · uel cum tucca et
-                  uar<supplied>i</supplied>o quis oboediens preuento morte uirgilio tantum superflua
-               studet · precidere · Ad illud prouocat arrogantia · ad istud cogit oboedientia ·
+               quilibet arrogans iniussus presumit suscitare <seg source="#Hor_ars_359"><app>
+                     <lem>dormitantem</lem>
+                     <rdg wit="#B">dormientem</rdg>
+                  </app>
+                  <persName ref="#home">homerum</persName></seg> · <seg
+                  source="#Serv_Virg_Aen_I_praef">uel cum <persName ref="#tucc">tucca</persName> et
+                     <persName ref="#vari">uar<supplied>i</supplied>o</persName> quis oboediens
+                  preuento morte <persName ref="#virg">uirgilio</persName> tantum superflua studet ·
+                  precidere</seg> · Ad illud prouocat arrogantia · ad istud cogit oboedientia ·
                Oboedientia ut nostis karissimi nobis est necessaria · si perfecte libertatis cupimus
-               adipisci‖ compendia · hęc enim quamuis omni humanę creaturę ut apostolus hortatur ·
-               sit exhibenda propter deum · specialius tamen ad illos respicit · sub quorum regimine
-               in cęnobiis degentes · districto iudici rationem de nostris excessibus reddituros pro
-               certo scimus · illorumque excusationem · nostram fore damnationem · Ad quod regimen
-               tu uenerabilis pater ǒdalrice · anno millesimo septuagesimo secundo incarnationis
-               domini eius mira dispensatione uocatus · cum bonę memorię abbatis tui nortperti ·
-               tunc triginta et octo annis super ouile‖ sancti GALLI uigilantis · non solum amabili
-               praeceptione · uerum etiam communi fratrum electione successor effectus · prout
-               complacuit tuae paternitati onus iniunxisti · quod prius exhorrui imponere meę
-               paruitati · nempe ut uitam memoratę uirginis · interdum propter diuersorum
-               simplicitatem scriptorum · superfluitate uerborum quasi quibusdam foliis exuberantem
-               · falce strictioris eloquii praecidere studerem · At ego quamquam in hac oboedientia
-               me scirem onus importabile debilibus aptare humeris · tamen non exacui linguam uerbis
-               ‖ contradictionis · eligens mihi satius esse sub praeceptorum tuorum fasce deficere ·
-               quam eis repugnando titulum inoboedientię incurrere · Exemplum etiam cum grammatico
-               proponere placuit · ne pigeat alios etiam a me · uel ignorantia forte pretermissa ·
-               uel uitiose dicta · nihil enim ex omni parte perfectum in humanis credo esse
-               inuentionibus posse · sua quoque industria uel addere uel mutare · Sed antequam mihi
-               alligatum onus ad aptandum moueam · operę precium esse duco · breuiter in medium
-               proferre · ‖ per quos pręclara gesta huius uirginis posteris primitus innotuerint ·
-               ut cum aperietur me non huius relationis esse nouum auctorem · sed potius auctorum
-               sequacem · nullus uitium falsitatis adnotet meę paginę · Tempore igitur quo
-               uenerabilis gralo congregationem sancti Galli rexit · fuit in ea quidam frater nomine
-               ekkehardus · uir totus ex sapientia uirtutibusque factus · Is cum quodam tempore
-               ydrope ad extrema poene ductus esset · uouit beatae wiboradae omnia quę de eius
-               sanctitate posset comperire literis se traditurum · si ei ad ‖ presens dignaretur a
+               adipisci <pb ed="#A" n="378" facs="https://www.e-codices.unifr.ch/de/csg/0560/378"/>
+               compendia · hęc enim quamuis <seg source="#I_Pt_2.13">omni humanę creaturę ut
+                  apostolus hortatur · sit exhibenda propter deum</seg> · specialius tamen ad illos
+               respicit · sub quorum regimine in cęnobiis degentes · districto iudici rationem de
+               nostris excessibus reddituros pro certo scimus · illorumque excusationem · nostram
+               fore damnationem ·</p>
+            <p>Ad quod regimen tu uenerabilis pater <persName ref="#auod">ǒdalrice</persName> ·
+                  <date when="1072">anno millesimo septuagesimo secundo incarnationis domini</date>
+               eius mira dispensatione uocatus · cum bonę memorię abbatis tui <persName ref="#nort"
+                  >nortperti</persName> · <date from="1034" to="1072">tunc triginta et octo annis
+                  super ouile <pb ed="#A" n="379"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/379/0/"/> sancti <persName
+                     ref="#gall">GALLI</persName> uigilantis</date> · non solum amabili praeceptione
+               · uerum etiam communi fratrum electione successor effectus · prout complacuit tuae
+               paternitati onus iniunxisti · quod prius exhorrui imponere meę paruitati · nempe ut
+               uitam memoratę uirginis · interdum propter diuersorum simplicitatem scriptorum ·
+               superfluitate uerborum quasi quibusdam foliis exuberantem · falce strictioris eloquii
+               praecidere studerem · At ego quamquam in hac oboedientia me scirem onus importabile
+               debilibus aptare humeris · tamen non <seg type="cf." source="#Ps_63.4">exacui linguam
+                  uerbis</seg>
+               <pb ed="#A" n="380" facs="https://www.e-codices.unifr.ch/de/csg/0560/380/0/"/>
+               contradictionis · eligens mihi satius esse sub praeceptorum tuorum fasce deficere ·
+               quam eis repugnando titulum inoboedientię incurrere · <seg source="#Prisc_iul_2.2"
+                  >Exemplum etiam cum grammatico proponere placuit · ne pigeat alios etiam a me ·
+                  uel ignorantia forte pretermissa · uel uitiose dicta · nihil enim ex omni parte
+                  perfectum in humanis credo esse inuentionibus posse · sua quoque industria uel
+                  addere uel mutare</seg> · Sed antequam mihi alligatum onus ad aptandum moueam ·
+               operę precium esse duco · breuiter in medium proferre · <pb ed="#A" n="381"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/381/0/"/> per quos pręclara gesta
+               huius uirginis posteris primitus innotuerint · ut cum aperietur me non huius
+               relationis esse nouum auctorem · sed potius auctorum sequacem · nullus uitium
+               falsitatis adnotet meę paginę · Tempore igitur quo uenerabilis <persName ref="#cral"
+                  >gralo</persName> congregationem sancti <persName ref="#gall">Galli</persName>
+               rexit · fuit in ea quidam frater nomine <persName ref="#ekke">ekkehardus</persName> ·
+               uir totus ex sapientia uirtutibusque factus · <ref target="#vw1_XLV.40">Is cum quodam
+                  tempore ydrope ad extrema poene ductus esset · uouit beatae <persName ref="#wibo"
+                     >wiboradae</persName> omnia quę de eius sanctitate posset comperire literis se
+                  traditurum</ref> · si ei ad <pb ed="#A" n="382"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/382/0/"/> presens dignaretur a
                deo aliquod impetrare remedium · O archiater in uirga et in baculo · o propagator
                tuorum sanctitatis electorum · ilico uenit ei in animum · ut sibi postularet afferri
                martyris cilicium · illudque super aqualenta extenderet membra · Quod cum factum
-               fuisset · confestim sensit se aliquid melius habere · ac deindee non multis diebus
-               exactis · ad plenum conualuit · Tunc memor sponsionis suę · conuenit kebeni · quę
-               beatę uirgini ab ipsis cunabulis usque ad mortis articulum obsecundauit · indicans ei
-               quali uoto se obligauit · quodque sequen‖ti die ad eam uenturus foret · ut de hoc
-               themate plenius ab ea informaretur · Que uehementer in uerbis eius admirans · non
-               minus etiam coepit anxiari · quia ea de quibus interroganda erat · iam dudum letheus
-               obsorbuerat morbus · Ad ultimum suasu cuiusdam sacerdotis ad tumbam dominę suę
-               oratura prosternitur · ut qui incensam a chaldeis legem per esdram uoluit reparare ·
-               ipse etiam martyris suae merita · quantum ad hominum memoriam abolita · per eam
-               dignaretur declarare · Postquam huiuscemodi exaggerauit pręces · ‖ surrexit · atque
-               basilicam non minori anxietate egreditur quam etiam ingressa est · Erat enim ignara ·
-               quam in proximo esset eius consolatio · Nocte uero insequenti cum se sopori dedisset
-               · uisum est ei locum orationis repetere · atque beatam uirginem pittacium aureis
-               conscriptum literis sibi ostendere · hac uoce subiuncta · Utere cupitis · Mox
-               expergefacta · omni fragilitate obliuionis propulsa · ita perfecte coepit memorię
-               uiribus uti · ut luce reuersa · non solum nihil sollicita esset quid supradicto
-               fratri responderet · uerum etiam ultronea fieret inui‖tatrix · eique desideratum
-               thema · a primordio usque ad acceptum cum palma martyrii brauium promulgaret · Quod
-               ille imis reponens sensibus · cum feruenti opera recte proclamauit cum psalmista · in
-               me sunt deus uota tua · quę reddam laudationes tibi · quoniam eripuisti me de morte ·
-               Sed cum hęc uota ex parte redderet · heu dira morte praeuentus · multos sui propositi
-               habuit hęredes · Qui quoniam diuersi diuersa sapiunt · interdum minus necessaria
-               necessariis miscuerunt · Horum egof insistens uestigiis · studui ea quę mihi digna
-               memoria uidebantur · ad huius uirginis ‖ sanctitatem comprobandam strictim colligere
-               · non illis ad obprobrium · sed quod uerius est · pręcipue tibi ad oboediendum ut
-               predictum est · pater reuerentissime · EXPLICIT PROLOGUS ·</p>
+               fuisset · confestim sensit se aliquid melius habere · ac <app>
+                  <lem>deinde</lem>
+                  <rdg wit="#B">dein</rdg>
+               </app> non multis diebus exactis · ad plenum conualuit · Tunc memor sponsionis suę ·
+               conuenit <persName ref="#kebi">kebeni</persName> · quę beatę uirgini ab ipsis
+               cunabulis usque ad mortis articulum obsecundauit · indicans ei quali uoto se
+               obligauit · quodque sequen<pb ed="#A" n="383"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/383/0/" break="no"/>ti die ad eam
+               uenturus foret · ut de hoc themate plenius ab ea informaretur · Que uehementer in
+               uerbis eius admirans · non minus etiam coepit anxiari · quia ea de quibus
+               interroganda erat · iam dudum letheus obsorbuerat morbus · Ad ultimum suasu cuiusdam
+               sacerdotis ad tumbam dominę suę oratura prosternitur · ut <seg type="cf."
+                  source="#I_Esr #II_Esr #III_Esr">qui incensam a <persName ref="#chal"
+                     >chaldeis</persName> legem per <persName ref="#esdr">esdram</persName> uoluit
+                  reparare</seg> · ipse etiam martyris suae merita · quantum ad hominum memoriam
+               abolita · per eam dignaretur declarare · Postquam huiuscemodi exaggerauit pręces ·
+                  <pb ed="#A" n="384" facs="https://www.e-codices.unifr.ch/de/csg/0560/384/0/"/>
+               surrexit · atque basilicam non minori anxietate egreditur quam etiam ingressa est ·
+               Erat enim ignara · quam in proximo esset eius consolatio · Nocte uero insequenti cum
+               se sopori dedisset · uisum est ei locum orationis repetere · atque beatam uirginem
+               pittacium aureis conscriptum literis sibi ostendere · hac uoce subiuncta · Utere
+               cupitis · Mox expergefacta · omni fragilitate obliuionis propulsa · ita perfecte
+               coepit memorię uiribus uti · ut luce reuersa · non solum nihil sollicita esset quid
+               supradicto fratri responderet · uerum etiam ultronea fieret inui<pb ed="#A" n="385"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/385/0/" break="no"/>atrix · eique
+               desideratum thema · a primordio usque ad acceptum cum palma martyrii brauium
+               promulgaret · Quod ille <seg source="#Virg_Ecl_III.54">imis reponens sensibus</seg> ·
+               cum feruenti opera recte proclamauit cum psalmista · <seg source="#Ps_55.12-13">in me
+                  sunt deus uota tua · quę reddam laudationes tibi · quoniam eripuisti me de
+                  morte</seg> · Sed cum hęc uota ex parte redderet · heu dira morte praeuentus ·
+               multos sui propositi habuit hęredes · Qui quoniam diuersi diuersa sapiunt · interdum
+               minus necessaria necessariis miscuerunt · Horum <app>
+                  <lem>ego</lem>
+                  <rdg wit="#B">e<del>r</del>go</rdg>
+                  <note>corr. ex «ergo»</note>
+               </app> insistens uestigiis · studui ea quę mihi digna memoria uidebantur · ad huius
+               uirginis <pb ed="#A" n="386" facs="https://www.e-codices.unifr.ch/de/csg/0560/386/0/"
+               /> sanctitatem comprobandam strictim colligere · non illis ad obprobrium · sed quod
+               uerius est · pręcipue tibi ad oboediendum ut predictum est · pater reuerentissime
+               ·</p>
+            <p>EXPLICIT PROLOGUS ·</p>
          </div>
-         <div type="contents" xml:id="cont">
+         <div type="contents" xml:id="vw2_cont1">
             <head>CAPITULA LIBRI SEQUENTIS</head>
             <list>
                <item n="I"><ref target="#vw2_I">Quali parentela beata uuiborada originem duxit · et
