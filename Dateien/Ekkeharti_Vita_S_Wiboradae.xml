@@ -402,8 +402,9 @@
    </teiHeader>
    <text>
       <body>
-         <div>
+         <div xml:id="vw1_head">
             <pb ed="#S" n="130ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/>
+            <head><supplied>Ekkeharti Vita S. Wiboradae</supplied></head>
             <head>
                <app>
                   <lem>Incipit uita ·s· <persName ref="#wibo">wiberadę</persName> uirginis et
