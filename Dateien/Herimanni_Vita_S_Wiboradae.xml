@@ -111,7 +111,7 @@
       <body>
          <div type="prologue" xml:id="vw2_prol">
             <pb ed="#A" n="374" facs="https://www.e-codices.unifr.ch/de/csg/0560/374"/>
-            <head>INCIPIT PROLOGVS <app>
+            <head><hi>INCIPIT PROLOGVS <app>
                   <lem><persName ref="#heri">HERIMANNI</persName></lem>
                   <rdg wit="#A #B">HEPIMANNI<note>graecissando scripsit <persName ref="#heri"
                            >Herimannus</persName> in autographo Sangall. cod. 560, quod scriptor
@@ -121,7 +121,7 @@
                   <persName ref="#wibo">VVIBORADĘ</persName> VIRGINIS <app>
                   <lem>ATQUE</lem>
                   <rdg wit="#B">ET</rdg>
-               </app> MARTYRIS CHRISTI</head>
+               </app> MARTYRIS CHRISTI</hi></head>
             <pb ed="#A" n="375" facs="https://www.e-codices.unifr.ch/de/csg/0560/375"/>
             <p><hi>SOLET PLERUMQUE MODERNIS SCRI</hi>ptoribus a patribus uitio deputari ·
                traditiones antiquorum scriptis uel factis ab eis mutari · ea uidelicet obiectione ·
@@ -248,7 +248,7 @@
          </div>
          <div type="contents" xml:id="vw2_cont1">
             <head><supplied>Liber primus</supplied></head>
-            <head>CAPITULA LIBRI SEQUENTIS</head>
+            <head><hi>CAPITULA LIBRI SEQUENTIS</hi></head>
             <list>
                <item n="I"><ref target="#vw2_I">Quali parentela beata <persName ref="#wibo"
                         >uuiborada</persName> originem duxit · et qualis eius conuersatio in annis
@@ -311,7 +311,7 @@
                         <lem>praesulem</lem>
                         <rdg wit="#B #Vad_70 #Sang_610 #Basil_D.I.18" source="#Gold"
                               ><note>deest</note></rdg>
-                     </app> ad coenobium sancti <persName ref="#gall">GALLI</persName> pergentem
+                     </app> ad coenobium sancti <persName ref="#gall"><hi>GALLI</hi></persName> pergentem
                      uoluntarie est secuta · et quia eodem iubente ei apud <placeName ref="#cell"
                         >cellam sancti <app>
                            <lem>georgii</lem>
@@ -365,7 +365,7 @@
                         >rachilda</persName> infirma fuit · atque in susceptione baculi beatę
                         <persName ref="#wibo">uuiboradę</persName> conualuit ·</ref></item>
                <item n="XXX"><ref target="#vw2_XXX">Quomodo sanctus <persName ref="#gall"
-                        >GALLUS</persName> beatę <persName ref="#wibo">uuiboradę</persName> scissis
+                        ><hi>GALLUS</hi></persName> beatę <persName ref="#wibo">uuiboradę</persName> scissis
                      uestibus <pb ed="#A" n="391"
                         facs="https://www.e-codices.unifr.ch/de/csg/0560/391/0/"/> innotuit · quod
                         <persName ref="#burc">purchardus</persName> dux ęcclesiasticas res diripuit
@@ -430,7 +430,69 @@
                      tradiderunt sepulturae ·</ref></item>
             </list>
          </div>
-         <div></div>
+         <pb ed="#A" n="394" facs="https://www.e-codices.unifr.ch/de/csg/0560/394"/>
+         <div xml:id="vw2_head">
+            <head><hi>INCIPIT <app>
+                  <lem>UITA</lem>
+                  <rdg wit="#C">passio</rdg>
+               </app> SANCTAE <persName ref="#wibo">VVIBORADĘ</persName> UIRGINIS <app>
+                  <lem>ATQVE</lem>
+                  <rdg wit="#B #C">et</rdg>
+               </app> MARTYRIS <app>
+                  <lem>CHRISTI</lem>
+                  <rdg wit="#B #C"><note>deest</note></rdg>
+               </app></hi></head>
+         </div>
+         <pb ed="#A" n="395" facs="https://www.e-codices.unifr.ch/de/csg/0560/395/0/"/>
+         <div xml:id="vw2_I">
+            <p><hi>BEATA <app>
+                  <lem>DEI</lem>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> UIRGO <persName ref="#wibo">UVIBORADA</persName> EX</hi> <persName ref="#alam"
+                  ><hi>ALAMANnorum</hi></persName> prosapia oriunda · a parentibus secundum sęculi dignitatem
+               non infimis · secundum christianam autem libertatem nobilissimis originem duxit ·
+               Itaque deo ab ipsis cunabulis deuota existens · ac uirtutum incrementis transcendens
+               tempus aetatis · nobilitatem suam religiosa conuersatione ornabat · Nam <app>
+                  <lem>uniuersas</lem>
+                  <rdg wit="#C">universal<note>contraxit></note></rdg>
+               </app> iuuenilis petulantię illecebras <seg type="cf." source="#Hor_carm_III_6.24">a
+                  tenero ungue</seg> execrans · ut legitur de <persName ref="#ragu"
+                  >raguelis</persName> filia · <seg source="#Tb_3.17">num<pb ed="#A" n="396"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/396/0/" break="no"/>quam
+                  miscuit se cum ludentibus · neque cum his qui in leuitate ambulabant</seg> ·
+               Spiritus enim sanctus qui eandem puellam iusti uiri thalamo sociandam · in umbra
+               legis immaculatam conseruauit · ipse etiam <persName ref="#wibo"
+                  >uuiboradam</persName> per lauacrum regenerationis in adoptionem filiorum dei
+               receptam · dignatus est inuiolatam custodire · ut sancta et corpore et spiritu ·
+               thalamum cęlestis sponsi mereretur introire ·</p>
+         </div>
+         <div xml:id="vw2_II">
+            <p><hi>FIDES <app>
+                  <rdg wit="#Boll"><supplied>quae docet</supplied><note>coni.
+                     Henschenius</note></rdg>
+               </app> DIUINAM PRO</hi>uidentiam non solum facta · sed etiam uoluntates hominum prouidere
+               siue pręparare credulos nos efficit · huic beatę uir<pb ed="#A" n="397"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/397/0/" break="no"/>gini ita
+               laudabile nomen non sine eius prouidentia esse impositum · <seg
+                  source="#Ps_112.3 #Mal_1.11">cuius nomen a solis ortu usque ad occasum laudabile
+                  est</seg> · Nam theutonica locutione prolatum · mulierum consilium sonat ·
+               Quotienscumque enim ita spiritualia nomina electorum dei legimus · aperte per ipsa
+               uocabula datur intelligi · quod angelus magni consilii · in cordibus utriusque sexus
+               dignabitur spiritum consilii <app>
+                  <rdg wit="#C">dignabitur<note>iterum scripsit et delevit</note></rdg>
+               </app> diffundere · ut cum ab illis nobis errantibus spiritualiter consulatur · ipse
+               in eorum consiliis glorietur · <seg source="#Ps_88.8">Deus qui glorificatur in
+                  consilio sanctorum</seg> proclamat psalmista · Laudabile <pb ed="#A" n="398"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/398/0/"/> inquam est nomen beatę <app>
+                  <lem><persName ref="#wibo">uuiboradę</persName></lem>
+                  <rdg wit="#C">wiberade</rdg>
+               </app>
+               <seg type="cf." source="#Lc_10.38-40">quia cum <persName ref="#mart"
+                     >martha</persName> actiuam uitam agendo · et cum <persName ref="#mari"
+                     >maria</persName> speculatiuam</seg> · omnibus pie uiuentibus uiris ac
+               mulieribus · consilium utriusque dilectionis perfectionem exequendi in se exhibuit
+               ·</p>
+         </div>
       </body>
    </text>
 </TEI>

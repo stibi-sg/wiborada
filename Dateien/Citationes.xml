@@ -301,9 +301,27 @@
             </cit>
             <cit xml:id="Ps_55.12-13">
                <bibl>Ps 55,12-13</bibl>
-               <quote>in me sunt Deus vota tua reddam gratiarum actiones tibi quia liberasti
-                  animam meam de morte et pedes meos de lapsu ut ambulem coram Deo in luce
+               <quote>in me sunt Deus vota tua reddam gratiarum actiones tibi quia liberasti animam
+                  meam de morte et pedes meos de lapsu ut ambulem coram Deo in luce
                   viventium</quote>
+            </cit>
+            <cit xml:id="Hor_carm_III_6.24">
+               <bibl>Horat., Carm. III 6,24</bibl>
+            </cit>
+            <cit xml:id="Ps_112.3">
+               <bibl>Ps 112,3</bibl>
+               <quote>ab ortu solis usque ad occasum eius laudabile nomen Domini</quote>
+            </cit>
+            <cit xml:id="Mal_1.11">
+               <bibl>Mal 1,11</bibl>
+               <quote>ab ortu enim solis usque ad occasum magnum est nomen meum in gentibus et in
+                  omni loco sacrificatur et offertur nomini meo oblatio munda quia magnum nomen meum
+                  in gentibus dicit Dominus exercituum</quote>
+            </cit>
+            <cit xml:id="Ps_88.8">
+               <bibl>Ps 88,8</bibl>
+               <quote>Deus inclitus in arcano sanctorum nimio et terribilis in cunctis qui circum
+                  eum sunt</quote>
             </cit>
          </div>
       </back>
