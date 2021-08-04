@@ -100,6 +100,14 @@
                      </head>
                   </msDesc>
                </witness>
+               <witness xml:id="Gold">
+                  <bibl>
+                     <editor>Melchior Goldast</editor>
+                     <title>Alamannicarum rerum scriptores</title>
+                     <date>1606</date>
+                     <biblScope>p. 323-352</biblScope>
+                  </bibl>
+               </witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
@@ -112,16 +120,16 @@
          <div type="prologue" xml:id="vw2_prol">
             <pb ed="#A" n="374" facs="https://www.e-codices.unifr.ch/de/csg/0560/374"/>
             <head><hi>INCIPIT PROLOGVS <app>
-                  <lem><persName ref="#heri">HERIMANNI</persName></lem>
-                  <rdg wit="#A #B">HEPIMANNI<note>graecissando scripsit <persName ref="#heri"
-                           >Herimannus</persName> in autographo Sangall. cod. 560, quod scriptor
-                        codicis 564 imitatus est</note></rdg>
-                  <rdg wit="#Vad_70 #Sang_610">Hepidanni</rdg>
-               </app> CĘNOBITĘ SANCTI <persName ref="#gall">GALLI</persName> DE VITA SANCTĘ
-                  <persName ref="#wibo">VVIBORADĘ</persName> VIRGINIS <app>
-                  <lem>ATQUE</lem>
-                  <rdg wit="#B">ET</rdg>
-               </app> MARTYRIS CHRISTI</hi></head>
+                     <lem><persName ref="#heri">HERIMANNI</persName></lem>
+                     <rdg wit="#A #B">HEPIMANNI<note>graecissando scripsit <persName ref="#heri"
+                              >Herimannus</persName> in autographo Sangall. cod. 560, quod scriptor
+                           codicis 564 imitatus est</note></rdg>
+                     <rdg wit="#Vad_70 #Sang_610">Hepidanni</rdg>
+                  </app> CĘNOBITĘ SANCTI <persName ref="#gall">GALLI</persName> DE VITA SANCTĘ
+                     <persName ref="#wibo">VVIBORADĘ</persName> VIRGINIS <app>
+                     <lem>ATQUE</lem>
+                     <rdg wit="#B">ET</rdg>
+                  </app> MARTYRIS CHRISTI</hi></head>
             <pb ed="#A" n="375" facs="https://www.e-codices.unifr.ch/de/csg/0560/375"/>
             <p><hi>SOLET PLERUMQUE MODERNIS SCRI</hi>ptoribus a patribus uitio deputari ·
                traditiones antiquorum scriptis uel factis ab eis mutari · ea uidelicet obiectione ·
@@ -301,8 +309,7 @@
                         <persName ref="#salo">salomonem</persName> episcopum hortabatur · ut eam
                      fecisset <app>
                         <lem>morari</lem>
-                        <rdg wit="#B #Vad_70 #Sang_610 #Basil_D.I.18" source="#Gold"
-                              ><note>deest</note></rdg>
+                        <rdg wit="#B #Vad_70 #Sang_610 #Basil_D.I.18 #Gold"><note>deest</note></rdg>
                      </app>
                      <placeName ref="#lint">linthaugie</placeName> · et qualiter per uisionem
                      prohibita est ab hoc itinere · et <persName ref="#cili">ciliam</persName> post
@@ -311,9 +318,9 @@
                         <lem>praesulem</lem>
                         <rdg wit="#B #Vad_70 #Sang_610 #Basil_D.I.18" source="#Gold"
                               ><note>deest</note></rdg>
-                     </app> ad coenobium sancti <persName ref="#gall"><hi>GALLI</hi></persName> pergentem
-                     uoluntarie est secuta · et quia eodem iubente ei apud <placeName ref="#cell"
-                        >cellam sancti <app>
+                     </app> ad coenobium sancti <persName ref="#gall"><hi>GALLI</hi></persName>
+                     pergentem uoluntarie est secuta · et quia eodem iubente ei apud <placeName
+                        ref="#cell">cellam sancti <app>
                            <lem>georgii</lem>
                            <rdg wit="#A">georigi</rdg>
                         </app></placeName> mansiuncula ob secretum est constructa · breuisque
@@ -365,8 +372,8 @@
                         >rachilda</persName> infirma fuit · atque in susceptione baculi beatę
                         <persName ref="#wibo">uuiboradę</persName> conualuit ·</ref></item>
                <item n="XXX"><ref target="#vw2_XXX">Quomodo sanctus <persName ref="#gall"
-                        ><hi>GALLUS</hi></persName> beatę <persName ref="#wibo">uuiboradę</persName> scissis
-                     uestibus <pb ed="#A" n="391"
+                           ><hi>GALLUS</hi></persName> beatę <persName ref="#wibo"
+                        >uuiboradę</persName> scissis uestibus <pb ed="#A" n="391"
                         facs="https://www.e-codices.unifr.ch/de/csg/0560/391/0/"/> innotuit · quod
                         <persName ref="#burc">purchardus</persName> dux ęcclesiasticas res diripuit
                      · ab illaque pro his correptus emendationem promisit · quam continuo per
@@ -433,26 +440,27 @@
          <pb ed="#A" n="394" facs="https://www.e-codices.unifr.ch/de/csg/0560/394"/>
          <div xml:id="vw2_head">
             <head><hi>INCIPIT <app>
-                  <lem>UITA</lem>
-                  <rdg wit="#C">passio</rdg>
-               </app> SANCTAE <persName ref="#wibo">VVIBORADĘ</persName> UIRGINIS <app>
-                  <lem>ATQVE</lem>
-                  <rdg wit="#B #C">et</rdg>
-               </app> MARTYRIS <app>
-                  <lem>CHRISTI</lem>
-                  <rdg wit="#B #C"><note>deest</note></rdg>
-               </app></hi></head>
+                     <lem>UITA</lem>
+                     <rdg wit="#C">passio</rdg>
+                  </app> SANCTAE <persName ref="#wibo">VVIBORADĘ</persName> UIRGINIS <app>
+                     <lem>ATQVE</lem>
+                     <rdg wit="#B #C">et</rdg>
+                  </app> MARTYRIS <app>
+                     <lem>CHRISTI</lem>
+                     <rdg wit="#B #C"><note>deest</note></rdg>
+                  </app></hi></head>
          </div>
          <pb ed="#A" n="395" facs="https://www.e-codices.unifr.ch/de/csg/0560/395/0/"/>
-         <div xml:id="vw2_I">
+         <div n="I" xml:id="vw2_I">
             <p><hi>BEATA <app>
-                  <lem>DEI</lem>
-                  <rdg wit="#C"><note>deest</note></rdg>
-               </app> UIRGO <persName ref="#wibo">UVIBORADA</persName> EX</hi> <persName ref="#alam"
-                  ><hi>ALAMANnorum</hi></persName> prosapia oriunda · a parentibus secundum sęculi dignitatem
-               non infimis · secundum christianam autem libertatem nobilissimis originem duxit ·
-               Itaque deo ab ipsis cunabulis deuota existens · ac uirtutum incrementis transcendens
-               tempus aetatis · nobilitatem suam religiosa conuersatione ornabat · Nam <app>
+                     <lem>DEI</lem>
+                     <rdg wit="#C"><note>deest</note></rdg>
+                  </app> UIRGO <persName ref="#wibo">UVIBORADA</persName> EX</hi>
+               <persName ref="#alam"><hi>ALAMANnorum</hi></persName> prosapia oriunda · a parentibus
+               secundum sęculi dignitatem non infimis · secundum christianam autem libertatem
+               nobilissimis originem duxit · Itaque deo ab ipsis cunabulis deuota existens · ac
+               uirtutum incrementis transcendens tempus aetatis · nobilitatem suam religiosa
+               conuersatione ornabat · Nam <app>
                   <lem>uniuersas</lem>
                   <rdg wit="#C">universal<note>contraxit></note></rdg>
                </app> iuuenilis petulantię illecebras <seg type="cf." source="#Hor_carm_III_6.24">a
@@ -466,12 +474,12 @@
                receptam · dignatus est inuiolatam custodire · ut sancta et corpore et spiritu ·
                thalamum cęlestis sponsi mereretur introire ·</p>
          </div>
-         <div xml:id="vw2_II">
+         <div n="II" xml:id="vw2_II">
             <p><hi>FIDES <app>
-                  <rdg wit="#Boll"><supplied>quae docet</supplied><note>coni.
-                     Henschenius</note></rdg>
-               </app> DIUINAM PRO</hi>uidentiam non solum facta · sed etiam uoluntates hominum prouidere
-               siue pręparare credulos nos efficit · huic beatę uir<pb ed="#A" n="397"
+                     <rdg wit="#Boll"><supplied>quae docet</supplied><note>coni.
+                        Henschenius</note></rdg>
+                  </app> DIUINAM PRO</hi>uidentiam non solum facta · sed etiam uoluntates hominum
+               prouidere siue pręparare credulos nos efficit · huic beatę uir<pb ed="#A" n="397"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/397/0/" break="no"/>gini ita
                laudabile nomen non sine eius prouidentia esse impositum · <seg
                   source="#Ps_112.3 #Mal_1.11">cuius nomen a solis ortu usque ad occasum laudabile
@@ -492,6 +500,147 @@
                      >maria</persName> speculatiuam</seg> · omnibus pie uiuentibus uiris ac
                mulieribus · consilium utriusque dilectionis perfectionem exequendi in se exhibuit
                ·</p>
+         </div>
+         <div n="III" xml:id="vw2_III">
+            <p><hi>CONGRUVM ERGO</hi> uidetur · lectioni inserere · quod huic beatę uirgini soror
+               erat · summa innocentia uitam ducens · Quam cum quadam die eius coęuulę secum ad
+               chorum exire hortarentur · illa cuiusdam sapientis edocta prouerbiis · <seg
+                  source="#Prv_14.13">extrema gaudii <app>
+                     <lem>luctus occupat</lem>
+                     <rdg wit="#C">occupant luctus</rdg>
+                  </app></seg> · et iterum · <seg source="#Prv_1.10">fili mi · si te lactauerint
+                     peccato<pb ed="#A" n="399"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/399" break="no"/>res non
+                  acquiescas</seg> eis · post alta suspiria sic erupit in uocem · Quę delectatio
+               huius sęculi potest mihi dulcis esse · quę audio angelicos choros dulcisonę
+               modulationis frequentare armoniam · Illuc ire desidero · his <app>
+                  <lem>choris</lem>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> intermisceri delector · Uix sermonem compleuit · et genas ubertim lacrimis
+               perfudit · Post paucos uero dies carne soluta est · <seg type="cf."
+                  source="#Sap_4.14">quia deus propter hoc properauit educere eam de medio <app>
+                     <lem>iniquitatum</lem>
+                     <rdg wit="#C">iniquitatis</rdg>
+                  </app> · quia placita ei erat anima illius</seg> · De <app>
+                  <lem>cuius</lem>
+                  <rdg wit="#A">cuius<note>supra «cuius» manus saec. XV scripsit «eius»</note></rdg>
+               </app> ergo natalitio gaudentes · certi quod <seg source="#Ps_83.13">dominus uirtutum
+                  non priuauit eam bonis</seg> · <pb ed="#A" n="400"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/400/0/"/> quia <app>
+                  <lem>ambulauit</lem>
+                  <rdg wit="#Vad_70 #Sang_610 #Gold">ambulabat</rdg>
+                  <rdg wit="#Basil_D.I.18">ambulavit</rdg>
+               </app> in innocentia · stilum ad opus inceptum acuemus ·</p>
+         </div>
+         <div n="IV" xml:id="vw2_IV">
+            <p><hi>BEATA IGITUR</hi>
+               <persName ref="#wibo"><hi>UUI</hi>borada</persName> ut prefati sumus omnimodis
+               petulantiam execrans · in tantum studuit diuinum preceptum implere · ut poene
+               cottidie omnibus postpositis · nudipes ad ęcclesiam quę longe a domo paterna distabat
+               gradiens · <seg source="#Mt_6.33">primum quęreret regnum dei et iustitiam eius</seg>
+               · et postea operibus manuum suarum se irretiret · <seg source="#Prv_31.27">Panem enim
+                  otiosa non comedit</seg> · sed <seg source="#Ps_127.2">labores manuum suarum
+                  manducauit</seg> · unde beata est · et bene ei erit · Popularem enim frequentiam
+               non <pb ed="#A" n="401" facs="https://www.e-codices.unifr.ch/de/csg/0560/401/0/"/>
+               solum extraneorum · sed etiam notorum prout licuit fugiens secreta semper amabat ·
+               quatinus et otiosa uerba facilius posset uitare · et sanctis meditationibus aciem
+               mentis liberius infigere · Parentes nemo reuerentius coluit · nemo <app>
+                  <lem>erga</lem>
+                  <rdg wit="#B">erga<note>ex «ergo» corr.</note></rdg>
+               </app> suos diuinę legis praecepta deuotius impleuit · nemo inopia morbisque
+               confectos amabilius tractauit · quia ipsa eis alimenta praebens ministrauit · fomenta
+               parauit · balnea contulit · lectisternia disposuit · et ipsa eos reclinauit · et
+               competenti tempore leuauit · Parsimoniam uero in tantum amabat · ut plerumque in <pb
+                  ed="#A" n="404" facs="https://www.e-codices.unifr.ch/de/csg/0560/402/0/"/> secunda
+               · quam sepe in tertia die · nisi ad uesperum non ieiunium solueret · Nostrę etenim
+               non est facundię scriptis percurrere eius sanctam conuersationem et quomodo corpus
+               suum castigauit · ut sancti spiritus dignum fieri habitaculum mereretur · ideo pauca
+               de multis · parua de magnis scribentes · eos qui <app>
+                  <lem>altius</lem>
+                  <rdg wit="#C">alta</rdg>
+               </app> sapiunt admonemus · ut in paucis plurima · in paruis maiora pensantes ·
+               glorificent <seg source="#Ps_67.36">mirabilem deum in sanctis suis</seg> ·</p>
+         </div>
+         <div n="V" xml:id="vw2_V">
+            <p><hi>QUADAM ITAQUE <app>
+                     <rdg wit="#C">die</rdg>
+                  </app> CE</hi>lebri festiuitate · cum parentes eius ad ęcclesiam processuri ·
+               decentius solito ornarentur · illa <pb ed="#A" n="403"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/403/0/"/> sciens deum magis
+               delectari in puritate cordis quam in uestium <app>
+                  <lem>nitore</lem>
+                  <rdg wit="#C">nitorei</rdg>
+               </app> · noluit priuati consuetudinem uestitus mutare · Sed parentes eius more
+               sęcularium occasionem improperii fugientes · <seg type="cf." source="#Sir_3.3">nam
+                  sicut in patre filia · ita et in filia pater · honoratur</seg> iusserunt eam
+               desistere ceptis · Quorum iussioni illa honorem deferens · decoris amicta uestimentis
+               · capitalibusque compta redimiculis · iter cum eis aggressa est · Pergentibus autem
+               illis · uirgo caput grauiter dolere coepit · <seg source="#Prv_3.12">quia dominus qui
+                  eam dilexit corripuit</seg> · ut ista correptio quasi premonitio esset obseruandę
+               humilitatis · ne ui<pb ed="#A" n="404"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/404/0/" break="no"/>tium
+               elationis propter exteriorem uestis candorem allapsum · interius obfuscaret cordis
+               splendorem · Contra quam allapsionem · etiam pastorem aecclesiae sibi traditas oues
+               cautificare estimo · ubi dicit · <seg source="#I_Tim_2.9">non in ueste preciosa</seg>
+               · Confestim uero sentiens per spiritum se diuina uisitatione commonitam · equi cui
+               insidebat dorsa descendendo releuans · theristrum cum omni uittatoria compositione
+               detrahens · numquam deinceps huiusmodi ornamentis usa est · Cumque comites ut equum
+               reascenderet hortarentur · penitus non consensit · sed pede<pb ed="#A" n="405"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/405/0/" break="no"/>stri itinere
+               usque ad ęcclesiam peruenit · Illa dies <app>
+                  <lem>in tantum</lem>
+                  <rdg wit="#C">intantum<note>supr. lin.</note></rdg>
+               </app> inceptiua fuit rebus transitoriis renuntiandi ut etiam matrimonii contractione
+               in animo spreta · fratri suo <persName ref="#hitt">hittoni</persName> apud coenobium
+               sancti <persName ref="#gall">GALLI</persName> in scolis agenti · magis quam procis
+               aduentantibus se commendare studeret · ea quibus indigebat per fideles internuntios
+               mittendo ·</p>
+         </div>
+         <div n="VI" xml:id="vw2_VI">
+            <p><hi>MEMORATUS ITAQUE</hi> clericus ad <app>
+                  <lem>presbiterii</lem>
+                  <rdg wit="#A">presbiterii<note>ultima «i» supr. lin.</note></rdg>
+               </app> gradum promotus · studuit sine crimine uiuere · atque <seg
+                  source="#I_Tim_3.12">unius uxoris uir</seg> esse · id est ęcclesiae · Cumque
+               septies in die laudem deo dicturus frequentaret psalmodiam · ardentius beata <pb
+                  ed="#A" n="406" facs="https://www.e-codices.unifr.ch/de/csg/0560/406/0/"/>uirgo
+               coepit ei insistere · communicans ei <app>
+                  <rdg wit="#C">in<note>add.</note></rdg>
+               </app> omnibus bonis · ut <app>
+                  <lem>etiam</lem>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> se <app>
+                  <lem>cathezizaret</lem>
+                  <rdg wit="#A #C">cathezizaret<note>ita pro catechizaret</note></rdg>
+                  <rdg wit="#B">kathezizaret</rdg>
+               </app> uerbo · Cuius desiderio se satisfacturum spondens · In ipsa inchoatione
+               feruebat in erudiendo · sed studium eius paulatim tepescens · ad ultimum refrigerauit
+               · Cum ecce quadam nocte per uisionem correptus · in abstinentia cibi praecipitur esse
+               donec sororem suam psalmum quinquagesimum edoceret · Nam anteriores ab illo edocta ·
+               iste solus de quinquaginta supererat · Quid plura? De nocte surrexit · sororem
+               accersiuit · uisum aperit · seque paratum <pb ed="#A" n="407"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/407/0/"/> ad erudiendum innotuit
+               · Factusque est tunc discendi hortator · qui prius fuerat docendi negator ·
+               Quinquaginta igitur psalmis ita carptim a fratre perceptis · reliquos sancti spiritus
+               magisterio didicit ·</p>
+         </div>
+         <div n="VII" xml:id="vw2_VII">
+            <p><hi>IN DOMINICA DIE</hi> ordientis quadragesime · cum prędictus sacerdos missarum
+               sollemnia celebraturus conquestus esset sibi deesse adiutorem · consolans eum beata
+               uirgo dixit · <seg type="cf." source="#Ps_90.1">Confide de adiutorio <app>
+                     <rdg wit="#C">dei<note>scripsit et delevit</note></rdg>
+                  </app> altissimi</seg> · et ipse te adiuuans tecum commorabitur · Uirginis igitur
+               credens promissioni processit · et spirituale officium inchoauit ·<pb ed="#A" n="408"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/408/0/"/> Cum quo statim ita <app>
+                  <lem>auctoraliter</lem>
+                  <rdg wit="#B">auctoraliter<note>ex «auctorialiter» correxisse videtur</note></rdg>
+               </app> ipsa psallere coepit · ut in scientia eorum quę inibi cantabantur · nequaquam
+               inferior esse uideretur sacerdote · Tua sunt hęc miracula domine pater cęli et terrę
+               · qui abscondisti thesaurum sapientię a prudentibus huius sęculi · et reuelasti eum
+               paruulis · Tibi enim mortua uiuunt · Insensibilia sapiunt · cęca contemplantur ·
+               surda audiunt · muta diserta sunt · ad laudem et gloriam nominis tui · Sacerdos autem
+               et uniuersa circumstans contio ista audientes · post non modicam admirationem
+               glorificabant deum ·‖ eius possibilitati hęc asscribentes ·</p>
          </div>
       </body>
    </text>
