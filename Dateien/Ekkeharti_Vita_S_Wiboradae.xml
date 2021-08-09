@@ -96,6 +96,13 @@
                   <persName xml:lang="de">die Alemannen</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Alamannen</idno>
                </person>
+               <person xml:id="alar">
+                  <persName xml:lang="la">Alaricus</persName>
+                  <persName xml:lang="de">Alarich</persName>
+                  <note>in quadam insula Turicini lacus solitarius, Adalrich von Ufenau</note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Adalrich_(Einsiedler)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/1025101081</idno>
+               </person>
                <person xml:id="blit">
                   <persName type="normalisiert">Blitdruda</persName>
                   <persName type="alternativ">Pliddruda</persName>
@@ -187,6 +194,11 @@
                   <persName type="alternativ">Kebeni</persName>
                   <persName type="alternativ">Kebenina</persName>
                   <note type="bio">fidelis ministra, una e duabus ancillis</note>
+               </person>
+               <person xml:id="laur">
+                  <persName>Laurentius</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Laurentius_von_Rom</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/119320827</idno>
                </person>
                <person xml:id="leui">
                   <persName>Leviathan</persName>
@@ -376,7 +388,7 @@
                </place>
                <place xml:id="cell">
                   <placeName xml:lang="la">S. Georgii cella in montibus sita</placeName>
-                  <placeName xml:lang="de">St. Georgen</placeName>
+                  <placeName xml:lang="de">Zelle bei St. Georgen</placeName>
                   <idno type="wikipedia"
                      >https://de.wikipedia.org/wiki/St._Georgen_(St._Gallen)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/4543890-0</idno>
@@ -433,6 +445,10 @@
                   <placeName xml:lang="la">Turicinus pagus</placeName>
                   <placeName xml:lang="de">Zürichgau</placeName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Z%C3%BCrichgau</idno>
+               </place>
+               <place xml:id="turil">
+                  <placeName xml:lang="la">Turicinus lacus</placeName>
+                  <placeName xml:lang="de">Zürichsee</placeName>
                </place>
             </listPlace>
          </sourceDesc>
