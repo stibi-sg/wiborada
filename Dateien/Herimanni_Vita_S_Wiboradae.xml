@@ -1111,6 +1111,43 @@
                   </app> ·</said>
             </p>
          </div>
+         <div n="XVII" xml:id="vw2_XVII">
+            <p><hi>QUADAM IGITUR NO</hi>cte iacenti in oratione · uidit sibi quandam personam
+               angelicę uisionis <app>
+                  <lem>assistere</lem>
+                  <rdg wit="#B #C">persistere</rdg>
+               </app> · non sine magna claritate · Quę illam obambulans ·<pb ed="#A" n="442"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/442"/> primum uigisimi <app>
+                  <lem>primi psalmi</lem>
+                  <rdg wit="#B #C">psalmi primi<note>«primi» supr. lin. C</note></rdg>
+               </app> uersiculum tribus uicibus dulci modulatione decantauit · moxque eadem
+               claritate qua uenerat abscessit · At illi cogitanti de uisione · uenit ei in memoriam
+               · quod hunc psalmum prius consueuerat ad cursus decantare · et quod hanc
+               consuetudinem tum diu obliuioni tradidit · Tunc agens pęnitentiam de obliuione ·
+               correxit in melius quod ignoranter dereliquit ·</p>
+         </div>
+         <div n="XVIII" xml:id="vw2_XVIII">
+            <p><hi>SED SPES BEATĘ</hi>
+               <persName ref="wibo">uuiboradę</persName> secrete conuersandi apud cellam supradicti
+               martyris non diu erat spes · quia undique <pb ed="#A" n="443"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/443/0/"/> ad eius sanctitatem
+               confluxerant · corpori necessaria ei deferentes · et corpori et animę salubria ab
+               illa recipientes · De quibus partim destinauit ad pauperum refectionem · partim uero
+               ad deuotarum mulierum susceptionem · quę ad illam annuatim uenire consueuerant · et
+               in spirituali tripudio panem frangere · Quam caritatem quędam opulentior cęteris
+               opprobrio egestatis ascribens · dedignata est ad eam insequenti anno uenire · dicens
+               se eius fragmentorum non esse indigam · De cuius absentia cum cętere mestę fuissent ·
+               beata uirgo conso<pb ed="#A" n="444"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/444/0/" break="no"/>ans eas dixit
+               · Consolamini sorores · ueniet enim dies quando libenter adueniret · si posse ei non
+               deesset · Igitur iuxta uerbum eius in lectum decidens · cum egritudo inualescens
+               redigeret eam in desperationem uitę · confessa est marito suo · <seg type="cf."
+                  source="Hor_ars_97">quas ampullas emisit contra beatam uirginem</seg> · optans ut
+               eius obtutibus praesentaretur · Cuius uotis maritus allubescens · detulit eam illuc ·
+               At uirgo illius contumaciam redarguens · benedicens panem dedit ei · Quo degustato
+               extimplo conualuit · atque laetabunda cum gratiarum actione <pb ed="#A" n="445"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/445/0/"/> repatriauit ·</p>
+         </div>
       </body>
    </text>
 </TEI>

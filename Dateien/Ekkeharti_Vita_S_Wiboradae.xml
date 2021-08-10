@@ -118,6 +118,16 @@
                      >https://de.wikipedia.org/wiki/Burchard_II._(Schwaben)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/121574490</idno>
                </person>
+               <person xml:id="chal">
+                  <persName xml:lang="la">Chaldaei</persName>
+                  <persName xml:lang="de">Chaldäer</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Chald%C3%A4er</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4009710-9</idno>
+               </person>
+               <person xml:id="cili">
+                  <persName>Cilia</persName>
+                  <note>reclusa</note>
+               </person>
                <person xml:id="cral">
                   <persName type="normalisiert">Craloh</persName>
                   <persName type="alternativ">Gralo</persName>
@@ -155,6 +165,11 @@
                   <death when="0934-08-13"/>
                   <idno type="wikipedia"
                      >https://de.wikipedia.org/wiki/Engilbert_II._von_St._Gallen</idno>
+               </person>
+               <person xml:id="esdr">
+                  <persName>Esdras</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Esra_(Person)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118682415</idno>
                </person>
                <person xml:id="gall">
                   <persName>S. Gallus</persName>
@@ -195,6 +210,10 @@
                   <persName type="alternativ">Kebenina</persName>
                   <note type="bio">fidelis ministra, una e duabus ancillis</note>
                </person>
+               <person xml:id="kerb">
+                  <persName>Kerbirga</persName>
+                  <note>reclusa</note>
+               </person>
                <person xml:id="laur">
                   <persName>Laurentius</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Laurentius_von_Rom</idno>
@@ -225,6 +244,11 @@
                   <persName>Martha</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Martha_von_Bethanien</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118578219</idno>
+               </person>
+               <person xml:id="nort">
+                  <persName>Nortpertus</persName>
+                  <note>abbas S. Galli</note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Nortpert</idno>
                </person>
                <person xml:id="notk">
                   <persName>Notkerus [II]</persName>
