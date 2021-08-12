@@ -83,6 +83,11 @@
                </witness>
             </listWit>
             <listPerson>
+               <person xml:id="abra">
+                  <persName>Abraham</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Abraham</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118500201</idno>
+               </person>
                <person xml:id="agne">
                   <persName>S. Agnes</persName>
                   <note type="bio">martyr</note>
@@ -99,9 +104,15 @@
                <person xml:id="alar">
                   <persName xml:lang="la">Alaricus</persName>
                   <persName xml:lang="de">Alarich</persName>
-                  <note>in quadam insula Turicini lacus solitarius, Adalrich von Ufenau</note>
+                  <note type="bio">in quadam insula Turicini lacus solitarius, Adalrich von Ufenau</note>
+                  <death when="0973"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Adalrich_(Einsiedler)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/1025101081</idno>
+               </person>
+               <person xml:id="amal">
+                  <persName>Amalechita</persName>
+                  <persName type="wikipedia">https://de.wikipedia.org/wiki/Amalekiter</persName>
+                  <idno type="gnd">http://d-nb.info/gnd/4444598-2</idno>
                </person>
                <person xml:id="blit">
                   <persName type="normalisiert">Blitdruda</persName>
@@ -117,6 +128,11 @@
                   <idno type="wikipedia"
                      >https://de.wikipedia.org/wiki/Burchard_II._(Schwaben)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/121574490</idno>
+               </person>
+               <person xml:id="caes">
+                  <persName>Gaius Caesar</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Gaius_Iulius_Caesar</idno>
+                  <idno type="gnd">https://de.wikipedia.org/wiki/Gaius_Iulius_Caesar</idno>
                </person>
                <person xml:id="chal">
                   <persName xml:lang="la">Chaldaei</persName>
@@ -138,7 +154,7 @@
                <person xml:id="egge">
                   <persName>Eggehardus [I]</persName>
                   <persName type="alternativ">Ekkehardus [I]</persName>
-                  <note>decanus S. Galli</note>
+                  <note type="bio">decanus S. Galli</note>
                   <birth when="0910"/>
                   <death when="0973-01-14"/>
                   <idno type="wikipedia"
@@ -166,6 +182,11 @@
                   <idno type="wikipedia"
                      >https://de.wikipedia.org/wiki/Engilbert_II._von_St._Gallen</idno>
                </person>
+               <person xml:id="enoc">
+                  <persName>Enoch</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Henoch</idno>
+                  <idno>http://d-nb.info/gnd/102392064</idno>
+               </person>
                <person xml:id="esdr">
                   <persName>Esdras</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Esra_(Person)</idno>
@@ -177,6 +198,9 @@
                   <death type="ca." when="0645"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Gallus_(Heiliger)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118537350</idno>
+               </person>
+               <person xml:id="greg">
+                  <persName>Gregorius Magnus</persName>
                </person>
                <person xml:id="heri">
                   <persName>Herimannus</persName>
@@ -233,12 +257,22 @@
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Titus_Livius</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118573624</idno>
                </person>
+               <person xml:id="luci">
+                  <persName>Lucifer</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Lucifer_(r%C3%B6mische_Mythologie)</idno>
+               </person>
                <person xml:id="magn">
                   <persName>S. Magnus</persName>
                   <birth type="ca." when="0699"/>
                   <death type="ca." when="0772"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Magnus_von_F%C3%BCssen</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118865870</idno>
+               </person>
+               <person xml:id="mala">
+                  <persName>Malachias</persName>
+                  <note>propheta</note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Maleachi</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118640828</idno>
                </person>
                <person xml:id="mari">
                   <persName>Maria</persName>
@@ -250,11 +284,21 @@
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Martha_von_Bethanien</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118578219</idno>
                </person>
+               <person xml:id="meph">
+                  <persName>Miphiboseth</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Merib-Baal</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/133420558</idno>
+               </person>
                <person xml:id="mose">
                   <persName xml:lang="la">Moyses</persName>
                   <persName xml:lang="de">Mose</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Mose</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118641190</idno>
+               </person>
+               <person xml:id="noe">
+                  <persName>Noe</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Noach</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118641328</idno>
                </person>
                <person xml:id="nort">
                   <persName>Nortpertus</persName>
@@ -342,6 +386,15 @@
                      >https://de.wikipedia.org/wiki/Tobias_(Sohn_des_Tobit)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118623028</idno>
                </person>
+               <person xml:id="trai">
+                  <persName xml:lang="la">Traianus</persName>
+                  <persName xml:lang="de">Trajan</persName>
+                  <note type="bio">imperator</note>
+                  <birth when="0053-09-18"/>
+                  <death when="0117-08-08"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Trajan</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118623567</idno>
+               </person>
                <person xml:id="tucc">
                   <persName>Tucca</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Plotius_Tucca</idno>
@@ -403,6 +456,12 @@
                </person>
             </listPerson>
             <listPlace>
+               <place xml:id="aegy">
+                  <placeName type="adjective" xml:lang="la">Aegyptius</placeName>
+                  <placeName type="adjective" xml:lang="la">aegyptisch</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/%C3%84gypten</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4000556-2</idno>
+               </place>
                <place xml:id="alap">
                   <placeName xml:lang="la">provincia Alamannia</placeName>
                   <placeName xml:lang="de">Alemannien</placeName>
