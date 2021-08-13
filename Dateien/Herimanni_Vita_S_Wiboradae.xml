@@ -1484,31 +1484,193 @@
                indicauit <app>
                   <rdg wit="#C">dicens<note>add.</note></rdg>
                </app> · puerum in refrigerio esse · Huic non erit dissimile · <seg
-                  source="Joh_Diac_Greg_II_44">quod de <persName ref="#trai">traiani</persName> anima
-                  legitur · quia liberata sit ab inferno · <persName ref="#greg">gregorio</persName> dolente pro illo</seg> · Nam
-               eius animam ab inferno ereptam · atque in paradysum collocatam esse · omnino
-               incredibile uideretur · ipsa ueritate dicente · Nisi quis renatus fuerit ex aqua et
-               spiritu · non potest ‖ introire in regnum dei · Sed infernus hic per metonomiam
-               dicitur · id quod continet pro eo quod continetur · sicut est percutere ciuitatem in
-               ore gladii · cum populus in illa habitans percutiatur · tendens ad hoc · traianum a
-               cruciatibus inferni refrigerium esse consecutum · non autem ex inferno eductum ·
-               Ualet enim anima et in inferno existere · et inferni cruciatus per dei misericordiam
-               non sentire · sicuti unus gehennę ignis ualet omnes peccatores pariter detinere ·
-               sedy per dei autem iustitiam cunctos equaliter non ualet exurere · Nam uniuscuiusque
-               quantum meruit culpa · ‖ iusto dei iudicio tantum sentietur et poena · Sed tu deus
-               noster memor humanę fragilitatis · noli ita districte intrare in iudicium cum seruis
-               tuis · Reminiscere queso potius miserationum tuarum domine · et misericordiarum
-               tuarum quę a saeculo sunt · Liceat nos sperare in te cum propheta · quia non ad
-               consumptionem nostram emittasz manum tuam · et quia si in profundum inferni dimersi
-               fuerimus · inde nos liberabis · Haec quę a nobis nunc breuiter ad te domine sunt
-               singultata · confidentes apud tuam misericordiam nobis in perpetuum profutura · qui ‖
-               lacrimas prophetę in conspectu tuo posuisti · ad praedicandam uirginis tuę
-               sanctitatem sermonem reflectimus · Postquam uero uuiborada meretricem frenis
-               afflictionis absoluit · catenam cautelę ei innexuit · admonens eam · ut in posterum
-               de tam nefandis sceleribus se custodiret · ne ei nouissima peiora fierent prioribus ·
-               Ergo eius admonitionibusa admodum aedificata · in sanctitate et iustitia deinceps
-               seruire deo studuit omnibus diebus uitę suae ·</p>
+                  source="Joh_Diac_Greg_II_44">quod de <persName ref="#trai">traiani</persName>
+                  anima legitur · quia liberata sit ab inferno · <persName ref="#greg"
+                     >gregorio</persName> dolente pro illo</seg> · Nam eius animam ab inferno
+               ereptam · atque in paradysum collocatam esse · omnino incredibile uideretur · ipsa
+               ueritate dicente · <seg source="#Io_3.5">Nisi quis renatus fuerit ex aqua et spiritu
+                  · non potest <pb ed="#A" n="470"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/470"/> introire in regnum
+                  dei</seg> · Sed infernus hic per metonomiam dicitur · <seg
+                  source="#Donat_Ars_III_6">id quod continet pro eo quod continetur</seg> · sicut
+               est percutere ciuitatem in ore gladii · cum populus in illa habitans percutiatur ·
+               tendens ad hoc · <persName ref="trai">traianum</persName> a cruciatibus inferni
+               refrigerium esse consecutum · non autem ex inferno eductum · <seg
+                  source="#Joh_Diac_Greg_II_44">Ualet enim anima et in inferno existere · et inferni
+                  cruciatus per dei misericordiam non sentire · sicuti unus gehennę ignis ualet
+                  omnes peccatores pariter detinere · <app>
+                     <lem>sed</lem>
+                     <rdg wit="#B">sed<note>delevit</note></rdg>
+                     <rdg wit="#C #Vad_70 #Basil_D.I.18"><note>deest</note></rdg>
+                     <note>Eo loci «sic» legitur apud Johannem Diaconum, Vita S. Gregorii II 44,
+                        Migne PL 75, col. 106.</note>
+                  </app> per dei autem iustitiam cunctos equaliter non ualet exurere · Nam
+                  uniuscuiusque quantum meruit culpa · <pb ed="#A" n="471"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/471/0/"/> iusto dei iudicio
+                  tantum sentietur et poena</seg> · Sed tu deus noster memor humanę fragilitatis ·
+               noli ita districte intrare in iudicium cum seruis tuis · <seg source="#Ps_24.6"
+                  >Reminiscere queso potius miserationum tuarum domine · et misericordiarum tuarum
+                  quę a saeculo sunt</seg> · Liceat nos sperare in te cum propheta · <seg
+                  source="#Iob_30.24">quia non ad consumptionem nostram <app>
+                     <lem>emittas</lem>
+                     <rdg wit="#C">emittis</rdg>
+                  </app> manum tuam</seg> · et quia si in profundum inferni dimersi fuerimus · inde
+               nos liberabis · Haec quę a nobis nunc breuiter ad te domine sunt singultata ·
+               confidentes apud tuam misericordiam nobis in perpetuum profutura · <seg
+                  source="#Ps_55.9">qui <pb ed="#A" n="472"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/472/0/"/> lacrimas prophetę in
+                  conspectu tuo posuisti</seg> · ad praedicandam uirginis tuę sanctitatem sermonem
+               reflectimus · Postquam uero <persName ref="#wibo">uuiborada</persName> meretricem
+               frenis afflictionis absoluit · catenam cautelę ei innexuit · admonens eam · ut in
+               posterum de tam nefandis sceleribus se custodiret · <seg source="#Mt_12.45">ne ei
+                  nouissima peiora fierent prioribus</seg> · Ergo eius <app>
+                  <lem>admonitionibus</lem>
+                  <rdg wit="#A">admo<add>ni</add>tionibus<note>«-ni-» supr. lin.</note></rdg>
+               </app> admodum aedificata · in sanctitate et iustitia deinceps seruire deo studuit
+               omnibus diebus uitę suae ·</p>
          </div>
+         <div n="XXVII" xml:id="vw2_XXVII">
+            <p><hi>QUĘDAM IGITUR PRE</hi>nobilis puella nomine <persName ref="#rach">ra<pb ed="#A"
+                     n="473" facs="https://www.e-codices.unifr.ch/de/csg/0560/473/0/" break="no"
+                  />childa</persName> · quę etiam uirginitate sua deo dicata in eius obsequio
+               iugiter perdurabat · frigoretico morbo non modice uexabatur · Quam cum parentes eius
+                  <placeName ref="#roma">romam</placeName> deferre uellent spe recipiendę sospitatis
+               · demandauit ei beata <persName ref="#wibo">uuiborada</persName> · ut si uellet
+               sanitatem recuperare · quantotius ad eam ueniret · Procul sit ab animis audientium
+                  <persName ref="#wibo">uuiboradę</persName> legationem omnis suspitio · quasi
+               sperantem puellam ab apostolica potestate salutem · sub quadam ęquiperatione in
+               potestate curationum ab itinere retraxisse · cum longe aliam eius intentionem fuisse
+               · <app>
+                  <lem>se<pb ed="#A" n="474"
+                        facs="https://www.e-codices.unifr.ch/de/csg/0560/474/0/" break="no"/>quentia
+                     diligenter inspecta declarent</lem>
+                  <rdg wit="#C">sequentia declarabunt diligenter inspecta</rdg>
+               </app> · At illa hac legatione gauisa · impleuit sibi demandata · Postquam autem
+               uentum est ad oscula · sancta <persName ref="#wibo">uuiborada</persName> infit ·
+               Benedictus dominus qui te diu desideratam huc transmisit · sibi ad seruitium · et
+               nobis ad solatium · Postea inibi morata · infra paucos dies non ex parte sanitatem
+               recepit · atque cuncta quę spiritualis mater eam docuit · non solum <seg
+                  source="#Prv_3.3 #Prv_7.3">in tabulis cordis</seg> notauit · sed etiam ut ita
+               dicam supra suum posse omnia perfecit ·</p>
+         </div>
+         <div n="XXVIII" xml:id="vw2_XXVIII">
+            <p><seg source="#Ekk_Cas_50"><hi>HISDEM DIEBUS</hi>
+                  <persName ref="#burc"><hi>PUR</hi>chardo</persName> duce <persName ref="#alam"
+                     >alamannorum</persName>
+                  <pb ed="#A" n="475" facs="https://www.e-codices.unifr.ch/de/csg/0560/475/0/"/>
+                  bella gerenti · populis etiam inter se dissidentibus propter <app>
+                     <lem><persName ref="#hein">saxonicum heinricum</persName></lem>
+                     <rdg wit="#C"><persName ref="#hein">hainricum saxonicum</persName></rdg>
+                  </app> regem factum · cum militaris populatio grauem penuriam terris
+                  inferret</seg> · parentes beatę <persName ref="#rach">rachildę</persName>
+               metuentes eam ibi fame cruciari · uoluerunt eam repatriare · Cumque se pręsentarent
+               beatę <persName ref="#wibo">uuiboradae</persName> causa petendę licentiae · dixit eis
+               · super hac re non tunc sibi esse respondendum · sed irent ad hospicia · et in
+               crastinum conuenirent eam · Fecerunt ergo iuxta uerbum eius · et dictum est illis ·
+               ut cum gaudio ad sua remearent · dei <app>
+                  <lem>praedistinationem</lem>
+                  <rdg wit="#C">predestinationem</rdg>
+               </app>
+               <pb ed="#A" n="476" facs="https://www.e-codices.unifr.ch/de/csg/0560/476/0/"/> esse ·
+               filiam eorum inibi subsistere · Monstrabatur illis etiam locus · qui ei a domino ad
+               clausulam deputatus esse dicebatur · Igitur illius praesagio non discredentes · iter
+               arripiunt · Nec longum tempus euolutum est inter parentum abscessionem et filię
+               inclusionem · in eodem locello quo sancta uirgo praemontrauerat ·</p>
+         </div>
+         <div n="XXIX" xml:id="vw2_XXIX">
+            <p><hi>SĘPE MEMORATA</hi> uirgo <persName ref="#rach">rachilda</persName> quodam tempore
+               egrotabat · et ex nimia infirmitate in desperatione uitae praesentis iacuit · Sancta
+               uero <persName ref="#wibo">uuiborada</persName> corrogata una ex do<pb ed="#A"
+                  n="477" facs="https://www.e-codices.unifr.ch/de/csg/0560/477/0/" break="no"
+               />mesticis · tradidit ei baculum suum · et huiuscemodi mandata · Defer illum
+               spirituali filie meae · et dic ei ut tripedem imitans senectutem · ueniat ad me ·
+               Cumque ministra exequeretur precepta dominę · beata <persName ref="#rach"
+                  >rachilda</persName> extensa manu suscepit baculum · atque in ipsa susceptione
+               conualuit · Confestimque surgens · beatę <persName ref="#wibo">uuiboradę</persName>
+               se presentauit ·</p>
+            <p><said who="#heri">Quid nunc iezi? <seg type="cf." source="#IV_Rg_4.25-37">Uideo te
+                     nescio unde mutato uultu · Forsan miraris per susceptionem baculi uirginis
+                     egram conualuisse cum cogitas per positionem baculi domini tui defunctum non
+                        surrex<pb ed="#A" n="478"
+                        facs="https://www.e-codices.unifr.ch/de/csg/0560/478/0/" break="no"/>isse ·
+                     et quodammodo praecellere eam in gratia curationum ·</seg></said></p>
+            <p><said who="#giez">Non equidem miror · non enim ibi multum laborat admiratio · ubi
+                  rerum fieri potest equiperatio · Baculo <persName ref="#wibo">uuiboradę</persName>
+                  <app>
+                     <lem>tuę</lem>
+                     <rdg>tuę</rdg>
+                     <note>ex «meę» corr. saec. XV.</note>
+                  </app> egra accepto surrexit · domino autem meo superueniente puer reuixit · Et
+                  etiam ut ipse nosti · minus est egram sanare · quam mortuum resuscitare · Qua de
+                  re minus patet mihi ex parte <persName ref="#wibo">uuiboradę</persName> illud
+                  praecellere ·</said></p>
+            <p><said who="#heri">Bene dixisti domino tuo superueniente · defunctum reuixisse · ego
+                  uero inquio <persName ref="#wibo">uuiborada</persName> absente egram tantum per
+                  susceptionem <app>
+                     <lem>bacilli</lem>
+                     <rdg wit="#C">baculi</rdg>
+                  </app> eius con<pb ed="#A" n="479"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/479/0/" break="no"/>ualuisse ·
+                     <seg type="cf." source="#Act_19.12">Sic et absentis <persName ref="#paul"
+                        >pauli</persName> semicintia egrotantibus superposita sanabant</seg> · quod
+                  maioris uirtutis erat quam ipsum superuenisse · et longa oratione morbos fugasse ·
+                  Potes et in hoc notare si placet illud uirginis praecellere · quod baculus eius
+                  non ad efficiendum miraculum mittitur · et tamen in ipsa susceptione efficit ·
+                  baculus uero domini tui hac de causa per te directus · nec longa positione
+                  consequi <app>
+                     <rdg wit="#Boll"><supplied>potuit</supplied><note>coni.</note></rdg>
+                  </app> miraculi effectum · Sed quid loquar per positionem baculi signum non
+                  euenisse · cum ipse baculi dominus superueniens hoc quasi uix obti<pb ed="#A"
+                     n="480" facs="https://www.e-codices.unifr.ch/de/csg/0560/480/0/" break="no"
+                  />nens moraretur · Scriptum quippe est · <seg source="#IV_Rg_4.32-35">Ingressus
+                     est ergo <persName ref="#elis">eliseus</persName> domum · et ecce puer mortuus
+                     iacebat in lectulo eius · Ingressusque clausit ostium super se et super puerum
+                     · et orabat ad dominum · Et ascendit et incubuit super puerum · posuitque os
+                     suum super os eius · et oculos suos super oculos eius · et manus suas super
+                     manus eius · Et incuruauit se super eum · et calefacta est caro pueri · At ille
+                     reuersus · deambulauit in domo semel huc et illuc · et ascendit et incubuit
+                     super eum · et oscitauit puer septies · aperuitque oculos suos ·</seg>
+                  <pb ed="#A" n="481" facs="https://www.e-codices.unifr.ch/de/csg/0560/481/0/"/>
+                  Postremo ubi tu maxime heres <persName ref="#wibo">wiboradam</persName> mortuum
+                  non resuscitasse · cum dominus tuus legatur hoc fecisse · nequaquam obest ad iam
+                  ostensam uirginis praecellentiam · qui scis obitam non reuicturam · quam uides
+                  egram sanatam? an dubitas qui hęc per merita uirginis suę dignatus est operari ·
+                  per eadem merita et maiora si opus foret posse operari?</said></p>
+            <p>
+               <said who="#giez">Admirationem quam putaui <app>
+                     <lem>equiperatione</lem>
+                     <rdg wit="#A #B #C #Vad_70 #Sang_610 #Basil_D.I.18">equiperationem</rdg>
+                     <rdg wit="#Boll">aequiparatione</rdg>
+                  </app> leuigare · mirabiliter frater in laude uirginis procedendo non solum mihi
+                  augmentasti · uerum <app>
+                     <lem>etiam</lem>
+                     <rdg wit="#C"><note>deest</note></rdg>
+                  </app> quod rarum est contradictorem reddidisti audi<pb ed="#A" n="482"
+                     facs="https://www.e-codices.unifr.ch/de/csg/0560/482/0/" break="no"/>torem tui
+                  beniuolum · Sed quia <seg source="#Ex_12.10">si quid residuum fuerit igni
+                     conburendum est</seg> · suppressa super <seg source="#Ps_35.7">iudiciis dei quę
+                     sunt abyssus</seg> multa ammiratione <app>
+                     <lem>hortar</lem>
+                     <rdg wit="#Gold #Boll">hortor</rdg>
+                  </app> te · si qua adhuc supersunt de tali uirgine loqui · et tamen si possis <app>
+                     <lem>que</lem>
+                     <rdg wit="#C"><note>deest</note></rdg>
+                  </app> gloriam domini mei non sint ita obnubentia ·</said></p>
+            <p><said who="#heri"><app>
+                     <lem>Paretur</lem>
+                     <rdg wit="#B">Paretur<note>eras. (saec. XV?)</note></rdg>
+                     <rdg wit="#Basil_D.I.18"><note>deest</note></rdg>
+                  </app> ·</said>
+               <persName ref="#wibo">Uuiborada</persName> autem benedictione premissa · salutauit
+               amice uenientem <persName ref="#rach">rachildam</persName> · edocens illam · quod
+               fides eius et oboedientia eam alleuarent · Postquam uero multa spiritualia locutę
+               sunt · coepit beata <persName ref="#rach">rachilda</persName> flagitare · eundem
+               baculum <pb ed="#A" n="483" facs="https://www.e-codices.unifr.ch/de/csg/0560/483/0/"
+               /> sibi condonari a matre · quatinus pro eius amore eum seruaret · quoadusque uiueret
+               · Quo impetrato · nec non usque ad finem uitae conseruato · post obitum suum
+               sepulchro pie matris eum restitui disposuit · </p>
+         </div>
+
       </body>
    </text>
 </TEI>

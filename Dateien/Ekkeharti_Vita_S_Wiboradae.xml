@@ -131,6 +131,8 @@
                </person>
                <person xml:id="caes">
                   <persName>Gaius Caesar</persName>
+                  <birth type="ca." when="-0020"/>
+                  <death when="0004-02-21"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Gaius_Iulius_Caesar</idno>
                   <idno type="gnd">https://de.wikipedia.org/wiki/Gaius_Iulius_Caesar</idno>
                </person>
@@ -174,6 +176,11 @@
                      >https://de.wikipedia.org/wiki/Ekkehard_IV._(St._Gallen)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118529722</idno>
                </person>
+               <person xml:id="elis">
+                  <persName>Eliseus</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Elischa</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118688685</idno>
+               </person>
                <person xml:id="engi">
                   <persName type="normalisiert">Engilbertus</persName>
                   <persName type="alternativ">Engelbertus</persName>
@@ -199,12 +206,32 @@
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Gallus_(Heiliger)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118537350</idno>
                </person>
+               <person xml:id="giez">
+                  <persName type="normalisiert">Giezi</persName>
+                  <persName type="alternativ">Iezi</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Gehasi</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/1147227578</idno>
+               </person>
                <person xml:id="greg">
                   <persName>Gregorius Magnus</persName>
+                  <birth type="ca." when="0542"/>
+                  <death when="0604"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Gregor_der_Gro%C3%9Fe</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118541838</idno>
+               </person>
+               <person xml:id="hein">
+                  <persName xml:lang="la">Heinricus [I.], Saxonicus, rex</persName>
+                  <persName xml:lang="de">König Heinrich, der Sachse</persName>
+                  <birth type="ca." when="0875"/>
+                  <death when="0936-07-02"/>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Heinrich_I._(Ostfrankenreich)</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/11854831X</idno>
                </person>
                <person xml:id="heri">
                   <persName>Herimannus</persName>
                   <note>coenobita S. Galli</note>
+                  <birth type="ca." when="1034"/>
+                  <death type="ca." when="1076"/>
                   <idno type="gnd">http://d-nb.info/gnd/104104899</idno>
                </person>
                <person xml:id="hitt">
@@ -245,6 +272,7 @@
                </person>
                <person xml:id="laur">
                   <persName>Laurentius</persName>
+                  <death when="0258-08-10"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Laurentius_von_Rom</idno>
                   <idno type="gnd">http://d-nb.info/gnd/119320827</idno>
                </person>
@@ -254,6 +282,8 @@
                </person>
                <person xml:id="liui">
                   <persName>Livius</persName>
+                  <birth type="ca." when="-0059"/>
+                  <death type="ca." when="0017"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Titus_Livius</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118573624</idno>
                </person>
@@ -303,6 +333,7 @@
                <person xml:id="nort">
                   <persName>Nortpertus</persName>
                   <note>abbas S. Galli</note>
+                  <death notBefore="1076"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Nortpert</idno>
                </person>
                <person xml:id="notk">
@@ -328,6 +359,7 @@
                </person>
                <person xml:id="petr">
                   <persName>Petrus apostolus</persName>
+                  <death type="ca." when="0065"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Simon_Petrus</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118593323</idno>
                </person>
@@ -427,11 +459,15 @@
                <person xml:id="vari">
                   <persName>Varius</persName>
                   <note>Virgilii corrector</note>
+                  <birth type="ca." when="-0075"/>
+                  <death type="ca." when="-0015"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Lucius_Varius_Rufus</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118626140</idno>
                </person>
                <person xml:id="virg">
                   <persName>Virgilius</persName>
+                  <birth when="-0070-10-15"/>
+                  <death when="-0019-09-21"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Vergil</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118626574</idno>
                </person>
