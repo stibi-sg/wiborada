@@ -104,7 +104,8 @@
                <person xml:id="alar">
                   <persName xml:lang="la">Alaricus</persName>
                   <persName xml:lang="de">Alarich</persName>
-                  <note type="bio">in quadam insula Turicini lacus solitarius, Adalrich von Ufenau</note>
+                  <note type="bio">in quadam insula Turicini lacus solitarius, Adalrich von
+                     Ufenau</note>
                   <death when="0973"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Adalrich_(Einsiedler)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/1025101081</idno>
@@ -141,6 +142,12 @@
                   <persName xml:lang="de">Chaldäer</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Chald%C3%A4er</idno>
                   <idno type="gnd">http://d-nb.info/gnd/4009710-9</idno>
+               </person>
+               <person xml:id="char">
+                  <persName>Caribdis</persName>
+                  <persName type="normalisiert">Charybdis</persName>
+                  <idno type="wikipeida">https://de.wikipedia.org/wiki/Charybdis</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/1138252077</idno>
                </person>
                <person xml:id="cili">
                   <persName>Cilia</persName>
@@ -224,7 +231,8 @@
                   <persName xml:lang="de">König Heinrich, der Sachse</persName>
                   <birth type="ca." when="0875"/>
                   <death when="0936-07-02"/>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Heinrich_I._(Ostfrankenreich)</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Heinrich_I._(Ostfrankenreich)</idno>
                   <idno type="gnd">http://d-nb.info/gnd/11854831X</idno>
                </person>
                <person xml:id="heri">
@@ -289,7 +297,8 @@
                </person>
                <person xml:id="luci">
                   <persName>Lucifer</persName>
-                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Lucifer_(r%C3%B6mische_Mythologie)</idno>
+                  <idno type="wikipedia"
+                     >https://de.wikipedia.org/wiki/Lucifer_(r%C3%B6mische_Mythologie)</idno>
                </person>
                <person xml:id="magn">
                   <persName>S. Magnus</persName>
@@ -314,6 +323,12 @@
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Martha_von_Bethanien</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118578219</idno>
                </person>
+               <person xml:id="mich">
+                  <persName>Michaeas</persName>
+                  <note type="bio">propheta</note>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Micha</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118641085</idno>
+               </person>
                <person xml:id="meph">
                   <persName>Miphiboseth</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Merib-Baal</idno>
@@ -324,6 +339,11 @@
                   <persName xml:lang="de">Mose</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Mose</idno>
                   <idno type="gnd">http://d-nb.info/gnd/118641190</idno>
+               </person>
+               <person xml:id="nabo">
+                  <persName>Naboth Israelita</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Nabot</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/118586122</idno>
                </person>
                <person xml:id="noe">
                   <persName>Noe</persName>
@@ -383,6 +403,11 @@
                </person>
                <person xml:id="regins">
                   <persName>Reginsinda</persName>
+               </person>
+               <person xml:id="saff">
+                  <persName>Saffira</persName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Hananias_und_Saphira</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/122449606X</idno>
                </person>
                <person xml:id="salo">
                   <persName>Salomon [III.]</persName>
@@ -483,6 +508,10 @@
                   <death when="0926-05-01"/>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Wiborada</idno>
                   <idno type="gnd">http://d-nb.info/gnd/11880717X</idno>
+               </person>
+               <person xml:id="wito">
+                  <persName>Wito</persName>
+                  <note type="bio">presbyter</note>
                </person>
                <person xml:id="zach">
                   <persName>Zacharias</persName>
@@ -589,6 +618,11 @@
                   <note type="description">Fluss</note>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Rhein</idno>
                   <idno type="gnd">http://d-nb.info/gnd/4049739-2</idno>
+               </place>
+               <place xml:id="ramo">
+                  <placeName>Ramoth Galaad</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/Ramot-Gilead</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/1175706310</idno>
                </place>
                <place xml:id="rom">
                   <placeName xml:lang="la">Roma</placeName>
@@ -1730,7 +1764,8 @@
                   <rdg wit="#S">mai<note>secundam «i» erasit</note></rdg>
                </app> aliis terris peruagatis et deuastatis ad monasterium sancti <app>
                   <lem><persName ref="#gall">Galli</persName></lem>
-                  <rdg wit="#A"><persName ref="#gall">Galli</persName><note>nomen linea rubra produxit</note></rdg>
+                  <rdg wit="#A"><persName ref="#gall">Galli</persName><note>nomen linea rubra
+                        produxit</note></rdg>
                </app> peruenturam · et in eadem reuelatione ostensum est illi quod per martyrii
                gloriam ipsis paganis eam uulnerantibus <app>
                   <lem>sui laboris</lem>
@@ -2373,7 +2408,8 @@
                · inter reliquos circumstantes respiciens uirum uenerabilem eiusdem mo<cb ed="#S"
                   n="138rb" break="no"/>nasterii monachum et bene doctum <app>
                   <lem>nomine <persName ref="#egge">Eggehardum</persName></lem>
-                  <rdg wit="#S">nomine · <persName ref="#egge">Eggehardum</persName><note>interpunxit</note></rdg>
+                  <rdg wit="#S">nomine · <persName ref="#egge"
+                        >Eggehardum</persName><note>interpunxit</note></rdg>
                </app> · interrogabat eum dicens · Estne aliquid karissime ab aliquo fratrum quos
                doctissimos scimus de preclara sanctę uirginis uita et passione per literas memorię
                traditum? Cui ille · nemo ait adhuc eorum manum ad huiusmodi opus inchoandum extendit
@@ -2458,7 +2494,8 @@
             <head><app>
                   <lem><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
                      sancte <persName ref="#wibo">Wiberade</persName> ·</lem>
-                  <rdg wit="#A">Incipit epitalmus beate <persName ref="#wibo">wiborade</persName></rdg>
+                  <rdg wit="#A">Incipit epitalmus beate <persName ref="#wibo"
+                     >wiborade</persName></rdg>
                   <rdg wit="#Boll">Epitaphium B. <persName ref="#wibo">Wiboradae</persName></rdg>
                </app></head>
          </div>
