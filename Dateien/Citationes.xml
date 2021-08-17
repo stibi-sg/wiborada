@@ -959,6 +959,23 @@
             <cit xml:id="Mart_Cap_nupt_I_2">
                <bibl>Martianus Capella, De nuptiis I 2</bibl>
             </cit>
+            <cit xml:id="Wala_Vita_Gall_I_12">
+               <bibl>Walahfrid, Vita S. Galli I 12</bibl>
+            </cit>
+            <cit xml:id="Iuv_3.10">
+               <bibl>Iuvenal. I 3,10</bibl>
+            </cit>
+            <cit xml:id="Prud_Psych_454">
+               <bibl>Prudentius, Psychomachia 454</bibl>
+            </cit>
+            <cit xml:id="Hor_carm_II_3.19">
+               <bibl>Horat., Carm. II 3,19</bibl>
+            </cit>
+            <cit xml:id="Ps_50.19">
+               <bibl>Ps 50,19</bibl>
+               <quote>sacrificium Dei spiritus contribulatus cor contritum et humiliatum Deus non
+                  dispicies</quote>
+            </cit>
          </div>
       </back>
    </text>

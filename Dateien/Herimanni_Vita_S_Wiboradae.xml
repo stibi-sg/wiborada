@@ -1886,24 +1886,73 @@
                   n="500" facs="https://www.e-codices.unifr.ch/de/csg/0560/500/0/"/> beatam
                   <persName ref="#wibo">uuiboradam</persName> · dicens se <seg
                   source="#Mart_Cap_nupt_I_2">creperum sapere</seg> · tam sacrum locum umquam a
-               paganis posse contaminari · atque hoc nefas existimari · preces beati <persName
-                  ref="#gall"><hi>GALLI</hi></persName> prius a deo pro eius <app>
-                  <lem>emundatione</lem>
-                  <rdg wit="#B">emendatione</rdg>
-                  <rdg wit="#C">commendatione</rdg>
-               </app> exauditas · modo in eius contaminatione credere adnullari · Quem illa mox
-               diuinis oraculis non incredulum esse monens · fugamque quantotius accelerare hortans
-               · praedixit ei in eundo inprouisum merorem propter eius incredulitatem prouenire ·
-               Quod et factum est ·</p>
-            <p><l>Postquam tota domus reda componitur una ·</l></p>
-            <p>quendam puerum impositę suppellectili supersede‖re fecerunt · En subito nescio quo
-               casu reda subuersa est · et puer qui dudum supersedens impositam suppellectilem
-               premebat · diffidebat aliquantisper huius impressione uiuus euadere · Tunc illi quasi
-               exanimati maxime propter puerum · redamque cum impositis reponderantes · inuenerunt
-               puerum in periculo sanum · Presbiter autem animo recolligens sibi praedictum merorem
-               · non solum fit credulus omnium quę sancta uirgo praedixerat · uerum etiam
-               glorificauit deum · qui ei tale donum prophetiae conferre dignatus est · Mox igitur ‖
-               męrore gaudio propulso · lęto cursu ad castellum peruenit · </p>
+               paganis posse contaminari · atque hoc nefas existimari · <seg type="cf."
+                  source="#Wala_Vita_Gall_I_12">preces beati <persName ref="#gall"
+                     ><hi>GALLI</hi></persName> prius a deo pro eius <app>
+                     <lem>emundatione</lem>
+                     <rdg wit="#B">emendatione</rdg>
+                     <rdg wit="#C">commendatione</rdg>
+                  </app> exauditas</seg> · modo in eius contaminatione credere adnullari · Quem illa
+               mox diuinis oraculis non incredulum esse monens · fugamque quantotius accelerare
+               hortans · praedixit ei in eundo inprouisum merorem propter eius incredulitatem
+               prouenire · Quod et factum est ·</p>
+            <p><l><seg source="#Iuv_3.10">Postquam tota domus reda componitur una ·</seg></l></p>
+            <p>quendam puerum impositę suppellectili supersede<pb ed="#A" n="501"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/501" break="no"/>re fecerunt · En
+               subito nescio quo casu reda subuersa est · et puer qui dudum supersedens impositam
+               suppellectilem premebat · diffidebat aliquantisper huius impressione uiuus euadere ·
+               Tunc illi quasi exanimati maxime propter puerum · redamque cum impositis
+               reponderantes · inuenerunt puerum in periculo sanum · Presbiter autem animo
+               recolligens sibi praedictum merorem · non solum fit credulus omnium quę sancta uirgo
+               praedixerat · uerum etiam glorificauit deum · qui ei tale donum prophetiae conferre
+               dignatus est · Mox igitur <pb ed="#A" n="502"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/502/0/"/> męrore gaudio propulso
+               · lęto cursu ad castellum peruenit · </p>
+         </div>
+         <div n="XXXIV" xml:id="vw2_XXXIV">
+            <p><hi>CUM HĘC AGERENTUR</hi> · iam tum non fama uolabat per cellam de <date
+                  when="0926-05-01">aduentu <persName ref="#unga">ungrorum</persName></date> · sed
+               illorum rabies undique eam circumsepserat ·</p>
+            <p>Mox ad praedandum cuneus dispergitur omnis ·<seg type="cf." source="#Prud_Psych_454"><app>
+                     <lem>ingemitque</lem>
+                     <rdg wit="#C">ingemuitque</rdg>
+                  </app> auaritia contra eius patentes sinus uacua patere ęraria</seg> · Exstruuntur
+               in basilicis pyrę · prorumpentesque in altum flammę · diuina uirtute uix permittuntur
+               obfuscare laquearia · Incenduntur altaria · <app>
+                  <lem>sanctorumque</lem>
+                  <rdg wit="#C">sanctorum</rdg>
+               </app> reliquię ignium dominaturę ignibus traduntur · Hu<pb ed="#A" n="503"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/503/0/" break="no"/>miliantur
+               usque ad terram <seg source="#Hor_carm_II_3.19">in altum exstructę</seg> domus ·
+               humiles uero aut deiciebantur · aut ignis dominabatur earum · Tali uastatione
+                  <placeName ref="#emag">basilicam sancti <hi>MAGNI</hi></placeName> adeuntes ·
+               uoluerunt et illam rogo exstructo concremare · Sed ubi diuina potentia eis resistente
+               · eorum uoluntas caruit effectu · tunc auaricię suae consulentes · cęperunt spe
+               pecunię quęque <app>
+                  <lem>secreta</lem>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> rimari · sicque rimando ad ultimum ad oratorium uirginis deuenerunt · Quod
+               undique premunitum esse comperientes · autumantes omnem thesaurum eo loci fugatum
+               esse ·<pb ed="#A" n="504" facs="https://www.e-codices.unifr.ch/de/csg/0560/504/0/"/>
+               disiectione tegularum sibi aditum parabant · Cumque introgressi essent · inuenerunt
+               eam cilicio indutam · <seg type="cf." source="#Ps_50.19">spiritum contribulatum deo
+                  sacrificantem</seg> · Utrum propter hoc quia noluisset secreta patriae denudare
+               facerent · uel quod ęstimarent eam eis aliquid officere in quęrenda pecunia ignoramus
+               · postquam ei omnem amictum preter cilicium detraxerunt · tria uulnera in caput eius
+               librabant · et ita seminecem relinquebant · O detestabile uitium auaricię · cuius
+               potio cum sit sitis · sui amatores omnia exquirere terra <app>
+                  <lem>et mari</lem>
+                  <rdg wit="#C">marique</rdg>
+               </app> sollicitat · et non solum <pb ed="#A" n="505"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/505/0/"/> talentorum reconditores
+               · uerum etiam uictu et uestitu contentos plerumque iugulare efficit propter questum ·
+               et quod dolendum est · illos quam sępe ab his quorum sanguinem sitiunt exceptos ·
+               precibus fidelium indignos expirare · Ergo post <app>
+                  <lem>peractam</lem>
+                  <rdg wit="#B">actam</rdg>
+               </app> necem · quęque absconsioni idonea diligenter scrutantes · postquam nihil
+               inuenerunt horum quę sperabant · protinus erumpebant foras · magis sceleribus quam
+               gazis onusti · </p>
          </div>
       </body>
    </text>
