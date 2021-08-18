@@ -1896,8 +1896,8 @@
                mox diuinis oraculis non incredulum esse monens · fugamque quantotius accelerare
                hortans · praedixit ei in eundo inprouisum merorem propter eius incredulitatem
                prouenire · Quod et factum est ·</p>
-            <p><l><seg source="#Iuv_3.10">Postquam tota domus reda componitur una ·</seg></l></p>
-            <p>quendam puerum impositę suppellectili supersede<pb ed="#A" n="501"
+            <p><l><seg source="#Iuv_3.10">Postquam tota domus reda componitur una ·</seg></l>
+               quendam puerum impositę suppellectili supersede<pb ed="#A" n="501"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/501" break="no"/>re fecerunt · En
                subito nescio quo casu reda subuersa est · et puer qui dudum supersedens impositam
                suppellectilem premebat · diffidebat aliquantisper huius impressione uiuus euadere ·
@@ -1953,6 +1953,113 @@
                </app> necem · quęque absconsioni idonea diligenter scrutantes · postquam nihil
                inuenerunt horum quę sperabant · protinus erumpebant foras · magis sceleribus quam
                gazis onusti · </p>
+         </div>
+         <div n="XXXV" xml:id="vw2_XXXV">
+            <p><hi><app>
+                     <lem>AT</lem>
+                     <rdg wit="#C">Et</rdg>
+                  </app> UIRGINALIS CRUOR</hi>
+               <app>
+                  <lem>undatim</lem>
+                  <rdg wit="#B #C">nudatim</rdg>
+               </app> profluens · in prima eruptione uicinum conspersit murum · atque <app>
+                  <lem>exin decurrens</lem>
+                  <rdg wit="#A #B #C #Basil_D.I.18 #Sang_610 #Vad_70 #Gold">exin decurrens<note>ita
+                        separant</note></rdg>
+                  <rdg wit="#Boll">exinde currens</rdg>
+               </app>
+               <app>
+                  <lem>riuis</lem>
+                  <rdg wit="#B">ruus<note>»i« supr. primam »u«</note></rdg>
+                  <rdg wit="#C">riu<subst>
+                        <del>i</del>
+                        <add>v</add>
+                     </subst>s<note>»riuvs« ex »riuis« corr.</note></rdg>
+               </app> · cilicium <pb ed="#A" n="506"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/506"/> totum perfudit · Quę
+               conspersio quamuis sępe calce dealbaretur · nullatenus per multos annos potuit
+               aboleri · Quod miraculum quidam excęcatus mercator audiens · uenit in <placeName
+                  ref="#emag">basilicam sancti <hi>MAGNI</hi></placeName> · baculo regente gressum ·
+               Qui praemissa oratione · postulauit se deduci ad locum · quo deductus · parum quid
+               radens de sacro sanguine · panno inuolutum domum <app>
+                  <lem>duxit</lem>
+                  <rdg wit="#B #C">deduxit</rdg>
+               </app> · Cumque diuersorium suum ingressus fuisset · ilico orbatis inspargens
+               luminibus · mox de recepto uisu gratulabatur · atque sepulchrum beatę uirginis cum
+               debita ueneratione reuisit · glo<pb ed="#A" n="507"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/507/0/" break="no"/>rificans deum
+               ·</p>
+         </div>
+         <div n="XXXVI" xml:id="vw2_XXXVI">
+            <p><hi>BEATA IGITUR <app>
+                     <rdg wit="#C"><persName ref="#wibo">wiborada</persName><note>add.</note></rdg>
+                  </app> UIR</hi>go et martyr christi non eadem hora emisit spiritum · sed uiuens
+               usque in <date when="0926-05-02">sequens mane</date> · <seg type="cf."
+                  source="#Lc_16.22">in sinum <persName ref="#abra">abrahę</persName></seg>
+               exspirauit · Uenit itaque bonae memorię frater eius · qui nescio ubi inter frutecta
+               latens totum conspexerat · uolens pretiosum thesaurum terrę commendare · ne forte
+               barbara gens iterato ueniens igni eum traderet · Sed huius rei uoluntate a beata
+                  <persName ref="#rach">rachilda</persName> spoliatus · donec abbate cum omni clero
+               adueniente honorifice sepulture daretur · inuolutum sacro uela<pb ed="#A" n="508"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/508/0/" break="no"/>mine <app>
+                  <lem>·</lem>
+                  <rdg wit="#A"><note>punctum deest</note></rdg>
+                  <rdg wit="#B">·<note>suppl.</note></rdg>
+               </app> ad castellum proficiscitur atque abbati cętereque multitudini omnia uti gesta
+               erant per ordinem retexuit · qui fraternam <app>
+                  <lem>commemorationem</lem>
+                  <rdg wit="#B">commerationem</rdg>
+               </app> pro eius requie celebrantes · manserunt ibi octo dies <seg type="cf."
+                  source="#Io_7.13 #Io_19.38">propter metum paganorum</seg> · </p>
+         </div>
+         <div n="XXXVII" xml:id="vw2_XXXVII">
+            <p><hi>UENIENTE AUTEM</hi>
+               <date when="0926-05-08">die octaua</date> · abbas comperto discessu paganorum ·
+               rediit cum fratribus ad monasterium · reliquis etiam qui illo confugerant
+               repatriantibus · Memoratus autem frater eius collectis secum quibusdam de fratribus
+               ac laicis · coepit studiosius satagere · ut corpus eodem die sepulturę traderetur
+                  ·<pb ed="#A" n="509" facs="https://www.e-codices.unifr.ch/de/csg/0560/509/0/"/>
+               Cumque illud nudarent lauandum ut moris est · nulla in eo patuerunt uulnerum indicia
+               · nisi qua catena sulcabat · sed ita sanum atque inuiolatum uiderunt · ut etiam a
+               plerisque de martyrio posset dubitari · si effusus cruor testis non esset · Eandem
+               uero catenam ante barbarorum irruptionem a se dissoluens iuxta altariolum occuluit ·
+               et postea eos qui excubias circa funus eius celebrabant per uisionem admonuit · ut de
+               eodem loco sumptam · prope eam in sarchophago collocarent · quod et fecerunt ·</p>
+         </div>
+         <div n="XXXVIII" xml:id="vw2_XXXVIII">
+            <p><hi>POSTQUAM UERO <app>
+                     <lem>LAUTVM</lem>
+                     <rdg wit="#B #C">lotum</rdg>
+                  </app></hi>
+               <pb ed="#A" n="510" facs="https://www.e-codices.unifr.ch/de/csg/0560/510/0/"/> corpus
+               linteaminibus reinuolutum · in sarchophagum leuare uoluerunt · cognouerunt eis
+               inpedimento esse · beatam uirginem in finali angore unum crus atque brachium ad se
+               trahendo curuasse · spirituque recedente ante eorum extensionem · ita in curuitate
+               diriguisse · Procul dubio fidelium est credere deum hoc ad declaranda martyris suę
+               merita fieri uoluisse · Uolant in turba diuersę cogitationes · nam sectionem artuum
+               estimabant uirgini esse iniuriam · libitinam autem secundum membrorum curuitatem
+               formare laboriosum duxerunt · Cumque ita penduli <pb ed="#A" n="511"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/511/0/"/> stetissent · uiderunt
+               eadem membra ueluti uiuentia in directum se extendere · faciemque eius quodam
+               angelico rubore perfusam · quasi in risum hilarescere · Tunc et ipsi lętabundi ·
+               preciosum thesaurum sarchophago imposuerunt · iuxta eius admonitionem catenam prope
+               illam collocantes ·</p>
+         </div>
+         <div n="XXXIX" xml:id="vw2_XXXIX">
+            <p><hi>ERGO OMNIBUS EX</hi>peditis · uenit abbas cum congregatione fratrum · et copiosa
+               multitudine utriusque sexus · non sine magna deuotione · atque missarum solemnia
+               celebrantes · in spiritu humilitatis <app>
+                  <lem>sacrificabant</lem>
+                  <rdg wit="#B">sacrificabant<note>in marg. suppl. manus posterior</note></rdg>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> pro eius requie summo et uero sa<pb ed="#A" n="512"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/512/0/" break="no"/>cerdoti ·
+               Expletis autem missarum solemniis · acceptaque cruce et his quę exequiis exhibentur ·
+               usque ad locum sepulchri procedunt · Ibi deum cui omnia uiuunt fideliter pro ea
+               deprecantes · uirginalem glebam spoliatę telluri uirginitate cum multa lacrima
+               commendauerunt · <date when="0926-05-08" type="!">anno nongentesimo uigesimo quinto
+                  incarnationis domini nostri iesu christi</date> · qui uiuit et regnat deus · per
+               infinita sęcula amen ·</p>
          </div>
       </body>
    </text>
