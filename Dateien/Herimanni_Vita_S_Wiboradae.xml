@@ -270,7 +270,7 @@
                <item n="II"><ref target="#vw2_II">Quam laudabile sit nomen illius ·</ref></item>
                <item n="III"><ref target="#vw2_III">Quomodo quędam soror illius noluit ad chorum
                      exire cum coequalibus · eo quod audisset angelicos concentus ·</ref></item>
-               <item n="IIII"><ref target="#vw2_IIII">Qualis eius conuersatio fuit · quando ad
+               <item n="IIII"><ref target="#vw2_IV">Qualis eius conuersatio fuit · quando ad
                      intellegibilem aetatem peruenit ·</ref></item>
                <item n="V"><ref target="#vw2_V">Quomodo quodam festo die cum parentibus ad ęcclesiam
                      processura · noluit priuatam uestem mutare nisi ab illis coacta · et quod
@@ -286,7 +286,7 @@
                      relictis omnibus monachicum susciperet habitum · illoque prebente consensum ·
                      presbiter <placeName ref="#emag">ęcclesię beati magni</placeName> efficitur ad
                      ultimum ·</ref></item>
-               <item n="VIIII"><ref target="#vw2_VIIII">Quale propositum elegit sibimet ipsi post
+               <item n="VIIII"><ref target="#vw2_IX">Quale propositum elegit sibimet ipsi post
                      fratris conuersionem · et quomodo diabolus eam terruit · ad basilicam nocte
                      gradientem ·</ref></item>
                <item n="X"><ref target="#vw2_X">Quomodo seruientem cuiusdam matronę doemoniosum ·
@@ -306,10 +306,9 @@
                      episcopus post iudicium eam in tantum amare coepit · quod etiam cum equitatu
                      illam ad constantiam perduci precepit · illaque spreto equitatu ad pedes eundo
                      eo peruenit ·</ref></item>
-               <item n="XIIII"><ref target="#vw2_XIIII">Quomodo <persName ref="#cili"
-                        >cilia</persName> reclusa eam diuinis eloquiis ędificatura · ei ostendit sua
-                     marsupia · illius oboedientiam in horum feneratoria augmentatione probatura
-                     ·</ref></item>
+               <item n="XIIII"><ref target="#vw2_XIV">Quomodo <persName ref="#cili">cilia</persName>
+                     reclusa eam diuinis eloquiis ędificatura · ei ostendit sua marsupia · illius
+                     oboedientiam in horum feneratoria augmentatione probatura ·</ref></item>
                <item n="XV"><ref target="#vw2_XV">Quomodo eadem <persName ref="#cili"
                         >cilia</persName> contra uirginem inuidiam coepit habere · et quomodo
                         <persName ref="#salo">salomonem</persName> episcopum hortabatur · ut eam
@@ -339,10 +338,10 @@
                      fractione panis cum mulieribus deuotis · et quia una ex illis dedignans hoc
                      officium karitatis · decidit in lectum doloris · ac postea illius precibus
                      recepit gaudia sospitatis ·</ref></item>
-               <item n="XVIIII"><ref target="vw2_XVIIII">Quomodo in pentecoste a <persName
-                        ref="#salo">salomone</persName> episcopo iuxta <placeName ref="#emag"
-                        >basilicam sancti magni</placeName> est inclusa · et quia a diabolo mox est
-                     temptata ·</ref></item>
+               <item n="XVIIII"><ref target="vw2_XIX">Quomodo in pentecoste a <persName ref="#salo"
+                        >salomone</persName> episcopo iuxta <placeName ref="#emag">basilicam sancti
+                        magni</placeName> est inclusa · et quia a diabolo mox est temptata
+                  ·</ref></item>
                <item n="XX"><app>
                      <rdg wit="#A">xxx<note>quem errorem usque ad findem capitulorum
                            protraxit</note></rdg>
@@ -360,9 +359,8 @@
                      benedictum panem ab ea accepit · eumque cuidam sibi occurenti despectiue
                      porrexit · hacque de causa tam diu cibos fastidiuit · donec iterato benedictum
                      panem ab ea accepit ·</ref></item>
-               <item n="XXIIII"><ref target="#vw2_XXIIII">Quomodo una ex ancillis eius uasa
-                     sacrificii purgare neglexit · eique dominus hoc per uisionem reuelauit
-                  ·</ref></item>
+               <item n="XXIIII"><ref target="#vw2_XXIV">Quomodo una ex ancillis eius uasa sacrificii
+                     purgare neglexit · eique dominus hoc per uisionem reuelauit ·</ref></item>
                <item n="XXV"><ref target="#vw2_XXV">Quomodo sibi specialem pauperem elegit · et
                      doemon in eius similititudine quadam die illi se obtulit ·</ref></item>
                <item n="XXVI"><ref target="#vw2_XXVI">Quod mecham quę puerum suum perdidit · cessare
@@ -373,7 +371,7 @@
                         >rachildę</persName> uoluerunt illam repatriare · et hoc beata <persName
                         ref="#wibo">uuiborada</persName> coepit disuadere · dicens eam dei
                      predistinatione reclusa ibi fieri debere ·</ref></item>
-               <item n="XXVIIII"><ref target="#vw2_XXVIIII">Quomodo beata <persName ref="#rach"
+               <item n="XXVIIII"><ref target="#vw2_XXIX">Quomodo beata <persName ref="#rach"
                         >rachilda</persName> infirma fuit · atque in susceptione baculi beatę
                         <persName ref="#wibo">uuiboradę</persName> conualuit ·</ref></item>
                <item n="XXX"><ref target="#vw2_XXX">Quomodo sanctus <persName ref="#gall"
@@ -410,7 +408,7 @@
                      <pb ed="#A" n="392" facs="https://www.e-codices.unifr.ch/de/csg/0560/392/0/"/>
                      uastatione ad castellum pergendo factus est credulus · in oppressi pueri
                      saluatione ·</ref></item>
-               <item n="XXXIIII"><ref target="#vw2_XXXIIII">Quomodo <persName ref="#ungr"
+               <item n="XXXIIII"><ref target="#vw2_XXXIV">Quomodo <persName ref="#ungr"
                         >ungri</persName>
                      <placeName ref="#cell">cellam</placeName> inuadentes · ferro igneque omnia
                      uastantes · ad ultimum ad uirginis deuenerunt aedes · et quomodo tria uulnera
@@ -437,8 +435,8 @@
                         <rdg wit="#A">sarchaphagum</rdg>
                      </app>· non potuerunt prę curuitate membrorum · et quomodo illis uidentibus
                      extendit se in directum ·</ref></item>
-               <item n="XXXVIIII"><ref target="#vw2_XXXVIIII">Quomodo uenit abbas cum congregatione
-                     · atque celebrantes missarum solemnia pro eius requie · honorifice eam
+               <item n="XXXVIIII"><ref target="#vw2_XXXIX">Quomodo uenit abbas cum congregatione ·
+                     atque celebrantes missarum solemnia pro eius requie · honorifice eam
                      tradiderunt sepulturae ·</ref></item>
             </list>
          </div>
@@ -2060,6 +2058,99 @@
                commendauerunt · <date when="0926-05-08" type="!">anno nongentesimo uigesimo quinto
                   incarnationis domini nostri iesu christi</date> · qui uiuit et regnat deus · per
                infinita sęcula amen ·</p>
+         </div>
+         <pb ed="#A" n="513" facs="https://www.e-codices.unifr.ch/de/csg/0560/513"/>
+         <div type="contents" xml:id="vw2_cont2">
+            <head><supplied>Liber secundus</supplied></head>
+            <head><app>
+                  <lem>Capitula</lem>
+                  <rdg wit="#C"><note>Capitula desunt.</note></rdg>
+               </app></head>
+            <list>
+               <item n="I"><ref target="#vw2_2_I">De candela quę ad sepulchrum eius posita cęlitus
+                     est tricies incensa ·</ref></item>
+               <item n="II"><ref target="#vw2_2_II">Quod quędam de ancillis eius uoluit noctu
+                     basilicam intrare causa orandi · sed propter inmensum lumen quod uidit in ea
+                     non ausa est ingredi ·</ref></item>
+               <item n="III"><ref target="#vw2_2_III">Quod germen feniculi circa tumulum eius creuit
+                     tempore hiemali ·</ref></item>
+               <item n="IIII"><ref target="#vw2_2_IV">De pectinis eius inuentione · </ref></item>
+               <item n="V"><ref target="#vw2_2_V">Quod cuiusdam turgidum caput eodem pectine
+                     benedictum · pristinę sanitati est redditum ·</ref></item>
+               <item n="VI"><ref target="#vw2_2_VI">Quod beata <persName ref="#rach"
+                        >rachilda</persName> cum infirmaretur per eius uisitationem sanabatur
+                     ·</ref></item>
+               <item n="VII"><ref target="#vw2_2_VII">Quomodo iuuenis <persName ref="#uoda"
+                        >ǒdalricus</persName> ad sepulchrum eius est sanatus ·</ref></item>
+               <item n="VIII"><ref target="#vw2_2_VIII">Quod <persName ref="#engi"
+                        >engilbertus</persName> abba monasterii anniuersarium eius cantu et
+                     lectionibus pręcepit uenerari · <app>
+                        <lem>et quod per uisionem innotuit · quia mutatio uelaminis altaris
+                           displicuit ·</lem>
+                        <rdg wit="#B">et quod per uisionem innotuit · quia mutatio uelaminis altaris
+                           displicuit ·<note>Secundam partem capituli numeravit »IX« et ita numerum
+                              capitulorum »XVI« usque protelavit.</note></rdg>
+                     </app>
+                  </ref></item>
+               <item n="VIIII"><ref target="#vw2_2_IX">Quomodo beatę <persName ref="#rach"
+                        >rachildę</persName> germana · eius uisitatione est sanitati restituta ·
+                  </ref></item>
+               <pb ed="#A" n="514" facs="https://www.e-codices.unifr.ch/de/csg/0560/514/0/"/>
+               <item n="X"><ref target="#vw2_2_X">De obitu <persName ref="#hitt">hittonis</persName>
+                     germani illius · et quomodo <persName ref="#eggi">egibertus</persName>
+                     successor eius uisu orbatus · per eius merita est sanatus ·</ref></item>
+               <item n="XI"><ref target="#vw2_2_XI">De quadam <persName ref="#regins"
+                        >reginsinda</persName> quę debuit uacare eius sollemnia ·</ref></item>
+               <item n="XII"><ref target="#vw2_2_XII">Quod duo diuersis morbis uexati · ad eius
+                     sepulchrum sunt sanati ·</ref></item>
+               <item n="XIII"><ref target="#vw2_2_XIII">Quomodo quidam qui dentium dolore laborauit
+                     · tactus ligniculo de cupa eius sanus recessit ·</ref></item>
+               <item n="XIIII"><ref target="#vw2_2_XIV">Quomodo diabolus <persName ref="#kebi"
+                        >kebininam</persName> in ignem trusit · et quomodo inde eruta quasi in
+                     extasi iacuit · et ad uesperum resipuit ·</ref></item>
+               <item n="XV"><ref target="#vw2_2_XV">Quomodo diuina reuelatione corpora ambarum
+                     uirginum <placeName ref="#emag">basilicę sancti magni</placeName> sunt
+                     intromissa · et quod unus artificum pede lesus sospitati pristinae est redditus
+                     · </ref></item>
+            </list>
+         </div>
+         <pb ed="#A" n="515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>
+         <div n="I" xml:id="vw2_2_I">
+            <p><hi>IGITUR POST SEPULTURAM <app>
+                     <lem>PRECLUIS</lem>
+                     <rdg wit="#A #B #C #Vad_70 #Sang_610 #Basil_D.I.18"
+                        >PRECLUIS<note>ita</note></rdg>
+                     <rdg wit="#Boll">praedictae</rdg>
+                  </app> AGONISTĘ · DIUINA</hi> potentia quę ea adhuc in carne manente · signorum
+               adtestatione dignata est mortalibus innotescere · <seg type="cf."
+                  source="#Mil_Am_II_8">quam fideliter in mandatis eius incederet</seg> · ipsa etiam
+               non dedignata est post eius depositionem frequentia miraculorum mundo declarare ·
+               quali gloria ab ea remunerata sit in cęlis · Ad eius tumbam lucerna posita erat ·
+               quatinus <app>
+                  <lem>quando</lem>
+                  <rdg wit="#C">cum</rdg>
+               </app> missarum sollemnia · seu uespertinalis oratio · seu matutinę lau<pb ed="#A"
+                  n="516" facs="https://www.e-codices.unifr.ch/de/csg/0560/516/0/" break="no"/>des
+               celebrarentur · lumen adesset · Quadam uero die post officiorum expletionem edituus
+               eam exstinguens · altera die ingressus · repperit eam ardentem · Quam secundo
+               extinctam · secundo inuenit incensam · atque exstinxit · Similiter tertio ingressus
+               repperit ardentem · sed minime exstinxit · cupiens prius indagare · quis ei officium
+               suum ita dimidiaret · Cumque ab interrogatis non solum nil certi posset exarare ·
+               uerum etiam eius inquisitio omnium admiratio fuisset · itur in commune ad lucernam ·
+               Posses mirari fluentem ceram a facie ignis · tunc <pb ed="#A" n="517"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/517/0/"/> eius calore nil esse
+               imminutam · atque id ipsum lumen paulatim se subtrahere uisibus humanis · ut facile
+               in hoc miraculo animaduerteres · <seg type="cf." source="#Mt_25.7">beatam uirginem
+                  ornata lampade ad nuptias cęlestis sponsi intromissam</seg> · cum illo <seg
+                  source="#I_Tim_6.16">habitare lumen inaccessibile</seg> ·</p>
+         </div>
+         <div n="II" xml:id="vw2_2_II">
+            <p><hi>VNA SERUARVM HUIUS</hi> uirginis · quadam nocte stratu suo relicto · causa
+               orationis basilicam petiit · Quae testata est se tantam claritatem in ea uidisse · ut
+               ingenti terrore correpta · fusis precibus ante ualuas · minus periculosum esse
+               eligeret · positum in horrentibus tenebris thorum <pb ed="#A" n="518"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/518/0/"/> reuisere · quam
+               irradiatam cęlesti lumine basilicam introire ·</p>
          </div>
       </body>
    </text>
