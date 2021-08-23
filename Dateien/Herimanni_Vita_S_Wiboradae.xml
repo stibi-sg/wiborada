@@ -2152,6 +2152,70 @@
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/518/0/"/> reuisere · quam
                irradiatam cęlesti lumine basilicam introire ·</p>
          </div>
+         <div n="III" xml:id="vw2_2_III">
+            <p><date when="0926"><hi>IN AUTUMNO QUI ĘSTA</hi>tem passionis beatę <persName
+                     ref="#wibo">uuiboradę</persName> retrudit</date> · sepe memoratus frater eius ·
+               uiridis fęniculi germen circa tumulum eius fixit · Quod diuina dispensatione radicem <app>
+                  <lem>terrę</lem>
+                  <rdg wit="#B #C">terra</rdg>
+               </app> figens · atque per totum brumale tempus in sui uiriditate permanens · ad
+               ultimum adeo creuit · quod comis in modum coronę nexis · totum sepulchrum protexit ·
+               De cuius germinis uiriditate non solum multi sunt mirati · uerum etiam plerique
+               languentes sanitati sunt restituti · per acceptionem <pb ed="#A" n="519"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/519"/> temperati ex eo antidoti ·
+            </p>
+         </div>
+         <div n="IV" xml:id="vw2_2_IV">
+            <p><hi>SOROR ERAT</hi>
+               <app>
+                  <lem><hi>HUIC BE</hi>atę martyri</lem>
+                  <rdg wit="#B">huius beate martyri<note>!</note></rdg>
+               </app> nomine <persName ref="#will">vuillidruda</persName> · tricesimum possidens
+               gradum · Haec cum haberet natam · rogabatur a uirgine sorore · ut hanc permitteret
+               aliquot dies secum morari · Qua permittente · cum apud materteram paucos exegisset
+               soles · <app>
+                  <lem>infirmata ·</lem>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> morti debitum soluit · Mater autem post aliqua annorum curricula · morte <app>
+                  <lem>intercedente</lem>
+                  <rdg wit="#C">interveniente</rdg>
+               </app> soluta a lege uiri · coepit frequentare tumulum martyrizate sororis · ibique
+               diuinis laudibus die noctuque se occupans in gradu sexagesi<pb ed="#A" n="520"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/520/0/" break="no"/>mo a morte
+               inuenta est · Huic adhuc in corpore degenti · quodam matutino crepusculo predicta
+               filia eius hilari uultu apparens · huiuscemodi uerbis ad eam usa est · Num uigilas
+               mater? Quę respondit · vigilo · Surge inquit · et dic auunculo meo · quod domna mea
+                  <persName ref="#wibo">uuiborada</persName> egre feret · eius thesaurum illius <app>
+                  <lem>neglegentia</lem>
+                  <rdg wit="#B #C">negligentia</rdg>
+               </app> tam diu celari · At illa suspicans de thesauro pecunię · dixit · Qualem
+               thesaurum credenda est occuluisse · quam sperabamus consortem uerę beatitudinis in
+               cęlis · eo quod in terris posita · non sperare uisa <pb ed="#A" n="521"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/521/0/"/> est in pecunia et
+               thesauris? Cui illa · Non est inquit ita ut tu suspicaris · nam inuentio thesauri ·
+               tollet tibi huiusmodi suspectum · <app>
+                  <lem>Mox igitur linquens stratum adiit fratrem · sibique per somnium <app>
+                        <lem>reuelata</lem>
+                        <rdg wit="#B"><note>deest</note></rdg>
+                     </app> nuntiauit</lem>
+                  <rdg wit="#C"><note>desunt</note></rdg>
+               </app> · Nec mora · surgitur a sacerdote · atque una locum sepulchri uirginis
+               adeuntes · uiderunt illius pectinem sine appendiculo ab aere sustentari · Quem cum
+               soror presbyteri manu tangeret · cecidit <app>
+                  <lem>ei</lem>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> in manum · Tunc ille indignatus · uoluit enim plures testes huius miraculi
+               fieri · suscepit eundem pectinem · atque <pb ed="#A" n="522"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/522/0/"/> ad claustrum properans
+               · abbati · cętereque congregationi eum presentauit · simul omnia de uisione <app>
+                  <lem>in presentando</lem>
+                  <rdg wit="#C"><note>deest</note></rdg>
+               </app> retexens · Quem pater monasterii reuerenter suscipiens · illa mirabili
+               sustentatione audita exosculatur · laudesque et gratias pro eius inuentione <app>
+                  <rdg>deo mirabili <note>add.</note></rdg>
+               </app> deo omnipotenti persoluens · die eadem argento inclusum · ad tumbam uirginis
+               appendi praecepit ·</p>
+         </div>
       </body>
    </text>
 </TEI>

@@ -509,6 +509,10 @@
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Wiborada</idno>
                   <idno type="gnd">http://d-nb.info/gnd/11880717X</idno>
                </person>
+               <person xml:id="will">
+                  <persName>Willidruda</persName>
+                  <note type="bio">soror B. Wiboradae</note>
+               </person>
                <person xml:id="wito">
                   <persName>Wito</persName>
                   <note type="bio">presbyter</note>
@@ -695,7 +699,7 @@
                      <rdg wit="#A">recti</rdg>
                   </app> agendi magistras</seg> · ambas <app>
                   <lem>inquam</lem>
-                  <rdg wit="Boll">in quantum<note>!</note></rdg>
+                  <rdg wit="#Boll">in quantum<note>!</note></rdg>
                </app> christi amatrices <persName ref="#mart">martham</persName> scilicet et
                   <persName ref="#mari">mariam</persName> imitans · per actiuę quidem sudorem
                conuersationis · ad speculatiuę fastigium contemplationis ascendens · cunctis iter
