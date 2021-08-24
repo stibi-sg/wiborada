@@ -18,8 +18,10 @@
    </teiHeader>
    <text>
       <body>
-         <div corresp="#vw1_head"><head><supplied>Ekkehart</supplied></head>
-            <head>Das Leben der heiligen Jungfrau und Martyrin Wiborada</head></div>
+         <div corresp="#vw1_head">
+            <head><supplied>Ekkehart</supplied></head>
+            <head>Das Leben der heiligen Jungfrau und Martyrin Wiborada</head>
+         </div>
          <div corresp="#vw1_I.1">
             <p>Wiborada, die seligste Jungfrau Gottes, dem Stamm der Alemannen, die auch Schwaben
                heißen, entsprossen, wuchs wie ein guter Baum aus guter Wurzel von wohlgeborenen
@@ -222,22 +224,23 @@
                von denen eine Kebini, die andere Pertherad hieß. Diese Schwestern in frommer
                Verbundenheit blieben lange Zeit gemeinsam im Dienst der heiligen Jungfrau. Sie
                bereiteten ihr meist recht üppige und wohlschmeckende Speisen, setzten ihr aber auch
-               gemäß ihrer Weisung Kraut oder Gemüse zum Essen vor. Wenn nun beides aufgetischt war,
-               legte sie oftmals das schon zum Munde geführte Fleisch, das nun zwischen die Zähne
-               hätte geschoben werden sollen, dennoch zurück, auf daß sie durch Enthaltsamkeit beim
-               Fleischgenuß das Fleisch ihres Körpers bezwinge und den Geist stärke. Zufrieden mit
-               einfacherer Nahrung teilte sie die Speise, die ihr zubereitet wurde, an die Armen und
-               vorbeiziehende Fremde aus, denen, wie wir schon sagten, ihre größte Sorge galt, oder
-               auch an das aufwartende Gesinde. Unter dem beständigen Schutze des Gebetes bewahrte
-               sie sich Tag und Nacht vor der Heimtücke des sie bedrängenden Feindes. Sie pflegte
-               nämlich nachts unbemerkt aus dem Hause zu gehen, sich ohne Begleitung zur Kirche zu
-               begeben und dort mit anhaltendem Gebet die Nacht zu verbringen. Wenn beim Untergang
-               der Sonne von allen die Ruhe des Schlafes gesucht wurde, verschmähte sie das Lager,
-               das immer mit aufwendigem Bettzeug geschmückt bereit stand. Wenn die Türen
-               geschlossen waren, breiteten die oben erwähnten Schwestern eine rauhe Decke auf dem
-               nackten Boden aus und legten statt des Kopfkissens einen Stein unter ihren Kopf. Und
-               nachdem sie so ein wenig Schlaf gekostet hatte, und während willkommener Schlaf die
-               Brust der anderen beschwerte, erhob sie sich heimlich und ging zur Kirche. </p>
+               gemäß ihrer Weisung Kraut oder Gemüse zum Essen vor.</p>
+            <p>Wenn nun beides aufgetischt war, legte sie oftmals das schon zum Munde geführte
+               Fleisch, das nun zwischen die Zähne hätte geschoben werden sollen, dennoch zurück,
+               auf daß sie durch Enthaltsamkeit beim Fleischgenuß das Fleisch ihres Körpers bezwinge
+               und den Geist stärke. Zufrieden mit einfacherer Nahrung teilte sie die Speise, die
+               ihr zubereitet wurde, an die Armen und vorbeiziehende Fremde aus, denen, wie wir
+               schon sagten, ihre größte Sorge galt, oder auch an das aufwartende Gesinde. Unter dem
+               beständigen Schutze des Gebetes bewahrte sie sich Tag und Nacht vor der Heimtücke des
+               sie bedrängenden Feindes. Sie pflegte nämlich nachts unbemerkt aus dem Hause zu
+               gehen, sich ohne Begleitung zur Kirche zu begeben und dort mit anhaltendem Gebet die
+               Nacht zu verbringen. Wenn beim Untergang der Sonne von allen die Ruhe des Schlafes
+               gesucht wurde, verschmähte sie das Lager, das immer mit aufwendigem Bettzeug
+               geschmückt bereit stand. Wenn die Türen geschlossen waren, breiteten die oben
+               erwähnten Schwestern eine rauhe Decke auf dem nackten Boden aus und legten statt des
+               Kopfkissens einen Stein unter ihren Kopf. Und nachdem sie so ein wenig Schlaf
+               gekostet hatte, und während willkommener Schlaf die Brust der anderen beschwerte,
+               erhob sie sich heimlich und ging zur Kirche. </p>
          </div>
          <div corresp="#vw1_XII.11">
             <p>Voll Neid auf dieses Wachsen ihrer Tugenden forderte sie der Teufel durch sehr
@@ -642,15 +645,15 @@
                endlich aller Zweifel ausgeräumt, und der ehrwürdige Abt glaubte ihr, tat nach all
                ihren mahnenden Worten und ließ den ganzen verbliebenen Schatz des heiligen Gallus an
                Büchern, Gold, Silber, Kleidung verschiedener Art und allem, was den Mönchen von Wert
-               oder Nutzen sein konnte, mit aller Vorsicht und Eile zur Burg schaffen. Es kamen auch
-               die Eltern der Herrin Rachild und überlegten mit der seligen Wiborada, wie sie ihre
-               Tochter aus ihrer Klause an einen sicheren Ort zu ihrer Rettung mit sich fortführen
-               könnten. Ihnen sagte sie: «Seid über meine Tochter nicht beunruhigt. Denn im Schutze
-               des allmächtigen Gottes und seiner Heiligen wird sie euch und vielen anderen zum
-               Trost für lange Zeit bewahrt bleiben. Geht zu eurer Wohnung, steht zeitig auf und
-               kommt zu uns, daß ihr aus unseren Händen den Segen Gottes und des heiligen Magnus
-               empfangt und freudig nach Hause zurückkehrt.» Bei Anbruch des nächsten Tages kamen
-               deshalb die Verwandten der seligen Rachild, gottesfürchtig wie sie waren und im
+               oder Nutzen sein konnte, mit aller Vorsicht und Eile zur Burg schaffen.</p>
+            <p>Es kamen auch die Eltern der Herrin Rachild und überlegten mit der seligen Wiborada,
+               wie sie ihre Tochter aus ihrer Klause an einen sicheren Ort zu ihrer Rettung mit sich
+               fortführen könnten. Ihnen sagte sie: «Seid über meine Tochter nicht beunruhigt. Denn
+               im Schutze des allmächtigen Gottes und seiner Heiligen wird sie euch und vielen
+               anderen zum Trost für lange Zeit bewahrt bleiben. Geht zu eurer Wohnung, steht zeitig
+               auf und kommt zu uns, daß ihr aus unseren Händen den Segen Gottes und des heiligen
+               Magnus empfangt und freudig nach Hause zurückkehrt.» Bei Anbruch des nächsten Tages
+               kamen deshalb die Verwandten der seligen Rachild, gottesfürchtig wie sie waren und im
                Vertrauen auf die Worte und Tröstungen der ehrwürdigen Jungfrau und von aller Sorge
                um ihre Tochter befreit, dankten ihr für alles Gute, das sie ihnen immer mit so
                großer Güte erwiesen hatte, und baten um die Erlaubnis, gehen zu dürfen. Sie sagte zu
