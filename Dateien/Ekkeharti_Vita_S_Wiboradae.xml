@@ -574,6 +574,12 @@
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Konstanz</idno>
                   <idno type="gnd">http://d-nb.info/gnd/4032215-4</idno>
                </place>
+               <place xml:id="ethi">
+                  <placeName type="adjective">Ethiops</placeName>
+                  <placeName>Äthiopien</placeName>
+                  <idno type="wikipedia">https://de.wikipedia.org/wiki/%C3%84thiopien</idno>
+                  <idno type="gnd">http://d-nb.info/gnd/4000639-6</idno>
+                  </place>
                <place xml:id="fric">
                   <placeName xml:lang="la">pagus Frichgowe</placeName>
                   <placeName xml:lang="de">Frickgau</placeName>
