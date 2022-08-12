@@ -12,28 +12,6 @@
          </publicationStmt>
          <sourceDesc>
             <listWit>
-               <witness xml:id="S">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>Stuttgart, Württembergische Landesbibliothek</repository>
-                        <idno>Bibl. 2°58</idno>
-                        <objectName>Stuttgarter Passionale</objectName>
-                        <altIdentifier type="url">
-                           <idno>http://digital.wlb-stuttgart.de/purl/bsz332502295</idno>
-                        </altIdentifier>
-                     </msIdentifier>
-                     <head><title type="incipit">Incipit uita ·s· wiberadę uirginis et
-                           martyris</title>
-                        <origDate type="ca.">1144</origDate></head>
-                     <msContents>
-                        <msItem>
-                           <bibl>
-                              <biblScope>fol. 130r-138v</biblScope>
-                           </bibl>
-                        </msItem>
-                     </msContents>
-                  </msDesc>
-               </witness>
                <witness xml:id="A">
                   <msDesc>
                      <msIdentifier>
@@ -54,6 +32,18 @@
                      </msContents>
                   </msDesc>
                </witness>
+               <witness xml:id="Ba">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Basel, Universitätsbibliothek</repository>
+                        <idno>D.I.18</idno>
+                     </msIdentifier>
+                     <head>
+                        <origPlace>Kartäuserkloster St. Margrethen in Kleinbasel</origPlace>
+                        <origDate>1508</origDate>
+                     </head>
+                  </msDesc>
+               </witness>
                <witness xml:id="Boll">
                   <bibl>
                      <editor>Gesellschaft der Bollandisten</editor>/> <title>Acta Sanctorum Mai t.
@@ -63,6 +53,23 @@
                      <date>1680</date>
                      <placeName>Antwerpen</placeName>
                   </bibl>
+               </witness>
+               <witness xml:id="E">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>El Escorial, Real Biblioteca</repository>
+                        <idno>Vitrinas 17</idno>
+                        <objectName>«Goldenes Evangelienbuch Heinrichs III.»</objectName>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+               <witness xml:id="H">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Heidelberg, Universitätsbibliothek</repository>
+                        <idno>Sal. IX 21</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
                <witness xml:id="G">
                   <msDesc>
@@ -81,8 +88,30 @@
                      </msContents>
                   </msDesc>
                </witness>
+               <witness xml:id="S">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Stuttgart, Württembergische Landesbibliothek</repository>
+                        <idno>Bibl. 2°58</idno>
+                        <objectName>Stuttgarter Passionale</objectName>
+                        <altIdentifier type="url">
+                           <idno>http://digital.wlb-stuttgart.de/purl/bsz332502295</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                     <head><title type="incipit">Incipit uita ·s· wiberadę uirginis et
+                        martyris</title>
+                        <origDate type="ca.">1144</origDate></head>
+                     <msContents>
+                        <msItem>
+                           <bibl>
+                              <biblScope>fol. 130r-138v</biblScope>
+                           </bibl>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
             </listWit>
-            <listPerson>
+            <listPerson xml:id="Pers">
                <person xml:id="abra">
                   <persName>Abraham</persName>
                   <idno type="wikipedia">https://de.wikipedia.org/wiki/Abraham</idno>
@@ -2543,7 +2572,7 @@
                   <rdg wit="#Boll"><note>Explicit deest</note></rdg>
                </app></p>
          </div>
-         <div>
+         <div xml:id="vw1_epit">
             <head><app>
                   <lem><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
                      sancte <persName ref="#wibo">Wiberade</persName> ·</lem>

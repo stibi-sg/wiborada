@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <ab/>
+            </publicationStmt>
+            <sourceDesc>
+                <ab/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Zum Inhalt</head>
+            </div>
+            <div>
+                <p>Am 1. Mai 926 erlitt die Rekluse Wiborada den Martyrertod durch die in St. Gallen
+                    einfallenden Ungarn. Sie hatte ihre vermauerte Zelle an St. Mangen nicht
+                    verlassen und war als einzige am Ort zurückgeblieben.</p>
+                <p>Um 960/970 wurde ihr Leben nach Berichten von Augenzeugen, vor allem Wiboradas
+                    Bruder Hitto, der Mönch in St. Gallen war, aufgeschrieben. Der Verfasser dieser
+                    Vita war nach glaubhafter Tradition Ekkehart I. von St. Gallen. Um 1075 ist
+                    diese älteste «ottonische» Vita in den Stil des XI. Jahrhunderts umgeschrieben
+                    worden von dem St. Galler Mönch Herimannus.</p>
+                <p>Das Buch enthält die kritische Edition dieser beiden vorzüglichen, zu wenig
+                    bekannten lateinischen Lebensbeschreibungen, die für die Geschichte im
+                    allgemeinen, die Kirchen-, Literatur- und Kulturgeschichte im besonderen von
+                    Interesse sind. Eine deutsche Übersetzung ist als Paralleltext beigegeben. In
+                    der Einleitung sind die wesentlichen kult- und literaturgeschichtlichen Fragen,
+                    die handschriftliche Überlieferung und die Prinzipien der Edition behandelt, die
+                    die vor über 300 Jahren erschienene Ausgabe der <hi rend="it">Acta Sanctorum</hi> ersetzen
+                    soll.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
