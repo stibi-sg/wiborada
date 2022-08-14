@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>Zitierte Handschriften und Urkunde</head>
+            <listWit xml:id="Hss">
+                <witness corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">Augsburg</placeName>
+                            <repository>Staats- und Stadtbibliothek</repository>
+                            <idno>2°203</idno>
+                        </msIdentifier>
+                        <head>
+                            <title type="incipit"> Incipit vita et passio sancte Wiborade virginis et
+                                martiris · aput sanctum gallum ·vj· nonas may</title>
+                            <origPlace>Reichsabtei St. Ulrich und Afra zu Augsburg</origPlace>
+                            <origDate>1464</origDate></head>
+                        <msContents>
+                            <msItem>
+                                <bibl>
+                                    <biblScope>fol. 80<hi rend="sup">r</hi>-110<hi rend="sup">r</hi></biblScope>
+                                </bibl>
+                            </msItem>
+                        </msContents>
+                    </msDesc>
+                </witness>
+                <witness corresp="Herimanni_Vita_S_Wiboradae.xml#Basil_D.I.18">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">Basel</placeName>
+                            <repository>Universitätsbibliothek</repository>
+                            <idno>D.I.18</idno>
+                        </msIdentifier>
+                        <head>
+                            <origPlace>Kartäuserkloster St. Margrethen in Kleinbasel</origPlace>
+                            <origDate>1508</origDate>
+                        </head>
+                    </msDesc>
+                </witness>
+                <witness xml:id="E">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps"></placeName>
+                            <repository>Real Biblioteca</repository>
+                            <idno>Vitrinas 17</idno>
+                            <objectName>«Goldenes Evangelienbuch Heinrichs III.»</objectName>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness corresp="Herimanni_Vita_S_Wiboradae.xml#C">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">Heidelberg</placeName>
+                            <repository>Universitätsbibliothek</repository>
+                            <idno>Sal. IX 21</idno>
+                            <altIdentifier type="url">
+                                <idno>https://digi.ub.uni-heidelberg.de/diglit/salIX21</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <bibl><biblScope>f. 62<hi rend="sup">r</hi>-79<hi rend="sup">r</hi></biblScope></bibl>
+                            </msItem>
+                        </msContents>
+                    </msDesc>
+                </witness>
+                <witness corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70">
+                    <msDesc>
+                    <msIdentifier>
+                        <placeName rend="smallcaps">St. Gallen</placeName>
+                        <repository>Kantonsbibliothek (Vadiana)</repository>
+                        <idno>Vad. 70 (L 12)</idno>
+                        <altIdentifier type="url">
+                            <idno>https://www.e-codices.unifr.ch/en/list/one/vad/0070</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <bibl><biblScope>f. 25<hi rend="sup">v</hi>-36<hi rend="sup">v</hi></biblScope></bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+                </witness>
+                <witness xml:id="Vad_Man">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stadtarchiv (Vadiana)</repository>
+                            <idno>s. n. «Jahrzeitenbuch von St. Mangen»</idno>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Stia_Prof">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsarchiv</repository>
+                            <idno>Cod. Class. I. Cist. C. 3. B. 56</idno>
+                            <objectName>«Profeßbuch»</objectName>
+                            <altIdentifier type="url">
+                                <idno>http://scope.stiftsarchiv.sg.ch/detail.aspx?ID=69961</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Stia_Wart">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsarchiv</repository>
+                            <idno>Urk. IV 495 (Wartmannn 807)</idno>
+                            <altIdentifier type="url">
+                                <idno>https://www.e-chartae.ch/de/charters/view/804</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_174">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>174</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0174</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_339">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>339</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0339</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_340">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>340</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0340</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_341">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>341</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0341</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_360">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbiblitohek</repository>
+                            <idno>360</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0360</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_393">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>393</idno>
+                            <altIdentifier type="url">
+                                <idno>https://www.e-codices.unifr.ch/de/csg/0393/260</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <head><title>Epitaphium sanctę Rachildę uirginis reclusę ·</title></head>
+                        <msContents>
+                            <msItem>
+                                <bibl><biblScope>p. 260</biblScope></bibl>
+                            </msItem>
+                        </msContents>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_425">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>425</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0425</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_503">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>503k</idno>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_546">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>546</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0546</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness corresp="Herimanni_Vita_S_Wiboradae.xml#A">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>560</idno>
+                            <altIdentifier type="url">
+                                <idno>https://www.e-codices.unifr.ch/de/list/one/csg/0560</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <bibl><biblScope>p. 374-544</biblScope></bibl>
+                            </msItem>
+                        </msContents>
+                    </msDesc>
+                </witness>
+                <witness corresp="Herimanni_Vita_S_Wiboradae.xml#B">
+                    <msDesc>
+                    <msIdentifier>
+                        <placeName rend="smallcaps">St. Gallen</placeName>
+                        <repository>Stiftsbibliothek</repository>
+                        <idno>564</idno>
+                        <altIdentifier type="url">
+                            <idno>https://www.e-codices.unifr.ch/en/list/one/csg/0564</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <bibl><biblScope>p. 231-320</biblScope></bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+                </witness>
+                <witness xml:id="Sang_565">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>565</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0565</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_586">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>586</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0586</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_602">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>602</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0602</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness corresp="Herimanni_Vita_S_Wiboradae.xml#Sang_610">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>610</idno>
+                            <altIdentifier type="url">
+                                <idno>https://www.e-codices.unifr.ch/en/list/one/csg/0610</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <bibl><biblScope>p. 113a-132b</biblScope></bibl>
+                            </msItem>
+                        </msContents>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_613">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>613</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0613</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_915">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>915</idno>
+                            <objectName>«Regelcodex»</objectName>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0915</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_1034">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>1034</idno>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Sang_1257">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">St. Gallen</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>1257</idno>
+                            <altIdentifier type="url">
+                                <idno>https://e-codices.unifr.ch/de/list/one/csg/1257</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
+                <witness corresp="Ekkeharti_Vita_S_Wiboradae.xml#S">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">Stuttgart</placeName>
+                            <repository>Württembergische Landesbibliothek</repository>
+                            <idno>Bibl. 2°58</idno>
+                            <objectName>Stuttgarter Passionale</objectName>
+                            <altIdentifier type="url">
+                                <idno>http://digital.wlb-stuttgart.de/purl/bsz332502295</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <head><title type="incipit">Incipit uita ·s· wiberadę uirginis et
+                            martyris</title>
+                            <origDate type="ca.">1144</origDate></head>
+                        <msContents>
+                            <msItem>
+                                <bibl>
+                                    <biblScope>fol. 130r-138v</biblScope>
+                                </bibl>
+                            </msItem>
+                        </msContents>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </body>
+    </text>
+</TEI>

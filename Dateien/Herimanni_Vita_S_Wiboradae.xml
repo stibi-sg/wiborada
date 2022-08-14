@@ -92,7 +92,7 @@
                <witness xml:id="Basil_D.I.18"><msDesc>
                      <msIdentifier>
                         <repository>Universitätsbibliothek Basel</repository>
-                        <idno>D I 18</idno>
+                        <idno>D.I.18</idno>
                      </msIdentifier>
                      <head>
                         <origPlace>Kartäuserkloster St. Margarethen in Kleinbasel</origPlace>
@@ -1377,7 +1377,7 @@
                habuit quendam seruientem quem frequenter ad beatam <persName ref="#wibo"
                   >uuiboradam</persName> dirigere solebat · Contigit autem ut quadam die eo missus ·
                frustum benedicti panis accepisset · Qui regrediens · forsan non ita indigus ut <seg
-                  source="#I_Sm_30.11-15">ille <placeName ref="#aegy">aegyptius</placeName> puer
+                  source="#I_Sm_30.11-15">ille <persName ref="#aegy">aegyptius</persName> puer
                   proditor <persName ref="#amal">amalechitarum</persName></seg> · eundem panem
                cuidam sibi occurrenti ita despectiue dedit · Nec multum post a febre corripitur ·
                atque in tanta detinebatur infirmitate · quod neque <pb ed="#A" n="462"
