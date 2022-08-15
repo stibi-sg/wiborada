@@ -17,7 +17,7 @@
     <text>
         <body>
             <head>KONKORDANZ DER VITAE SANCTAE WIBORADAE</head>
-            <div>
+            <div xml:id="Konk">
                 <table rows="62" cols="2">
                     <row>
                         <cell>Ekkehart</cell>
