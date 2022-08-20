@@ -11,9 +11,22 @@
                     <resp>Einleitung, kritische Edition und Übersetzung,<lb/> besorgt von</resp>
                     <persName>WALTER BERSCHIN</persName>
                 </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung durch</resp>
+                    <persName>Svenja Berkensträter, Wolfgang Meier und Andreas Kränzle</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Gefördert von</resp>
+                    <orgName>X</orgName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p/>
+                <publisher>Stiftsbibliothek St. Gallen <lb/>Klosterhof 6d <lb/>9000 St.
+                    Gallen</publisher>
+                <date>2023</date>
+                <availability>
+                    <licence>CC BY-SA</licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <listBibl xml:id="Lit">
@@ -193,7 +206,7 @@
                         <l>Erasmus Grasser zugeschrieben, um 1515.</l>
                         <l>Aufnahme: Karl Künzler, St. Gallen</l>
                     </lg>
-                    <ref target="Bilder\Schlussstein.png"/></p>
+                    <graphic corresp="Bilder\Schlussstein.png"/></p>
             </div>
             <div>
                 <p>EINLEITUNG</p>
@@ -1650,15 +1663,16 @@
                     </div>
                     <div xml:id="intro_III.8">
                         <head>Rezension und Überlieferungsgeschichte</head>
-                        <p>Alle Handschriften sind von <ref target="Herimanni_Vita_S_Wiboradae.xml#A">Sangallensis 560</ref> (<hi rend="it">A</hi>)
-                            abhängig, teils direkt, wie Sang. 564 (<hi rend="it">B</hi>), teils
-                            indirekt. Nach den strengen Regeln alter Rezensions- und Editionstechnik
-                            wäre nur die Abhängigkeit zu erweisen, und dann könnte man alle späteren
-                            Handschriften außer Acht lassen. Aber die moderne Edition darf sich
-                            nicht damit begnügen, den Text des Autors herzustellen, sondern muß auch
-                            die Überlieferungsströme sichtbar machen. Deshalb sollen die
-                            verschiedenen Abhängigkeiten hier doch eingehender dargestellt
-                            werden.</p>
+                        <p>Alle Handschriften sind von <ref
+                                target="Herimanni_Vita_S_Wiboradae.xml#A">Sangallensis 560</ref>
+                                (<hi rend="it">A</hi>) abhängig, teils direkt, wie Sang. 564 (<hi
+                                rend="it">B</hi>), teils indirekt. Nach den strengen Regeln alter
+                            Rezensions- und Editionstechnik wäre nur die Abhängigkeit zu erweisen,
+                            und dann könnte man alle späteren Handschriften außer Acht lassen. Aber
+                            die moderne Edition darf sich nicht damit begnügen, den Text des Autors
+                            herzustellen, sondern muß auch die Überlieferungsströme sichtbar machen.
+                            Deshalb sollen die verschiedenen Abhängigkeiten hier doch eingehender
+                            dargestellt werden.</p>
                     </div>
                     <div xml:id="intro_III.9">
                         <p>Sang. 564 (<hi rend="it">B</hi>) ist direkt nach Sang. 560 (<hi rend="it"
