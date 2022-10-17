@@ -212,9 +212,9 @@
                 <p>EINLEITUNG</p>
             </div>
             <div n="I">
-                <head>Vom liturgischen Gedächtnis zur historischen Biographie</head>
+                <head>VOM LITURGISCHEN GEDÄCHTNIS ZUR HISTORISCHEN BIOGRAPHIE</head>
                 <div type="content">
-                    <p rend="smaller"><ref target="#intro_I.1">Die erste Aufzeichnung über die
+                    <ab type="content" rend="smaller"><ref target="#intro_I.1">Die erste Aufzeichnung über die
                             heilige Wiborada im Profeßbuch der Abtei St. Gallen.</ref> — <ref
                             target="#intro_I.2">Historische Einträge im Regelcodex unter den
                             Verbrüderungen</ref>
@@ -225,7 +225,7 @@
                             Ekkeharts IV., Epitaphien.</ref> — <ref target="#intro_I.6">Die jüngere
                             Vita des XI. Jahrhunderts.</ref> — <ref target="#intro_I.7">Lateinische
                             Epitome und deutsche Übersetzungen der jüngeren Vita im XV.
-                            Jahrhundert.</ref></p>
+                            Jahrhundert.</ref></ab>
                 </div>
 
                 <div xml:id="intro_I.1">
@@ -612,7 +612,7 @@
                 <head>EKKEHARTS I. VITA S. WIBORADAE</head>
 
                 <div type="content">
-                    <p rend="smaller"><ref target="#intro_II.1">Verfasserproblem und
+                    <ab type="content" rend="smaller"><ref target="#intro_II.1">Verfasserproblem und
                             Rezeption.</ref> — <ref target="#intro_II.2">Kontraststil.</ref> — <ref
                             target="#intro_II.3">Rachiltverse und Wiboradavita.</ref> — <ref
                             target="#intro_II.4">Die Handschriften.</ref> — <ref
@@ -630,7 +630,7 @@
                             target="#intro_II.13">Die Ausgaben: Gottfried Henschen.</ref> — <ref
                             target="#intro_II.14">Jean Mabillon.</ref> — <ref target="#intro_II.15"
                             >Georg Waitz.</ref> — <ref target="#intro_II.16">Zu dieser
-                            Ausgabe.</ref></p>
+                            Ausgabe.</ref></ab>
                 </div>
                 <div xml:id="intro_II.1">
                     <p>Die ältere Vita S. Wiboradae hat im allgemeinen Bewußtsein der Literatur- und
@@ -777,7 +777,7 @@
                         Biographie, die in St. Gallen während der Ottonenzeit geschrieben wurde.</p>
                 </div>
                 <div xml:id="intro_II.4">
-                    <head>Die Handschriften</head>
+                    <head rend="align(center)">Die Handschriften</head>
                     <div>
                         <p n="S">Die erste Vita S. Wiboradae ist nur mehr in zwei Handschriften
                             erhalten. Die ältere und bessere ist <ref
@@ -838,7 +838,7 @@
                     </div>
                 </div>
                 <div xml:id="intro_II.5">
-                    <head>Rezension</head>
+                    <head rend="align(center)">Rezension</head>
                     <p>Die typische Siglengruppierung des Apparats ist <hi rend="it">A Boll.</hi>,
                         das heißt die Augsburger Handschrift und der von den Bollandisten gedruckte
                         Text der Handschriften aus Dillingen und Wiblingen stehen gegen <hi
@@ -991,7 +991,7 @@
                 </div>
 
                 <div xml:id="intro_II.8">
-                    <head>Literatur- und Kultgeschichte</head>
+                    <head rend="align(center)">Literatur- und Kultgeschichte</head>
                     <p>Die Überlieferung beider Zweige der älteren Wiboradavita ging von St. Gallen
                         aus. Spätester Zeitpunkt für die Ausbreitung von St. Gallen ist
                         paläographisch ca. 1144 (Datierung von <hi rend="it">S</hi>).
@@ -1208,7 +1208,7 @@
                     <p><graphic corresp="Bilder\Stemma_E.png"/></p>
                 </div>
                 <div xml:id="intro_II.13">
-                    <head>Die Ausgaben</head>
+                    <head rend="align(center)">Die Ausgaben</head>
                     <p>Gottfried Henschen druckte als erster die ältere Vita S. Wiboradae im ersten
                         Mai-Band der Acta Sanctorum<note><bibl><title level="j">Acta
                                     Sanctorum</title>
@@ -1289,7 +1289,7 @@
                                 452-457</biblScope></bibl>.</note>.</p>
                 </div>
                 <div xml:id="intro_II.16">
-                    <head>Diese Ausgabe</head>
+                    <head rend="align(center)">Diese Ausgabe</head>
                     <p>wurde möglich und nötig durch das Wiederauﬂinden der Augsburger Handschrift
                             (<hi rend="it">A</hi>) im Jahr 1975, das Rolf Schmidt zu verdanken ist.
                         Mit <hi rend="it">A</hi> war eine Kontrollmöglichkeit für den
@@ -1334,7 +1334,7 @@
             <div n="III">
                 <head>HERIMANNS VITA S. WIBORADAE</head>
                 <div type="content">
-                    <p rend="smaller"><ref target="#intro_III.1">Das Verfasserproblem.</ref> — <ref
+                    <ab type="content" rend="smaller"><ref target="#intro_III.1">Das Verfasserproblem.</ref> — <ref
                             target="#intro_III.2">Weitere Werke Herimanns?</ref> — <ref
                             target="#intro_III.3">Cod. Sang. 560 ein Autograph? </ref> — <ref
                             target="#intro_III.4">Cod. Sang. 564, die «Doublette des XII.
@@ -1349,7 +1349,7 @@
                             target="#intro_III.11">Stemma.</ref> — <ref target="#intro_III.12"
                             >Ältere Ausgaben.</ref> — <ref target="#intro_III.13">Zu dieser
                             Ausgabe.</ref>
-                    </p>
+                    </ab>
                 </div>
                 <div>
                     <div xml:id="intro_III.1">
@@ -1455,7 +1455,7 @@
                             Kraft zurückgeht, aber sich nicht unwürdig noch behauptet.</p>
                     </div>
                     <div xml:id="intro_III.3">
-                        <head>Die Handschriften</head>
+                        <head rend="align(center)">Die Handschriften</head>
                         <p>Die jüngere Vita S. Wiboradae hat eine hervorragende und sehr
                             geschlossene Überlieferung, die sich in St. Gallen konzentriert. Bis vor
                             kurzem schien es, als wäre die jüngere Wiboradavita ausschließlich in
@@ -1662,7 +1662,7 @@
                             Kleinbasel.</p>
                     </div>
                     <div xml:id="intro_III.8">
-                        <head>Rezension und Überlieferungsgeschichte</head>
+                        <head rend="align(center)">Rezension und Überlieferungsgeschichte</head>
                         <p>Alle Handschriften sind von <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#A">Sangallensis 560</ref>
                                 (<hi rend="it">A</hi>) abhängig, teils direkt, wie Sang. 564 (<hi
@@ -1780,7 +1780,7 @@
                         <p><graphic corresp="Bilder\Stemma_H.png"/></p>
                     </div>
                     <div xml:id="intro_III.12">
-                        <head>Die Ausgaben</head>
+                        <head rend="align(center)">Die Ausgaben</head>
                         <p>Es ist nicht verwunderlich, daß die jüngere Wiboradavita lange vor der
                             älteren publiziert wurde. Die jüngere ist wesentlich besser überliefert
                             und wurde am Ort der Verehrung tradiert. Freilich hat sich der
@@ -1832,7 +1832,7 @@
                             Ausgabe ist ganz von den <hi rend="it">Acta Sanctorum</hi> abhängig.</p>
                     </div>
                     <div xml:id="intro_III.13">
-                        <head>Diese Ausgabe</head>
+                        <head rend="align(center)">Diese Ausgabe</head>
                         <p>folgt der fast fehlerlosen Hs. <hi rend="it">A</hi> und gibt aus
                             überlieferungsgeschichtlichen Gründen die Varia lectio aus den von ihr
                             abhängigen Handschriften <hi rend="it">B</hi> und <hi rend="it">C</hi>.
