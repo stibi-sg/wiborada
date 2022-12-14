@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="intro" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -200,18 +200,20 @@
                     <item><ref target="#Hss">Zitierte Handschriften und Urkunde</ref></item>
                 </list>
             </div>
-            <div>
-                <p><lg>
+            <div rend="break-before">
+                <lg rend="center">
                         <l>St. Wiborada. Schlußstein im Refektorium von Mariaberg/Rorschach,</l>
                         <l>Erasmus Grasser zugeschrieben, um 1515.</l>
                         <l>Aufnahme: Karl Künzler, St. Gallen</l>
-                    </lg>
-                    <graphic corresp="Bilder\Schlussstein.png"/></p>
+                </lg>
             </div>
-            <div>
-                <p>EINLEITUNG</p>
+            <div rend="break-before">
+                <graphic corresp="Bilder/Schlussstein.png"/>
             </div>
-            <div n="I">
+            <div rend="break-before">
+                <p rend="center">EINLEITUNG</p>
+            </div>
+            <div n="I" rend="break-before">
                 <head>VOM LITURGISCHEN GEDÄCHTNIS ZUR HISTORISCHEN BIOGRAPHIE</head>
                 <div type="content">
                     <ab type="content" rend="smaller"><ref target="#intro_I.1">Die erste Aufzeichnung über die
@@ -240,7 +242,7 @@
                                 Cist. C. 3. B. 56</ref>, p. 14. Facsimile bei <bibl><author>P. M.
                                     Krieg</author>, <title level="m">Das Profeßbuch der Abtei St.
                                     Gallen</title>, <pubPlace>Augsburg</pubPlace>
-                                <date>1931</date> tab. <biblScope unit="table">tab.
+                                <date>1931</date> <biblScope unit="table">tab.
                                 16</biblScope></bibl>.</note>: <hi rend="it">KALENDIS MAIIS WIBERAT
                             reclusa a paganis interempta</hi> «Am ersten Mai wurde die Rekluse
                         Wiberat von den Heiden getötet». Dieser Eintrag ist in mehrfacher Hinsicht
@@ -330,7 +332,7 @@
                             suo</hi>, was eine ungelenke Hand als Federprobe wiederholte. Weitere
                         Federproben sind wieder abradiert worden. In seiner Formulierung ist der
                         Text <hi rend="it">Anno ab</hi> ... sichtlich abhängig vom Eintrag im
-                        Profeßbuch. Man vergleiche <hi rend="it">a paganis ... reclusa ... KL̅D
+                        Profeßbuch. Man vergleiche <hi rend="it">a paganis ... reclusa ... KL&#x0305;D
                             Maias.</hi> Das profane <hi rend="it">interempta</hi> ersetzte der
                         Chronist durch das christliche <hi rend="it">passa</hi>, den deutschen Namen
                         durch den lateinischen <hi rend="it">Wiborada</hi>. Neu ist die
@@ -742,11 +744,12 @@
                         in die gereimten Hexameter gebracht<note>Überliefert von Ekkehart IV., Casus
                             S. Galli c. 83. Neueste Ausgabe von <bibl><editor>H. F.
                                 Haefele</editor>, <pubPlace>Darmstadt</pubPlace>
-                                <date>1980</date>, <biblScope>p. 172</biblScope></bibl>.</note>: <lg
-                            rend="smaller">
+                                <date>1980</date>, <biblScope>p. 172</biblScope></bibl>.</note>:</p> 
+                        <lg rend="smaller">
                             <l>Hanc Satan, hanc lesit, cum Iob saniem sibi rasit.</l>
                             <l>Ieiunans flevit tormenta dolens vigilavit.</l>
-                        </lg> «Sie, ja sie hat Satan geschlagen; wie Hiob schabte sie sich den
+                        </lg> 
+                        <p>«Sie, ja sie hat Satan geschlagen; wie Hiob schabte sie sich den
                         Eiter. Fastend weinte sie und wachte schmerzgepeinigt». Die kaum
                         überbietbare Dichte der Aussage hat Ekkehart IV. erkannt<note><hi rend="it"
                                 >Neque enim vitam vel passionem votive martyris lucidius succingere
@@ -958,11 +961,12 @@
                         Kürzung oder (erstaunlich planmäßigen) Wortausfall entstanden ist, oder ob
                         nicht vielmehr <hi rend="it">S</hi> einen erweiterten Text hat, den man sich
                         als glossenähnliche Ergänzung des Textes <hi rend="it">X</hi> vorstellen
-                        kann? <graphic corresp="Bilder\Cara.png"/> Prüft man daraufhin alle Stellen,
+                        kann? <graphic corresp="Bilder/Cara.png"/> Prüft man daraufhin alle Stellen,
                         an denen <hi rend="it">S</hi> ein Mehr gegenüber <hi rend="it">X</hi> hat
                         (d.h. die im Apparat mit <hi rend="it">deest A Boll.</hi> gezeichneten
                         Stellen), so begegnen ähnliche Redundanzen von <hi rend="it">S</hi>. Als
-                        Zusätze dargestellt: <graphic corresp="Bilder\Talibus.png"/></p>
+                        Zusätze dargestellt:</p> 
+                    <graphic corresp="Bilder/Talibus.png"/>
                     <p>Drei «Ergänzungen» bietet <ref
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XXIII.20">c. XXIII</ref>
                         (Erscheinung der verstorbenen famula) in der Fassung von <hi rend="it"
@@ -973,10 +977,10 @@
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XXVI.22.23">c. XXVI</ref>,
                             <ref target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XXIX.24">XXIX</ref>,
                             <ref target="#vw1_XXXI.26.27">XXXI</ref>
-                        <graphic corresp="Bilder\Uenerunt"/>, das schon oben behandelte <ref
+                        <graphic corresp="Bilder/Uenerunt.png"/>, das schon oben behandelte <ref
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XXXVIII.34">c. XXXVIII</ref>,
                         in dem sich noch das als Ergänzung deutliche <graphic
-                            corresp="Bilder\Custodie"/> findet.</p>
+                            corresp="Bilder/Custodie.png"/> findet.</p>
                 </div>
                 <div xml:id="intro_II.7">
                     <p>Es gibt zwei Erklärungsmöglichkeiten für diesen Befund. Erstens: <hi
@@ -1007,7 +1011,8 @@
                         des X. Jahrhunderts, sondern ein überarbeiteter und ergänzter
                                     Text<note><bibl><hi rend="it">ib.</hi>, <biblScope unit="page"
                                     >p. 269-274</biblScope></bibl>.</note>. Als Ergänzungen wurden
-                        namhaft gemacht: <table rows="5" cols="2">
+                        namhaft gemacht:</p> 
+                        <table rend="two-column" rows="5" cols="2">
                             <row>
                                 <cell>1)</cell>
                                 <cell><hi rend="it">id est in vigilia sancti iohannis baptistę</hi>
@@ -1047,7 +1052,7 @@
                                     <hi rend="it">id est frigoretici</hi>, vermutlich eine
                                     Glosse.</cell>
                             </row>
-                        </table></p>
+                        </table>
                 </div>
                 <div xml:id="intro_II.9">
                     <p>Als Bearbeiter wurde der maßgebende sanktgallische Gelehrte und Lehrer der
@@ -1205,7 +1210,7 @@
                         späterem Zustand oder von einem sanktgallischen Zweitexemplar abgeleitet
                         sein. Zwischenglieder zwischen <hi rend="it">A</hi>, Dillingen und Wiblingen
                         einerseits und <hi rend="it">X</hi> anderseits sind möglich.</p>
-                    <p><graphic corresp="Bilder\Stemma_E.png"/></p>
+                    <p><graphic corresp="Bilder/Stemma_E.png"/></p>
                 </div>
                 <div xml:id="intro_II.13">
                     <head rend="align(center)">Die Ausgaben</head>
@@ -1481,10 +1486,12 @@
                                     <title level="j">Monumenta Palaeographica</title></bibl> (wie
                                 Anm. 53).</note>, enthält die Lebensbeschreibungen von Gallus, Otmar
                             und Wiborada, geschrieben in karolingischer Minuskel «schrägovalen
-                            Stils» von einem Schreiber, der sich dem heiligen Gallus so empﬁehlt: <lg>
+                            Stils» von einem Schreiber, der sich dem heiligen Gallus so empﬁehlt:</p> 
+                            <lg>
                                 <l>Servum, Galle, tuum libri decus hoc Herimannum</l>
                                 <l>Divite cum voto tibi perfecisse memento!</l>
-                            </lg> «Gallus, sei eingedenk, daß dein Knecht Herimann dir dieses
+                            </lg> 
+                            <p>«Gallus, sei eingedenk, daß dein Knecht Herimann dir dieses
                             Schmuckstück von einem Buch<note>Denkbar wäre auch die Übersetzung
                                 «Buchschmuck», und dann wäre Herimannus der Buchmaler, nicht der
                                 Schreiber. Für die erste Übersetzung («Schmuckstück von einem Buch»)
@@ -1722,11 +1729,17 @@
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_XI">I 11</ref> erweisen.
                             Bei Abschrift des Vad. 70 hatte unser Schreiber (durch «Augensprung» von
                                 <hi rend="it">frequentiam</hi> zu <hi rend="it">frequentiam</hi>)
-                            folgendes vergessen <l><hi rend="it">non rarescere, nisus est eandem
-                                    frequentiam</hi></l> Er ergänzte am unteren Rand aber <lg>
+                            folgendes vergessen</p> 
+                        <lg>
+                            <l><hi rend="it">non rarescere, nisus est eandem
+                                    frequentiam</hi></l> 
+                        </lg>
+                        <p>Er ergänzte am unteren Rand aber</p> 
+                             <lg>
                                 <l><hi rend="it">frequentiam orationum eius non rarescere ·</hi></l>
                                 <l><hi rend="it">nisus est eandem frequentiam</hi></l>
-                            </lg> Durch ein falsch gesetztes Auslassungszeichen komplizierte er den
+                            </lg> 
+                            <p>Durch ein falsch gesetztes Auslassungszeichen komplizierte er den
                             Text weiter, und so erscheint in Sang. 610 (p. 118) ein Text, der sich
                             nur aus Verwirrung durch Korrektur in Vad. 70 erklärt.</p>
                         <p>Der Basler Kartäuser, der 1508 ein letztes Mal die Vita schrieb, kopierte
@@ -1777,7 +1790,7 @@
                         <p>Die Überlieferungsgeschichte der jüngeren Vita bietet den seltenen Fall,
                             daß, ohne jedes spekulative Element, ein wirklich gesichertes Stemma
                             gegeben werden kann: </p>
-                        <p><graphic corresp="Bilder\Stemma_H.png"/></p>
+                        <p><graphic corresp="Bilder/Stemma_H.png"/></p>
                     </div>
                     <div xml:id="intro_III.12">
                         <head rend="align(center)">Die Ausgaben</head>
@@ -1848,7 +1861,7 @@
                             Zwillingshandschriften Vad. 70 und Sang. 610 angeführt, sowie aus den
                             Editionen von Goldast und Gottfried Henschen (<hi rend="it">Boll.</hi>).
                             Für die Übersetzung der jüngeren Vita gilt dieselbe Bemerkung wie für
-                            die der älteren<note>Durch Kollation, Übersetzung, Korrektur und
+                            die der älteren<note n="*">Durch Kollation, Übersetzung, Korrektur und
                                 Register haben an diesem Buch mitgewirkt die Studenten des
                                 Heidelberger Seminars für Lateinische Philologie des Mittelalters
                                 und der Neuzeit: <bibl><author>Gereon Becht</author>, <author>Peter

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="transcription" xml:lang="la">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -227,10 +226,7 @@
                occurrere studii sui feruore compulerit · <seg source="#Prv_31.27">Panem uero otiosa
                   non comedit</seg> · sed operibus manuum suarum impigre continueque institerat · <app>
                   <lem>ac si iam</lem>
-                  <rdg wit="#S">ac s<subst>
-                        <del>u</del>
-                        <add>i i</add>
-                     </subst>am <note>corr. ex «ac suam»</note></rdg>
+                  <rdg wit="#S">ac s<subst><del>u</del><add>i i</add></subst>am <note>corr. ex «ac suam»</note></rdg>
                   <rdg wit="#A">ut summa</rdg>
                   <rdg wit="#Boll">acsi summa</rdg>
                </app> scripturarum <app>
@@ -1594,9 +1590,9 @@
                </app> splendebis coram domino in perennitate · qui tanto honore decoraris in mundi
                peregrinatione ·</p>
          </div>
-         <cb ed="#S" n="136vb"/>
          <div n="XXXVIII(34)" xml:id="vw1_XXXVIII.34">
-            <p><app>
+            <p><cb ed="#S" n="136vb"/>
+            <app>
                   <lem>Isdem</lem>
                   <rdg wit="#Boll">Eisdem</rdg>
                </app> diebus post passionem sanctę <persName ref="#wibo">wiboradę</persName> sicuti
@@ -1871,7 +1867,7 @@
                   <lem>in</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
                </app> diuersis necessitatibus mirabiliter misericorditerque accommodat uenit ad
-               monasterium · <ref type="cf." target="#vw1_XIX.17 #vw1_XX.17">Cunque pro sua
+               monasterium · <ref type="cf." target="#vw1_XIX.17">Cunque pro sua
                   consuetudine loca sancta circuiret · ad tumulum nutricis quondam suę <persName
                      ref="#wibo">wiboradę</persName> oraturus accessit</ref> · Qui expleta oratione
                · inter reliquos circumstantes respiciens uirum uenerabilem eiusdem mo<cb ed="#S"
@@ -1964,63 +1960,65 @@
                   <rdg wit="#Boll"><note>Explicit deest</note></rdg>
                </app></p>
          </div>
-         <div xml:id="vw1_epit">
+      </body>
+      <back>
+         <div xml:id="vw1_epit" rend="break-before fn-reset">
             <head><app>
-                  <lem><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
-                     sancte <persName ref="#wibo">Wiberade</persName> ·</lem>
-                  <rdg wit="#A">Incipit epitalmus beate <persName ref="#wibo"
-                     >wiborade</persName></rdg>
-                  <rdg wit="#Boll">Epitaphium B. <persName ref="#wibo">Wiboradae</persName></rdg>
-               </app></head>
+               <lem><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
+                  sancte <persName ref="#wibo">Wiberade</persName> ·</lem>
+               <rdg wit="#A">Incipit epitalmus beate <persName ref="#wibo"
+                  >wiborade</persName></rdg>
+               <rdg wit="#Boll">Epitaphium B. <persName ref="#wibo">Wiboradae</persName></rdg>
+            </app></head>
          </div>
          <div>
             <p><lg>
-                  <l>Filius altithroni postquam resplenduit orbi ·</l>
-                  <l><app>
-                        <lem>Christus</lem>
-                        <rdg wit="#S">XPICTUS</rdg>
-                     </app> in hoc mundo <app>
-                        <rdg wit="#A">de</rdg>
-                     </app> uirgine natus homo ·</l>
-                  <l><date when="0926-05-01">Annis nongentis uiginti quinque uolutis</date> ·</l>
-                  <l>Post quatuor menses bis quattuorque dies ·</l>
-                  <l><persName ref="#wibo">Wiborada</persName> deo meritis dignissima uirgo·</l>
-                  <l>Palma martyrii scandit ad astra poli ·</l>
-                  <l>Illa hic sponte sua moribundo corpore <app>
-                        <lem>clausa</lem>
-                        <rdg wit="#S">clausa <note>«s» supr. lin.</note>
-                        </rdg>
-                     </app> ·</l>
-                  <l>Visibus humanis abdita et alloquiis ·</l>
-                  <l>Celebs cęlesti sponso sed cognita soli ·</l>
-                  <l>Affatu angelico pascitur atque cibo ·</l>
-                  <l>Hac parsimonia durauit tempora multa ·</l>
-                  <l>Semper ut instantem <app>
-                        <lem>mortis itura diem</lem>
-                        <rdg wit="#A">meritis itura dieta</rdg>
-                     </app> ·</l>
-                  <l>Demum a paganis maii tunc passa <date when="--05-01">kalendis</date> ·</l>
-                  <l><date when="--05-02">Mane <app>
-                           <lem>sequente</lem>
-                           <rdg wit="#A #Boll">sequenti</rdg>
-                        </app></date> obiit mane perenne <app>
-                        <lem>petit</lem>
-                        <rdg wit="#A">pecijt</rdg>
-                     </app> ·</l>
-                  <l>Cuius amore sacro curamus membra sepulchro ·</l>
-                  <l>Debita soluentes fundimus atque preces ·</l>
-                  <l>Eius at exultans <app>
-                        <lem>uictrici</lem>
-                        <rdg wit="#A">nutrici</rdg>
-                     </app> et dote coruscans ·</l>
-                  <l>Spiritus in cęlo <app>
-                        <lem>uiuit</lem>
-                        <rdg wit="#A">uenit</rdg>
-                     </app> ouatque DEO ·</l>
-               </lg>
+               <l>Filius altithroni postquam resplenduit orbi ·</l>
+               <l><app>
+                  <lem>Christus</lem>
+                  <rdg wit="#S">XPICTUS</rdg>
+               </app> in hoc mundo <app>
+                  <rdg wit="#A">de</rdg>
+               </app> uirgine natus homo ·</l>
+               <l><date when="0926-05-01">Annis nongentis uiginti quinque uolutis</date> ·</l>
+               <l>Post quatuor menses bis quattuorque dies ·</l>
+               <l><persName ref="#wibo">Wiborada</persName> deo meritis dignissima uirgo·</l>
+               <l>Palma martyrii scandit ad astra poli ·</l>
+               <l>Illa hic sponte sua moribundo corpore <app>
+                  <lem>clausa</lem>
+                  <rdg wit="#S">clausa <note>«s» supr. lin.</note>
+                  </rdg>
+               </app> ·</l>
+               <l>Visibus humanis abdita et alloquiis ·</l>
+               <l>Celebs cęlesti sponso sed cognita soli ·</l>
+               <l>Affatu angelico pascitur atque cibo ·</l>
+               <l>Hac parsimonia durauit tempora multa ·</l>
+               <l>Semper ut instantem <app>
+                  <lem>mortis itura diem</lem>
+                  <rdg wit="#A">meritis itura dieta</rdg>
+               </app> ·</l>
+               <l>Demum a paganis maii tunc passa <date when="--05-01">kalendis</date> ·</l>
+               <l><date when="--05-02">Mane <app>
+                  <lem>sequente</lem>
+                  <rdg wit="#A #Boll">sequenti</rdg>
+               </app></date> obiit mane perenne <app>
+                  <lem>petit</lem>
+                  <rdg wit="#A">pecijt</rdg>
+               </app> ·</l>
+               <l>Cuius amore sacro curamus membra sepulchro ·</l>
+               <l>Debita soluentes fundimus atque preces ·</l>
+               <l>Eius at exultans <app>
+                  <lem>uictrici</lem>
+                  <rdg wit="#A">nutrici</rdg>
+               </app> et dote coruscans ·</l>
+               <l>Spiritus in cęlo <app>
+                  <lem>uiuit</lem>
+                  <rdg wit="#A">uenit</rdg>
+               </app> ouatque DEO ·</l>
+            </lg>
             </p>
          </div>
-         <div>
+         <div rend="break-before fn-reset">
             <pb ed="#G" n="260" facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>
             <head><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
                sanctę <persName ref="#rach">Rachildę</persName> uirginis reclusę ·</head>
@@ -2028,45 +2026,45 @@
                <l>In cruce confregit postquam uictorque subegit ·</l>
                <l><persName ref="#leui">Leuiathan</persName> hamo Uirgine natus homo</l>
                <l><date when="0917">Annis nongentis · <app>
-                        <lem>denis septemque</lem>
-                        <rdg wit="#G">denis septemque <note>in ras.</note>
-                        </rdg>
-                     </app> uolutis</date></l>
+                  <lem>denis septemque</lem>
+                  <rdg wit="#G">denis septemque <note>in ras.</note>
+                  </rdg>
+               </app> uolutis</date></l>
                <l>Orbe peragrato · <app>
-                     <lem>astat</lem>
-                     <rdg wit="#G">asttat</rdg>
-                  </app> item domino ·</l>
+                  <lem>astat</lem>
+                  <rdg wit="#G">asttat</rdg>
+               </app> item domino ·</l>
                <l><persName ref="#iob">Iob</persName> sibi <app>
-                     <lem>femineum</lem>
-                     <rdg wit="#G">femineum <note>in ras.</note>
-                     </rdg>
-                  </app> iuuenili <app>
-                     <lem>floreque</lem>
-                     <rdg wit="#G">floreque <note>«-que» in ras.</note>
-                     </rdg>
-                  </app>
+                  <lem>femineum</lem>
+                  <rdg wit="#G">femineum <note>in ras.</note>
+                  </rdg>
+               </app> iuuenili <app>
+                  <lem>floreque</lem>
+                  <rdg wit="#G">floreque <note>«-que» in ras.</note>
+                  </rdg>
+               </app>
                   <app>
                      <lem>mactum</lem>
                      <rdg wit="#G">mactum <note>in ras.</note>
                      </rdg>
                   </app> ·</l>
                <l><app>
-                     <lem>Expetit</lem>
-                     <rdg wit="#G">Expetit <note>«Ex-» in ras.</note>
-                     </rdg>
-                  </app> ut temptet <app>
-                     <lem>uirgineum</lem>
-                     <rdg wit="#G">uirgineum <note>«-eum» in ras.</note>
-                     </rdg>
-                  </app> cruciet ·</l>
+                  <lem>Expetit</lem>
+                  <rdg wit="#G">Expetit <note>«Ex-» in ras.</note>
+                  </rdg>
+               </app> ut temptet <app>
+                  <lem>uirgineum</lem>
+                  <rdg wit="#G">uirgineum <note>«-eum» in ras.</note>
+                  </rdg>
+               </app> cruciet ·</l>
                <l>Nec mora · concessam premit ille dolore <persName ref="#rach">Rachildam</persName>
                   ·</l>
                <l>Uel sexu superet <persName ref="#iob">Iob</persName> sibi sufficeret ·</l>
                <l>Uertice cum planta Iacet ulcere <app>
-                     <lem>uirgo cruenta</lem>
-                     <rdg wit="#G">uirgo cruenta <note>«uirgo crue-» in ras.</note>
-                     </rdg>
-                  </app> ·</l>
+                  <lem>uirgo cruenta</lem>
+                  <rdg wit="#G">uirgo cruenta <note>«uirgo crue-» in ras.</note>
+                  </rdg>
+               </app> ·</l>
                <l>Uoce minus poterat · Corde deum memorat ·</l>
                <l>Talis at ingreditur tamen hoc specus hic sepelitur</l>
                <l>Uiua · Uigil sponso · sufficiens oleo ·</l>
@@ -2075,18 +2073,18 @@
                   <persName ref="#sata">satan</persName> emeritam ·</l>
                <l>Martyris imperio <persName ref="#wibo">Uuiborade</persName> docta propinquo ·</l>
                <l><app>
-                     <lem>His</lem>
-                     <rdg wit="#G">His <note>in ras.</note>
-                     </rdg>
-                  </app> crucibus palmam emeruit sociam ·</l>
+                  <lem>His</lem>
+                  <rdg wit="#G">His <note>in ras.</note>
+                  </rdg>
+               </app> crucibus palmam emeruit sociam ·</l>
                <l>Quę datur in <date when="0946-11-23">nonis decimi</date> sibi parta <date
-                     when="0946-11-23">kalendis</date> ·</l>
+                  when="0946-11-23">kalendis</date> ·</l>
                <l>His animam cęlo · Ossa dat hic tumulo · <app>
-                     <rdg wit="#G">Finitur <note>rubr.</note>
-                     </rdg>
-                  </app></l>
+                  <rdg wit="#G">Finitur <note>rubr.</note>
+                  </rdg>
+               </app></l>
             </lg>
          </div>
-      </body>
+      </back>
    </text>
 </TEI>

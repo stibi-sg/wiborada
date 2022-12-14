@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="transcription" xml:lang="la">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -133,8 +133,8 @@
                         </app> MARTYRIS CHRISTI</hi></lem>
                   <rdg wit="#C"><note>omisit prologum</note></rdg>
                </app></head>
-            <pb ed="#A" n="375" facs="https://www.e-codices.unifr.ch/de/csg/0560/375"/>
-            <p><hi>SOLET PLERUMQUE MODERNIS SCRI</hi>ptoribus a patribus uitio deputari ·
+            <p><pb ed="#A" n="375" facs="https://www.e-codices.unifr.ch/de/csg/0560/375"/>
+               <hi>SOLET PLERUMQUE MODERNIS SCRI</hi>ptoribus a patribus uitio deputari ·
                traditiones antiquorum scriptis uel factis ab eis mutari · ea uidelicet obiectione ·
                quod quasi illorum uirtutibus calcatis · suis nihil probabilius uelint estimari · Sed
                eorum reuerendam canitiem ab huiusmodi suspicione oportet alienam conspici · quicquam
@@ -258,7 +258,7 @@
             <p>EXPLICIT PROLOGUS ·</p>
          </div>
          <div type="contents" xml:id="vw2_cont1">
-            <head><supplied>Liber primus</supplied></head>
+            <head rend="break-before"><supplied>Liber primus</supplied></head>
             <head><app>
                   <lem><hi>CAPITULA LIBRI SEQUENTIS</hi></lem>
                   <rdg wit="#C"><note>Capitula desunt</note></rdg>
@@ -300,8 +300,7 @@
                         ref="#salo">salomone</persName> episcopo · copiosaque multitudine eius
                      innocentiam per iudicium comprobabat ·</ref></item>
                <item n="XII"><ref target="#vw2_XII">Quomodo ultio diuinitus illata est eidem ancillę
-                     ·</ref></item>
-               <pb ed="#A" n="388" facs="https://www.e-codices.unifr.ch/de/csg/0560/388/0/"/>
+                     ·</ref><pb ed="#A" n="388" facs="https://www.e-codices.unifr.ch/de/csg/0560/388/0/"/></item>
                <item n="XIII"><ref target="#vw2_XIII">Quod <persName ref="#salo">salomon</persName>
                      episcopus post iudicium eam in tantum amare coepit · quod etiam cum equitatu
                      illam ad constantiam perduci precepit · illaque spreto equitatu ad pedes eundo
@@ -328,8 +327,8 @@
                            <lem>georgii</lem>
                            <rdg wit="#A">georigi</rdg>
                         </app></placeName> mansiuncula ob secretum est constructa · breuisque
-                     dialogus de conuersatione eius in illa ·</ref></item>
-               <pb ed="#A" n="389" facs="https://www.e-codices.unifr.ch/de/csg/0560/389"/>
+                     dialogus de conuersatione eius in illa ·</ref>
+                     <pb ed="#A" n="389" facs="https://www.e-codices.unifr.ch/de/csg/0560/389"/></item>
                <item n="XVII"><ref target="#vw2_XVII">Quomodo iacens in oratione · quandam personam
                      angelicę uisionis uidit sibi assistere · eandemque audiuit primum uersum ·
                      xx·I·psalmi tercio dulciter decantare ·</ref></item>
@@ -440,9 +439,9 @@
                      tradiderunt sepulturae ·</ref></item>
             </list>
          </div>
-         <pb ed="#A" n="394" facs="https://www.e-codices.unifr.ch/de/csg/0560/394"/>
          <div xml:id="vw2_head">
-            <head><hi>INCIPIT <app>
+            <head><pb ed="#A" n="394" facs="https://www.e-codices.unifr.ch/de/csg/0560/394"/>
+               <hi>INCIPIT <app>
                      <lem>UITA</lem>
                      <rdg wit="#C">passio</rdg>
                   </app> SANCTAE <persName ref="#wibo">VVIBORADĘ</persName> UIRGINIS <app>
@@ -453,9 +452,8 @@
                      <rdg wit="#B #C"><note>deest</note></rdg>
                   </app></hi></head>
          </div>
-         <pb ed="#A" n="395" facs="https://www.e-codices.unifr.ch/de/csg/0560/395/0/"/>
          <div n="I" xml:id="vw2_I">
-            <p><hi>BEATA <app>
+            <p><pb ed="#A" n="395" facs="https://www.e-codices.unifr.ch/de/csg/0560/395/0/"/><hi>BEATA <app>
                      <lem>DEI</lem>
                      <rdg wit="#C"><note>deest</note></rdg>
                   </app> UIRGO <persName ref="#wibo">UVIBORADA</persName> EX</hi>
@@ -465,7 +463,7 @@
                uirtutum incrementis transcendens tempus aetatis · nobilitatem suam religiosa
                conuersatione ornabat · Nam <app>
                   <lem>uniuersas</lem>
-                  <rdg wit="#C">universal<note>contraxit></note></rdg>
+                  <rdg wit="#C">universal<note>contraxit</note></rdg>
                </app> iuuenilis petulantię illecebras <seg type="cf." source="#Hor_carm_III_6.24">a
                   tenero ungue</seg> execrans · ut legitur de <persName ref="#ragu"
                   >raguelis</persName> filia · <seg source="#Tb_3.17">num<pb ed="#A" n="396"
@@ -2114,8 +2112,8 @@
                      · </ref></item>
             </list>
          </div>
-         <pb ed="#A" n="515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>
          <div n="I" xml:id="vw2_2_I">
+            <pb ed="#A" n="515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>
             <p><hi>IGITUR POST SEPULTURAM <app>
                      <lem>PRECLUIS</lem>
                      <rdg wit="#A #B #C #Vad_70 #Sang_610 #Basil_D.I.18"
@@ -2391,8 +2389,8 @@
                   </rdg>
                </app> · sospes cunctis mirantibus surrexit · </p>
          </div>
-         <pb ed="#A" n="535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/>
          <div n="XIV" xml:id="vw2_2_XIV">
+            <pb ed="#A" n="535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/>
             <p><hi>NEC HOC SILENTIO</hi> pretereundum · quantam pietatem uirtus diuina ostendere
                dignata est ob merita uirginis atque martyris suę planius declaranda · supra fidelem
                seruam eius <persName ref="#kebi">kebininam</persName> · Post transitum igitur beatę
