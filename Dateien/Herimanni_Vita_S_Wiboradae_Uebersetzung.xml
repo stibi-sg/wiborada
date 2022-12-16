@@ -113,7 +113,7 @@
                besonders aber, um dir zu gehorchen, wie ich oben schon gesagt habe, ehrwürdigster
                Vater. </p>
          </div>
-         <div type="contents" corresp="#vw2_cont1">
+         <div type="contents" corresp="#vw2_cont1" rend="break-before">
             <head><supplied>Erstes Buch</supplied></head>
             <head>Kapitelverzeichnis</head>
             <list>
@@ -223,7 +223,7 @@
                   Messe feierten und sie ehrenvoll ihrem Grab übergaben.</item>
             </list>
          </div>
-         <div corresp="#vw2_head">
+         <div corresp="#vw2_head" rend="break-before">
             <head>Das Leben der heiligen Wiborada, Jungfrau und Martyrin Christi</head>
          </div>
          <div corresp="#vw2_I">
@@ -492,7 +492,7 @@
                Neid ihren Ruhm wachsen, weil das der Tugend Entgegengesetzte ihr noch immer den Weg
                freigemacht hat.</p>
          </div>
-         <div corresp="vw2_XIII">
+         <div corresp="#vw2_XIII">
             <p>Als der genannte Bischof von Konstanz die Unschuld der seligen Wiborada erkannt
                hatte, faßte er stärker Zuneigung und Wohlwollen ihr gegenüber, und zwar so sehr, daß
                er, besorgt, die weltlichen Unruhen könnten sie am Dienste Gottes hindern, daran
@@ -886,7 +886,7 @@
                seiner Gewohnheit um die neunte Stunde still zu ihr kam und geduldig wartete, bis ihm
                die gewohnte Gabe gereicht wurde.</p>
          </div>
-         <div corresp="vw2_XXVI">
+         <div corresp="#vw2_XXVI">
             <p>Eine Dirne, die Mutter geworden war, häufte Sünde auf Sünde, denn sie ertränkte das
                Kind, das sie aus der Unzucht empfangen und geboren hatte, in einem Fischteich. Aber
                der allmächtige Gott, den mehr unsere Bekehrung freut als unser Verderben, wollte,
@@ -1298,7 +1298,7 @@
                Herrn Jesus Christus, der lebt und herrscht als Gott durch Jahrhunderte ohne Zahl.
                Amen.</p>
          </div>
-         <div corresp="#vw2_cont2">
+         <div type="contents" corresp="#vw2_cont2" rend="break-before">
             <head><supplied>Zweites Buch</supplied></head>
             <head><supplied>Kapitelverzeichnis</supplied></head>
             <list>
@@ -1333,7 +1333,7 @@
                   Fuß verletzt war, die alte Gesundheit zurück erhielt.</item>
             </list>
          </div>
-         <div corresp="#vw2_2_I">
+         <div corresp="#vw2_2_I" rend="break-before">
             <p>Also geruhte nach dem Begräbnis der berühmten Streiterin der machtvolle Gott, der
                schon, als sie noch im Fleisch lebte, durch das Zeugnis von Wundern den Sterblichen
                offenbaren wollte, wie treu sie in seinen Geboten wandelte, auch nach ihrer

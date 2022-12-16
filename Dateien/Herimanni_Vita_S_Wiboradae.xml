@@ -117,12 +117,12 @@
    </teiHeader>
    <text>
       <body>
-         <div type="prologue" xml:id="vw2_prol">
+         <div type="prologue" xml:id="vw2_prol" rend="fn-reset">
             <pb ed="#A" n="374" facs="https://www.e-codices.unifr.ch/de/csg/0560/374"/>
             <head><app>
                   <lem><hi>INCIPIT PROLOGVS <app>
                            <lem><persName ref="#heri">HERIMANNI</persName></lem>
-                           <rdg wit="#A #B">HEPIMANNI<note>graecissando scripsit <persName
+                           <rdg wit="#A #B">HEPIMANNI<note> graecissando scripsit <persName
                                     ref="#heri">Herimannus</persName> in autographo Sangall. cod.
                                  560, quod scriptor codicis 564 imitatus est</note></rdg>
                            <rdg wit="#Vad_70 #Sang_610">Hepidanni</rdg>
@@ -1892,7 +1892,8 @@
                mox diuinis oraculis non incredulum esse monens · fugamque quantotius accelerare
                hortans · praedixit ei in eundo inprouisum merorem propter eius incredulitatem
                prouenire · Quod et factum est ·</p>
-            <p><l><seg source="#Iuv_3.10">Postquam tota domus reda componitur una ·</seg></l>
+               <l><seg source="#Iuv_3.10">Postquam tota domus reda componitur una ·</seg></l>
+               <p rend="no-initial">
                quendam puerum impositę suppellectili supersede<pb ed="#A" n="501"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/501" break="no"/>re fecerunt · En
                subito nescio quo casu reda subuersa est · et puer qui dudum supersedens impositam
@@ -2057,9 +2058,8 @@
                   incarnationis domini nostri iesu christi</date> · qui uiuit et regnat deus · per
                infinita sęcula amen ·</p>
          </div>
-         <pb ed="#A" n="513" facs="https://www.e-codices.unifr.ch/de/csg/0560/513"/>
          <div type="contents" xml:id="vw2_cont2">
-            <head><supplied>Liber secundus</supplied></head>
+            <head><pb ed="#A" n="513" facs="https://www.e-codices.unifr.ch/de/csg/0560/513"/><supplied>Liber secundus</supplied></head>
             <head><app>
                   <lem>Capitula</lem>
                   <rdg wit="#C"><note>Capitula desunt.</note></rdg>

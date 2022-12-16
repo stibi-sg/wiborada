@@ -89,7 +89,7 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:id="vw1_head">
+         <div xml:id="vw1_head" rend="fn-reset">
             <pb ed="#S" n="130ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/>
             <head><supplied>Ekkeharti Vita S. Wiboradae</supplied></head>
             <head>
@@ -2018,8 +2018,7 @@
             </lg>
             </p>
          </div>
-         <div rend="break-before fn-reset">
-            <pb ed="#G" n="260" facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>
+         <div rend="break-before fn-reset"><pb ed="#G" n="260" facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>
             <head><supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied> Epitaphium
                sanctę <persName ref="#rach">Rachildę</persName> uirginis reclusę ·</head>
             <lg>
