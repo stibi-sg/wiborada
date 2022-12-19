@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="intro">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,10 +16,10 @@
     </teiHeader>
     <text>
         <body>
-            <head>KONKORDANZ DER VITAE SANCTAE WIBORADAE</head>
-            <div xml:id="Konk">
+            <head rend="break-before">KONKORDANZ DER VITAE SANCTAE WIBORADAE</head>
+            <div xml:id="Konk" rend="two-column">
                 <table rows="62" cols="2">
-                    <row>
+                    <row role="label">
                         <cell>Ekkehart</cell>
                         <cell>Herimann</cell>
                     </row>
