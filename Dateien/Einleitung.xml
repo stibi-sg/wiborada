@@ -1321,7 +1321,7 @@
                             >Boll.</hi>, die vielen Wortumstellungen, die <hi rend="it">A</hi> und
                             <hi rend="it">Boll.</hi> weitgehend gemeinsam haben, die Varianten von
                         a-ae-ę, b-p, c-ch-qu, ci-ti, d-t, e-i-oe, f-ph, h am Wortanfang, h-ch,
-                        i-ii-ij-y, inc-igc, m-mn-mp-n, mm-bm, ǒ-v-u-v, r-rh, s-z, t-th-ct, u-uu-w
+                        i-ii-ij-y, inc-igc, m-mn-mp-n, mm-bm, ǒ-v&#x0366;-u-v, r-rh, s-z, t-th-ct, u-uu-w
                         und Fälle der Buchstabendoppelung. Namenvarianten sind jeweils nur einmal
                         verzeichnet. Die Kapiteleinteilung ist die von <hi rend="it">S</hi>, der
                         schon Waitz in seiner fragmentarischen Edition folgte (römische Ziffern).
@@ -1367,7 +1367,7 @@
                                         Mittelalter»</title>, <pubPlace>Bern-München</pubPlace>
                                     <date>1980</date>, <biblScope unit="page">p. 42 sq. und
                                         125</biblScope></bibl>.</note> etwas verfremdet geschrieben
-                            als HEPIƆ-CANNI. Der Schreiber des <ref
+                            als <foreign rend="no-hyphen">HEPIƆ-CANNI</foreign>. Der Schreiber des <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#B">Cod. Sang. 564</ref> im
                             XII. Jahrhunderts hat das, verstanden oder unverstanden, genau
                             nachgeahmt. Ein Schreiber des XV. Jahrhunderts stolperte jedoch über die
@@ -1384,7 +1384,7 @@
                                         und p. 6-18 (Edition)</biblScope></bibl>.</note>.</p>
                         <p>Von Goldast übernahmen den Namen die Bollandisten, und so kam ein Autor,
                             den es nie gegeben hat, allmählich zu einem kräftigen Nachleben. Die
-                            Lösung hat schließlich Anton Chroust als erster
+                            Lösung hat schließlich Anton Ch&#xAD;roust als erster
                                         gefunden<note><bibl><author>A. Chroust</author>, <title
                                         level="j">Monumenta Paleographica</title>
                                     <biblScope unit="volume">ser. I, fasc. 16</biblScope>,
@@ -1488,8 +1488,8 @@
                             und Wiborada, geschrieben in karolingischer Minuskel «schrägovalen
                             Stils» von einem Schreiber, der sich dem heiligen Gallus so empﬁehlt:</p> 
                             <lg>
-                                <l>Servum, Galle, tuum libri decus hoc Herimannum</l>
-                                <l>Divite cum voto tibi perfecisse memento!</l>
+                                <l rend="center">Servum, Galle, tuum libri decus hoc Herimannum</l>
+                                <l rend="center">Divite cum voto tibi perfecisse memento!</l>
                             </lg> 
                             <p>«Gallus, sei eingedenk, daß dein Knecht Herimann dir dieses
                             Schmuckstück von einem Buch<note>Denkbar wäre auch die Übersetzung
@@ -1517,7 +1517,7 @@
                             geschaffen.</p>
                         <p>Wollte er etwa sein eigenes schriftstellerisches Werk in besonders
                             stattlicher Weise verewigen? Seitdem die so viel Verwirrung stiftende
-                            Verschlüsselung des Namens HEPIƆ-CANNUS als ein nur leicht verfremdetes
+                            Verschlüsselung des Namens <foreign rend="no-hyphen">HEPIƆ-CANNUS</foreign> als ein nur leicht verfremdetes
                             «Herimannus» erkannt ist, drängt sich der Gedanke an die Identität des
                             Schreibers Herimannus mit dem zweiten Verfasser der Wiboradavita
                             desselben Namens auf. Herimann überarbeitete die Wiboradavita unter Abt
@@ -1683,7 +1683,7 @@
                     </div>
                     <div xml:id="intro_III.9">
                         <p>Sang. 564 (<hi rend="it">B</hi>) ist direkt nach Sang. 560 (<hi rend="it"
-                                >A</hi>) kopiert. Bis in Details wie HEPIƆ-CANNI im <ref
+                                >A</hi>) kopiert. Bis in Details wie <foreign rend="no-hyphen">HEPIƆ-CANNI</foreign> im <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_prol">Incipit des
                                 Prologs</ref>, oder <hi rend="it">spalmodie</hi> (<ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_cont1">Kapitelverzeichnis
@@ -1735,7 +1735,7 @@
                                     frequentiam</hi></l> 
                         </lg>
                         <p>Er ergänzte am unteren Rand aber</p> 
-                             <lg>
+                             <lg rend="centered">
                                 <l><hi rend="it">frequentiam orationum eius non rarescere ·</hi></l>
                                 <l><hi rend="it">nisus est eandem frequentiam</hi></l>
                             </lg> 
