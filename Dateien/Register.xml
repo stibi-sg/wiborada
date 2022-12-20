@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="intro">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -17,19 +17,23 @@
     </teiHeader>
     <text>
         <body>
-            <head>INDEX NOMINUM zu den Editionen</head>
-            <listPerson xml:id="Pers">
+            <div rend="recto frontmatter">
+                <p rend="center no-initial">REGISTER</p>
+            </div>
+            <head rend="break-before">INDEX NOMINUM zu den Editionen</head>
+            <div type="register" rend="two-column" xml:id="Pers">
+                <listPerson>
                     <person xml:id="abra">
                         <persName>Abraham</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Abraham</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118500201</idno>
                     </person>
-                <person xml:id="aegy">
-                    <persName type="adjective" xml:lang="la">Aegyptius puer</persName>
-                    <persName type="adjective" xml:lang="de">aegyptisch</persName>
-                    <idno type="wikipedia">https://de.wikipedia.org/wiki/%C3%84gypten</idno>
-                    <idno type="gnd">http://d-nb.info/gnd/4000556-2</idno>
-                </person>
+                    <person xml:id="aegy">
+                        <persName type="adjective" xml:lang="la">Aegyptius puer</persName>
+                        <persName type="adjective" xml:lang="de">aegyptisch</persName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/%C3%84gypten</idno>
+                        <idno type="gnd">http://d-nb.info/gnd/4000556-2</idno>
+                    </person>
                     <person xml:id="agne">
                         <persName>S. Agnes</persName>
                         <note type="bio">martyr</note>
@@ -614,6 +618,7 @@
                         <placeName xml:lang="de">Zürichsee</placeName>
                     </place>
                 </listPlace>
+            </div>
         </body>
     </text>
 </TEI>

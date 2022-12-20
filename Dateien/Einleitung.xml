@@ -169,12 +169,12 @@
     </teiHeader>
     <text>
         <front>
-            <div type="dedication">
-                <p>CUM SANCTIS IN AETERNUM</p>
+            <div type="dedication" rend="recto frontmatter">
+                <p rend="center">CUM SANCTIS IN AETERNUM</p>
             </div>
         </front>
         <body>
-            <div type="contents">
+            <div type="contents" rend="frontmatter recto">
                 <head>INHALT</head>
                 <list>
                     <head><hi rend="it">Einleitung</hi></head>
@@ -186,11 +186,11 @@
                 </list>
                 <list>
                     <head><hi rend="it">Editionen</hi></head>
-                    <item><ref target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_head">Ekkeharts I.
+                    <item><ref target="#vw1_head">Ekkeharts I.
                             Lebensbeschreibung <lb/>lateinisch - deutsch</ref></item>
-                    <item><ref target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_epit">Anhang: Ekkeharts
+                    <item><ref target="#vw1_epit">Anhang: Ekkeharts
                             IV. 'Reklusendiptychon' lateinisch</ref></item>
-                    <item><ref target="Herimanni_Vita_S_Wiboradae.xml#vw2_prol">Herimanns
+                    <item><ref target="#vw2_prol">Herimanns
                             Lebensbeschreibung <lb/>lateinisch - deutsch</ref></item>
                 </list>
                 <list>
@@ -200,20 +200,20 @@
                     <item><ref target="#Hss">Zitierte Handschriften und Urkunde</ref></item>
                 </list>
             </div>
-            <div rend="break-before">
-                <lg rend="center">
+            <div rend="break-before frontmatter">
+                <lg rend="center bottom">
                         <l>St. Wiborada. Schlußstein im Refektorium von Mariaberg/Rorschach,</l>
                         <l>Erasmus Grasser zugeschrieben, um 1515.</l>
                         <l>Aufnahme: Karl Künzler, St. Gallen</l>
                 </lg>
             </div>
-            <div rend="break-before">
+            <div rend="break-before frontmatter">
                 <graphic corresp="Bilder/Schlussstein.png"/>
             </div>
-            <div rend="break-before">
+            <div rend="recto frontmatter">
                 <p rend="center">EINLEITUNG</p>
             </div>
-            <div n="I" rend="break-before">
+            <div n="I" rend="recto reset-page">
                 <head>VOM LITURGISCHEN GEDÄCHTNIS ZUR HISTORISCHEN BIOGRAPHIE</head>
                 <div type="content">
                     <ab type="content" rend="smaller"><ref target="#intro_I.1">Die erste Aufzeichnung über die

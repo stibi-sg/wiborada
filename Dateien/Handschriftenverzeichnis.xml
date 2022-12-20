@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="intro">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +16,7 @@
     </teiHeader>
     <text>
         <body>
-            <head>Zitierte Handschriften und Urkunde</head>
+            <head rend="break-before">Zitierte Handschriften und Urkunde</head>
             <listWit xml:id="Hss">
                 <witness corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">
                     <msDesc>

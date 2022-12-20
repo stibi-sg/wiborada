@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?teipublisher odd="wiborada.odd"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">VITAE SANCTAE WIBORADAE</title>
+            <title type="sub">Die ältesten Lebensbeschreibungen der heiligen Wiborada</title>
+            <author>author</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Einleitung.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Ekkeharti_Vita_S_Wiboradae.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Ekkeharti_Vita_S_Wiboradae_Uebersetzung.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Herimanni_Vita_S_Wiboradae.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Herimanni_Vita_S_Wiboradae_Uebersetzung.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Register.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Konkordanz.xml"/>
+   <!--xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Handschriftenverzeichnis.xml"/-->
+</teiCorpus>
