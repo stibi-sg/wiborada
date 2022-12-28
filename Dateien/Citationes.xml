@@ -90,7 +90,7 @@
                <quote>laborem manuum tuarum cum comederis beatus tu et bene tibi erit</quote>
             </cit>
             <cit xml:id="Sulp_Sev_Dial_II_1.5">
-               <bibl>Sulpicius Severus, Dial. II 1,5</bibl>
+               <bibl>Sulpicius Severus, Dial. II 1, 5</bibl>
             </cit>
             <cit xml:id="Is_3.23">
                <bibl>Is 3,23</bibl>
@@ -107,10 +107,10 @@
 
             </cit>
             <cit xml:id="Ado_Pass_Des_440C">
-               <bibl>Ado, Passio S. Desiderii, Migne PL 123, col. 440C</bibl>
+               <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 440 C</bibl>
             </cit>
             <cit xml:id="Ado_Pass_Des_438A">
-               <bibl>Ado, Passio S. Desiderii, Migne PL 123, col. 438A</bibl>
+               <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL 123</hi>, col. 438 A</bibl>
             </cit>
             <cit xml:id="Lc_10.21">
                <bibl>Lc 10,21</bibl>
@@ -118,11 +118,8 @@
                   caeli et terrae quod abscondisti haec a sapientibus et prudentibus et revelasti ea
                   parvulis etiam Pater quia sic placuit ante te</quote>
             </cit>
-            <cit xml:id="Ven_Fort_Rad_4">
-               <bibl>Venantius Fortunatus, Vita S. Radegundis c. 4</bibl>
-            </cit>
-            <cit xml:id="Ven_Fort_Rad_17">
-               <bibl>Venantius Fortunatus, Vita S. Radegundis c. 17</bibl>
+            <cit xml:id="Ven_Fort_Rad_4_17">
+               <bibl>Venantius Fortunatus, Vita S. Radegundis c. 4 et 17</bibl>
             </cit>
             <cit xml:id="Baud_Rad_8">
                <bibl>Baudonivia, Vita S. Radegundis c. 8</bibl>
