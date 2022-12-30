@@ -141,6 +141,9 @@
                <quote>videmus nunc per speculum in enigmate tunc autem facie ad faciem nunc cognosco
                   ex parte tunc autem cognoscam sicut et cognitus sum</quote>
             </cit>
+            <cit xml:id="Ven_Fort_Rad_4">
+               <bibl>Venantius Fortunatus, Vita S. Radegundis c. 4</bibl>  
+            </cit>
             <cit xml:id="Ven_Fort_Rad_5">
                <bibl>Venantius Fortunatus, Vita S. Radegundis c. 5</bibl>
             </cit>
@@ -169,17 +172,17 @@
                   candelabrum ut qui ingrediuntur lumen videant</quote>
             </cit>
             <cit xml:id="Io_16.25">
-               <bibl>Io 16,25</bibl>
+               <bibl>Io 16,25 etc.</bibl>
                <quote>haec in proverbiis locutus sum vobis venit hora cum iam non in proverbiis
                   loquar vobis sed palam de Patre adnuntiabo vobis</quote>
             </cit>
             <cit xml:id="Act_10.3">
-               <bibl>Act 10,3</bibl>
+               <bibl>Act 10,3 etc.</bibl>
                <quote>vidit in visu manifeste quasi hora nona diei angelum Dei introeuntem ad se et
                   dicentem sibi Corneli</quote>
             </cit>
             <cit xml:id="Hesb_ant_off_3864">
-               <bibl>Hesbert, Corpus antiphonalium officii, nr. 3864</bibl>
+               <bibl>Hesbert, <hi rend="it">Corpus antiphonalium officii</hi>, nr. 3864</bibl>
             </cit>
             <cit xml:id="Sir_32.24">
                <bibl>Sir 32,24</bibl>
