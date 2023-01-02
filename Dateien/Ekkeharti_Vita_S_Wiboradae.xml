@@ -1359,7 +1359,7 @@
                   <rdg wit="#A">somptibus</rdg>
                </app> uel usibus monachorum esse poterat · cum omni cautela et festinatione ad
                castellum transmisit ·</p>
-            <p n="(27)" rend="no-hyphen">Uenerunt etiam <app>
+            <p n="(27)" rend="no-initial">Uenerunt etiam <app>
                   <lem>et</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
                </app> parentes domine <persName ref="#rach">rachildę</persName> tractantes cum beata
@@ -1923,7 +1923,7 @@
                   <rdg wit="#S"><note>Litteris graecissantibus scripsit <hi rend="rom"
                         >AƆ-CHN</hi></note></rdg>
                </app> ·</p>
-            <p>Explicit <app>
+            <p rend="no-initial">Explicit <app>
                   <lem>vita</lem>
                   <rdg wit="#A">vita et passio</rdg>
                   <rdg wit="#Boll"><note>Explicit deest</note></rdg>
