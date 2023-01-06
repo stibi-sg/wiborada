@@ -142,7 +142,7 @@
                   ex parte tunc autem cognoscam sicut et cognitus sum</quote>
             </cit>
             <cit xml:id="Ven_Fort_Rad_4">
-               <bibl>Venantius Fortunatus, Vita S. Radegundis c. 4</bibl>  
+               <bibl>Venantius Fortunatus, Vita S. Radegundis c. 4</bibl>
             </cit>
             <cit xml:id="Ven_Fort_Rad_5">
                <bibl>Venantius Fortunatus, Vita S. Radegundis c. 5</bibl>
@@ -280,8 +280,8 @@
                   amarissimum</quote>
             </cit>
             <cit xml:id="Prisc_iul_2.2">
-               <bibl>Priscian., epist. ad Iulianum 3, ed. Keil, <hi rend="it">Grammatici latini</hi> t. 2,
-                     p. 2</bibl>
+               <bibl>Priscian., epist. ad Iulianum 3, ed. Keil, <hi rend="it">Grammatici latini</hi>
+                  t. 2, p. 2</bibl>
             </cit>
             <cit xml:id="I.II.III_Esr">
                <bibl>I, II, III Esr passim</bibl>
@@ -353,7 +353,7 @@
                <bibl>Ps 90,1</bibl>
             </cit>
             <cit xml:id="Mt_19.16-22">
-               <bibl>Mt 19,16-22</bibl>
+               <bibl>Mt 19,16 sqq.</bibl>
                <quote>et ecce unus accedens ait illi magister bone quid boni faciam ut habeam vitam
                   aeternam qui dixit ei quid me interrogas de bono unus est bonus Deus si autem vis
                   ad vitam ingredi serva mandata dicit illi quae Iesus autem dixit non homicidium
@@ -439,6 +439,12 @@
                   daemonia ab homine et intraverunt in porcos et impetu abiit grex per praeceps in
                   stagnum et suffocatus est</quote>
             </cit>
+            <cit xml:id="Eph_6.16">
+               <bibl>Eph 6,16 sq.</bibl>
+               <quote>in omnibus sumentes scutum fidei in quo possitis omnia tela nequissimi ignea
+                  extinguere et galeam salutis adsumite et gladium Spiritus quod est verbum
+                  Dei</quote>
+            </cit>
             <cit xml:id="Sap_5.18">
                <bibl>Sap 5,18</bibl>
                <quote>accipiet armaturam zelus illius et armabit creaturam ad ultionem
@@ -498,7 +504,7 @@
                <bibl>Terent., Eunuchus 105</bibl>
             </cit>
             <cit xml:id="Gn_1.4">
-               <bibl>Gn 1,4</bibl>
+               <bibl>Gn 1,4 etc.</bibl>
                <quote>et vidit Deus lucem quod esset bona et divisit lucem ac tenebras</quote>
             </cit>
             <cit xml:id="Sir_44.16">
@@ -535,11 +541,8 @@
                <quote>custodi pedem tuum ingrediens domum Dei multo enim melior est oboedientia quam
                   stultorum victimae qui nesciunt quid faciant mali</quote>
             </cit>
-            <cit xml:id="Pers_3.21">
-               <bibl>Pers. 3,21</bibl>
-            </cit>
-            <cit xml:id="Pers_3.22">
-               <bibl>Pers 3,22</bibl>
+            <cit xml:id="Pers_3.21.22">
+               <bibl>Pers. 3,21 sq.</bibl>
             </cit>
             <cit xml:id="Ps_14.1-5">
                <bibl>Ps 14,1-5</bibl>
