@@ -954,7 +954,7 @@
                   correptionem nostram in quos fines saeculorum devenerunt</quote>
             </cit>
             <cit xml:id="Io_7.30">
-               <bibl>Io 7,30</bibl>
+               <bibl>Io 7,30 etc.</bibl>
                <quote>quaerebant ergo eum adprehendere et nemo misit in illum manus quia nondum
                   venerat hora eius</quote>
             </cit>
@@ -1015,6 +1015,10 @@
                <bibl>Eph 1,10</bibl>
                <quote>in dispensationem plenitudinis temporum instaurare omnia in Christo quae in
                   caelis et quae in terra sunt in ipso</quote>
+            </cit>
+            <cit xml:id="Lc_5.11etc">
+               <bibl>Lc 5,11 etc.</bibl>
+               <quote>et subductis ad terram navibus relictis omnibus secuti sunt illum</quote>
             </cit>
             <cit xml:id="Act_9.15">
                <bibl>Act 9,15</bibl>
