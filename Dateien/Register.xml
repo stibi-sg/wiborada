@@ -11,7 +11,7 @@
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <p></p>
+                <p/>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -28,6 +28,9 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Abraham</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118500201</idno>
                     </person>
+                    <person xml:id="acha">
+                        <persName><hi rend="it">Achab rex</hi></persName>
+                    </person>
                     <person xml:id="aegy">
                         <persName type="adjective" xml:lang="la">Aegyptius puer</persName>
                         <persName type="adjective" xml:lang="de">aegyptisch</persName>
@@ -35,10 +38,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/4000556-2</idno>
                     </person>
                     <person xml:id="agne">
-                        <persName>S. Agnes</persName>
-                        <note type="bio">martyr</note>
-                        <birth type="ca." when="0237"/>
-                        <death type="ca." when="0250"/>
+                        <persName>S. Agnetis festivitas</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Agnes_von_Rom</idno>
                         <idno type="gnd">http://d-nb.info/gnd/114430704X</idno>
                     </person>
@@ -48,10 +48,10 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Alamannen</idno>
                     </person>
                     <person xml:id="alar">
-                        <persName xml:lang="la">Alaricus</persName>
+                        <persName xml:lang="la">Alaricus, in quadam insula Turicini lacus
+                            solitarius</persName>
                         <persName xml:lang="de">Adalrich</persName>
-                        <note type="bio">in quadam insula Turicini lacus solitarius, Adalrich von
-                            Ufenau</note>
+                        <note>Adalrich von Ufenau</note>
                         <death when="0973"/>
                         <idno type="wikipedia"
                             >https://de.wikipedia.org/wiki/Adalrich_(Einsiedler)</idno>
@@ -63,15 +63,18 @@
                             >https://de.wikipedia.org/wiki/Amalekiter</persName>
                         <idno type="gnd">http://d-nb.info/gnd/4444598-2</idno>
                     </person>
+                    <person xml:id="arat">
+                        <persName>Arates <hi rend="it">Aretas</hi> rex</persName>
+                        <birth type="ca." when="-0009"/>
+                        <death type="ca." when="0040"/>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Aretas_IV.</idno>
+                        <idno type="gnd">https://d-nb.info/gnd/1172671478</idno>
+                    </person>
                     <person xml:id="blit">
-                        <persName type="normalisiert">Blitdruda</persName>
-                        <persName type="alternativ">Pliddruda</persName>
-                        <note type="bio">B. Rachildae germana</note>
+                        <persName>Blitdruda (Pliddruda) B. Rachildae germana</persName>
                     </person>
                     <person xml:id="burc">
-                        <persName type="normalisiert">Burchardus</persName>
-                        <persName type="alternativ">Purchardus</persName>
-                        <note type="bio">dux Alamannorum</note>
+                        <persName>Burchardus (Purchardus) dux Alamannorum</persName>
                         <birth type="ca." when="0883"/>
                         <death when="0926-04"/>
                         <idno type="wikipedia"
@@ -79,7 +82,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/121574490</idno>
                     </person>
                     <person xml:id="caes">
-                        <persName>Gaius Caesar</persName>
+                        <persName>Caesar, Gaius</persName>
                         <birth type="ca." when="-0020"/>
                         <death when="0004-02-21"/>
                         <idno type="wikipedia"
@@ -99,19 +102,30 @@
                         <idno type="gnd">http://d-nb.info/gnd/1138252077</idno>
                     </person>
                     <person xml:id="cili">
-                        <persName>Cilia</persName>
-                        <note>reclusa</note>
+                        <persName>Cilia reclusa</persName>
+                    </person>
+                    <person>
+                        <persName>Constantiensis episcopus</persName>
+                        <note>vide <persName ref="#salo">Salomon</persName></note>
+                    </person>
+                    <person xml:id="corn">
+                        <persName>Cornelius</persName>
+                        <note>centurio</note>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Hauptmann_Kornelius</idno>
+                        <idno type="gnd">https://d-nb.info/gnd/1192479599</idno>
                     </person>
                     <person xml:id="cral">
-                        <persName type="normalisiert">Craloh</persName>
-                        <persName type="alternativ">Gralo</persName>
-                        <note type="bio">abba</note>
+                        <persName>Craloh (Gralo) abba</persName>
                         <death when="0958-02-26"/>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Craloh</idno>
                     </person>
+                    <person xml:id="davi">
+                        <persName><hi rend="it">David</hi> propheta</persName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/David</idno>
+                        <idno type="gnd">https://d-nb.info/gnd/118523929</idno>
+                    </person>
                     <person xml:id="egge">
-                        <persName>Eggehardus [I]</persName>
-                        <persName type="alternativ">Ekkehardus [I]</persName>
+                        <persName>Eggehardus (Ekkehardus) [I]</persName>
                         <note type="bio">decanus S. Galli</note>
                         <birth when="0910"/>
                         <death when="0973-01-14"/>
@@ -120,17 +134,13 @@
                         <idno type="gnd">http://d-nb.info/gnd/100940382</idno>
                     </person>
                     <person xml:id="eggi">
-                        <persName type="normalisiert">Eggibertus</persName>
-                        <persName type="alternativ">Egibertus</persName>
-                        <note type="bio">archipresbyter basilicae S. Magni</note>
+                        <persName>Eggibertus (Egibertus) archipresbyter basilicae S.
+                            Magni</persName>
                     </person>
-                    <person xml:id="ekke">
-                        <persName>Ekkehartus IV</persName>
-                        <birth type="ca." when="0980"/>
-                        <death when="1056"/>
-                        <idno type="wikipedia"
-                            >https://de.wikipedia.org/wiki/Ekkehard_IV._(St._Gallen)</idno>
-                        <idno type="gnd">http://d-nb.info/gnd/118529722</idno>
+                    <person xml:id="elia">
+                        <persName><hi rend="it">Elias</hi> propheta</persName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Elija</idno>
+                        <idno type="gnd">https://d-nb.info/gnd/118529811</idno>
                     </person>
                     <person xml:id="elis">
                         <persName>Eliseus</persName>
@@ -138,9 +148,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118688685</idno>
                     </person>
                     <person xml:id="engi">
-                        <persName type="normalisiert">Engilbertus</persName>
-                        <persName type="alternativ">Engelbertus</persName>
-                        <note type="bio">abbas</note>
+                        <persName type="normalisiert">Engilbertus (Engelbertus) abbas</persName>
                         <death when="0934-08-13"/>
                         <idno type="wikipedia"
                             >https://de.wikipedia.org/wiki/Engilbert_II._von_St._Gallen</idno>
@@ -155,6 +163,18 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Esra_(Person)</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118682415</idno>
                     </person>
+                    <person xml:id="ethi">
+                        <persName>Ethiops</persName>
+                        <persName xml:lang="de">der Äthiopier</persName>
+                    </person>
+                    <person>
+                        <persName>Gaius</persName>
+                        <note>vide <persName ref="#caes">Caesar</persName></note>
+                    </person>
+                    <person>
+                        <persName>Galaad</persName>
+                        <note>vide <persName>Ramoth</persName></note>
+                    </person>
                     <person xml:id="gall">
                         <persName>S. Gallus</persName>
                         <birth type="ca." when="0550"/>
@@ -164,13 +184,14 @@
                         <idno type="gnd">http://d-nb.info/gnd/118537350</idno>
                     </person>
                     <person xml:id="giez">
-                        <persName type="normalisiert">Giezi</persName>
-                        <persName type="alternativ">Iezi</persName>
+                        <persName>Iezi</persName>
+                        <note>Giezi</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Gehasi</idno>
                         <idno type="gnd">http://d-nb.info/gnd/1147227578</idno>
                     </person>
                     <person xml:id="greg">
-                        <persName>Gregorius Magnus</persName>
+                        <persName>Gregorius</persName>
+                        <note>Magnus</note>
                         <birth type="ca." when="0542"/>
                         <death when="0604"/>
                         <idno type="wikipedia"
@@ -187,15 +208,13 @@
                         <idno type="gnd">http://d-nb.info/gnd/11854831X</idno>
                     </person>
                     <person xml:id="heri">
-                        <persName>Herimannus</persName>
-                        <note>coenobita S. Galli</note>
+                        <persName>Herimannus coenobita S. Galli</persName>
                         <birth type="ca." when="1034"/>
                         <death type="ca." when="1076"/>
                         <idno type="gnd">http://d-nb.info/gnd/104104899</idno>
                     </person>
                     <person xml:id="hitt">
-                        <persName>Hitto</persName>
-                        <note type="bio">frater S. Wiboradae</note>
+                        <persName>Hitto, frater S. Wiboradae</persName>
                     </person>
                     <person xml:id="home">
                         <persName>Homerus</persName>
@@ -203,7 +222,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/11855333X</idno>
                     </person>
                     <person xml:id="isai">
-                        <persName>Isaias</persName>
+                        <persName>Esaias</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Jesaja</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118639897</idno>
                     </person>
@@ -220,14 +239,11 @@
                         <idno type="gnd">http://d-nb.info/gnd/118557858</idno>
                     </person>
                     <person xml:id="kebi">
-                        <persName type="normalisiert">Kebini</persName>
-                        <persName type="alternativ">Kebeni</persName>
-                        <persName type="alternativ">Kebenina</persName>
-                        <note type="bio">fidelis ministra, una e duabus ancillis</note>
+                        <persName>Kebini (Kebeni, Kebenina) fidelis ministra, <hi rend="it">una
+                                e</hi> duabus ancillis</persName>
                     </person>
                     <person xml:id="kerb">
-                        <persName>Kerbirga</persName>
-                        <note>reclusa</note>
+                        <persName>Kerbirga reclusa</persName>
                     </person>
                     <person xml:id="laur">
                         <persName>Laurentius</persName>
@@ -262,8 +278,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118865870</idno>
                     </person>
                     <person xml:id="mala">
-                        <persName>Malachias</persName>
-                        <note>propheta</note>
+                        <persName>Malachias propheta</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Maleachi</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118640828</idno>
                     </person>
@@ -296,6 +311,11 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Mose</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118641190</idno>
                     </person>
+                    <person corresp="#nabo">
+                        <persName>Israelita, Naboth</persName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Nabot</idno>
+                        <idno type="gnd">http://d-nb.info/gnd/118586122</idno>
+                    </person>
                     <person xml:id="nabo">
                         <persName>Naboth Israelita</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Nabot</idno>
@@ -307,14 +327,13 @@
                         <idno type="gnd">http://d-nb.info/gnd/118641328</idno>
                     </person>
                     <person xml:id="nort">
-                        <persName>Nortpertus</persName>
-                        <note>abbas S. Galli</note>
+                        <persName>Nortpertus abbas</persName>
+                        <note>S. Galli</note>
                         <death notBefore="1076"/>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Nortpert</idno>
                     </person>
                     <person xml:id="notk">
-                        <persName>Notkerus [II]</persName>
-                        <note type="bio">medicus, magister et monachus</note>
+                        <persName>Notkerus [II] medicus, magister et monachus</persName>
                         <birth type="ca." when="0905"/>
                         <death when="0975-09-12"/>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Notker_II.</idno>
@@ -330,9 +349,8 @@
                         <idno type="gnd">http://d-nb.info/gnd/118641549</idno>
                     </person>
                     <person xml:id="pert">
-                        <persName type="normalisiert">Pertherada</persName>
-                        <persName type="alternativ">Bertherada</persName>
-                        <note type="bio">una e duabus ancillis</note>
+                        <persName type="normalisiert">Pertherada (Bertherada), <hi rend="it">una
+                                e</hi> duabus ancillis</persName>
                     </person>
                     <person xml:id="petr">
                         <persName>Petrus apostolus</persName>
@@ -351,8 +369,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/1217602976</idno>
                     </person>
                     <person xml:id="regi">
-                        <persName>Reginlinda</persName>
-                        <note type="bio">uxor Burchardi ducis</note>
+                        <persName>Reginlinda, uxor Burchardi ducis</persName>
                         <birth type="ca." when="0888"/>
                         <death type="ca." when="0958"/>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Regelinda</idno>
@@ -368,8 +385,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/122449606X</idno>
                     </person>
                     <person xml:id="salo">
-                        <persName>Salomon [III.]</persName>
-                        <note type="bio">Constantiensis episcopus</note>
+                        <persName>Salomon [III.] Constantiensis episcopus</persName>
                         <birth type="ca." when="0860"/>
                         <death type="ca." when="0919"/>
                         <idno type="wikipedia"
@@ -377,8 +393,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118964593</idno>
                     </person>
                     <person xml:id="sara">
-                        <persName>Sara</persName>
-                        <note type="bio">Raguelis filia</note>
+                        <persName>Sara Raguelis filia</persName>
                         <idno type="wikipedia"
                             >https://de.wikipedia.org/wiki/Sara_(Frau_des_Tobias)</idno>
                         <idno type="gnd">http://d-nb.info/gnd/189569395</idno>
@@ -414,6 +429,7 @@
                     </person>
                     <person xml:id="tucc">
                         <persName>Tucca</persName>
+                        <note>Virgilii corrector</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Plotius_Tucca</idno>
                     </person>
                     <person xml:id="auod">
@@ -422,9 +438,8 @@
                         <note>abbas S. Galli</note>
                     </person>
                     <person xml:id="suod">
-                        <persName xml:lang="la" type="normalisiert">S. Uodalricus</persName>
+                        <persName xml:lang="la" type="normalisiert">S. Uodalricus, Augustae episcopus</persName>
                         <persName xml:lang="de">Ulrich</persName>
-                        <note type="bio">Augustae episcopus</note>
                         <birth when="0890"/>
                         <death when="0973-07-04"/>
                         <idno type="wikipedia"
@@ -459,25 +474,21 @@
                         <idno type="gnd">http://d-nb.info/gnd/118626574</idno>
                     </person>
                     <person xml:id="wald">
-                        <persName type="normalisiert">Waldrammus</persName>
-                        <persName type="alternativ">Waltrammus</persName>
-                        <note type="bio">monachus et presbyter</note>
+                        <persName type="normalisiert">Waldrammus (Waltrammus) monachus et presbyter</persName>
                     </person>
                     <person xml:id="wibo">
                         <persName type="normalisiert">Wiborada</persName>
-                        <persName type="alternativ">Wiberada</persName>
-                        <persName type="alternativ">Wiborat</persName>
+                        <persName type="alternativ">Wiberada, Wiborat</persName>
                         <death when="0926-05-01"/>
+                        <note> fere ubique</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Wiborada</idno>
                         <idno type="gnd">http://d-nb.info/gnd/11880717X</idno>
                     </person>
                     <person xml:id="will">
-                        <persName>Willidruda</persName>
-                        <note type="bio">soror B. Wiboradae</note>
+                        <persName>Willidruda, soror B. <hi rend="it">Wiboradae</hi></persName>
                     </person>
                     <person xml:id="wito">
-                        <persName>Wito</persName>
-                        <note type="bio">presbyter</note>
+                        <persName>Wito presbyter</persName>
                     </person>
                     <person xml:id="zach">
                         <persName>Zacharias</persName>
@@ -488,20 +499,20 @@
                 </listPerson>
                 <listPlace>
                     <place xml:id="alap">
-                        <placeName xml:lang="la">provincia Alamannia</placeName>
+                        <placeName xml:lang="la">Alamannia, provincia</placeName>
                         <placeName xml:lang="de">Alemannien</placeName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Alamannen</idno>
                     </place>
                     <place xml:id="arar">
-                        <placeName xml:lang="la">araris fluvius</placeName>
+                        <placeName xml:lang="la">Araris fluvius</placeName>
                         <placeName xml:lang="de">Aare</placeName>
-                        <note type="description">Fluss</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Aare</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4000019-9</idno>
                     </place>
                     <place xml:id="augu">
                         <placeName xml:lang="la">Augusta</placeName>
                         <placeName xml:lang="de">Augsburg</placeName>
+                        <note>Augsburg</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Augsburg</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4003614-5</idno>
                     </place>
@@ -517,30 +528,28 @@
                             >https://de.wikipedia.org/wiki/Stammesherzogtum_Baiern</idno>
                     </place>
                     <place xml:id="cell">
-                        <placeName xml:lang="la">S. Georgii cella in montibus sita</placeName>
+                        <placeName xml:lang="la">S. Georgii (Georii) cella in montibus
+                            sita</placeName>
                         <placeName xml:lang="de">Zelle bei St. Georgen</placeName>
+                        <note>St. Georgen</note>
                         <idno type="wikipedia"
                             >https://de.wikipedia.org/wiki/St._Georgen_(St._Gallen)</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4543890-0</idno>
                     </place>
                     <place xml:id="cons">
-                        <placeName xml:lang="la">constantia</placeName>
-                        <placeName type="adjective" xml:lang="la">constantiensis</placeName>
+                        <placeName xml:lang="la">Constantia</placeName>
                         <placeName xml:lang="de">Konstanz</placeName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Konstanz</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4032215-4</idno>
                     </place>
-                    <place xml:id="ethi">
-                        <placeName type="adjective">Ethiops</placeName>
-                        <placeName>Äthiopien</placeName>
-                        <idno type="wikipedia">https://de.wikipedia.org/wiki/%C3%84thiopien</idno>
-                        <idno type="gnd">http://d-nb.info/gnd/4000639-6</idno>
-                    </place>
                     <place xml:id="fric">
-                        <placeName xml:lang="la">pagus Frichgowe</placeName>
+                        <placeName xml:lang="la">Frichgowe, pagus</placeName>
                         <placeName xml:lang="de">Frickgau</placeName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Frickgau</idno>
                         <idno type="gnd">https://de.wikipedia.org/wiki/Frickgau</idno>
+                    </place>
+                    <place xml:id="hebr">
+                        <placeName>Hebraica, traditio</placeName>
                     </place>
                     <place xml:id="hier">
                         <placeName xml:lang="la">Hierusalem</placeName>
@@ -564,12 +573,12 @@
                     <place xml:id="emag">
                         <placeName xml:lang="la">S. Magni ecclesia (basilica)</placeName>
                         <placeName xml:lang="de">St. Mangen</placeName>
+                        <note>St. Mangen</note>
                         <idno type="wikipedia"
                             >https://de.wikipedia.org/wiki/Kirche_St._Mangen</idno>
                     </place>
                     <place xml:id="path">
-                        <placeName>Pathmos</placeName>
-                        <note>insula</note>
+                        <placeName>Pathmos insula</placeName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Patmos</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4044911-7</idno>
                     </place>
@@ -580,9 +589,8 @@
                         <idno type="gnd">http://d-nb.info/gnd/4007403-1</idno>
                     </place>
                     <place type="river" xml:id="renu">
-                        <placeName xml:lang="la">renus</placeName>
+                        <placeName xml:lang="la">Rhenus (Renus) fluvius</placeName>
                         <placeName xml:lang="de">Rhein</placeName>
-                        <note type="description">Fluss</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Rhein</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4049739-2</idno>
                     </place>
@@ -604,7 +612,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/4055075-8</idno>
                     </place>
                     <place xml:id="syon">
-                        <placeName type="normalisiert">Sion</placeName>
+                        <placeName>Syon</placeName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Zion</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4387761-8</idno>
                     </place>

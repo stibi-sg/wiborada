@@ -634,13 +634,12 @@
             <p><seg type="cf." source="#Lc_11.33">Interea ne lucerna in angulo domus abdita modioque
                   supposita clari luminis radios occuleret · sed ut in medium prolata candelabro
                   superponeretur</seg> quatenus cunctis in domo dei commorantibus iocundissime
-               rutilans iubar preberet · peruenit ad aures uenerandi <placeName ref="#cons"
-                  >constantiensis</placeName> ęcclesię episcopi <persName ref="#salo"
-                  >salomonis</persName> fama uirtutum beatę uirginis ·</p>
+               rutilans iubar preberet · peruenit ad aures uenerandi <persName ref="#salo"
+                  >constantiensis ęcclesię episcopi salomonis</persName> fama uirtutum beatę uirginis ·</p>
          </div>
          <div n="XV (13)" xml:id="vw1_XV.13">
-            <p>Nec multum post ad monasterium sancti <persName ref="#gall">Galli</persName> idem
-               episcopus iter suum dirigens · misit ad eam interrogans si secum proficisci uellet ·
+            <p>Nec multum post ad monasterium sancti <persName ref="#gall">Galli</persName> <persName ref="#salo">idem
+               episcopus</persName> iter suum dirigens · misit ad eam interrogans si secum proficisci uellet ·
                Magnoque statim gaudio repleta · cum suis illis quas <app>
                   <lem>praediximus</lem>
                   <rdg wit="#A">diximus</rdg>
@@ -716,9 +715,9 @@
                      <lem>georgii</lem>
                      <rdg wit="#A">georij</rdg>
                   </app></placeName> probatis moribus et uirtutibus adornata in dei seruitio
-               permanebat · Uenerabilis itaque pontifex iterum ad monasterium ueniens · clausula
+               permanebat · Uenerabilis itaque <persName ref="#salo">pontifex</persName> iterum ad monasterium ueniens · clausula
                quam tota uita sitiebat iam parata · missis quibusdam monachis iussit eam duci ad se
-               · Quam episcopus cum paucis prosecutus et benedicens · clausulam <app>
+               · Quam <persName ref="#salo">episcopus</persName> cum paucis prosecutus et benedicens · clausulam <app>
                   <lem>obserauit</lem>
                   <rdg wit="#Boll">observavit<note type="suffix">!</note></rdg>
                </app> · Ast inimicus atrox inuidus omnis boni diabolus terrorem illi incutere
@@ -833,7 +832,7 @@
                dei seruitio te exerces in obliuione coram domino esse <app>
                   <lem>pertimeas</lem>
                   <rdg wit="#A">pertimescas</rdg>
-               </app> · in plaga orientali debes episcopus fieri · multis temporibus prospere <app>
+               </app> · in <placeName ref="#augu">plaga orientali</placeName> debes episcopus fieri · multis temporibus prospere <app>
                   <lem>degens</lem>
                   <rdg wit="#Boll">deges</rdg>
                </app> · Tandem autem etiam magnos labores et multa aduersa de paganis et christianis
@@ -1067,11 +1066,11 @@
                tamen hanc illis diebus innotuit ·</p>
          </div>
          <div n="XXVI (22-23)" xml:id="vw1_XXVI.22.23">
-            <p>Non post multum autem comperto ad monasterium eiusdem ducis aduentu · <app>
+            <p>Non post multum autem comperto ad monasterium <persName ref="#burc">eiusdem ducis</persName> aduentu · <app>
                   <lem>cum</lem>
                   <rdg wit="#S"><note>supr. lin.</note>
                   </rdg>
-               </app> abbas tyranno loco cederet · ilico ut aduenit · eum ad se accersiri praecepit
+               </app> <persName ref="#engi">abbas</persName> tyranno loco cederet · ilico ut aduenit · eum ad se accersiri praecepit
                · Quem aduenientem <app>
                   <lem>dure</lem>
                   <rdg wit="#A">dyre</rdg>
@@ -1138,14 +1137,14 @@
                <app>
                   <lem>sacrata</lem>
                   <rdg wit="#Boll">sancta</rdg>
-               </app> uasa id est calicem aureum cum patena quia aliud non habuerunt · duci pro
+               </app> uasa id est calicem aureum cum patena quia aliud non habuerunt · <persName ref="#burc">duci</persName> pro
                munere obtulerunt · Quę dona suscipiens · oblitus sui <app>
                   <lem>iuramenti</lem>
                   <rdg wit="#S"><note>deest</note></rdg>
                </app> et sponsionis quam uirgini deo dignę promiserat ad propria remeauit ·</p>
          </div>
          <div n="XXVII (23)" xml:id="vw1_XXVII.23">
-            <p>Non post multum temporis idem dux iter suum dirigens ad <placeName ref="#ital"
+            <p>Non post multum temporis <persName ref="#burc">idem dux</persName> iter suum dirigens ad <placeName ref="#ital"
                   >italiam</placeName> · <app>
                   <lem><persName ref="#regi">Reginlindę</persName></lem>
                   <rdg wit="#A"><persName ref="#regi">relinginde</persName></rdg>
@@ -1165,7 +1164,7 @@
                   in campis uirescit et florescit <app>
                      <lem>et</lem>
                      <rdg wit="#A #S"><note>deest</note></rdg>
-                  </app> mane incisum arescit assimilatus est</seg> · Dux itaque sicut mente
+                  </app> mane incisum arescit assimilatus est</seg> · <persName ref="#burc">Dux</persName> itaque sicut mente
                conceperat magno comitatu <placeName ref="#ital">italiam</placeName> ingressus · dum
                totam sibi terram subicere et multos decipere cogitat · ipse dolositate illius gentis
                praeuentus · <seg type="cf." source="#Ps_7.16">dum studet euadere subito lapsu
@@ -1176,7 +1175,7 @@
                   >uitam finiuit</date> ·</p>
          </div>
          <div n="XXVIII (23)" xml:id="vw1_XXVIII.23">
-            <p>Igitur <persName ref="#regi">Reginlinda</persName> matrona domini sui ducis obitu
+            <p>Igitur <persName ref="#regi">Reginlinda</persName> matrona domini sui <persName ref="#burc">ducis</persName> obitu
                comperto non sicut antea ab ipso commonita fuerat de <app>
                   <lem>sacratis</lem>
                   <rdg wit="#Boll">sanctis</rdg>
@@ -1282,14 +1281,14 @@
                   <rdg wit="#Boll">devota</rdg>
                </app> orauit · et adhuc orare deberet domino confortante uitam sibi illius per longa
                tempora fore necessariam · At illi iuxta praeceptum properantes · consilium et
-               uoluntatem abbatis sanctę uirgini indicarunt · Quę ut audiuit sermones istos ·
+               uoluntatem <persName ref="#engi">abbatis</persName> sanctę uirgini indicarunt · Quę ut audiuit sermones istos ·
                gratanter suscepit · et certa de uisione praeterito sibi anno ostensa · sed et de spe
-               retributionis ęternę · inducias usque mane postulans · dum sibi apud abbatem ipsum
+               retributionis ęternę · inducias usque mane postulans · dum sibi apud <persName ref="#engi">abbatem</persName> ipsum
                colloqui liceret · illis abeundi licentiam tribuit ·</p>
          </div>
          <div n="XXXI (26-27)" xml:id="vw1_XXXI.26.27">
             <p>Mane facto · nuncii iterato aduenientes barbaros aduentasse proclamant · Ilico ·
-               abbas <app>
+               <persName ref="#engi">abbas</persName> <app>
                   <lem>ueluti</lem>
                   <rdg wit="#A #Boll">velut</rdg>
                </app> anhelus ad eam ueniens · pridie <app>
@@ -1315,7 +1314,7 @@
                   <rdg wit="#A #Boll">ut</rdg>
                </app> spero et credo adiutor est · quod semel animo fixum est mutari non potest ·
                Istam mansiunculam dei clementia mihi concessam · uiuens in corpore uacuam non
-               relinquam · Igitur abbas tantam constantiam uirginalis animi in deo fixam conspiciens
+               relinquam · Igitur <persName ref="#engi">abbas</persName> tantam constantiam uirginalis animi in deo fixam conspiciens
                · ueniam sibi <app>
                   <lem>dare</lem>
                   <rdg wit="#A #Boll">dari</rdg>
@@ -1345,7 +1344,7 @@
                </app> uallis ista undique circumsepta <app>
                   <lem>seua</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
-               </app> multitudine barbarorum replebitur · Tandem abbas uenerandus omni dubietate <app>
+               </app> multitudine barbarorum replebitur · Tandem <persName ref="#engi">abbas</persName> uenerandus omni dubietate <app>
                   <lem>summota</lem>
                   <rdg wit="#A #Boll">submota</rdg>
                </app> et cunctis <app>
@@ -1490,7 +1489,7 @@
                   <lem>attestatione</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
                </app>
-               <date when="0926-05-08">discessum paganorum</date> audientes · abbas cum monachis et
+               <date when="0926-05-08">discessum paganorum</date> audientes · <persName ref="#engi">abbas</persName> cum monachis et
                familia ad monasterium rediit · Sed et alii multi ex diuersis locis in idipsum
                castellum congregati ad propria remearunt · Predictus etiam monachus et presbyter
                tercio die passionis eius rediens clam ad <placeName ref="#emag">basilicam sancti
@@ -1661,7 +1660,7 @@
                   <rdg wit="#A">Quibus</rdg>
                   <rdg wit="#Boll">Qui</rdg>
                </app> cum plurima quę uel nota omnibus uel adhuc ignota fuerant ueritatis assertione
-               in medium proferret · omni dubitatione summota abbas certissimus quanti meriti
+               in medium proferret · omni dubitatione summota <persName ref="#engi">abbas</persName> certissimus quanti meriti
                quantique honoris glorificatione ante deum digna haberetur · quę tantis signis et
                uirtutibus inter homines claresceret · cum consilio fratrum eidem monacho et
                presbytero mandat ut superuenturę noctis uigilias cum psalmodia et dulci ymnorum
@@ -1881,7 +1880,7 @@
                   <lem>scirem</lem>
                   <rdg wit="#A">scire</rdg>
                </app> aut discere possem de laudandis eius actibus scripto <app>
-                  <lem>me</lem>
+                  <lem><persName ref="#egge">me</persName></lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
                </app> memorię commendaturum · Cunque post illam sponsionem sanctum illud <app>
                   <lem>sanctę</lem>
