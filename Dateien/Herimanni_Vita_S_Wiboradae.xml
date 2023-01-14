@@ -154,7 +154,7 @@
                   <l><seg source="#Hor_epist_II_I.70">esse reor ·</seg></l>
                </lg> Cum enim legerim aliquem priorum deum orasse · quo dignaretur alicuius spiritum
                suscitare · qui uirginem suam <persName ref="#wibo">wiboradam</persName> tot
-               uirtutibus decoram uenustiori stilo faceret saporam · quid dicam posteros optasse ·
+               uirtutibus decoram uenustiori stilo faceret saporam · quid dicam <persName ref="#suod">posteros</persName> optasse ·
                   <ref type="cf." target="#vw1_XLV.40">cum <persName ref="#egge">aliqui</persName>
                   eorum si temporalis uitae dilatio illorum uotis responderet hoc opus uoluissent
                      adtem<pb ed="#A" n="p. 377"
@@ -174,10 +174,10 @@
                Oboedientia ut nostis karissimi nobis est necessaria · si perfecte libertatis cupimus
                adipisci <pb ed="#A" n="p. 378" facs="https://www.e-codices.unifr.ch/de/csg/0560/378"
                /> compendia · hęc enim quamuis <seg source="#I_Pt_2.13">omni humanę creaturę ut
-                  apostolus hortatur · sit exhibenda propter deum</seg> · specialius tamen ad illos
-               respicit · sub quorum regimine in cęnobiis degentes · districto iudici rationem de
-               nostris excessibus reddituros pro certo scimus · illorumque excusationem · nostram
-               fore damnationem ·</p>
+                     <persName ref="#petr">apostolus</persName> hortatur · sit exhibenda propter
+                  deum</seg> · specialius tamen ad illos respicit · sub quorum regimine in cęnobiis
+               degentes · districto iudici rationem de nostris excessibus reddituros pro certo
+               scimus · illorumque excusationem · nostram fore damnationem ·</p>
             <p rend="no-initial">Ad quod regimen tu uenerabilis pater <persName ref="#auod"
                   >ǒdalrice</persName> · <date when="1072">anno millesimo septuagesimo secundo
                   incarnationis domini</date> eius mira dispensatione uocatus · cum bonę memorię
@@ -195,11 +195,12 @@
                <pb ed="#A" n="p. 380" facs="https://www.e-codices.unifr.ch/de/csg/0560/380/0/"/>
                contradictionis · eligens mihi satius esse sub praeceptorum tuorum fasce deficere ·
                quam eis repugnando titulum inoboedientię incurrere · <seg source="#Prisc_iul_2.2"
-                  >Exemplum etiam cum grammatico proponere placuit · ne pigeat alios etiam a me ·
-                  uel ignorantia forte pretermissa · uel uitiose dicta · nihil enim ex omni parte
-                  perfectum in humanis credo esse inuentionibus posse · sua quoque industria uel
-                  addere uel mutare</seg> · Sed antequam mihi alligatum onus ad aptandum moueam ·
-               operę precium esse duco · breuiter in medium proferre · <pb ed="#A" n="p. 381"
+                  >Exemplum etiam cum <persName ref="#pris">grammatico</persName> proponere placuit
+                  · ne pigeat alios etiam a me · uel ignorantia forte pretermissa · uel uitiose
+                  dicta · nihil enim ex omni parte perfectum in humanis credo esse inuentionibus
+                  posse · sua quoque industria uel addere uel mutare</seg> · Sed antequam mihi
+               alligatum onus ad aptandum moueam · operę precium esse duco · breuiter in medium
+               proferre · <pb ed="#A" n="p. 381"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/381/0/"/> per quos pręclara gesta
                huius uirginis posteris primitus innotuerint · ut cum aperietur me non huius
                relationis esse nouum auctorem · sed potius auctorum sequacem · nullus uitium
@@ -280,15 +281,16 @@
                         >hitto</persName> eam psalmos docturus · cum eum tederet inceptus · per
                      uisionem est correptus ·</ref></item>
                <item n="VII"><ref target="#vw2_VII">VII Quomodo in dominica incipientis
-                     quadragesimae · adiuta est fratrem suum in missarum celebratione ·
-                  </ref></item>
-               <item n="VIII"><ref target="#vw2_VIII">VIII Quomodo hortata est eundem fratrem suum ·
-                     ut relictis omnibus monachicum susciperet habitum · illoque prebente consensum
-                     · presbiter <placeName ref="#emag">ęcclesię beati magni</placeName> efficitur
-                     ad ultimum ·</ref></item>
+                     quadragesimae · adiuta est <persName ref="#hitt">fratrem suum</persName> in
+                     missarum celebratione · </ref></item>
+               <item n="VIII"><ref target="#vw2_VIII">VIII Quomodo hortata est eundem <persName
+                        ref="#hitt">fratrem suum</persName> · ut relictis omnibus monachicum
+                     susciperet habitum · illoque prebente consensum · presbiter <placeName
+                        ref="#emag">ęcclesię beati magni</placeName> efficitur ad ultimum
+                  ·</ref></item>
                <item n="VIIII"><ref target="#vw2_IX">VIIII Quale propositum elegit sibimet ipsi post
-                     fratris conuersionem · et quomodo diabolus eam terruit · ad basilicam nocte
-                     gradientem ·</ref></item>
+                        <persName ref="#hitt">fratris</persName> conuersionem · et quomodo diabolus
+                     eam terruit · ad basilicam nocte gradientem ·</ref></item>
                <item n="X"><ref target="#vw2_X">X Quomodo seruientem cuiusdam matronę doemoniosum ·
                      suis precibus reddidit <app>
                         <lem>sensatum</lem>
@@ -395,7 +397,7 @@
                      </app> libro ultro se complicante <app>
                         <lem>pressa est sopore</lem>
                         <rdg wit="#A">pressa est · sopore · <note>interpunxit</note></rdg>
-                     </app> · diuinitusque cognouit de <persName ref="#ungr">ungrorum</persName>
+                     </app> · diuinitusque cognouit de <persName ref="#unga">ungrorum</persName>
                      uastatione · et quomodo consuluit quendam <persName ref="#wald"
                         >uualtrammum</persName> si debuisset uisionem proferre · et quia <persName
                         ref="#engi">abbas</persName> eam uoluit secum ad castellum quoddam quo ipse
@@ -412,11 +414,11 @@
                         <rdg><note>numerum oblitus est B, quo facto B numeros capitulorum ad XXXVIII
                               tantum produxit.</note></rdg>
                      </app> Quomodo <persName ref="#wito">uuito</persName> presbyter incredulus de
-                        <persName ref="#ungr">ungrorum</persName>
+                        <persName ref="#unga">ungrorum</persName>
                      <pb ed="#A" n="p. 392" facs="https://www.e-codices.unifr.ch/de/csg/0560/392/0/"
                      /> uastatione ad castellum pergendo factus est credulus · in oppressi pueri
                      saluatione ·</ref></item>
-               <item n="XXXIIII"><ref target="#vw2_XXXIV">XXXIIII Quomodo <persName ref="#ungr"
+               <item n="XXXIIII"><ref target="#vw2_XXXIV">XXXIIII Quomodo <persName ref="#unga"
                         >ungri</persName>
                      <placeName ref="#cell">cellam</placeName> inuadentes · ferro igneque omnia
                      uastantes · ad ultimum ad uirginis deuenerunt aedes · et quomodo tria uulnera
@@ -424,9 +426,9 @@
                <item n="XXXV"><ref target="#vw2_XXXV">XXXV Quod sanguis eius inspersus muri · per
                      plurimos annos non potuit aboleri · et quomodo per huius inspersionem uisus
                      redditus est cuidam mercatori ·</ref></item>
-               <item n="XXXVI"><ref target="#vw2_XXXVI"> XXXVI Quod frater eius uenerat eam
-                     sepelitum · et cum hoc a beata <persName ref="#rach">rachilda</persName> esset
-                     prohibitum · ad castellum perrexit <app>
+               <item n="XXXVI"><ref target="#vw2_XXXVI"> XXXVI Quod <persName ref="#hitt">frater
+                        eius</persName> uenerat eam sepelitum · et cum hoc a beata <persName
+                        ref="#rach">rachilda</persName> esset prohibitum · ad castellum perrexit <app>
                         <lem>hęc</lem>
                         <rdg wit="#B">hoc</rdg>
                      </app> nuntiatum ·</ref></item>
@@ -476,8 +478,8 @@
                   <lem>uniuersas</lem>
                   <rdg wit="#C">universal̄</rdg>
                </app> iuuenilis petulantię illecebras <seg type="cf." source="#Hor_carm_III_6.24">a
-                  tenero ungue</seg> execrans · ut legitur de <persName ref="#ragu"
-                  >raguelis</persName> filia · <seg source="#Tb_3.17">num<pb ed="#A" n="p. 396"
+                  tenero ungue</seg> execrans · ut legitur de <persName ref="#sara">raguelis
+                  filia</persName> · <seg source="#Tb_3.17">num<pb ed="#A" n="p. 396"
                      facs="https://www.e-codices.unifr.ch/de/csg/0560/396/0/" break="no"/>quam
                   miscuit se cum ludentibus · neque cum his qui in leuitate ambulabant</seg> ·
                Spiritus enim sanctus qui eandem puellam iusti uiri thalamo sociandam · in umbra
@@ -494,7 +496,7 @@
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/397/0/" break="no"/>gini ita
                laudabile nomen non sine eius prouidentia esse impositum · <seg
                   source="#Ps_112.3 #Mal_1.11">cuius nomen a solis ortu usque ad occasum laudabile
-                  est</seg> · Nam theutonica locutione prolatum · mulierum consilium sonat ·
+                  est</seg> · Nam <placeName ref="#teut">theutonica locutione</placeName> prolatum · mulierum consilium sonat ·
                Quotienscumque enim ita spiritualia nomina electorum dei legimus · aperte per ipsa
                uocabula datur intelligi · quod angelus magni consilii · in cordibus utriusque sexus
                dignabitur spiritum consilii<app>
@@ -507,7 +509,7 @@
                   <rdg wit="#C">wiberade</rdg>
                </app>
                <seg type="cf." source="#Lc_10.38-40">quia cum <persName ref="#mart"
-                     >martha</persName> actiuam uitam agendo · et cum <persName ref="#mari"
+                     >martha</persName> actiuam uitam agendo · et cum <persName ref="#mart"
                      >maria</persName> speculatiuam</seg> · omnibus pie uiuentibus uiris ac
                mulieribus · consilium utriusque dilectionis perfectionem exequendi in se exhibuit
                ·</p>
@@ -592,12 +594,13 @@
                humilitatis · ne ui<pb ed="#A" n="p. 404"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/404/0/" break="no"/>tium
                elationis propter exteriorem uestis candorem allapsum · interius obfuscaret cordis
-               splendorem · Contra quam allapsionem · etiam pastorem aecclesiae sibi traditas oues
-               cautificare estimo · ubi dicit · <seg source="#I_Tim_2.9">non in ueste preciosa</seg>
-               · Confestim uero sentiens per spiritum se diuina uisitatione commonitam · equi cui
-               insidebat dorsa descendendo releuans · theristrum cum omni uittatoria compositione
-               detrahens · numquam deinceps huiusmodi ornamentis usa est · Cumque comites ut equum
-               reascenderet hortarentur · penitus non consensit · sed pede<pb ed="#A" n="p. 405"
+               splendorem · Contra quam allapsionem · etiam <persName ref="#paul">pastorem
+                  aecclesiae</persName> sibi traditas oues cautificare estimo · ubi dicit · <seg
+                  source="#I_Tim_2.9">non in ueste preciosa</seg> · Confestim uero sentiens per
+               spiritum se diuina uisitatione commonitam · equi cui insidebat dorsa descendendo
+               releuans · theristrum cum omni uittatoria compositione detrahens · numquam deinceps
+               huiusmodi ornamentis usa est · Cumque comites ut equum reascenderet hortarentur ·
+               penitus non consensit · sed pede<pb ed="#A" n="p. 405"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/405/0/" break="no"/>stri itinere
                usque ad ęcclesiam peruenit · Illa dies <app>
                   <lem>in tantum</lem>
@@ -609,7 +612,7 @@
                internuntios mittendo ·</p>
          </div>
          <div n="VI" xml:id="vw2_VI">
-            <p>MEMORATUS ITAQUE clericus ad <app>
+            <p>MEMORATUS ITAQUE <persName ref="#hitt">clericus</persName> ad <app>
                   <lem>presbiterii</lem>
                   <rdg wit="#A"><note>ultima <hi rend="rom">i</hi> supr. lin.</note></rdg>
                </app> gradum promotus · studuit sine crimine uiuere · atque <seg
@@ -633,13 +636,14 @@
                accersiuit · uisum aperit · seque paratum <pb ed="#A" n="p. 407"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/407/0/"/> ad erudiendum innotuit
                · Factusque est tunc discendi hortator · qui prius fuerat docendi negator ·
-               Quinquaginta igitur psalmis ita carptim a fratre perceptis · reliquos sancti spiritus
-               magisterio didicit ·</p>
+               Quinquaginta igitur psalmis ita carptim a <persName ref="#hitt">fratre</persName>
+               perceptis · reliquos sancti spiritus magisterio didicit ·</p>
          </div>
          <div n="VII" xml:id="vw2_VII">
-            <p>IN DOMINICA DIE ordientis quadragesime · cum prędictus sacerdos missarum sollemnia
-               celebraturus conquestus esset sibi deesse adiutorem · consolans eum beata uirgo dixit
-               · <seg type="cf." source="#Ps_90.1">Confide de adiutorio<app>
+            <p>IN DOMINICA DIE ordientis quadragesime · cum <persName ref="#hitt">prędictus
+                  sacerdos</persName> missarum sollemnia celebraturus conquestus esset sibi deesse
+               adiutorem · consolans eum beata uirgo dixit · <seg type="cf." source="#Ps_90.1"
+                  >Confide de adiutorio<app>
                      <rdg wit="#C">dei <note>scripsit et delevit</note></rdg>
                   </app> altissimi</seg> · et ipse te adiuuans tecum commorabitur · Uirginis igitur
                credens promissioni processit · et spirituale officium inchoauit ·<pb ed="#A"
@@ -649,22 +653,23 @@
                   <rdg wit="#B"><note>ex <hi rend="rom">auctorialiter</hi> correxisse
                      videtur</note></rdg>
                </app> ipsa psallere coepit · ut in scientia eorum quę inibi cantabantur · nequaquam
-               inferior esse uideretur sacerdote · <ref type="cf." target="#vw1_VII.6">Tua sunt hęc
-                  miracula <seg source="#Lc_10.21">domine pater cęli et terrę · qui abscondisti
-                     thesaurum sapientię a prudentibus huius sęculi · et reuelasti eum
-                     paruulis</seg> · Tibi enim mortua uiuunt · Insensibilia sapiunt · cęca
-                  contemplantur · surda audiunt · muta diserta sunt</ref> · ad laudem et gloriam
-               nominis tui · Sacerdos autem et uniuersa circumstans contio ista audientes · post non
-               modicam admirationem glorificabant deum ·<pb ed="#A" n="p. 409"
-                  facs="https://www.e-codices.unifr.ch/de/csg/0560/409"/> eius possibilitati hęc
-               asscribentes ·</p>
+               inferior esse uideretur <persName ref="#hitt">sacerdote</persName> · <ref type="cf."
+                  target="#vw1_VII.6">Tua sunt hęc miracula <seg source="#Lc_10.21">domine pater
+                     cęli et terrę · qui abscondisti thesaurum sapientię a prudentibus huius sęculi
+                     · et reuelasti eum paruulis</seg> · Tibi enim mortua uiuunt · Insensibilia
+                  sapiunt · cęca contemplantur · surda audiunt · muta diserta sunt</ref> · ad laudem
+               et gloriam nominis tui · <persName ref="#hitt">Sacerdos</persName> autem et uniuersa
+               circumstans contio ista audientes · post non modicam admirationem glorificabant deum
+                  ·<pb ed="#A" n="p. 409" facs="https://www.e-codices.unifr.ch/de/csg/0560/409"/>
+               eius possibilitati hęc asscribentes ·</p>
          </div>
          <div n="VIII" xml:id="vw2_VIII">
-            <p>IDEM SACERDOS IAM inde a iuuentute <seg source="#Mt_19.16-22">cum illo euangelico
-                  iuuene mandata uitę custodiens · illud solummodo quod perfectionis esse ueritas
-                  docuit · adhuc etiam cum eo tristis audiuit</seg> · Beata uero <persName
-                  ref="#wibo">uuiborada</persName> quę iam transitoriis in mente renuntiando
-               fluctibus huius saeculi se emerserat · cupiens etiam fratrem suum ad portum perennis
+            <p><persName ref="#hitt">IDEM SACERDOS</persName> IAM inde a iuuentute <seg
+                  source="#Mt_19.16-22">cum illo euangelico iuuene mandata uitę custodiens · illud
+                  solummodo quod perfectionis esse ueritas docuit · adhuc etiam cum eo tristis
+                  audiuit</seg> · Beata uero <persName ref="#wibo">uuiborada</persName> quę iam
+               transitoriis in mente renuntiando fluctibus huius saeculi se emerserat · cupiens
+               etiam <persName ref="#hitt">fratrem suum</persName> ad portum perennis
                tranquillitatis peruenire · huiuscemodi uerbis eum alloquitur · Quam diu frater
                karissime ista temporalia amando · <seg type="cf." source="#Ps_136.1">in fluminibus
                      <placeName ref="#baby">ba<pb ed="#A" n="p. 410"
@@ -678,7 +683,7 @@
                prestolemur finem nostrum · ut dolore cordis nostri ad deum ascendente · eius gratia
                mereamur adiuuari · ut per gradus humilitatis <seg source="#Ps_83.8">de uirtute in
                   uirtutem</seg> conscendentes · <seg source="#Ps_121.2">pedes nostri stabiliantur
-                  in atriis <placeName ref="hier">hieru<pb ed="#A" n="p. 411"
+                  in atriis <placeName ref="#hier">hieru<pb ed="#A" n="p. 411"
                         facs="https://www.e-codices.unifr.ch/de/csg/0560/411/0/" break="no"
                      />salem</placeName></seg> · <seg source="#II_Cor_5.1">Scimus enim quod <app>
                      <lem>terrestris</lem>
@@ -693,9 +698,10 @@
                   >quomodo oporteat sapere ad sobrietatem</seg> · <seg type="cf." source="#Mt_25">et
                   uigilare ad aduentum reuertentis a nuptiis</seg> · tamen unum moneo · <seg
                   source="#Apc_1.3 #Apc_22.10 #Mt_26.18">tempus enim prope est</seg> · Tali
-               allocutione sororis mutatum est cor fratris · <seg source="#Lc_5.11">atque relictis
-                  omnibus · <seg type="cf." source="#Greg_M_Epist_V_53a_1">nudus de naufragio huius
-                     mundi fugiens</seg> · re<pb ed="#A" n="p. 412"
+               allocutione sororis mutatum est cor <persName ref="#hitt">fratris</persName> · <seg
+                  source="#Lc_5.11">atque relictis omnibus · <seg type="cf."
+                     source="#Greg_M_Epist_V_53a_1">nudus de naufragio huius mundi fugiens</seg> ·
+                     re<pb ed="#A" n="p. 412"
                      facs="https://www.e-codices.unifr.ch/de/csg/0560/412/0/" break="no"/>mis
                   uirtutum studuit arripere <app>
                      <lem>portum</lem>
@@ -710,8 +716,9 @@
                regionem uiuorum ·</p>
          </div>
          <div n="IX" xml:id="vw2_IX">
-            <p>UENERABILIS IGITUR uirgo · post conuersionem fratris nil credens actum · si non et
-               illa augeret propositum · uocatis duabus de domesticis suis quę sibi fidę <pb ed="#A"
+            <p>UENERABILIS IGITUR uirgo · post conuersionem <persName ref="#hitt">fratris</persName>
+               nil credens actum · si non et illa augeret propositum · uocatis <persName
+                  ref="#kebi #pert">duabus de domesticis suis</persName> quę sibi fidę <pb ed="#A"
                   n="p. 413" facs="https://www.e-codices.unifr.ch/de/csg/0560/413/0/"/> prę coeteris
                uidebantur · denudauit eis uoluntatem suam · quod neque ita <app>
                   <lem>deliciosis</lem>
@@ -771,11 +778,11 @@
                uerbis? Sistitur presuli uice mechę sponsa christi · criminatur pro innumero <app>
                   <lem>adulterio</lem>
                   <rdg wit="#A">i <note>supr. lin.</note></rdg>
-               </app> quę non polluta fuit saltim uno · diffamatur · fratris esse concubina fraternę
-               castitatis consiliaria · Negantur a uirgine affirmata a meretrice · sed populus
-               ignarus ueri · ęque credidit utrique · <persName ref="#salo">Episcopus</persName>
-               autem uolens eorum <pb ed="#A" n="p. 419"
-                  facs="https://www.e-codices.unifr.ch/de/csg/0560/419/0/"/>
+               </app> quę non polluta fuit saltim uno · diffamatur · <persName ref="#hitt"
+                  >fratris</persName> esse concubina fraternę castitatis consiliaria · Negantur a
+               uirgine affirmata a meretrice · sed populus ignarus ueri · ęque credidit utrique ·
+                  <persName ref="#salo">Episcopus</persName> autem uolens eorum <pb ed="#A"
+                  n="p. 419" facs="https://www.e-codices.unifr.ch/de/csg/0560/419/0/"/>
                <app>
                   <lem>dubietati</lem>
                   <rdg wit="#B #C">dubietati eorum</rdg>
@@ -859,18 +866,20 @@
                congregationi sanctimonialium inserere cogitaret · ubi posset sine intermissione
                orare · atque huius rei gratia directis ministris suis · cum equitatu pręciperet eam
                ad se perduci · Quibus illa hospicium et cętera necessaria benigne contulit · atque
-               sequenti die faciens eos cum equitatu remeare · comitantibus duabus ancillis · pedes
-                  <placeName ref="#cons">constantiam</placeName> peruenit · <app>
+               sequenti die faciens eos cum equitatu remeare · comitantibus <persName
+                  ref="#kebi #pert">duabus ancillis</persName> · pedes <placeName ref="#cons"
+                  >constantiam</placeName> peruenit · <app>
                   <lem>Quam <persName ref="#salo">episcopus</persName> honorifice susceptam ·
                      improperabat ei aliquantulum spreuisse equitatum</lem>
                   <rdg wit="#C">Quam – equitatum <note>omisit</note></rdg>
                </app> · Data autem mansiuncula prope basilicam · <persName ref="#salo"
                   >presul</persName> accersitis duabus quas <pb ed="#A" n="p. 425"
-                  facs="https://www.e-codices.unifr.ch/de/csg/0560/425/0/"/> predixi ancillis ·
-               exquisiuit ab eis · quid in alimentis percipere solita esset · Illę uero ut
-               praemonitę erant responderunt · dominam suam a nullis comestionibus abstinere ·
-               quibus christiano homini uti licuisset · Quod ille laudans · legerat enim in genesi
-                  <seg source="#Gn_1.4">omnia ualde bona esse quę creauit deus</seg> · ideo nihil <app>
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/425/0/"/> predixi <persName
+                  ref="#kebi #pert">ancillis</persName> · exquisiuit ab eis · quid in alimentis
+               percipere solita esset · Illę uero ut praemonitę erant responderunt · dominam suam a
+               nullis comestionibus abstinere · quibus christiano homini uti licuisset · Quod ille
+               laudans · legerat enim in genesi <seg source="#Gn_1.4">omnia ualde bona esse quę
+                  creauit deus</seg> · ideo nihil <app>
                   <lem>ei</lem>
                   <rdg wit="#B #C"><note>deest</note></rdg>
                </app> reiciendum · quia neque <seg source="#Sir_44.16"><persName ref="#enoc"
@@ -900,7 +909,7 @@
                </app> quadam die iterum adest ultro uocata · promissionis solutione gauisura · At
                illa aperta fenestella · post mutuam salutationem infit · Incedis soror cara
                forinsecus in uestimentis ouium · <seg source="#I_Io_4.1">sed nostrum est ut ait
-                  apostolus probare spiritum si ex deo <app>
+                     <persName ref="#iohaa">apostolus</persName> probare spiritum si ex deo <app>
                      <lem>sit</lem>
                      <rdg wit="#C">est</rdg>
                   </app></seg> · antequam tibi ad exemplum nudentur secreta nostrae conuersationis ·
@@ -916,8 +925,8 @@
                obstupescens inquit · Tale praeceptum interrogans <persName ref="#davi"
                   >propheta</persName> super perfectione <seg source="#Ps_14.1-5">habitantium in
                   tabernaculo dei non accepit · aut requiescentium in monte sancto eius</seg> · <seg
-                  source="#Eph_5.5">Apostolus quoque usurariis siue dicam auaris · auaricia enim est
-                  studium <app>
+                  source="#Eph_5.5"><persName ref="#paul">Apostolus</persName> quoque usurariis siue
+                  dicam auaris · auaricia enim est studium <app>
                      <lem>peccunię</lem>
                      <rdg wit="#A #B"><note>ita</note></rdg>
                      <rdg wit="#C">pecunie</rdg>
@@ -1008,10 +1017,11 @@
             <p>EXACTIS AUTEM PAUcis diebus · <persName ref="#salo">idem presul</persName> ad
                coenobium sancti <persName ref="#gall"><hi>GALLI</hi></persName> profecturus · misit
                ad interrogandum sępedictam puellam · si secum proficisci uellet · At illa statim
-               ingenti perfusa gaudio · cum duabus ancillis ad nauim properat · Igitur uento
-               secundante nauigium · celeriter litus attingunt optatum · <persName ref="#salo"
-                  >Episcopus</persName> uero ueniens ad monasterium <pb ed="#A" n="p. 435"
-                  facs="https://www.e-codices.unifr.ch/de/csg/0560/435/0/"/> a fratribus <app>
+               ingenti perfusa gaudio · cum <persName ref="#kebi #pert">duabus ancillis</persName>
+               ad nauim properat · Igitur uento secundante nauigium · celeriter litus attingunt
+               optatum · <persName ref="#salo">Episcopus</persName> uero ueniens ad monasterium <pb
+                  ed="#A" n="p. 435" facs="https://www.e-codices.unifr.ch/de/csg/0560/435/0/"/> a
+               fratribus <app>
                   <lem>honorifice</lem>
                   <rdg wit="#A">ri <note>supr. lin.</note></rdg>
                </app> susceptus est · Beata etiam uirgo <app>
@@ -1046,28 +1056,31 @@
                   <lem>preciperet</lem>
                   <rdg wit="#C">preceperit</rdg>
                </app> te demandare membro suo ·</p>
-            <p><said who="#alar"> Cur me frater ea adtemptare cogis · quę tu ut conitio uidens
-                  quosdam iuxta apostoli presagium <seg source="#II_Tm_4.4">a ueritate auditum
-                     auertisse</seg> aggredi detrectas?</said></p>
+            <p><said who="#alar"> Cur me <persName ref="#heri">frater</persName> ea adtemptare cogis
+                  · quę tu ut conitio uidens quosdam iuxta apostoli presagium <seg
+                     source="#II_Tm_4.4">a ueritate auditum auertisse</seg> aggredi
+                  detrectas?</said></p>
             <p><said who="#heri"> Mihi domine mi ut nulla uirtute predito loquenti uirtutes
                   discredunt · respersi uero dulcedine tuę sanctitatis · libentes tibi praebent
                   auditum · <seg type="cf." source="#Flav_Ios_Ant_Iud_XVIII_9">Nam et maioris <pb
                         ed="#A" n="p. 437" facs="https://www.e-codices.unifr.ch/de/csg/0560/437/0/"
-                     /> potentię uisus gener <app>
+                     /> potentię uisus <persName ref="#hero">gener</persName>
+                     <app>
                         <lem><persName ref="#arat">aratę</persName></lem>
                         <rdg wit="#C"><note>ex <hi rend="rom">arete</hi> corr. <hi rend="rom"
                                  >arate</hi></note></rdg>
-                     </app> regis · <seg source="#Mc_6.20"> baptistam sciens uirum iustum et sanctum
-                        · non solum eum libenter audiebat · uerum etiam eo audito multa
-                        faciebat</seg></seg> ·</said></p>
+                     </app> regis · <seg source="#Mc_6.20">
+                        <persName ref="#iohab">baptistam</persName> sciens uirum iustum et sanctum ·
+                        non solum eum libenter audiebat · uerum etiam eo audito multa
+                     faciebat</seg></seg> ·</said></p>
             <p><said who="#alar"> Pape · cessent obsecro grauia exempla · nam quamuis ad loquendum
                   confortent · nobis tamen minoribus multum est audire ad comparationem <seg
-                     source="#Mt_11.11"><app>
-                        <lem>summum</lem>
-                        <rdg wit="codd."><note>ita</note></rdg>
-                        <rdg wit="#Gold">summam <note>scripsit</note></rdg>
-                        <rdg wit="#Boll">summi</rdg>
-                     </app> in natis mulierum</seg> · neque uulgus urbanis <app>
+                     source="#Mt_11.11"><persName ref="#iohab"><app>
+                           <lem>summum</lem>
+                           <rdg wit="codd."><note>ita</note></rdg>
+                           <rdg wit="#Gold">summam <note>scripsit</note></rdg>
+                           <rdg wit="#Boll">summi</rdg>
+                        </app> in natis mulierum</persName></seg> · neque uulgus urbanis <app>
                      <lem>nescius</lem>
                      <rdg wit="codd.">nescimus</rdg>
                      <rdg wit="#Gold">nescius</rdg>
@@ -1081,7 +1094,7 @@
                      <rdg wit="#B #C">congregationis</rdg>
                   </app> me primum post se dignatus est intimum eligere · Ego <persName ref="#alar"
                      >alaricus</persName> minimus seruorum christi · decreui me pro eius nomine in
-                  quadam insula <placeName ref="#turil">turicini lacus</placeName> solitarium
+                  quadam insula <persName ref="#alar">turicini lacus solitarium</persName>
                   persistere · Ergo me inibi consistente · quadam nocte · quid me cogis frater loqui
                   · quo me indignum hęc audientes possunt reputare · angelico affatu huiuscemodi
                   uerbis ammonitus sum · In monasterio sancti <persName ref="#gall">GALLI</persName>
@@ -1177,7 +1190,7 @@
                   <persName ref="#wibo">uuiborada</persName>
                <seg type="cf." source="#Lc_10.38-40">quę cum <persName ref="#mart">martha</persName>
                   iam diu stetit · in actiua uita laboriose decertans · iuxta pedes domini cum
-                     <persName ref="#mari">maria</persName> considere desiderans</seg> · quatinus
+                     <persName ref="#mart">maria</persName> considere desiderans</seg> · quatinus
                peccatis et uitiorum tumultibus libera · optata in christo mentis quiete perfrueretur
                · postulauit ab eo sibi domicilium alterari · <app>
                   <lem>et ut</lem>
@@ -1286,8 +1299,9 @@
                discernimus illa corporalia quae uidemus · et in quibus presentibus sunt sensus
                corporis nostri · ut non dubitemus · haec esse corpora · illas uero imagines corporum
                · Rursus spiritualis uisio indiget intellectuali ut diiudicetur · <seg
-                  source="#Act_10.13-15">Cum enim petrus illum discum uideret alienatus a corporis
-                  sensibus · et illas uoces macta et manduca · et quę deus <app>
+                  source="#Act_10.13-15">Cum enim <persName ref="#petr">petrus</persName> illum
+                  discum uideret alienatus a corporis sensibus · et illas uoces macta et manduca ·
+                  et quę deus <app>
                      <lem>mundauit</lem>
                      <rdg wit="#B"><note>ex <hi rend="rom">mandauit</hi> corr.</note></rdg>
                      <rdg wit="#C">mandauit</rdg>
@@ -1329,14 +1343,16 @@
                falsaque coniectura finxerat · hoc etiam in corporibus putat quę non uisa coniectat ·
                   <seg type="cf." source="#Ex_19">Illa corporali usus est <persName ref="#mose"
                      >moyses</persName> in <placeName ref="#sina">monte syna</placeName></seg> ·
-               ista uero spirituali <persName ref="#isai">esaias</persName> uel ille uirgo in insula <app>
+               ista uero spirituali <persName ref="#isai">esaias</persName> uel <persName
+                  ref="#iohaa">ille uirgo</persName> in insula <app>
                   <lem><placeName ref="#path">pathmos</placeName></lem>
                   <rdg wit="#A">paphmos</rdg>
-               </app> · tertia cum apostolo usuri sumus · <seg type="cf." source="#I_Cor_13.12">cum
-                  omni enigmate sublato deum uidebimus sicuti est</seg> · Sed quid <persName
-                  ref="#mose">moyses</persName>? Quidue <persName ref="#isai">esaias</persName>?
-               nonne <pb ed="#A" n="p. 458" facs="https://www.e-codices.unifr.ch/de/csg/0560/458/0/"
-               /> asseclę <persName ref="#wibo">uuiboradę</persName>? <app>
+               </app> · tertia cum <persName ref="#paul">apostolo</persName> usuri sumus · <seg
+                  type="cf." source="#I_Cor_13.12">cum omni enigmate sublato deum uidebimus sicuti
+                  est</seg> · Sed quid <persName ref="#mose">moyses</persName>? Quidue <persName
+                  ref="#isai">esaias</persName>? nonne <pb ed="#A" n="p. 458"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/458/0/"/> asseclę <persName
+                  ref="#wibo">uuiboradę</persName>? <app>
                   <lem>Nonne</lem>
                   <rdg wit="#C"><note>in marg.</note></rdg>
                </app> similiter <app>
@@ -1410,17 +1426,19 @@
                </app> recepit ·</p>
          </div>
          <div n="XXIV" xml:id="vw2_XXIV">
-            <p>HĘC EADEM BEATA uirgo uni ex ancillis suis id iniunxit officii · ut utensilia quibus
-               in sacrificio solita erat uti sibi munda praeberet · At illa quadam die nescio quid
-               negotiata · id ipsum officium sorori suae commendauit · Sed cum illa minus deuote
-               illud impleuisset · omnipotens deus qui est amator omnis mundi<pb ed="#A" n="p. 463"
+            <p>HĘC EADEM BEATA uirgo <persName ref="#kebi">uni ex ancillis suis</persName> id
+               iniunxit officii · ut utensilia quibus in sacrificio solita erat uti sibi munda
+               praeberet · At illa quadam die nescio quid negotiata · id ipsum officium sorori suae
+               commendauit · Sed cum illa minus deuote illud impleuisset · omnipotens deus qui est
+               amator omnis mundi<pb ed="#A" n="p. 463"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/463/0/" break="no"/>tię ·
-               precepit quandam famulam suam ei per uisionem apparere · quę ut ipsa in eadem uisione
-               testabatur in corpore manens eius serua fuit · ut ei intimaret · oblationes non ita
-               munde paratas esse · ut puritas sacrificandi poposcisset · et cuius negligentia hoc
-               euenisset · Sic et sacerdotes olim panes propositionis neglexerant · quos ipsi iuxta
-                  <placeName ref="#hebr">traditiones hebraicas</placeName> serere · ipsi demetere ·
-               ipsi molere · ipsi coquere debuerant · Unde et eis a domino per <app>
+               precepit quandam <persName ref="#pert">famulam suam</persName> ei per uisionem
+               apparere · quę ut ipsa in eadem uisione testabatur in corpore manens eius serua fuit
+               · ut ei intimaret · oblationes non ita munde paratas esse · ut puritas sacrificandi
+               poposcisset · et cuius negligentia hoc euenisset · Sic et sacerdotes olim panes
+               propositionis neglexerant · quos ipsi iuxta <placeName ref="#hebr">traditiones
+                  hebraicas</placeName> serere · ipsi demetere · ipsi molere · ipsi coquere
+               debuerant · Unde et eis a domino per <app>
                   <lem><persName ref="#mala">malachiam</persName></lem>
                   <rdg wit="#A"><persName ref="#mala">malachim</persName></rdg>
                   <rdg wit="#B"><persName ref="#mala">malachiͣm</persName></rdg>
@@ -1433,7 +1451,7 @@
                      <rdg wit="#C"><note>versiculum <hi rend="rom">sermo - meum</hi> oblitum <hi
                               rend="rom">(«Zeilensprung»)</hi> in marg. suppl.</note></rdg>
                   </app> panem pollutum</seg> · Facta autem die · uocans ad se beata uirgo
-               praenotatam ancillam · postquam interrogauerat <app>
+               praenotatam <persName ref="#kebi">ancillam</persName> · postquam interrogauerat <app>
                   <lem>eam</lem>
                   <rdg wit="#C">eam <note>deest</note></rdg>
                </app> quis oblatas in proximo parauisset · uasaque sacrificii purgasset · illaque
@@ -1530,8 +1548,8 @@
                   tantum sentietur et poena</seg> · Sed tu deus noster memor humanę fragilitatis ·
                noli ita districte intrare in iudicium cum seruis tuis · <seg source="#Ps_24.6"
                   >Reminiscere queso potius miserationum tuarum domine · et misericordiarum tuarum
-                  quę a saeculo sunt</seg> · Liceat nos sperare in te cum propheta · <seg
-                  source="#Iob_30.24">quia non ad consumptionem nostram <app>
+                  quę a saeculo sunt</seg> · Liceat nos sperare in te cum <persName ref="#iob"
+                  >propheta</persName> · <seg source="#Iob_30.24">quia non ad consumptionem nostram <app>
                      <lem>emittas</lem>
                      <rdg wit="#C">emittis</rdg>
                   </app> manum tuam</seg> · et quia si in profundum inferni dimersi fuerimus · inde
@@ -1608,10 +1626,10 @@
                   >rachilda</persName> extensa manu suscepit baculum · atque in ipsa susceptione
                conualuit · Confestimque surgens · beatę <persName ref="#wibo">uuiboradę</persName>
                se presentauit ·</p>
-            <p><said who="#heri"> Quid nunc iezi? <seg type="cf." source="#IV_Rg_4.25-37">Uideo te
-                     nescio unde mutato uultu · Forsan miraris per susceptionem baculi uirginis
-                     egram conualuisse cum cogitas per positionem baculi domini tui defunctum non
-                        surrex<pb ed="#A" n="p. 478"
+            <p><said who="#heri"> Quid nunc <persName ref="#giez">iezi</persName>? <seg type="cf."
+                     source="#IV_Rg_4.25-37">Uideo te nescio unde mutato uultu · Forsan miraris per
+                     susceptionem baculi uirginis egram conualuisse cum cogitas per positionem
+                     baculi domini tui defunctum non surrex<pb ed="#A" n="p. 478"
                         facs="https://www.e-codices.unifr.ch/de/csg/0560/478/0/" break="no"/>isse ·
                      et quodammodo praecellere eam in gratia curationum ·</seg></said></p>
             <p><said who="#giez"> Non equidem miror · non enim ibi multum laborat admiratio · ubi
@@ -1746,21 +1764,22 @@
                   munus non sperno · tollens relinquo · Penitet me scelerum · fui praedo hactenus in
                   seruos sancti <persName ref="#gall">GALLI</persName> · hinc potius oportet per me
                   eius ęcclesiasticas res augmentari quam minui ·</said></p>
-            <p><said who="#burc"> Si scires frater inexuperabiles principum huius saeculi
-                  necessitates · nimirum huiusmodi suasio<pb ed="#A" n="p. 488"
-                     facs="https://www.e-codices.unifr.ch/de/csg/0560/488/0/" break="no"/>nibus
-                  parceres · Me enim <seg source="#Mt_8.9">sub potestate constitutum</seg> · oportet
-                  tali munere in regis domini mei prodire obtutum · Creberrimi etiam militares
-                  apparatus · nolunt pauca adesse eorum sumptibus · atque danda largiter stipendia
-                  militibus · Preterea sunt excedentia numerum · quę persepe cogunt amicos huius
-                  saeculi transgredi iustitiam dei ·</said></p>
+            <p><said who="#burc"> Si scires <persName ref="#heri">frater</persName> inexuperabiles
+                  principum huius saeculi necessitates · nimirum huiusmodi suasio<pb ed="#A"
+                     n="p. 488" facs="https://www.e-codices.unifr.ch/de/csg/0560/488/0/" break="no"
+                  />nibus parceres · Me enim <seg source="#Mt_8.9">sub potestate constitutum</seg> ·
+                  oportet tali munere in <persName ref="#hein">regis</persName> domini mei prodire
+                  obtutum · Creberrimi etiam militares apparatus · nolunt pauca adesse eorum
+                  sumptibus · atque danda largiter stipendia militibus · Preterea sunt excedentia
+                  numerum · quę persepe cogunt amicos huius saeculi transgredi iustitiam dei
+                  ·</said></p>
             <p><said who="#heri"> Si uis amicus esse huius saeculi · quid mihi tunc tecum · cum
                   constituaris inimicus esse dei? Perge perge · non adicio uerbum ·</said> Cerneres
                illum tot periuria non uereri · sed incunctanter utrasque manus in eius susceptionem
                   <pb ed="#A" n="p. 489" facs="https://www.e-codices.unifr.ch/de/csg/0560/489/0/"/>
                extendentem · Ut gratificatur · quotiens inter manus libratur · quam diuersi pretii a
                circumstantibus estimatur ·</p>
-            <p rend="no-initial">Igitur inde se domum proripiens · uxori suae quęcumque beata uirgo
+            <p rend="no-initial">Igitur inde se domum proripiens · <persName ref="#regi">uxori suae</persName> quęcumque beata uirgo
                ad eum locuta est per ordinem retexuit · eique calicem ostendit · Iamiam uero ad
                   <placeName ref="#ital">italiam</placeName> in miliciam profecturus · rogauit eam
                ut illum sancto <persName ref="#gall">GALLO</persName> remitteret · si mors eius
@@ -1771,7 +1790,7 @@
                   os <persName ref="#mich">micheę</persName></seg> · Nam insperato in fo<pb ed="#A"
                   n="p. 490" facs="https://www.e-codices.unifr.ch/de/csg/0560/490/0/" break="no"
                />ueam cecidit · et ita quasi quadam praesaga fine malorum de medio sublatus est ·
-               utpote in lacu ęternę miserię digna sua prauitate praemia accepturus · Matrona autem
+               utpote in lacu ęternę miserię digna sua prauitate praemia accepturus · <persName ref="#regi">Matrona</persName> autem
                   <persName ref="#burc">eius</persName> obitu comperto · calicem ut rogata fuit
                monasterio remisit · patenam uero lapidibus intextam pretiosis retinuit · <seg
                   type="cf." source="#Act_5.1-10">o defraudatrix <persName ref="#saff"
@@ -1822,7 +1841,7 @@
                diligentius de his indagandi · tum quatinus cum illa tractarent · ut egressa de
                clausula · ad tutiora loca se pateretur <pb ed="#A" n="p. 494"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/494/0/"/> transferri quoadusque
-               paganorum furor pertransiret · nil ei potuit extorquere quid esset eius uoluntatis ·
+               <persName ref="#unga">paganorum</persName> furor pertransiret · nil ei potuit extorquere quid esset eius uoluntatis ·
                nisi ipse adueniret · et solus cum <app>
                   <lem>sola</lem>
                   <rdg wit="#B #C">ea</rdg>
@@ -1943,10 +1962,10 @@
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/503/0/" break="no"/>miliantur
                usque ad terram <seg type="cf." source="#Hor_carm_II_3.19">in altum exstructę</seg>
                domus · humiles uero aut deiciebantur · aut ignis dominabatur earum · Tali uastatione
-                  <placeName ref="#emag">basilicam sancti <hi>MAGNI</hi></placeName> adeuntes ·
-               uoluerunt et illam rogo exstructo concremare · Sed ubi diuina potentia eis resistente
-               · eorum uoluntas caruit effectu · tunc auaricię suae consulentes · cęperunt spe
-               pecunię quęque <app>
+                  <placeName ref="#emag">basilicam sancti MAGNI</placeName> adeuntes · uoluerunt et
+               illam rogo exstructo concremare · Sed ubi diuina potentia eis resistente · eorum
+               uoluntas caruit effectu · tunc auaricię suae consulentes · cęperunt spe pecunię
+               quęque <app>
                   <lem>secreta</lem>
                   <rdg wit="#C"><note>deest</note></rdg>
                </app> rimari · sicque rimando ad ultimum ad oratorium uirginis deuenerunt · Quod
@@ -2010,12 +2029,13 @@
                </app> UIRgo et martyr christi non eadem hora emisit spiritum · sed uiuens usque in
                   <date when="0926-05-02">sequens mane</date> · <seg type="cf." source="#Lc_16.22"
                   >in sinum <persName ref="#abra">abrahę</persName></seg> exspirauit · Uenit itaque
-               bonae memorię frater eius · qui nescio ubi inter frutecta latens totum conspexerat ·
-               uolens pretiosum thesaurum terrę commendare · ne forte barbara gens iterato ueniens
-               igni eum traderet · Sed huius rei uoluntate a beata <persName ref="#rach"
-                  >rachilda</persName> spoliatus · donec <persName ref="#engi">abbate</persName> cum
-               omni clero adueniente honorifice sepulture daretur · inuolutum sacro uela<pb ed="#A"
-                  n="p. 508" facs="https://www.e-codices.unifr.ch/de/csg/0560/508/0/" break="no"/>mine<app>
+               bonae memorię <persName ref="#hitt">frater eius</persName> · qui nescio ubi inter
+               frutecta latens totum conspexerat · uolens pretiosum thesaurum terrę commendare · ne
+               forte barbara gens iterato ueniens igni eum traderet · Sed huius rei uoluntate a
+               beata <persName ref="#rach">rachilda</persName> spoliatus · donec <persName
+                  ref="#engi">abbate</persName> cum omni clero adueniente honorifice sepulture
+               daretur · inuolutum sacro uela<pb ed="#A" n="p. 508"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/508/0/" break="no"/>mine<app>
                   <rdg wit="#A"><note>Punctum deest</note></rdg>
                   <rdg wit="#B"><note>suppl.</note></rdg>
                </app> · ad castellum proficiscitur · atque <persName ref="#engi">abbati</persName>
@@ -2029,8 +2049,9 @@
             <p>UENIENTE AUTEM <date when="0926-05-08">die octaua</date> · <persName ref="#engi"
                   >abbas</persName> comperto discessu paganorum · rediit cum fratribus ad
                monasterium · reliquis etiam qui illo confugerant repatriantibus · Memoratus autem
-               frater eius collectis secum quibusdam de fratribus ac laicis · coepit studiosius
-               satagere · ut corpus eodem die sepulturę traderetur ·<pb ed="#A" n="p. 509"
+                  <persName ref="#hitt">frater eius</persName> collectis secum quibusdam de
+               fratribus ac laicis · coepit studiosius satagere · ut corpus eodem die sepulturę
+               traderetur ·<pb ed="#A" n="p. 509"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/509/0/"/> Cumque illud nudarent
                lauandum ut moris est · nulla in eo patuerunt uulnerum indicia · nisi qua catena
                sulcabat · sed ita sanum atque inuiolatum uiderunt · ut etiam a plerisque de martyrio
@@ -2122,10 +2143,10 @@
                <item n="XIIII"><ref target="#vw2_2_XIV">Quomodo diabolus <persName ref="#kebi"
                         >kebininam</persName> in ignem trusit · et quomodo inde eruta quasi in
                      extasi iacuit · et ad uesperum resipuit ·</ref></item>
-               <item n="XV"><ref target="#vw2_2_XV">Quomodo diuina reuelatione corpora ambarum
-                     uirginum <placeName ref="#emag">basilicę sancti magni</placeName> sunt
-                     intromissa · et quod unus artificum pede lesus sospitati pristinae est redditus
-                     · </ref></item>
+               <item n="XV"><ref target="#vw2_2_XV">Quomodo diuina reuelatione corpora <persName
+                        ref="#rach #wibo">ambarum uirginum</persName>
+                     <placeName ref="#emag">basilicę sancti magni</placeName> sunt intromissa · et
+                     quod unus artificum pede lesus sospitati pristinae est redditus · </ref></item>
             </list>
          </div>
          <div n="I" xml:id="vw2_2_I">
@@ -2167,8 +2188,9 @@
          </div>
          <div n="III" xml:id="vw2_2_III">
             <p><date when="0926">IN AUTUMNO QUI ĘSTAtem passionis beatę <persName ref="#wibo"
-                     >uuiboradę</persName> retrudit</date> · sepe memoratus frater eius · uiridis
-               fęniculi germen circa tumulum eius fixit · Quod diuina dispensatione radicem <app>
+                     >uuiboradę</persName> retrudit</date> · sepe memoratus <persName ref="#hitt"
+                  >frater eius</persName> · uiridis fęniculi germen circa tumulum eius fixit · Quod
+               diuina dispensatione radicem <app>
                   <lem>terrę</lem>
                   <rdg wit="#B #C">terra</rdg>
                </app> figens · atque per totum brumale tempus in sui uiriditate permanens · ad
@@ -2188,7 +2210,7 @@
                exegisset soles · <app>
                   <lem>infirmata</lem>
                   <rdg wit="#C"><note>deest</note></rdg>
-               </app> · morti debitum soluit · Mater autem post aliqua annorum curricula · morte <app>
+               </app> · morti debitum soluit · <persName ref="#will">Mater</persName> autem post aliqua annorum curricula · morte <app>
                   <lem>intercedente</lem>
                   <rdg wit="#C">interveniente</rdg>
                </app> soluta a lege uiri · coepit frequentare tumulum martyrizate sororis · ibique
@@ -2196,8 +2218,9 @@
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/520/0/" break="no"/>mo a morte
                inuenta est · Huic adhuc in corpore degenti · quodam matutino crepusculo predicta
                filia eius hilari uultu apparens · huiuscemodi uerbis ad eam usa est · Num uigilas
-               mater? Quę respondit · vigilo · Surge inquit · et dic auunculo meo · quod domna mea
-                  <persName ref="#wibo">uuiborada</persName> egre feret · eius thesaurum illius <app>
+               mater? Quę respondit · vigilo · Surge inquit · et dic <persName ref="#hitt">auunculo
+                  meo</persName> · quod domna mea <persName ref="#wibo">uuiborada</persName> egre
+               feret · eius thesaurum illius <app>
                   <lem>neglegentia</lem>
                   <rdg wit="#B #C">negligentia</rdg>
                </app> tam diu celari · At illa suspicans de thesauro pecunię · dixit · Qualem
@@ -2206,14 +2229,16 @@
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/521/0/"/> est in pecunia et
                thesauris? Cui illa · Non est inquit ita ut tu suspicaris · nam inuentio thesauri ·
                tollet tibi huiusmodi suspectum · <app>
-                  <lem>Mox igitur linquens stratum adiit fratrem · sibique per somnium <app>
+                  <lem>Mox igitur linquens stratum adiit <persName ref="#hitt">fratrem</persName> ·
+                     sibique per somnium <app>
                         <lem>reuelata</lem>
                         <rdg wit="#B">reuelata <note>deest</note></rdg>
                      </app> nuntiauit</lem>
                   <rdg wit="#C">Mox - nuntiavit <note>desunt</note></rdg>
-               </app> · Nec mora · surgitur a sacerdote · atque una locum sepulchri uirginis
-               adeuntes · uiderunt illius pectinem sine appendiculo ab aere sustentari · Quem cum
-               soror presbyteri manu tangeret · cecidit <app>
+               </app> · Nec mora · surgitur a <persName ref="#hitt">sacerdote</persName> · atque una
+               locum sepulchri uirginis adeuntes · uiderunt illius pectinem sine appendiculo ab aere
+               sustentari · Quem cum <persName ref="#will">soror</persName> <persName ref="#hitt">presbyteri</persName> manu tangeret
+               · cecidit <app>
                   <lem>ei</lem>
                   <rdg wit="#C"><note>deest</note></rdg>
                </app> in manum · Tunc ille indignatus · uoluit enim plures testes huius miraculi
@@ -2233,8 +2258,9 @@
          <div n="V" xml:id="vw2_2_V">
             <p>HUIC MIRACULO NON incongruum illud uidetur subnectere · quod quidam cui uiolato
                supercilio · turgescens caput spem uitę praesentis ademerat · eodem pectine a
-               supradicto sacerdote <pb ed="#A" n="p. 523"
-                  facs="https://www.e-codices.unifr.ch/de/csg/0560/523"/> benedictus · <app>
+               supradicto <persName ref="#hitt">sacerdote</persName>
+               <pb ed="#A" n="p. 523" facs="https://www.e-codices.unifr.ch/de/csg/0560/523"/>
+               benedictus · <app>
                   <lem>pristinam</lem>
                   <rdg wit="#C"><note>deest</note></rdg>
                </app> indeptus est sanitatem ·</p>
@@ -2255,7 +2281,7 @@
          </div>
          <div n="VII" xml:id="vw2_2_VII">
             <p>QUIDAM EPHEBUS nomine <app>
-                  <lem><persName ref="uoda">ǒdalricus</persName></lem>
+                  <lem><persName ref="#uoda">ǒdalricus</persName></lem>
                   <rdg wit="#C"><note>Nomen deest</note></rdg>
                </app> · in congregatione sancti <persName ref="#gall">GALLI</persName> scolari
                sudabat pierio · Hunc quodam tempore inualescens egritudo ad hoc redegit · ut
@@ -2268,9 +2294,9 @@
          <div n="VIII" xml:id="vw2_2_VIII">
             <p>HĘC UIRTUTUM EJUS insignia <persName ref="#engi">engilbertus abba</persName>
                monasterii <seg type="cf." source="#Virg_ecl_III_54">imis reponens sensibus</seg> ·
-               ueniente eius <date when="0927-05-02">anniuersario</date> · precepit sepedicto fratri
-               eius illum sollemnem agere cantu et lectionibus · ut solet de una uirgine · Quod ille
-               libenter <app>
+               ueniente eius <date when="0927-05-02">anniuersario</date> · precepit sepedicto
+                  <persName ref="#hitt">fratri eius</persName> illum sollemnem agere cantu et
+               lectionibus · ut solet de una uirgine · Quod ille libenter <app>
                   <lem>percipiens</lem>
                   <rdg wit="#B">p̅cipiens</rdg>
                </app> · in tantum studuit eundem diem uenerari · ut etiam altare uelaret culciori
@@ -2291,7 +2317,7 @@
          <div n="IX" xml:id="vw2_2_IX">
             <p>IN PAGO QUI <placeName ref="#fric"><hi>FRICHGO</hi>uue</placeName> nuncupatur · quem
                   <placeName ref="#arar">araris fluuius</placeName> ex uno latere preterfluit · ex
-               altero <placeName ref="#rhen">rhenus</placeName> · fuit quędam mater familias nomine
+               altero <placeName ref="#renu">rhenus</placeName> · fuit quędam mater familias nomine
                   <persName ref="#blit">pliddruda</persName> · beatę <persName ref="#rach"
                   >rachildę</persName> germana · Haec quodam tempore ita languida facta est · ut
                dentium pedumque officio priuata · uix interdum in <pb ed="#A" n="p. 527"
@@ -2410,8 +2436,9 @@
                   ref="#wibo">uuiboradę</persName> commissione et praecepto illius · beatę <persName
                   ref="#rach">rachildę</persName> fideliter seruiendo adherebat · Ipsa uero
                   <persName ref="#rach">rachilda</persName> · crebra infirmitate fere per omne
-               tempus uitę suę cruciabatur · Haec autem quam praedixi serua · quoddam potyrium
-               miscere edocta fuit a beata <persName ref="#wibo">uuiborada</persName> · <app>
+               tempus uitę suę cruciabatur · Haec autem quam praedixi <persName ref="#kebi"
+                  >serua</persName> · quoddam potyrium miscere edocta fuit a beata <persName
+                  ref="#wibo">uuiborada</persName> · <app>
                   <lem>contra eius <app>
                         <lem>consuetudinariam</lem>
                         <rdg wit="#B">consuetudineriam <note>(<hi rend="rom">e</hi> partim
@@ -2449,12 +2476,13 @@
                cruenta bestia? In aliquo enim adhuc post tempus dabitur tibi potestas ledere hoc
                corpus · In anima uero nec modo nec deinceps · ullam tibi concessam scias · En tempus
                lesionis · Spero autem de domini misericordia · <seg type="cf." source="#Iob_2.6">si
-                  cum propheta ei tradita sum in interitum carnis · quod etiam animam meam cum
-                  illius anima seruet</seg> · Mirabile dictu · cerneres eam in uno latere usque ad
-               pectus ita concrematam · ut ossa et interiora quedam apparerent · et uestem nil esse
-               lesam · In altero uero uestem combustam · et carnem in nullo peni<pb ed="#A"
-                  n="p. 539" facs="https://www.e-codices.unifr.ch/de/csg/0560/539/0/" break="no"
-               />tus lesam ·</p>
+                  cum <persName ref="#iob">propheta</persName> ei tradita sum in interitum carnis ·
+                  quod etiam animam meam cum illius anima seruet</seg> · Mirabile dictu · cerneres
+               eam in uno latere usque ad pectus ita concrematam · ut ossa et interiora quedam
+               apparerent · et uestem nil esse lesam · In altero uero uestem combustam · et carnem
+               in nullo peni<pb ed="#A" n="p. 539"
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/539/0/" break="no"/>tus lesam
+               ·</p>
          </div>
          <div xml:id="vw2_2_XIVa">
             <p rend="no-initial"><app>
@@ -2475,9 +2503,10 @@
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/540/0/"/> uirgo <persName
                   ref="#rach">rachilda</persName> diuino ut credimus instinctu uocans ad se
                praedictam conseruam · dedit ei cilicium beatę <persName ref="#wibo"
-                  >uuiboradę</persName> · eamque super defletę corpus expandere iussit · Sed et
-               baculum eius addens · superponi precepit · Quod cum factum fuisset · extimplo
-               recalefacta · conualuit · resedit · uisum aperuit · omnibusque <app>
+                  >uuiboradę</persName> · eamque super <persName ref="#kebi">defletę</persName>
+               corpus expandere iussit · Sed et baculum eius addens · superponi precepit · Quod cum
+               factum fuisset · extimplo recalefacta · conualuit · resedit · uisum aperuit ·
+               omnibusque <app>
                   <lem>quinquepertitis</lem>
                   <rdg wit="#B">quinque pestitis</rdg>
                   <rdg wit="#Vad_70 #Sang_610 #Gold">quinque perticis</rdg>
@@ -2492,7 +2521,7 @@
          </div>
          <div n="XV" xml:id="vw2_2_XV">
             <p>OPERE PRECIUM ESSE duximus · et hoc paginę commendare · qualiter omnipotens deus has
-               sanctas uirgines · <app>
+                  <persName ref="#rach #wibo">sanctas uirgines</persName> · <app>
                   <lem>prius</lem>
                   <rdg wit="#B">pius</rdg>
                </app> in ergastulis in quibus se pro eius amore incluserant tumulatas · <placeName
@@ -2503,27 +2532,29 @@
                compositam · quadam cerea materia ut ei uisum est oneratam · Cumque illa interrogaret
                · qua de causa ueniret · uel quid ex hac <pb ed="#A" n="p. 542"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/542/0/"/> materia facere uellet ·
-               missus sum ait · ut harum sanctarum uirginum sepulchra · muro interrupto basilicę
-               intromittam · Post hanc igitur uisionem aliquod diebus <app>
+               missus sum ait · ut harum <persName ref="#rach #wibo">sanctarum uirginum</persName>
+               sepulchra · muro interrupto basilicę intromittam · Post hanc igitur uisionem aliquod
+               diebus <app>
                   <lem>exactis</lem>
                   <rdg wit="#C">transactis</rdg>
                </app> · <persName ref="#cral">gralo</persName> qui id temporis cęnobio sancti
                   <persName ref="#gall">GALLI</persName> praeerat · <app>
                   <lem>in</lem>
                   <rdg wit="#A">In</rdg>
-               </app> animum duxit · credo diuina inspiratione · uisionem ancillę factis exequi ·
-               Tunc prostratus ad memoriam uirginum · deuotis praecibus illarum uoluntatem · et
+               </app> animum duxit · credo diuina inspiratione · uisionem <persName ref="#kebi"
+                  >ancillę</persName> factis exequi · Tunc prostratus ad memoriam <persName
+                  ref="#rach #wibo">uirginum</persName> · deuotis praecibus illarum uoluntatem · et
                adiutorium coepit implorare · ut is cuius uoluntas opus est · patrandum opus
                dignaretur aspirando praeuenire · et adiuuando prosequi · Postquam hęc et his similia
                uirgineis auri<pb ed="#A" n="p. 543"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/543/0/" break="no"/>bus humiliter
-               instillauit · surrexit · conueniensque ancillam quam praedixi · enucleauit illi
-               archana uoluntatis suę · His illa auditis · retulit ei e contra somnium quod uiderat
-               · Sicque factum est · ut fide ueniente ab utroque ad utrumque · duo certa fugarent
-               dubium ab opere patrando · Extimplo uocantur cęmentarii · opusque in diuina
-               prouidentia perfectum · humanis studiis traditur perficiendum · Iam tum feruente
-               opere · contigit ut quoddam immane saxum ab eisdem artificibus incaute leuatum · sed
-               incautius relictum · uni ex <pb ed="#A" n="p. 544"
+               instillauit · surrexit · conueniensque <persName ref="#kebi">ancillam</persName> quam
+               praedixi · enucleauit illi archana uoluntatis suę · His illa auditis · retulit ei e
+               contra somnium quod uiderat · Sicque factum est · ut fide ueniente ab utroque ad
+               utrumque · duo certa fugarent dubium ab opere patrando · Extimplo uocantur cęmentarii
+               · opusque in diuina prouidentia perfectum · humanis studiis traditur perficiendum ·
+               Iam tum feruente opere · contigit ut quoddam immane saxum ab eisdem artificibus
+               incaute leuatum · sed incautius relictum · uni ex <pb ed="#A" n="p. 544"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/544/0/"/> illis in pedem
                cecidisset · grauiterque collideret · Qui a sociis ad diuersorium delatus · iussit
                cęreum parari · eumque ad sepulchrum beatę uuiboradę accendi · Quod cum factum

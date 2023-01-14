@@ -199,7 +199,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118541838</idno>
                     </person>
                     <person xml:id="hein">
-                        <persName xml:lang="la">Heinricus [I.], Saxonicus, rex</persName>
+                        <persName xml:lang="la">Heinricus [I], Saxonicus, rex</persName>
                         <persName xml:lang="de">König Heinrich, der Sachse</persName>
                         <birth type="ca." when="0875"/>
                         <death when="0936-07-02"/>
@@ -212,6 +212,9 @@
                         <birth type="ca." when="1034"/>
                         <death type="ca." when="1076"/>
                         <idno type="gnd">http://d-nb.info/gnd/104104899</idno>
+                    </person>
+                    <person xml:id="hero">
+                        <persName><hi rend="it">Herodes Antipas</hi>, gener Aratae regis</persName>
                     </person>
                     <person xml:id="hitt">
                         <persName>Hitto, frater S. Wiboradae</persName>
@@ -230,6 +233,11 @@
                         <persName>Iob</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Ijob</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118551353</idno>
+                    </person>
+                    <person xml:id="iohaa">
+                        <persName>Iohannes apostolus</persName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Johannes_(Apostel)</idno>
+                        <idno type="gnd">https://d-nb.info/gnd/118557815</idno>
                     </person>
                     <person xml:id="iohab">
                         <persName xml:lang="la">Iohannes baptista</persName>
@@ -283,7 +291,13 @@
                         <idno type="gnd">http://d-nb.info/gnd/118640828</idno>
                     </person>
                     <person xml:id="mari">
+                        <persName><hi rend="it">Maria</hi> virgo</persName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Maria_(Mutter_Jesu)</idno>
+                        <idno type="gnd">https://d-nb.info/gnd/118640909</idno>
+                    </person>
+                    <person>
                         <persName>Maria</persName>
+                        <note>vide <persName ref="#mart">Martha</persName></note>
                         <idno type="wikipedia"
                             >https://de.wikipedia.org/wiki/Maria_von_Bethanien</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118577816</idno>
@@ -341,7 +355,6 @@
                     </person>
                     <person xml:id="paul">
                         <persName>Paulus apostolus</persName>
-                        <note type="bio">pastor ecclesiae</note>
                         <birth type="ca." when="0010"/>
                         <death type="ca." when="0060"/>
                         <idno type="wikipedia"
@@ -349,7 +362,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118641549</idno>
                     </person>
                     <person xml:id="pert">
-                        <persName type="normalisiert">Pertherada (Bertherada), <hi rend="it">una
+                        <persName>Pertherada (Bertherada), <hi rend="it">una
                                 e</hi> duabus ancillis</persName>
                     </person>
                     <person xml:id="petr">
@@ -358,11 +371,20 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Simon_Petrus</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118593323</idno>
                     </person>
+                    <person xml:id="pris">
+                        <persName><hi rend="it">Priscianus</hi> grammaticus</persName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Priscian</idno>
+                        <idno type="gnd">https://d-nb.info/gnd/118596624</idno>
+                    </person>
+                    <person>
+                        <persName>Purchardus</persName>
+                        <note>vide <persName ref="#burc">Burchardus dux</persName></note>
+                    </person>
                     <person xml:id="rach">
                         <persName>S. Rachilda reclusa</persName>
                         <idno type="gnd">http://d-nb.info/gnd/138367760</idno>
                     </person>
-                    <person xml:id="ragu">
+                    <person>
                         <persName>Raguel</persName>
                         <note>vide <persName ref="#sara">Sara</persName></note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Ragu%C3%ABl</idno>
@@ -432,13 +454,20 @@
                         <note>Virgilii corrector</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Plotius_Tucca</idno>
                     </person>
+                    <person xml:id="turi">
+                        <persName>Turicini pagi mercator</persName>
+                    </person>
+                    <person>
+                        <persName>Turicini lacus solitarius</persName>
+                        <note>vide <persName ref="#alar">Alaricus</persName></note>
+                    </person>
                     <person xml:id="auod">
                         <persName xml:lang="la">Uodalricus</persName>
                         <persName xml:lang="de">Ulrich</persName>
                         <note>abbas S. Galli</note>
                     </person>
                     <person xml:id="suod">
-                        <persName xml:lang="la" type="normalisiert">S. Uodalricus, Augustae episcopus</persName>
+                        <persName xml:lang="la">S. Uodalricus, Augustae episcopus</persName>
                         <persName xml:lang="de">Ulrich</persName>
                         <birth when="0890"/>
                         <death when="0973-07-04"/>
@@ -452,8 +481,7 @@
                         <note type="bio">discipulus monasterii S. Galli</note>
                     </person>
                     <person xml:id="unga">
-                        <persName type="normalisiert" xml:lang="la">Ungarii</persName>
-                        <persName type="alternativ" xml:lang="la">Ungri</persName>
+                        <persName xml:lang="la">Ungarii (Ungri)</persName>
                         <persName xml:lang="de">die Ungarn</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Ungarn</idno>
                     </person>
@@ -474,7 +502,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118626574</idno>
                     </person>
                     <person xml:id="wald">
-                        <persName type="normalisiert">Waldrammus (Waltrammus) monachus et presbyter</persName>
+                        <persName>Waldrammus (Waltrammus), monachus et presbyter</persName>
                     </person>
                     <person xml:id="wibo">
                         <persName type="normalisiert">Wiborada</persName>
@@ -588,7 +616,7 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Bodensee</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4007403-1</idno>
                     </place>
-                    <place type="river" xml:id="renu">
+                    <place xml:id="renu">
                         <placeName xml:lang="la">Rhenus (Renus) fluvius</placeName>
                         <placeName xml:lang="de">Rhein</placeName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Rhein</idno>
@@ -616,14 +644,9 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Zion</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4387761-8</idno>
                     </place>
-                    <place xml:id="turi">
-                        <placeName xml:lang="la">Turicinus pagus</placeName>
-                        <placeName xml:lang="de">Zürichgau</placeName>
-                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Z%C3%BCrichgau</idno>
-                    </place>
-                    <place xml:id="turil">
-                        <placeName xml:lang="la">Turicinus lacus</placeName>
-                        <placeName xml:lang="de">Zürichsee</placeName>
+                    <place xml:id="teut">
+                        <placeName>Teutonica (Theutonica) lingua</placeName>
+                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Teutonen</idno>
                     </place>
                 </listPlace>
             </div>
