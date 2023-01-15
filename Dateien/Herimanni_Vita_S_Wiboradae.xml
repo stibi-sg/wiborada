@@ -100,6 +100,16 @@
                      </head>
                   </msDesc>
                </witness>
+               <witness xml:id="Boll">
+                  <bibl>
+                     <editor>Gesellschaft der Bollandisten</editor>/> <title>Acta Sanctorum Mai t.
+                        1</title>
+                     <idno type="Nachdruck">https://gallica.bnf.fr/ark:/12148/bpt6k6036w</idno>
+                     <biblScope>p. 293-308</biblScope>
+                     <date>1680</date>
+                     <placeName>Antwerpen</placeName>
+                  </bibl>
+               </witness>
                <witness xml:id="Gold">
                   <bibl>
                      <editor>Melchior Goldast</editor>
@@ -120,7 +130,7 @@
          <div type="prologue" xml:id="vw2_prol" rend="fn-reset">
             <head><pb ed="#A" n="St. Gallen, Stiftsbibliothek Cod. 560 (A), p. 374"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/374"/><note>Prologum omisit codex
-                  olim Salemitanus, nunc Heidelbergensis Sal. IX 21 (C).</note><hi>INCIPIT PROLOGVS <app>
+                  olim Salemitanus, nunc Heidelbergensis Sal. IX 21 (C).</note>INCIPIT PROLOGVS <app>
                      <lem><persName ref="#heri">HERIMANNI</persName></lem>
                      <rdg>HEPIƆ-CANNI<note> graecissando scripsit <persName ref="#heri"
                               >Herimannus</persName> in autographo Sangall. cod. 560 (A), quod
@@ -130,9 +140,9 @@
                      <persName ref="#wibo">VVIBORADĘ</persName> VIRGINIS <app>
                      <lem>ATQUE</lem>
                      <rdg wit="#B">ET</rdg>
-                  </app> MARTYRIS CHRISTI</hi>
+                  </app> MARTYRIS CHRISTI
             </head>
-            <p><pb ed="#A" n="p. 375" facs="https://www.e-codices.unifr.ch/de/csg/0560/375"/> SOLET
+            <p><pb ed="#A" n="p. 375" facs="https://www.e-codices.unifr.ch/de/csg/0560/375"/>SOLET
                PLERUMQUE MODERNIS SCRIptoribus a patribus uitio deputari · traditiones antiquorum
                scriptis uel factis ab eis mutari · ea uidelicet obiectione · quod quasi illorum
                uirtutibus calcatis · suis nihil probabilius uelint estimari · Sed eorum reuerendam
@@ -260,7 +270,7 @@
          <div type="contents" xml:id="vw2_cont1">
             <head rend="break-before"><supplied>Liber primus</supplied></head>
             <head><app>
-                  <lem><hi>CAPITULA LIBRI SEQUENTIS</hi></lem>
+                  <lem>CAPITULA LIBRI SEQUENTIS</lem>
                   <rdg wit="#C"><note>Capitula desunt</note></rdg>
                </app></head>
             <list>
@@ -453,7 +463,7 @@
          </div>
          <div xml:id="vw2_head">
             <head><pb ed="#A" n="p. 394" facs="https://www.e-codices.unifr.ch/de/csg/0560/394"/>
-               <hi>INCIPIT <app>
+               INCIPIT <app>
                      <lem>UITA</lem>
                      <rdg wit="#C">passio</rdg>
                   </app> SANCTAE <persName ref="#wibo">VVIBORADĘ</persName> UIRGINIS <app>
@@ -462,7 +472,7 @@
                   </app> MARTYRIS <app>
                      <lem>CHRISTI</lem>
                      <rdg wit="#B #C"><note>deest</note></rdg>
-                  </app></hi></head>
+                  </app></head>
          </div>
          <div n="I" xml:id="vw2_I">
             <p><pb ed="#A" n="p. 395" facs="https://www.e-codices.unifr.ch/de/csg/0560/395/0/"
@@ -470,7 +480,7 @@
                   <lem>DEI</lem>
                   <rdg wit="#C"><note>deest</note></rdg>
                </app> UIRGO <persName ref="#wibo">UVIBORADA</persName> EX <persName ref="#alam"
-                     ><hi>ALAMANnorum</hi></persName> prosapia oriunda · a parentibus secundum
+                     >ALAMANnorum</persName> prosapia oriunda · a parentibus secundum
                sęculi dignitatem non infimis · secundum christianam autem libertatem nobilissimis
                originem duxit · Itaque deo ab ipsis cunabulis deuota existens · ac uirtutum
                incrementis transcendens tempus aetatis · nobilitatem suam religiosa conuersatione
@@ -515,7 +525,7 @@
                ·</p>
          </div>
          <div n="III" xml:id="vw2_III">
-            <p><hi>CONGRUVM ERGO</hi> uidetur · lectioni inserere · quod huic beatę uirgini soror
+            <p>CONGRUVM ERGO uidetur · lectioni inserere · quod huic beatę uirgini soror
                erat · summa innocentia uitam ducens · Quam cum quadam die eius coęuulę secum ad
                chorum exire hortarentur · illa cuiusdam sapientis edocta prouerbiis · <seg
                   source="#Prv_14.13">extrema gaudii <app>
@@ -547,7 +557,7 @@
                </app> in innocentia · stilum ad opus inceptum acuemus ·</p>
          </div>
          <div n="IV" xml:id="vw2_IV">
-            <p>BEATA IGITUR <persName ref="#wibo"><hi>UUI</hi>borada</persName> ut prefati sumus
+            <p>BEATA IGITUR <persName ref="#wibo">UUIborada</persName> ut prefati sumus
                omnimodis petulantiam execrans · in tantum studuit diuinum preceptum implere · ut
                poene cottidie omnibus postpositis · nudipes ad ęcclesiam quę longe a domo paterna
                distabat gradiens · <seg source="#Mt_6.33">primum quęreret regnum dei et iustitiam

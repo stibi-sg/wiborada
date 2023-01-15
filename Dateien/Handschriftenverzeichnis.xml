@@ -52,7 +52,7 @@
                         </head>
                     </msDesc>
                 </witness>
-                <witness xml:id="E">
+                <witness xml:id="El17">
                     <msDesc>
                         <msIdentifier>
                             <placeName rend="smallcaps"></placeName>
@@ -96,7 +96,7 @@
                     </msContents>
                 </msDesc>
                 </witness>
-                <witness xml:id="Vad_Man">
+                <witness xml:id="JM">
                     <msDesc>
                         <msIdentifier>
                             <placeName rend="smallcaps">St. Gallen</placeName>
@@ -105,7 +105,7 @@
                         </msIdentifier>
                     </msDesc>
                 </witness>
-                <witness xml:id="Stia_Prof">
+                <witness xml:id="StiA_56">
                     <msDesc>
                         <msIdentifier>
                             <placeName rend="smallcaps">St. Gallen</placeName>
@@ -118,7 +118,7 @@
                         </msIdentifier>
                     </msDesc>
                 </witness>
-                <witness xml:id="Stia_Wart">
+                <witness xml:id="StiA_495">
                     <msDesc>
                         <msIdentifier>
                             <placeName rend="smallcaps">St. Gallen</placeName>
@@ -220,7 +220,7 @@
                         </msIdentifier>
                     </msDesc>
                 </witness>
-                <witness xml:id="Sang_503">
+                <witness xml:id="Sang_503k">
                     <msDesc>
                         <msIdentifier>
                             <placeName rend="smallcaps">St. Gallen</placeName>

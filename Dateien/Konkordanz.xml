@@ -18,249 +18,305 @@
         <body>
             <head rend="break-before">KONKORDANZ DER VITAE SANCTAE WIBORADAE</head>
             <div xml:id="Konk" rend="two-column">
-                <table rows="62" cols="2">
+                <table rows="62" cols="3">
                     <row role="label">
                         <cell>Ekkehart</cell>
                         <cell>Herimann</cell>
+                        <cell></cell>
                     </row>
                     <row>
                         <cell>―</cell>
                         <cell>Prolog</cell>
+                        <cell></cell>
                     </row>
                     <row>
-                        <cell>I</cell>
-                        <cell>Erstes Buch I</cell>
-                    </row>
-                    <row>
-                        <cell>II</cell>
-                        <cell>II</cell>
+                        <cell rend="rightbrace">I <lb/>II</cell>
+                        <cell rend="leftbrace">Erstes Buch</cell>
+                        <cell>I <lb/>II</cell>
                     </row>
                     <row>
                         <cell>III</cell>
+                        <cell></cell>
                         <cell>III</cell>
                     </row>
                     <row>
                         <cell>IV</cell>
+                        <cell></cell>
                         <cell>IV</cell>
                     </row>
                     <row>
                         <cell>V</cell>
+                        <cell></cell>
                         <cell>V</cell>
                     </row>
                     <row>
                         <cell>VI</cell>
+                        <cell></cell>
                         <cell>VI</cell>
                     </row>
                     <row>
                         <cell>VII</cell>
+                        <cell></cell>
                         <cell>VII</cell>
                     </row>
                     <row>
                         <cell>VIII</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                     <row>
                         <cell>IX</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                     <row>
                         <cell>X</cell>
+                        <cell></cell>
                         <cell>VIII</cell>
                     </row>
                     <row>
                         <cell>XI</cell>
+                        <cell></cell>
                         <cell>IX</cell>
                     </row>
                     <row>
                         <cell>XII</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                     <row>
                         <cell>XIII</cell>
+                        <cell></cell>
                         <cell>X</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XI</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XII</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XIV</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XV</cell>
                     </row>
                     <row>
                         <cell>XIV</cell>
+                        <cell></cell>
                         <cell>XVI</cell>
                     </row>
                     <row>
                         <cell>XV</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XVII</cell>
                     </row>
                     <row>
                         <cell>XVI</cell>
+                        <cell></cell>
                         <cell>XVIII</cell>
                     </row>
                     <row>
                         <cell>XVII</cell>
+                        <cell></cell>
                         <cell>XIX</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XX</cell>
                     </row>
                     <row>
                         <cell>XVIII</cell>
+                        <cell></cell>
                         <cell>XXI</cell>
                     </row>
                     <row>
-                        <cell>XIX <lb/>XX</cell>
+                        <cell rend="rightbrace">XIX <lb/>XX</cell>
+                        <cell></cell>
                         <cell>XXII</cell>
                     </row>
                     <row>
                         <cell>XXI</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                     <row>
                         <cell>XXII</cell>
+                        <cell></cell>
                         <cell>XXIII</cell>
                     </row>
                     <row>
                         <cell>XXIII</cell>
+                        <cell></cell>
                         <cell>XXIV</cell>
                     </row>
                     <row>
                         <cell>XXIV</cell>
+                        <cell></cell>
                         <cell>XXV</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XXVI</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XXVII</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XXVIII</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XXIX</cell>
                     </row>
                     <row>
-                        <cell>XXV <lb/>XXVI <lb/> XXVII <lb/> XXVIII</cell>
+                        <cell rend="rightbrace">XXV <lb/>XXVI <lb/> XXVII <lb/> XXVIII</cell>
+                        <cell></cell>
                         <cell>XXX</cell>
                     </row>
                     <row>
-                        <cell>XXIX <lb/>XXX</cell>
+                        <cell rend="rightbrace">XXIX <lb/>XXX</cell>
+                        <cell></cell>
                         <cell>XXXI</cell>
                     </row>
                     <row>
                         <cell>XXXI</cell>
+                        <cell></cell>
                         <cell>XXXII</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XXXIII</cell>
                     </row>
                     <row>
                         <cell>XXXII</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                     <row>
                         <cell>XXXIII</cell>
+                        <cell></cell>
                         <cell>XXXIV</cell>
                     </row>
                     <row>
                         <cell>XXXIV</cell>
+                        <cell></cell>
                         <cell>XXXV</cell>
                     </row>
                     <row>
                         <cell>XXXV</cell>
-                        <cell>XXXVI <lb/>XXXVII <lb/>XXXVIII <lb/>XXXIX</cell>
+                        <cell></cell>
+                        <cell rend="leftbrace">XXXVI <lb/>XXXVII <lb/>XXXVIII <lb/>XXXIX</cell>
                     </row>
                     <row>
                         <cell>―</cell>
-                        <cell>Zweites Buch I</cell>
+                        <cell>Zweites Buch</cell>
+                        <cell>I</cell>
                     </row>
                     <row>
                         <cell>XXXVI</cell>
+                        <cell></cell>
                         <cell>II</cell>
                     </row>
                     <row>
                         <cell>XXXVII</cell>
+                        <cell></cell>
                         <cell>III</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>IV</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>V</cell>
                     </row>
                     <row>
                         <cell>XXXVIII</cell>
+                        <cell></cell>
                         <cell>VI</cell>
                     </row>
                     <row>
                         <cell>XXXIX</cell>
+                        <cell></cell>
                         <cell>VII</cell>
                     </row>
                     <row>
                         <cell>XL</cell>
+                        <cell></cell>
                         <cell>VIII</cell>
                     </row>
                     <row>
                         <cell>XLI</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                     <row>
                         <cell>XLII</cell>
+                        <cell></cell>
                         <cell>IX</cell>
                     </row>
                     <row>
                         <cell>XLIII</cell>
+                        <cell></cell>
                         <cell>X</cell>
                     </row>
                     <row>
                         <cell>XLIV</cell>
+                        <cell></cell>
                         <cell>XI</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XII</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XIII</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XIV</cell>
                     </row>
                     <row>
                         <cell>―</cell>
+                        <cell></cell>
                         <cell>XV</cell>
                     </row>
                     <row>
                         <cell>XLV</cell>
                         <cell>Prolog</cell>
+                        <cell></cell>
                     </row>
                     <row>
                         <cell>XLVI</cell>
+                        <cell></cell>
                         <cell>―</cell>
                     </row>
                 </table>

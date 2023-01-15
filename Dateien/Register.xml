@@ -111,7 +111,8 @@
                     <person xml:id="corn">
                         <persName>Cornelius</persName>
                         <note>centurio</note>
-                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Hauptmann_Kornelius</idno>
+                        <idno type="wikipedia"
+                            >https://de.wikipedia.org/wiki/Hauptmann_Kornelius</idno>
                         <idno type="gnd">https://d-nb.info/gnd/1192479599</idno>
                     </person>
                     <person xml:id="cral">
@@ -176,7 +177,7 @@
                         <note>vide <persName>Ramoth</persName></note>
                     </person>
                     <person xml:id="gall">
-                        <persName>S. Gallus</persName>
+                        <persName role="saint">Gallus</persName>
                         <birth type="ca." when="0550"/>
                         <death type="ca." when="0645"/>
                         <idno type="wikipedia"
@@ -231,12 +232,14 @@
                     </person>
                     <person xml:id="iob">
                         <persName>Iob</persName>
+                        <persName type="alternative">propheta</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Ijob</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118551353</idno>
                     </person>
                     <person xml:id="iohaa">
                         <persName>Iohannes apostolus</persName>
-                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Johannes_(Apostel)</idno>
+                        <idno type="wikipedia"
+                            >https://de.wikipedia.org/wiki/Johannes_(Apostel)</idno>
                         <idno type="gnd">https://d-nb.info/gnd/118557815</idno>
                     </person>
                     <person xml:id="iohab">
@@ -277,8 +280,8 @@
                         <idno type="wikipedia"
                             >https://de.wikipedia.org/wiki/Lucifer_(r%C3%B6mische_Mythologie)</idno>
                     </person>
-                    <person xml:id="magn">
-                        <persName>S. Magnus</persName>
+                    <person xml:id="magn" next="#emag">
+                        <persName role="saint">Magnus</persName>
                         <birth type="ca." when="0699"/>
                         <death type="ca." when="0772"/>
                         <idno type="wikipedia"
@@ -292,7 +295,8 @@
                     </person>
                     <person xml:id="mari">
                         <persName><hi rend="it">Maria</hi> virgo</persName>
-                        <idno type="wikipedia">https://de.wikipedia.org/wiki/Maria_(Mutter_Jesu)</idno>
+                        <idno type="wikipedia"
+                            >https://de.wikipedia.org/wiki/Maria_(Mutter_Jesu)</idno>
                         <idno type="gnd">https://d-nb.info/gnd/118640909</idno>
                     </person>
                     <person>
@@ -355,6 +359,7 @@
                     </person>
                     <person xml:id="paul">
                         <persName>Paulus apostolus</persName>
+                        <persName type="alternative">pastor ecclesiae</persName>
                         <birth type="ca." when="0010"/>
                         <death type="ca." when="0060"/>
                         <idno type="wikipedia"
@@ -362,8 +367,8 @@
                         <idno type="gnd">http://d-nb.info/gnd/118641549</idno>
                     </person>
                     <person xml:id="pert">
-                        <persName>Pertherada (Bertherada), <hi rend="it">una
-                                e</hi> duabus ancillis</persName>
+                        <persName>Pertherada (Bertherada), <hi rend="it">una e</hi> duabus
+                            ancillis</persName>
                     </person>
                     <person xml:id="petr">
                         <persName>Petrus apostolus</persName>
@@ -381,7 +386,7 @@
                         <note>vide <persName ref="#burc">Burchardus dux</persName></note>
                     </person>
                     <person xml:id="rach">
-                        <persName>S. Rachilda reclusa</persName>
+                        <persName role="saint">Rachilda reclusa</persName>
                         <idno type="gnd">http://d-nb.info/gnd/138367760</idno>
                     </person>
                     <person>
@@ -454,20 +459,21 @@
                         <note>Virgilii corrector</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Plotius_Tucca</idno>
                     </person>
-                    <person xml:id="turi">
+                    <person xml:id="turi" next="#turl">
                         <persName>Turicini pagi mercator</persName>
                     </person>
-                    <person>
+                    <person xml:id="turl" prev="#turi">
                         <persName>Turicini lacus solitarius</persName>
                         <note>vide <persName ref="#alar">Alaricus</persName></note>
                     </person>
                     <person xml:id="auod">
-                        <persName xml:lang="la">Uodalricus</persName>
+                        <persName xml:lang="la">Uodalricus, <hi rend="it">abbas S.
+                            Galli</hi></persName>
                         <persName xml:lang="de">Ulrich</persName>
-                        <note>abbas S. Galli</note>
                     </person>
                     <person xml:id="suod">
-                        <persName xml:lang="la">S. Uodalricus, Augustae episcopus</persName>
+                        <persName xml:lang="la" role="saint">Uodalricus, Augustae
+                            episcopus</persName>
                         <persName xml:lang="de">Ulrich</persName>
                         <birth when="0890"/>
                         <death when="0973-07-04"/>
@@ -476,9 +482,9 @@
                         <idno type="gnd">http://d-nb.info/gnd/118625284</idno>
                     </person>
                     <person xml:id="uoda">
-                        <persName xml:lang="la">Uodalricus</persName>
+                        <persName xml:lang="la">Uodalricus, <hi rend="it">discipulus monasterii S.
+                                Galli</hi></persName>
                         <persName xml:lang="de">Ulrich</persName>
-                        <note type="bio">discipulus monasterii S. Galli</note>
                     </person>
                     <person xml:id="unga">
                         <persName xml:lang="la">Ungarii (Ungri)</persName>
@@ -556,7 +562,7 @@
                             >https://de.wikipedia.org/wiki/Stammesherzogtum_Baiern</idno>
                     </place>
                     <place xml:id="cell">
-                        <placeName xml:lang="la">S. Georgii (Georii) cella in montibus
+                        <placeName xml:lang="la" role="saint">Georgii (Georii) cella in montibus
                             sita</placeName>
                         <placeName xml:lang="de">Zelle bei St. Georgen</placeName>
                         <note>St. Georgen</note>
@@ -598,8 +604,8 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Lindau_(Insel)</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4130514-0</idno>
                     </place>
-                    <place xml:id="emag">
-                        <placeName xml:lang="la">S. Magni ecclesia (basilica)</placeName>
+                    <place xml:id="emag" prev="#magn">
+                        <placeName xml:lang="la" role="saint">Magni ecclesia (basilica)</placeName>
                         <placeName xml:lang="de">St. Mangen</placeName>
                         <note>St. Mangen</note>
                         <idno type="wikipedia"
