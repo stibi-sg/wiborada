@@ -294,7 +294,7 @@
                   <rdg wit="#A">in iumento</rdg>
                </app> · uel alicuius uehiculi adminiculo · <app>
                   <lem>quoad uiueret</lem>
-                  <rdg wit="#S et #A">quo aduiueret <note>separant</note></rdg>
+                  <rdg wit="#S #A">quo aduiueret <note>separant</note></rdg>
                </app> impositam uidit · excepto cum sicut dicturi sumus · <placeName ref="#rom"
                   >romam</placeName> orationis gratia peteret · si ei necessitas <app>
                   <lem>transmeandi</lem>
@@ -579,15 +579,14 @@
                </app> ferentem creberrimis impugnationum luctaminibus lacessiuit · uarias terrorum
                figuras nefanda arte subdoloque commento in semet transfiguratas ei obiciens · <seg
                   type="cf." source="#Eph_6.11-17">Quę omnia machinamenta diaboli illa inexpugnabili
-                  scuto non fictę fidei protecta gladioque <app>
-                     <lem><supplied>spiritus armata</supplied></lem>
-                     <rdg wit="#A #S"><note>deest</note></rdg>
-                     <rdg wit="#Boll"><supplied>spiritus armata</supplied>
-                        <note>ex Herimanni vita c. 9 locum sanaverunt</note>
-                     </rdg>
-                  </app></seg> · <app>
+                  scuto non fictę fidei protecta gladioque <supplied>spiritus armata</supplied>
+               </seg> · <app>
                   <lem>signaculo</lem>
-                  <rdg wit="#S">signaculi</rdg>
+                  <rdg wit="#S">gladioque signaculi</rdg>
+                  <rdg wit="#A">gladioque signaculo</rdg>
+                  <rdg wit="#Boll"><note>ex Herimanni vita <ref
+                           target="Herimanni_Vita_S_Wiboradae.xml#vw2_IX">c. 9</ref> locum
+                        sanaverunt</note></rdg>
                </app> crucis inperterrita bellatrix deiecit · Et ut ea quę generaliter complexa sunt
                · singillatim auctoritate ueritatis aliqua ex parte proferam · quadam nocte dum
                solito more ad ęcclesiam properaret · <seg type="cf." source="#Greg_M_Dial_III_30"
@@ -840,8 +839,8 @@
                dei seruitio te exerces in obliuione coram domino esse <app>
                   <lem>pertimeas</lem>
                   <rdg wit="#A">pertimescas</rdg>
-               </app> · in <placeName ref="#augu">plaga orientali</placeName> debes <persName ref="#suod">episcopus</persName> fieri
-               · multis temporibus prospere <app>
+               </app> · in <placeName ref="#augu">plaga orientali</placeName> debes <persName
+                  ref="#suod">episcopus</persName> fieri · multis temporibus prospere <app>
                   <lem>degens</lem>
                   <rdg wit="#Boll">deges</rdg>
                </app> · Tandem autem etiam magnos labores et multa aduersa de paganis et christianis
@@ -884,10 +883,10 @@
                   <rdg wit="#A"><persName ref="#wald">wadramus</persName></rdg>
                   <rdg wit="#Boll"><persName ref="#wald">Waldramus</persName></rdg>
                </app> · Hic habuit familiarem quendam in ministerio sibimet carum · et fideliter
-               seruientem · Per hunc ergo <persName ref="#wald">idem senior</persName> caritatis gratia sepius suam benedictionem
-               dominę <persName ref="#wibo">wiboradę</persName> mittere consueuerat · Cunque hac
-               missione directus adueniret · et allata praesentaret · sicut omnibus ad se
-               uenientibus fecit · remuneratus ab ea fragmen <app>
+               seruientem · Per hunc ergo <persName ref="#wald">idem senior</persName> caritatis
+               gratia sepius suam benedictionem dominę <persName ref="#wibo">wiboradę</persName>
+               mittere consueuerat · Cunque hac missione directus adueniret · et allata praesentaret
+               · sicut omnibus ad se uenientibus fecit · remuneratus ab ea fragmen <app>
                   <lem>benedicti</lem>
                   <rdg wit="#A">b̅ti</rdg>
                   <rdg wit="#Boll">beati<note type="suffix">!</note></rdg>
@@ -896,12 +895,13 @@
                porrigens sine ulla <app>
                   <lem>tarditate</lem>
                   <rdg wit="#A">tardacione</rdg>
-               </app> properat ad <persName ref="#wald">dominum suum</persName> · Nec multum post idem febre correptus · et magna
-               infirmitate detentus · manducare nec bibere potuit · Et cum de die in diem egritudo
-               crescens non minueretur · <persName ref="#wald">suus senior</persName> ualde dolens super eum interrogat si scire
-               potuisset unde ei tam subita infirmitas eueniret · Quo respondente se scire non posse
-               · inquit · Nunquid excogitare poteris · si aliquando illuc missus a me aliquid
-                  benedi<cb ed="#S" n="133vb" break="no"/>ctionis <app>
+               </app> properat ad <persName ref="#wald">dominum suum</persName> · Nec multum post
+               idem febre correptus · et magna infirmitate detentus · manducare nec bibere potuit ·
+               Et cum de die in diem egritudo crescens non minueretur · <persName ref="#wald">suus
+                  senior</persName> ualde dolens super eum interrogat si scire potuisset unde ei tam
+               subita infirmitas eueniret · Quo respondente se scire non posse · inquit · Nunquid
+               excogitare poteris · si aliquando illuc missus a me aliquid benedi<cb ed="#S"
+                  n="133vb" break="no"/>ctionis <app>
                   <lem>de</lem>
                   <rdg wit="#A" rend="lem-prefixed">a</rdg>
                </app> sancta <persName ref="#wibo">wiborada</persName> acceperis? Qui demum pietatis
@@ -936,7 +936,8 @@
                   <rdg wit="#S"><note>ex <hi rend="rom">deangustato</hi> corr.</note>
                   </rdg>
                </app> statim conualuit · et post paruum labentis temporis interuallum plena sanitate
-               recepta · sicut antea fecit <persName ref="#wald">suo domino</persName> gaudens ministrauit ·</p>
+               recepta · sicut antea fecit <persName ref="#wald">suo domino</persName> gaudens
+               ministrauit ·</p>
          </div>
          <div n="XXIII (20)" xml:id="vw1_XXIII.20">
             <p>Quadam nocte apparuit in uisu beatę <persName ref="#wibo">wiboradę</persName>
@@ -1539,8 +1540,8 @@
                martyrii sui die beata uirgo catenulam quam <app>
                   <lem>dixi</lem>
                   <rdg wit="#Boll">diu</rdg>
-               </app> priusquam <persName ref="#unga">barbara gens</persName> adueniret de corpore ablatam subtus altarium posuit et
-               abscondit · <app>
+               </app> priusquam <persName ref="#unga">barbara gens</persName> adueniret de corpore
+               ablatam subtus altarium posuit et abscondit · <app>
                   <lem>et</lem>
                   <rdg wit="#Boll"><note>deest</note></rdg>
                </app> postea in uisione apparens his qui excubias circa sanctas exequias celebrabant
@@ -1878,8 +1879,8 @@
                · De quo tarditatem meam reprehendo · debitorem me sciens eius laudis <app>
                   <lem>proferendę</lem>
                   <rdg wit="#A">preferende</rdg>
-               </app> si uires scientię cum quantitate materię concordarent · Quod <persName ref="#suod">episcopus</persName> audiens
-               auidusque <app>
+               </app> si uires scientię cum quantitate materię concordarent · Quod <persName
+                  ref="#suod">episcopus</persName> audiens auidusque <app>
                   <lem>preconiorum</lem>
                   <rdg wit="#A">precuniorum</rdg>
                </app> eius audiendorum requisiuit quid illud esset in quo se debitorem asseueraret ·
@@ -1918,9 +1919,10 @@
                   <lem>leuius</lem>
                   <rdg wit="#Boll">lenius</rdg>
                </app> habere · ac deinde non multis diebus exactis plena sospitate conualui · sed
-               adhuc diuersis obstaculorum occasionibus impeditus uotum soluere cessaui · <persName ref="#suod">Sanctus
-               antistes</persName> hoc audiens modestis eum increpationibus hortabatur ne se infidelem
-               sponsorem exhiberet · sed id quod aliquandiu neglexerat <pb ed="#S" n="138va"
+               adhuc diuersis obstaculorum occasionibus impeditus uotum soluere cessaui · <persName
+                  ref="#suod">Sanctus antistes</persName> hoc audiens modestis eum increpationibus
+               hortabatur ne se infidelem sponsorem exhiberet · sed id quod aliquandiu neglexerat
+                  <pb ed="#S" n="138va"
                   facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/278"/> citius
                aggrederetur perficere · Cuius salubria monita ille humiliter audiens · et in nullo
                dubitans <app>
@@ -2001,7 +2003,8 @@
                         <lem>mortis itura diem</lem>
                         <rdg wit="#A" rend="lem-prefixed">meritis itura dieta</rdg>
                      </app> ·</l>
-                  <l>Demum a <persName ref="#unga">paganis</persName> maii tunc passa <date when="--05-01">kalendis</date> ·</l>
+                  <l>Demum a <persName ref="#unga">paganis</persName> maii tunc passa <date
+                        when="--05-01">kalendis</date> ·</l>
                   <l><date when="--05-02">Mane <app>
                            <lem>sequente</lem>
                            <rdg wit="#A #Boll">sequenti</rdg>
