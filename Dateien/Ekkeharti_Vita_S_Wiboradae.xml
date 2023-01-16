@@ -115,8 +115,8 @@
                   <lem>inter</lem>
                   <rdg wit="#A">intra</rdg>
                </app> primas dominici agminis alas · uexilla salutis strenue subsequentibus · ueluti
-               bona arbor bonę radicis ex germine pullulauit · Quę etiam <seg source="#Sap_11.21"
-                  >per diuinę scientię prouidentiam omnia in mensura pondere · <app>
+               bona arbor bonę radicis ex germine pullulauit · Quę etiam per diuinę scientię prouidentiam <seg source="#Sap_11.21"
+                  >omnia in mensura pondere · <app>
                      <lem>numeroque</lem>
                      <rdg wit="#Boll">numero</rdg>
                   </app> ineffabiliter disponentem</seg> · quasi quodam praesagio dignum sortita est
@@ -127,10 +127,10 @@
                   sorores <app>
                      <lem>recte</lem>
                      <rdg wit="#A">recti</rdg>
-                  </app> agendi magistras</seg> · ambas <app>
+                  </app> agendi magistras · ambas <app>
                   <lem>inquam</lem>
                   <rdg wit="#Boll">in quantum<note type="suffix">!</note></rdg>
-               </app> christi amatrices <persName ref="#mart">martham scilicet et mariam</persName>
+               </app> christi amatrices <persName ref="#mart">martham scilicet et mariam</persName></seg>
                imitans · per actiuę quidem sudorem conuersationis · ad speculatiuę fastigium
                contemplationis ascendens · cunctis iter rectum querentibus non solum mulieribus sed
                et uiris mundum spernendi<app>
@@ -142,14 +142,14 @@
                exemplum·</p>
          </div>
          <div n="II (1)" xml:id="vw1_II.1">
-            <p> Hęc ergo ab ipsis cunabulis factori suo omnipotenti deo deuota immo ab ipso qui eam <app>
+            <p> Hęc ergo ab ipsis cunabulis factori suo omnipotenti deo deuota immo ab ipso <seg type="cf." source="#Ier_1.5">qui eam <app>
                   <lem>et</lem>
                   <rdg wit="#Boll" rend="lem-prefixed">etiam</rdg>
                   <rdg wit="#A">
                      <note> deest </note>
                   </rdg>
                </app>
-               <seg type="cf." source="#Ier_1.5">antequam formaretur in utero nouerat</seg>
+               antequam formaretur in utero nouerat</seg>
                misericorditer assumpta · <seg type="cf." source="#Vita_S_Leobae_c._7">uniuersas
                   lasciuientis pętulantię illecebras · cunctas infantilis ętatulę leuitates modesta
                   grauitate restrinxit · ac seuera quadam maturitate edomuit</seg> · <seg type="cf."
@@ -410,7 +410,7 @@
                   />entibus huius saeculi et prudentibus et reuelasti <app>
                      <lem>eum</lem>
                      <rdg wit="#A">ea</rdg>
-                  </app> paruulis </seg>·</p>
+                  </app> paruulis</seg> ·</p>
          </div>
          <div n="VIII (7)" xml:id="vw1_VIII.7">
             <p>De cętero parentes dum adhuc ambo uiuerent · nemo reuerentius coluit · nemo sanctius
