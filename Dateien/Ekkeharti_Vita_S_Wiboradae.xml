@@ -364,7 +364,7 @@
          <div n="VII (6)" xml:id="vw1_VII.6">
             <p>
                <seg type="cf." source="#Ado_Pass_Des_440C"><app>
-                     <lem>Rem</lem>
+                     <lem><g rend="initial">R</g>em</lem>
                      <rdg wit="#Boll">Deinde <note>legerunt</note></rdg>
                      <note><hi rend="rom">Deinde</hi> legerunt Boll. et post <hi rend="rom"
                            >relaturus sum</hi> suppleverunt <hi rend="rom">rem</hi>. Paulo post
@@ -635,7 +635,7 @@
                differre non possumus effugii discessum · His dictis · confestim discesserunt ·</p>
          </div>
          <div n="XIV (13)" xml:id="vw1_XIV.13">
-            <p><seg type="cf." source="#Lc_11.33">Interea ne lucerna in angulo domus abdita modioque
+            <p><seg type="cf." source="#Lc_11.33"><g rend="initial">I</g>nterea ne lucerna in angulo domus abdita modioque
                   supposita clari luminis radios occuleret · sed ut in medium prolata candelabro
                   superponeretur</seg> quatenus cunctis in domo dei commorantibus iocundissime
                rutilans iubar preberet · peruenit ad aures uenerandi <persName ref="#salo"
@@ -738,7 +738,7 @@
                fumus euanuit ·</p>
          </div>
          <div n="XVIII (16)" xml:id="vw1_XVIII.16">
-            <p><date when="--06-23">Nocte quadam <app>
+            <p><date when="--06-23"><g rend="initial">N</g>octe quadam <app>
                      <lem>id est</lem>
                      <rdg wit="#Boll">item</rdg>
                   </app> in uigilia sancti <persName ref="#iohab">iohannis
@@ -1071,7 +1071,7 @@
                fidelibus mihi collata praedauit · et sibi cooperantibus in beneficium tradidit ·
                crucem auream uenerandis sanctorum reliquiis plenam abstulit · familiolam desolauit ·
                monachos in loco hoc sub sancta professione deo et sanctis eius seruituros fame et
-               inedia cruciauit · Vere dico tibi quia <seg source="#Mt_26.24 #Mc_14.21">
+               inedia cruciauit · Vere dico tibi quia <seg>
                   <note type="citation">Mt 26,24; cf. Mc 14,21</note>melius ei esset si natus non
                   fuisset</seg> · Mox sancta uirgo somno recedente euigilans secum de uisione
                tractauit · nul<pb ed="#S" n="134va"
@@ -1202,7 +1202,7 @@
                calice monasterio restituere praecepit ·</p>
          </div>
          <div n="XXIX (24)" xml:id="vw1_XXIX.24">
-            <p><date when="0925-06-28">Quadam die post celebratam solemnitatem beati <persName
+            <p><date when="0925-06-28"><g rend="initial">Q</g>uadam die post celebratam solemnitatem beati <persName
                      ref="#iohab">iohannis baptistę</persName> ante <app>
                      <lem>festiuitatem</lem>
                      <rdg wit="#A">festum</rdg>
