@@ -129,7 +129,7 @@
                      <rdg wit="#A">recti</rdg>
                   </app> agendi magistras · ambas <app>
                   <lem>inquam</lem>
-                  <rdg wit="#Boll">in quantum<note type="suffix">!</note></rdg>
+                  <rdg wit="#Boll" type="!">in quantum</rdg>
                </app> christi amatrices <persName ref="#mart">martham scilicet et mariam</persName></seg>
                imitans · per actiuę quidem sudorem conuersationis · ad speculatiuę fastigium
                contemplationis ascendens · cunctis iter rectum querentibus non solum mulieribus sed
@@ -478,7 +478,7 @@
                   <rdg wit="#A #Boll" rend="lem-prefixed">transferrit</rdg>
                </app> · pro <persName ref="#hitt">fratris</persName> salute cui eatenus sedula <app>
                   <lem>seruitute</lem>
-                  <rdg wit="#A #Boll">virtute<note type="suffix">!</note></rdg>
+                  <rdg wit="#A #Boll" type="!">virtute</rdg>
                </app> ministrauerat anxia sagaci eum affabilitate adorta est · persuadens · <seg
                   type="cf." source="#Greg_M_Epist_V_53a_1">ut periculosum <app>
                      <lem>seculi fluitantis</lem>
@@ -547,7 +547,7 @@
                diximus cura fuit · seu etiam astantis familię erogata sunt · Orationis ergo iugi
                tutamine se aduersus inimici <app>
                   <lem>infestantis</lem>
-                  <rdg wit="#S">in se stantis<note type="suffix">!</note></rdg>
+                  <rdg wit="#S" type="!">in se stantis</rdg>
                </app> insidias die noctuque muniuit · <seg type="cf." source="#Ven_Fort_Rad_5"
                   >Solebat enim noctibus de domo furtim excedere</seg> · seque incomitatam ad
                ęcclesiam conferre · ibique precum iugi instantia pernoctare · Nempe cum solis
@@ -577,11 +577,9 @@
                   <lem>inde</lem>
                   <rdg wit="#Boll">intro</rdg>
                </app> ferentem creberrimis impugnationum luctaminibus lacessiuit · uarias terrorum
-               figuras nefanda arte subdoloque commento in semet transfiguratas ei obiciens · <seg
-                  type="cf." source="#Eph_6.11-17">Quę omnia machinamenta diaboli illa inexpugnabili
-                  scuto non fictę fidei protecta gladioque <supplied>spiritus armata</supplied>
-               </seg> · <app>
-                  <lem>signaculo</lem>
+               figuras nefanda arte subdoloque commento in semet transfiguratas ei obiciens · Quę omnia machinamenta diaboli illa inexpugnabili <seg
+                  type="cf." source="#Eph_6.16a">scuto non fictę fidei</seg> protecta <app><lem>gladioque <supplied>spiritus armata</supplied>
+                · signaculo</lem>
                   <rdg wit="#S">gladioque signaculi</rdg>
                   <rdg wit="#A">gladioque signaculo</rdg>
                   <rdg wit="#Boll"><note>ex Herimanni vita <ref
@@ -726,7 +724,7 @@
                monachis iussit eam duci ad se · Quam <persName ref="#salo">episcopus</persName> cum
                paucis prosecutus et benedicens · clausulam <app>
                   <lem>obserauit</lem>
-                  <rdg wit="#Boll">observavit<note type="suffix">!</note></rdg>
+                  <rdg wit="#Boll" type="!">observavit</rdg>
                </app> · Ast inimicus atrox inuidus omnis boni diabolus terrorem illi incutere
                temptans · caput hominis hispidum et horridum tanquam uiuens et ore hianti sua
                malicia proferens · ante illam iacentem in oratione proiecit · At sancta uirgo <app>
@@ -743,8 +741,8 @@
                      <rdg wit="#Boll">item</rdg>
                   </app> in uigilia sancti <persName ref="#iohab">iohannis
                   baptistę</persName></date> prima incipientis diei aurora · <seg source="#Act_10.3"
-                  > uidit in uisu sanctum et uenerabilem patrem nostrum <persName ref="#gall"
-                     >GALLVM</persName> · quasi uiuentem</seg> in corpore paratum ad missam cum
+                  >uidit in uisu</seg> sanctum et uenerabilem patrem nostrum <persName ref="#gall"
+                     >GALLVM</persName> · quasi uiuentem in corpore paratum ad missam cum
                magna claritate luminis aduenisse · Secum etiam tanta multitudo candidatorum id est
                felicium animarum aduenit · ut tota latitudo illius ęcclesię repleretur · Sanctus
                itaque <persName ref="#gall">Gallus</persName> ad altare accedens · celebrat missam
@@ -809,8 +807,8 @@
                   <rdg wit="#Boll">eius</rdg>
                </app> post illum constitueretur · At ille ut uoluntatem eorum uidit · sperans etiam
                iuxta dispositionem dei hoc posse fieri · promisit se in omnibus paratum fore
-               petitioni illorum satisfacere · Et ut sapiens scriptum esse sciens · <seg
-                  source="#Sir_32.24">omnia fac cum consilio et post factum non <app>
+               petitioni illorum satisfacere · Et ut sapiens scriptum esse sciens · omnia fac cum consilio <seg
+                  source="#Sir_32.24">et post factum non <app>
                      <lem>pęniteberis</lem>
                      <rdg wit="#A">penitebis</rdg>
                      <rdg wit="#Boll">poenitebis</rdg>
@@ -888,8 +886,8 @@
                mittere consueuerat · Cunque hac missione directus adueniret · et allata praesentaret
                · sicut omnibus ad se uenientibus fecit · remuneratus ab ea fragmen <app>
                   <lem>benedicti</lem>
-                  <rdg wit="#A">b̅ti</rdg>
-                  <rdg wit="#Boll">beati<note type="suffix">!</note></rdg>
+                  <rdg wit="#A">bt̅i</rdg>
+                  <rdg wit="#Boll" type="!">beati</rdg>
                </app> panis accepit · Quod accipiens · et inde egrediens · prius ut credo alio
                saturatus edulio gustum sanctificati panis deuitat · et obuianti cuidam pauperi illum
                porrigens sine ulla <app>
@@ -926,7 +924,7 @@
                </app> · At ille de sanctitate beatę uirginis certissimus · simul et reatum iacentis
                agnoscens · adduci <app>
                   <lem>caballum</lem>
-                  <rdg wit="#A #Boll">cabellum<note type="suffix">!</note></rdg>
+                  <rdg wit="#A #Boll" type="!">cabellum</rdg>
                </app> praecepit · quem superimpositum ante conspectum illius praesentare mandat ·
                Sancta itaque uirgo agnita molestia · ualde illius contumaciam redarguit · panemque <app>
                   <lem>iterato benedicens ei porrigit</lem>
@@ -1015,7 +1013,7 @@
                elemosinam mox ab ea perciperet · Illa immota manens ut semper sine intermissione
                prostrata in oratione iacebat · nullum profano responsum dedit · Econtra deceptor <app>
                   <lem>animarum</lem>
-                  <rdg wit="#Boll">amarum<note type="suffix">!</note></rdg>
+                  <rdg wit="#Boll" type="!">amarum</rdg>
                </app> flens et eiulans · quid proderunt tibi inquit si hic moriar elemosinę quas
                ante dedisti? Vbi nunc larga manus quam mihi sepe praebuisti? Quare exeuntem animam <app>
                   <lem>saltim</lem>
@@ -1125,7 +1123,7 @@
                   <rdg wit="#Boll">incolumitati</rdg>
                </app> consulens praedico · quia calicem <app>
                   <lem>aureum</lem>
-                  <rdg wit="#A">auream<note type="suffix">!</note></rdg>
+                  <rdg wit="#A" type="!">auream</rdg>
                </app> cum patena tibi <app>
                   <lem>dono</lem>
                   <rdg wit="#A #Boll"><note>deest</note></rdg>
@@ -1175,16 +1173,16 @@
                   <rdg wit="#A">uita comite <note>deest</note></rdg>
                </app> non redisset · calicem cum patena monasterio restituere non distulisset · Sed
                heu hominem dolendum · non solum istum sed unumquemque qui ipse sibi dum potest
-               consulere desinit et non cogitat <seg type="cf."
-                  source="#Ps_102.15 #Is_40.6-8 #Iac_1.10-11 #I_Pt_1.24-25">quia uilitati fęni quod
+               consulere desinit et non cogitat quia uilitati <seg type="cf."
+                  source="#Ps_102.15 #Is_40.6-8 #Iac_1.10-11 #I_Pt_1.24-25">fęni quod
                   in campis uirescit et florescit <app>
                      <lem>et</lem>
                      <rdg wit="#A #S"><note>deest</note></rdg>
-                  </app> mane incisum arescit assimilatus est</seg> · <persName ref="#burc"
+                  </app> mane incisum arescit</seg> assimilatus est · <persName ref="#burc"
                   >Dux</persName> itaque sicut mente conceperat magno comitatu <placeName
                   ref="#ital">italiam</placeName> ingressus · dum totam sibi terram subicere et
-               multos decipere cogitat · ipse dolositate illius gentis praeuentus · <seg type="cf."
-                  source="#Ps_7.16">dum studet euadere subito lapsu infrenis equi in foueam ueluti
+               multos decipere cogitat · ipse dolositate illius gentis praeuentus · dum studet euadere subito lapsu infrenis equi <seg type="cf."
+                  source="#Ps_7.16">in foueam ueluti
                   casui illius <app>
                      <lem>praeparatam</lem>
                      <rdg wit="#A">praeparata</rdg>

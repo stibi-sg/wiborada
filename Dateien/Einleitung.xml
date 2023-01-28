@@ -1567,8 +1567,8 @@
                             Stils» von einem Schreiber, der sich dem heiligen Gallus so
                             empﬁehlt:</p>
                         <lg>
-                            <l rend="center">Servum, Galle, tuum libri decus hoc Herimannum</l>
-                            <l rend="center">Divite cum voto tibi perfecisse memento!</l>
+                            <l rend="centered">Servum, Galle, tuum libri decus hoc Herimannum</l>
+                            <l rend="centered">Divite cum voto tibi perfecisse memento!</l>
                         </lg>
                         <p rend="no-hyphen">«Gallus, sei eingedenk, daß dein Knecht Herimann dir
                             dieses Schmuckstück von einem Buch<note>Denkbar wäre auch die
@@ -1851,7 +1851,7 @@
                             Bei Abschrift des <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70"
                                 >Vad. 70</bibl> hatte unser Schreiber (durch «Augensprung» von <hi
                                 rend="it">frequentiam</hi> zu <hi rend="it">frequentiam</hi>)
-                            folgendes vergessen <lg rend="(align)center">
+                            folgendes vergessen <lg rend="centered">
                                 <l><hi rend="it">non rarescere, nisus est eandem
                                     frequentiam</hi></l>
                             </lg> Er ergänzte am unteren Rand aber <lg rend="centered">
