@@ -94,7 +94,7 @@
                         <biblScope unit="volume">20</biblScope>, <date>1968</date>, p. <biblScope
                             unit="page">663-681</biblScope>. </bibl>
                     <bibl xml:id="irblich70">
-                        <author>E. Irblich</author>, <title level="m" type="main">Die Vitae S.
+                        <author>E. Irblich</author>, <title level="m" type="main">Die Vitae Sanctae
                             Wiboradae</title>. <title type="sub">Ein Heiligenleben des 10.
                             Jahrhunderts als Zeitbild</title>, <pubPlace>St. Gallen</pubPlace>
                         <date>1970</date> (=Schriften des Vereins für Geschichte des Bodensees und
@@ -306,7 +306,7 @@
                 <div xml:id="intro_I.3">
                     <p>In den Annales Sangallenses maiores im <bibl corresp="#Sang_915">selben
                             Codex</bibl> heißt es<note><bibl corresp="#Sang_915">Stiftsbibl. Cod.
-                                915</bibl>, p. 208 und 209. Beide Seiten sind angebildet bei
+                                915</bibl>, p. 208 und 209. Beide Seiten sind abgebildet bei
                                     <bibl><author>Irblich</author> (wie Anm. 4), <biblScope
                                     unit="table">tab. 9 + 10</biblScope></bibl>. ↑ ist das
                             griechische Zahlzeichen für 900.</note>: ↑ XVI ... <hi rend="it"
@@ -385,7 +385,7 @@
                         dem Epilog der älteren Vita S. Wiboradae Glauben schenken, daß man in St.
                         Gallen um die Mitte des X. Jahrhunderts daran dachte, eine Vita der Heiligen
                         zu schreiben<note>Ältere Vita <ref
-                                target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XLV.40">c. XLV</ref>
+                                target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XLV.40">c. XLV</ref>,
                             siehe unten. Dazu <bibl><author>W.B.</author>, <title level="a">«Das
                                     Verfasserproblem der Vita S. Wiboradae»</title>, <title
                                     level="j">ZSKG</title>
@@ -548,7 +548,7 @@
                                     unit="page">p. 224</biblScope></bibl>.</note>. Dazu kommt die
                         vielfache Erwähnung der heiligen Wiborada in der bekannten sanktgallischen
                         Klostergeschichtsschreibung. Vor allem Adolf Fäh hat im zweiten Band seiner
-                        Milleniumsschrift von 1926 viel für die Erschließung dieses reichen
+                        Millenniumsschrift von 1926 viel für die Erschließung dieses reichen
                         Materials getan, das freilich noch nicht restlos aufgearbeitet ist. Manche
                         dieser Texte werden um 1047, dem Jahr der Heiligsprechung Wiboradas,
                         entstanden sein. <anchor xml:id="intro_I.6"/>Einen vorläuﬁgen Schlußpunkt
@@ -752,12 +752,12 @@
                         in die gereimten Hexameter gebracht<note>Überliefert von Ekkehart IV., Casus
                             S. Galli c. 83. Neueste Ausgabe von <bibl><editor>H. F.
                                 Haefele</editor>, <pubPlace>Darmstadt</pubPlace>
-                                <date>1980</date>, <biblScope>p. 172</biblScope></bibl>.</note>:</p>
+                                <date>1980</date>, <biblScope>p. 172</biblScope></bibl>.</note>:
                     <lg rend="smaller">
                         <l>Hanc Satan, hanc lesit, cum Iob saniem sibi rasit.</l>
                         <l>Ieiunans flevit tormenta dolens vigilavit.</l>
                     </lg>
-                    <p rend="no-hyphen">«Sie, ja sie hat Satan geschlagen; wie Hiob schabte sie sich
+                    «Sie, ja sie hat Satan geschlagen; wie Hiob schabte sie sich
                         den Eiter. Fastend weinte sie und wachte schmerzgepeinigt». Die kaum
                         überbietbare Dichte der Aussage hat Ekkehart IV. erkannt<note><hi rend="it"
                                 >Neque enim vitam vel passionem votive martyris lucidius succingere
@@ -1059,7 +1059,7 @@
                 </div>
 
                 <div xml:id="intro_II.8">
-                    <head rend="align(center)">Literatur- und Kultgeschichte</head>
+                    <head rend="align(center)">Literatur- und Kulturgeschichte</head>
                     <p rend="no-hyphen">Die Überlieferung beider Zweige der älteren Wiboradavita
                         ging von St. Gallen aus. Spätester Zeitpunkt für die Ausbreitung von St.
                         Gallen ist paläographisch ca. 1144 (Datierung von <bibl
@@ -1352,7 +1352,7 @@
                 </div>
                 <div xml:id="intro_II.16">
                     <head rend="align(center)">Diese Ausgabe</head>
-                    <p rend="no-hyphen">wurde möglich und nötig durch das Wiederauﬂinden der <bibl
+                    <p rend="no-hyphen">wurde möglich und nötig durch das Wiederauffinden der <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">Augsburger Handschrift
                         </bibl> (<hi rend="it">A</hi>) im Jahr 1975, das Rolf Schmidt zu verdanken
                         ist. Mit <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#A" rend="it">A</bibl>
@@ -1484,7 +1484,7 @@
                             zitiert und mit ihm disputiert. Das erinnert an Notkers Metrum, das ein
                             Zeitgenosse unseres Herimannus, der bald nach 1076 schreibende erste
                             Fortsetzer der Casus S. Galli Ekkeharts IV., zitiert<note>Continuatio
-                                casuum S. Galli, praef. <bibl>ed. <editor>Meyer v. Knonau</editor>
+                                casuum S. Galli, praef., <bibl>ed. <editor>Meyer v. Knonau</editor>
                                         (<title level="j">MVG</title>
                                     <biblScope unit="volume">17</biblScope>), <pubPlace>St.
                                         Gallen</pubPlace>
@@ -1575,8 +1575,8 @@
                                 Übersetzung «Buchschmuck», und dann wäre Herimannus der Buchmaler,
                                 nicht der Schreiber. Für die erste Übersetzung («Schmuckstück von
                                 einem Buch») spricht u.a. die Parallele im Widmungstitulus des
-                                «Goldenen Evangelienbuches Heinrichs III.» im (<bibl corresp="#El17"
-                                    >Escorial Vitrinas 17, fol. 4r</bibl>): <hi rend="it">Heinricus
+                                «Goldenen Evangelienbuches Heinrichs III.» im <bibl corresp="#El17"
+                                    >Escorial (Vitrinas 17, fol. 4r)</bibl>: <hi rend="it">Heinricus
                                     Caesar ... Regi cunctorum fert hoc diadema librorum ...</hi>
                                 «Kaiser Heinrich ... bringt dem Herrscher über alle dar dies
                                 Prachtwerk unter den Büchern...», <bibl><author>A.
@@ -2020,7 +2020,7 @@
                             (kurzer) Präposition und Nomen vollzogen. Die Akzente der Hs. wurden
                             ausgelassen. Der Apparat ist nach denselben Prinzipien wie <ref
                                 target="#intro_II.16">oben</ref> entlastet; noch nicht erwähnte
-                            Varianten, die hier vernachlässigt werden, sind nl - ll und ta - tua
+                            Varianten, die hier vernachlässigt werden, sind nl-ll und ta-tua
                                 (<hi rend="it">spiritalis</hi> — <hi rend="it">spiritualis</hi>). In
                             überlieferungsgeschichtlich wichtigen Fällen sind auch Varianten aus den
                             Zwillingshandschriften <bibl
