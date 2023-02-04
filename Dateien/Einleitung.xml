@@ -752,13 +752,12 @@
                         in die gereimten Hexameter gebracht<note>Überliefert von Ekkehart IV., Casus
                             S. Galli c. 83. Neueste Ausgabe von <bibl><editor>H. F.
                                 Haefele</editor>, <pubPlace>Darmstadt</pubPlace>
-                                <date>1980</date>, <biblScope>p. 172</biblScope></bibl>.</note>:
-                    <lg rend="smaller">
-                        <l>Hanc Satan, hanc lesit, cum Iob saniem sibi rasit.</l>
-                        <l>Ieiunans flevit tormenta dolens vigilavit.</l>
-                    </lg>
-                    «Sie, ja sie hat Satan geschlagen; wie Hiob schabte sie sich
-                        den Eiter. Fastend weinte sie und wachte schmerzgepeinigt». Die kaum
+                                <date>1980</date>, <biblScope>p. 172</biblScope></bibl>.</note>: <lg
+                            rend="smaller">
+                            <l>Hanc Satan, hanc lesit, cum Iob saniem sibi rasit.</l>
+                            <l>Ieiunans flevit tormenta dolens vigilavit.</l>
+                        </lg> «Sie, ja sie hat Satan geschlagen; wie Hiob schabte sie sich den
+                        Eiter. Fastend weinte sie und wachte schmerzgepeinigt». Die kaum
                         überbietbare Dichte der Aussage hat Ekkehart IV. erkannt<note><hi rend="it"
                                 >Neque enim vitam vel passionem votive martyris lucidius succingere
                                 potuit.</hi> «Leben und Leiden der Wunschmartyrin konnte er nicht
@@ -768,24 +767,25 @@
                                     <bibl><author>P. Stotz</author>, Art. <title level="a">«Ekkehard
                                     I. von St. Gallen»</title>, <title level="m"
                                     >Verfasserlexikon</title>
-                                <biblScope unit="part">t. 2</biblScope>, <edition rend="sup"
-                                    >2</edition><date>1980</date>, <biblScope unit="column">col.
-                                    452</biblScope></bibl> mit der Bemerkung «Namens-Akrostichon
-                            nicht ausgeschlossen». Dann würden 3 Verse (R... A... C...) vor und 2
-                            Verse (L... T...) nach dem Erhaltenen fehlen.</note>. Ekkeharts I.
-                        Meisterschaft in der Handhabung der kleinen, metrischen Form kann vielleicht
-                        den Blick für seine Qualitäten im Großen und in der Prosa schärfen. Er hat
-                        die Vita S. Wiboradae szenisch so verdichtet, daß der Handlungsablauf zu
-                        einer Folge von Bildern wird; vom Morgenbild sichtbarer Pracht der
-                        Erscheinung des vornehmen Mädchens über das Mittagsbild der Rekluse, der das
-                        Haupt aufs Psalterium sinkt und die in einer wahrhaft panischen Vision das
-                        Nahen der Ungarn erfährt, bis zum Vesperbild des bloßen Leibes der
-                        Erschlagenen. Am Schluß steht die Erfahrung einer lichten und heilenden
-                        Anwesenheit der verewigten Rekluse. Um Leben und Leiden der «Wunschmartyrin»
-                        Rachilt zu schildern, mochten einige Worte reichen. Wiboradas Weg von der
-                        irdischen Glorie, durch den Blutvorhang der Passion in die himmlische
-                        Herrlichkeit rechtfertigte die Anstrengung einer Vita, der einzigen
-                        Biographie, die in St. Gallen während der Ottonenzeit geschrieben wurde.</p>
+                                <biblScope unit="part">t. 2</biblScope>,
+                                    <edition>2</edition><date>1980</date>, <biblScope unit="column"
+                                    >col. 452</biblScope></bibl> mit der Bemerkung
+                            «Namens-Akrostichon nicht ausgeschlossen». Dann würden 3 Verse (R...
+                            A... C...) vor und 2 Verse (L... T...) nach dem Erhaltenen
+                            fehlen.</note>. Ekkeharts I. Meisterschaft in der Handhabung der
+                        kleinen, metrischen Form kann vielleicht den Blick für seine Qualitäten im
+                        Großen und in der Prosa schärfen. Er hat die Vita S. Wiboradae szenisch so
+                        verdichtet, daß der Handlungsablauf zu einer Folge von Bildern wird; vom
+                        Morgenbild sichtbarer Pracht der Erscheinung des vornehmen Mädchens über das
+                        Mittagsbild der Rekluse, der das Haupt aufs Psalterium sinkt und die in
+                        einer wahrhaft panischen Vision das Nahen der Ungarn erfährt, bis zum
+                        Vesperbild des bloßen Leibes der Erschlagenen. Am Schluß steht die Erfahrung
+                        einer lichten und heilenden Anwesenheit der verewigten Rekluse. Um Leben und
+                        Leiden der «Wunschmartyrin» Rachilt zu schildern, mochten einige Worte
+                        reichen. Wiboradas Weg von der irdischen Glorie, durch den Blutvorhang der
+                        Passion in die himmlische Herrlichkeit rechtfertigte die Anstrengung einer
+                        Vita, der einzigen Biographie, die in St. Gallen während der Ottonenzeit
+                        geschrieben wurde.</p>
                 </div>
                 <div xml:id="intro_II.4">
                     <head rend="align(center)">Die Handschriften</head>
@@ -1560,7 +1560,7 @@
                                         level="j">Montfort</title>
                                     <biblScope unit="volume">20</biblScope>, <date>1968</date>,
                                         <biblScope unit="page">p. 664</biblScope></bibl>.
-                                Paläographische Beschreibung in <bibl><author>Chrousts</author>
+                                Paläographische Beschreibung in <bibl><author><foreign rend="no-hyphen">Chrousts</foreign></author>
                                     <title level="j">Monumenta Palaeographica</title></bibl> (wie
                                 Anm. 53).</note>, enthält die Lebensbeschreibungen von Gallus, Otmar
                             und Wiborada, geschrieben in karolingischer Minuskel «schrägovalen
@@ -2020,8 +2020,8 @@
                             (kurzer) Präposition und Nomen vollzogen. Die Akzente der Hs. wurden
                             ausgelassen. Der Apparat ist nach denselben Prinzipien wie <ref
                                 target="#intro_II.16">oben</ref> entlastet; noch nicht erwähnte
-                            Varianten, die hier vernachlässigt werden, sind nl-ll und ta-tua
-                                (<hi rend="it">spiritalis</hi> — <hi rend="it">spiritualis</hi>). In
+                            Varianten, die hier vernachlässigt werden, sind nl-ll und ta-tua (<hi
+                                rend="it">spiritalis</hi> — <hi rend="it">spiritualis</hi>). In
                             überlieferungsgeschichtlich wichtigen Fällen sind auch Varianten aus den
                             Zwillingshandschriften <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70">Vad. 70</bibl> und

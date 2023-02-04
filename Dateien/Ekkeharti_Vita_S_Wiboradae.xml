@@ -10,7 +10,7 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <listWit>
+            <listWit xml:id="codd.">
                <witness xml:id="A">
                   <msDesc>
                      <msIdentifier>
@@ -33,30 +33,13 @@
                </witness>
                <witness xml:id="Boll">
                   <bibl>
-                     <editor>Gesellschaft der Bollandisten</editor>/> <title>Acta Sanctorum Mai t.
+                     <editor>Gesellschaft der Bollandisten</editor> <title>Acta Sanctorum Mai t.
                         1</title>
                      <idno type="Nachdruck">https://gallica.bnf.fr/ark:/12148/bpt6k6036w</idno>
                      <biblScope>p. 284-293</biblScope>
                      <date>1680</date>
                      <placeName>Antwerpen</placeName>
                   </bibl>
-               </witness>
-               <witness xml:id="Cod.">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>St. Gallen, Stiftsbibliothek</repository>
-                        <idno>393</idno>
-                        <altIdentifier type="url">
-                           <idno>https://www.e-codices.unifr.ch/de/csg/0393/260</idno>
-                        </altIdentifier>
-                     </msIdentifier>
-                     <head><title>Epitaphium sanctę Rachildę uirginis reclusę ·</title></head>
-                     <msContents>
-                        <msItem>
-                           <bibl><biblScope>p. 260</biblScope></bibl>
-                        </msItem>
-                     </msContents>
-                  </msDesc>
                </witness>
                <witness xml:id="S">
                   <msDesc>
@@ -76,6 +59,25 @@
                            <bibl>
                               <biblScope>fol. 130r-138v</biblScope>
                            </bibl>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+            </listWit>
+            <listWit>
+               <witness xml:id="Cod.">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>St. Gallen, Stiftsbibliothek</repository>
+                        <idno>393</idno>
+                        <altIdentifier type="url">
+                           <idno>https://www.e-codices.unifr.ch/de/csg/0393/260</idno>
+                        </altIdentifier>
+                     </msIdentifier>
+                     <head><title>Epitaphium sanctę Rachildę uirginis reclusę ·</title></head>
+                     <msContents>
+                        <msItem>
+                           <bibl><biblScope>p. 260</biblScope></bibl>
                         </msItem>
                      </msContents>
                   </msDesc>
@@ -328,8 +330,8 @@
                   <rdg wit="#A">adherens</rdg>
                </app> eo dictante psalmos quibus iuuencula <app>
                   <lem><supplied>non</supplied>nullam</lem>
-                  <rdg wit="codd.">nullam</rdg>
-                  <rdg wit="#A"><note type="suffix">postea delevit</note></rdg>
+                  <rdg wit="#codd.">nullam</rdg>
+                  <rdg wit="#A"> <note type="suffix">postea delevit.</note></rdg>
                </app> operam dedit partim ac sparsim ediscere cępit · Cunque ille tum diuinis
                operibus tum incidentibus causis aliis praepeditus · ab insinuanda ei lectione
                pigritaret · pro accipiendo psalmo quinquagesimo soror ei sedulo assidebat · nec
@@ -347,9 +349,9 @@
                   ed="#S" n="131rb" break="no"/>tulati sepius psalmi affirmat · His illa auditis ·
                alacriter ad meditandum accingitur · et non solum ex prioris <app>
                   <lem>feruore</lem>
-                  <rdg wit="#A #Boll"><note>deest</note></rdg>
-                  <note>seriem verborum A confundit ita: <hi rend="rom">ex prioris desiderii studio
-                        · sed eciam fratris ieiunio absoluendi</hi></note>
+                  <rdg wit="#A #Boll">feruore <note>deest</note></rdg>
+                  <rdg><note>seriem verborum A confundit ita: <hi rend="rom">ex prioris desiderii studio
+                        · sed eciam fratris ieiunio absoluendi</hi></note></rdg>
                </app> desiderii · sed etiam studio <persName ref="#hitt">fratris</persName> ieiunio
                absoluendi · propinata scripturę pocula sitibundo pectore hauriens · psalmum cum omni
                celeritate excepit · ac memorie fundamento firmauit · Quinquaginta ergo psalmis
@@ -366,10 +368,10 @@
                <seg type="cf." source="#Ado_Pass_Des_440C"><app>
                      <lem><g rend="initial">R</g>em</lem>
                      <rdg wit="#Boll">Deinde <note>legerunt</note></rdg>
-                     <note><hi rend="rom">Deinde</hi> legerunt Boll. et post <hi rend="rom"
+                     <note> et post <hi rend="rom"
                            >relaturus sum</hi> suppleverunt <hi rend="rom">rem</hi>. Paulo post
                         contra fidem codicis Augustani aliam fallacem lectionem contulerunt: <hi
-                           rend="rom">Rem roboraturus sum</hi>, Acta SS Maii t. 7, p. 552</note>
+                           rend="rom">Rem roboraturus sum</hi>, Acta SS Maii t. 7, p. 552.</note>
                   </app> relaturus sum</seg> huic non dissimilem · et <app>
                   <lem>nimis</lem>
                   <rdg wit="#Boll">magis</rdg>
@@ -527,8 +529,8 @@
                quarum una <app>
                   <lem><persName ref="#kebi">kebini</persName></lem>
                   <rdg wit="#Boll"><persName ref="#kebi">Kebeni</persName></rdg>
-                  <note>Contra fidem codicis Augustani contulerunt <persName ref="#kebi" rend="rom"
-                        >Kelmi</persName>, Acta SS Maii t. 7, p. 552</note>
+                  <note> Contra fidem codicis Augustani contulerunt <hi rend="rom"
+                        >Kelmi</hi>, Acta SS Maii t. 7, p. 552.</note>
                </app> altera <app>
                   <lem><persName ref="#pert">pertherada</persName></lem>
                   <rdg wit="#A"><persName ref="#pert">bertheda</persName></rdg>
@@ -542,7 +544,7 @@
                redderet fortiorem · Vilioribus denique contenta alimentis quę sibi <app>
                   <lem>praeparabantur</lem>
                   <note><hi rend="rom">cetera</hi> suppl. Boll., quam coniecturam Actis Sanctorum
-                     Maii t. 7, p. 552 revocaverunt et alia compensaverunt</note>
+                     Maii t. 7, p. 552 revocaverunt et alia compensaverunt.</note>
                </app> · in cibos pauperum et peregrinorum superuenientium quorum illi maxima ut
                diximus cura fuit · seu etiam astantis familię erogata sunt · Orationis ergo iugi
                tutamine se aduersus inimici <app>
@@ -696,7 +698,7 @@
                </app> arrepta infirmitate · et maximo dolore in dies confracta · cibum potumque
                fastidiuit · Cunque magnis cruciata doloribus se penitus deficere crederet · <app>
                   <lem>manducare</lem>
-                  <rdg wit="#Boll">et nec manducare</rdg>
+                  <rdg wit="#Boll">et nec manducare </rdg>
                   <note>Uno <hi rend="rom">neque</hi> duplicem negationem exprimi posse docet
                      Kühner-Stegmann, Auführliche Grammatik t. 2,2, Hannover 1914, p. 562 sq.</note>
                </app> neque bibere <app>
@@ -914,7 +916,7 @@
                </app> manibus panem accepi · sed <app>
                   <lem>minime</lem>
                   <note><hi rend="rom">minime</hi> scriba A inepte inter <hi rend="rom">manibus</hi>
-                     et <hi rend="rom">panem accepi</hi> posuit</note>
+                     et <hi rend="rom">panem accepi</hi> posuit.</note>
                </app> de eo propter peccata mea gustaui · tradens <app>
                   <lem>illud</lem>
                   <rdg wit="#Boll">illum</rdg>
@@ -1460,9 +1462,8 @@
                </app> martyri infligunt · et seminecem relinquentes discesserunt · At sanguis
                undatim profluens · cilicium pene totum perfudit · sed et murus eiusdem <app>
                   <lem>claustri</lem>
-                  <rdg><note><hi rend="rom">claustri</hi> del. A et in marg. adiecit <hi rend="rom"
-                           >clausu ...</hi></note></rdg>
-               </app> sancti sanguinis aspersione perfusus per multa tempora martyrium sanctę
+                  <note><hi rend="rom">claustri</hi> del. A et in marg. adiecit <hi rend="rom"
+                           >clausu ...</hi></note></app> sancti sanguinis aspersione perfusus per multa tempora martyrium sanctę
                uirginis aduenientibus patefecit · Qui nullis abolitionibus quamuis mera calce sepius
                obductus quin se panderet obtegi potuit · Nos etiam hoc uerum esse proximis
                temporibus oculis nostris inspeximus ·</p>
@@ -1646,7 +1647,7 @@
                   >ǒdalricus</persName> nomine sub scolari disciplina degebat · Qui infirmitate
                   superuen<pb ed="#S" n="137ra"
                   facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/275" break="no"
-               />iente longum tempus grauiter laborauit · ita ut durante egritudine <ref
+               />iente longum tempus grauiter laborauit · ita ut durante egritudine <ref type="cf."
                   target="#vw1_XXXV.31">ossibus tenui cute et neruis uix coherentibus</ref>
                <ref type="cf." target="#vw1_XLII.37"><app>
                      <lem>supremum</lem>
@@ -1739,13 +1740,13 @@
                laudabilem uitam seculariter ducens nomine <app>
                   <lem><persName ref="#blit">blitdruda</persName></lem>
                   <rdg wit="#A #Boll"><persName ref="#blit">hiltruda</persName></rdg>
-               </app> beatę <persName ref="#rach">rachildę</persName> reclusę germana · <ref
-                  type="cf." target="#vw1_XXXIX.35">Quę superueniente infirmitate tanta corpo<pb
+               </app> beatę <persName ref="#rach">rachildę</persName> reclusę germana · Quę superueniente infirmitate tanta corpo<pb
                      ed="#S" n="137va"
                      facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/276" break="no"
                   />ris molestia detinebatur · ut ablata facultate manducandi · bibendi · ambulandi
-                  · sedendi · quidue paululum in lectulo quiescendi extremum alitum uix trahere
-                  uideretur ·</ref> Cunque diu tantis languoribus fatigata tabesceret · tandem
+               · sedendi · quidue paululum in lectulo quiescendi <ref
+                  type="cf." target="#vw1_XXXIX.35">extremum alitum uix trahere
+                  uideretur</ref> · Cunque diu tantis languoribus fatigata tabesceret · tandem
                superna miserante clementia quę in se sperantes salubriter castigat ut saluet ·
                paululum resumpto ęgri pectoris spiramine · uoce qua poterat beatę uirginis implorans
                auxilium · Beatissima ait uirgo et martyr christi dignissima <persName ref="#wibo"
@@ -1930,7 +1931,7 @@
                            >66, 1972, p. 253 sq.</hi> Cf. huius vitae <ref target="#vw1_XI.10">c.
                            XI</ref>
                         <hi rend="rom">cum nec <hi rend="wide">vicinorum</hi> nec aliquis ex ipsius
-                           familia aliter suspicaretur</hi>.</note></rdg>
+                           familia aliter suspicaretur</hi></note></rdg>
                </app> quę a diuersis personis audiuit · ut proposuerat scribere inchoauit · et
                pleraque scribendo comprehendit ·</p>
          </div>
@@ -1966,17 +1967,17 @@
                      IV</persName></supplied></l>
                   <l><pb ed="#S" n="Stuttgart, Bibl. 2°58, fol. 138va"
                         facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/278"/><app>
-                        <lem>Epitaphium sancte <persName ref="#wibo">Wiberade</persName> ·</lem>
+                        <lem>Epitaphium sancte <persName ref="#wibo">Wiberade</persName></lem>
                         <rdg wit="#A">Incipit epitalmus beate <persName ref="#wibo"
                               >wiborade</persName></rdg>
                         <rdg wit="#Boll">Epitaphium B. <persName ref="#wibo"
                            >Wiboradae</persName></rdg>
-                     </app></l>
+                        </app> ·</l>
                </lg></head>
          </div>
          <div>
             <p><lg rend="align(center)">
-                  <l>Filius altithroni postquam resplenduit orbi ·</l>
+                  <l><g rend="initial">F</g>ilius altithroni postquam resplenduit orbi ·</l>
                   <l><app>
                         <lem>Christus</lem>
                         <rdg wit="#S">XPICTUS</rdg>
@@ -2031,7 +2032,7 @@
                         <persName ref="#rach">Rachildę</persName> uirginis reclusę ·</l>
                </lg></head>
             <lg rend="align(center)">
-               <l>In cruce confregit postquam uictorque subegit ·</l>
+               <l><g rend="initial">I</g>n cruce confregit postquam uictorque subegit ·</l>
                <l><persName ref="#leui">Leuiathan</persName> hamo <persName ref="#mari"
                      >Uirgine</persName> natus homo</l>
                <l><date when="0917">Annis nongentis · <app>
@@ -2086,8 +2087,7 @@
                      <rdg wit="#Cod."><note>in ras.</note>
                      </rdg>
                   </app> crucibus palmam emeruit sociam ·</l>
-               <l>Quę datur in <date when="0946-11-23">nonis decimi</date> sibi parta <date
-                     when="0946-11-23">kalendis</date> ·</l>
+               <l>Quę datur in <date when="0946-11-23">nonis decimi sibi parta kalendis</date> ·</l>
                <l>His animam cęlo · Ossa dat hic tumulo<app>
                      <rdg wit="#Cod.">Finitur · <note>rubr.</note>
                      </rdg>
