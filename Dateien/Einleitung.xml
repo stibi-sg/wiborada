@@ -1060,7 +1060,7 @@
 
                 <div xml:id="intro_II.8">
                     <head rend="align(center)">Literatur- und Kulturgeschichte</head>
-                    <p rend="no-hyphen">Die Überlieferung beider Zweige der älteren Wiboradavita
+                    <p rend="no-indent">Die Überlieferung beider Zweige der älteren Wiboradavita
                         ging von St. Gallen aus. Spätester Zeitpunkt für die Ausbreitung von St.
                         Gallen ist paläographisch ca. 1144 (Datierung von <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it">S</bibl>).
@@ -1352,7 +1352,7 @@
                 </div>
                 <div xml:id="intro_II.16">
                     <head rend="align(center)">Diese Ausgabe</head>
-                    <p rend="no-hyphen">wurde möglich und nötig durch das Wiederauffinden der <bibl
+                    <p rend="no-indent">wurde möglich und nötig durch das Wiederauffinden der <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">Augsburger Handschrift
                         </bibl> (<hi rend="it">A</hi>) im Jahr 1975, das Rolf Schmidt zu verdanken
                         ist. Mit <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#A" rend="it">A</bibl>
@@ -1570,7 +1570,7 @@
                             <l rend="centered">Servum, Galle, tuum libri decus hoc Herimannum</l>
                             <l rend="centered">Divite cum voto tibi perfecisse memento!</l>
                         </lg>
-                        <p rend="no-hyphen">«Gallus, sei eingedenk, daß dein Knecht Herimann dir
+                        <p rend="no-indent">«Gallus, sei eingedenk, daß dein Knecht Herimann dir
                             dieses Schmuckstück von einem Buch<note>Denkbar wäre auch die
                                 Übersetzung «Buchschmuck», und dann wäre Herimannus der Buchmaler,
                                 nicht der Schreiber. Für die erste Übersetzung («Schmuckstück von
@@ -1935,7 +1935,7 @@
                     </div>
                     <div xml:id="intro_III.12">
                         <head rend="align(center)">Die Ausgaben</head>
-                        <p rend="no-hyphen">Es ist nicht verwunderlich, daß die jüngere Wiboradavita
+                        <p rend="no-indent">Es ist nicht verwunderlich, daß die jüngere Wiboradavita
                             lange vor der älteren publiziert wurde. Die jüngere ist wesentlich
                             besser überliefert und wurde am Ort der Verehrung tradiert. Freilich hat
                             sich der Ersteditor Melchior <bibl
@@ -2007,7 +2007,7 @@
                     </div>
                     <div xml:id="intro_III.13">
                         <head rend="align(center)">Diese Ausgabe</head>
-                        <p rend="no-hyphen">folgt der fast fehlerlosen Hs. <bibl
+                        <p rend="no-indent">folgt der fast fehlerlosen Hs. <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#A" rend="it">A</bibl> und
                             gibt aus überlieferungsgeschichtlichen Gründen die Varia lectio aus den
                             von ihr abhängigen Handschriften <bibl
