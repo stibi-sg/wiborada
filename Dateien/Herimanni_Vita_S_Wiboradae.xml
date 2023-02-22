@@ -500,7 +500,7 @@
          </div>
          <div n="II" xml:id="vw2_II">
             <p>FIDES<app>
-                  <rdg wit="#Boll">quae docet <note>coni. Henschenius in editione</note></rdg>
+                  <rdg wit="#Boll.">quae docet <note>coni. Henschenius in editione</note></rdg>
                </app> DIUINAM PROuidentiam non solum facta · sed etiam uoluntates hominum prouidere
                siue pręparare credulos nos efficit · huic beatę uir<pb ed="#A" n="p. 397"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/397/0/" break="no"/>gini ita
@@ -863,7 +863,7 @@
                est circumquaque · donec in nimiam pauperiem delapsa est · et sic de morte
                transmigrauit in mortem · Sic deus fidelis in se sperantes <app>
                   <lem><supplied>non</supplied></lem>
-                  <rdg wit="#Boll">non <note>add.</note></rdg>
+                  <rdg wit="#Boll.">non <note>add.</note></rdg>
                </app> solummodo non confundit · uerum etiam eorum gloriam ex inuidia dat crescere ·
                quia contraria semper fecere uiam uirtuti ·</p>
          </div>
@@ -1058,7 +1058,7 @@
                   source="#Sall_Cat_3.2">ubi de magna uirtute atque gloria bonorum memores · quę
                   sibi quisque facilia <app>
                      <lem>factu</lem>
-                     <rdg wit="#Boll"><note>coni.</note></rdg>
+                     <rdg wit="#Boll."><note>coni.</note></rdg>
                      <rdg wit="codd.">facto</rdg>
                   </app> putat ęquo animo accipit · supra ea ueluti ficta pro falsis ducit</seg> ·
                Erumpe tu queso potius <persName ref="#alar">alarice</persName> serue dei · dic quid
@@ -1089,12 +1089,12 @@
                            <lem>summum</lem>
                            <rdg wit="codd."><note>ita</note></rdg>
                            <rdg wit="#Goldast">summam <note>scripsit</note></rdg>
-                           <rdg wit="#Boll">summi</rdg>
+                           <rdg wit="#Boll.">summi</rdg>
                         </app> in natis mulierum</persName></seg> · neque uulgus urbanis <app>
                      <lem>nescius</lem>
                      <rdg wit="codd.">nescimus</rdg>
                      <rdg wit="#Goldast">nescius</rdg>
-                     <rdg wit="#Boll">nescium</rdg>
+                     <rdg wit="#Boll.">nescium</rdg>
                   </app> loqui audet conscendere solium tetrarchę · Nisi quod utrobique in hac
                   apologya <seg source="#Hor_carm_I_27.18">tutis auribus</seg> depono propter
                   detrahentes consului · quibusque exemplis cessantibus · agnoscerem me hinc
@@ -1134,7 +1134,7 @@
                   plurimi dies transirent quam nauigando eum <app>
                      <lem>ullus</lem>
                      <rdg wit="#Vad_70 #Sang_610 #Goldast">nullus</rdg>
-                     <rdg wit="#Boll">ullas</rdg>
+                     <rdg wit="#Boll.">ullas</rdg>
                   </app> intrare auderet · et cum tu iam pene fame consumptus ad orationem
                   confugeres persona <pb ed="#A" n="p. 441"
                      facs="https://www.e-codices.unifr.ch/de/csg/0560/441/0/"/>
@@ -1254,7 +1254,7 @@
                sacerdotali infula albatum missas celebrare · et multitudinem animarum <app>
                   <lem>mere</lem>
                   <rdg wit="codd."><note>ita</note></rdg>
-                  <rdg wit="#Boll">mire</rdg>
+                  <rdg wit="#Boll.">mire</rdg>
                </app> fulgentium cum illo audiuit psallere · atque post expletionem missarum ad
                fenestellam accedere · sibique complura quę postea euentus probauit <app>
                   <lem>presagire</lem>
@@ -1285,7 +1285,7 @@
                corporum · ut est <seg source="#Gal_5.22-23">caritas · gaudium · pax · longanimitas ·
                   benignitas · bonitas · fides · et cętera huiusmodi</seg> quibus propinquatur deo ·
                   <pb ed="#A" n="p. 452" facs="https://www.e-codices.unifr.ch/de/csg/0560/452/0/"/> et<app>
-                  <rdg wit="#Boll">cognoscitur <note>coni.</note></rdg>
+                  <rdg wit="#Boll.">cognoscitur <note>coni.</note></rdg>
                </app> ipse deus · <seg type="cf." source="#Rm_11.36">ex quo omnia · et per quem
                   omnia · et in quo omnia</seg> · Quamuis itaque in una eademque anima fiant diuersę
                uisiones · siue quę sentiuntur per corpus quas dicimus corporales · siue que spiritu
@@ -1493,7 +1493,7 @@
                Ille autem <app>
                   <lem>afflictim</lem>
                   <rdg wit="#Vad_70 #Sang_610 #Goldast">afflictum</rdg>
-                  <rdg wit="#Boll">efflictim</rdg>
+                  <rdg wit="#Boll.">efflictim</rdg>
                </app> clamitans · cum cognouisset se preces in uentum fundere · surrexit a tellure ·
                atque caput ęquans fenestellę · <app>
                   <lem>intro prospexit</lem>
@@ -1664,7 +1664,7 @@
                   Potes et in hoc notare si placet illud uirginis praecellere · quod baculus eius
                   non ad efficiendum miraculum mittitur · et tamen in ipsa susceptione efficit ·
                   baculus uero domini tui hac de causa per te directus · nec longa positione consequi<app>
-                     <rdg wit="#Boll"><supplied>potuit</supplied>
+                     <rdg wit="#Boll."><supplied>potuit</supplied>
                         <note>coni.</note></rdg>
                   </app> miraculi effectum · Sed quid loquar per positionem baculi signum non
                   euenisse · cum ipse baculi dominus superueniens hoc quasi uix obti<pb ed="#A"
@@ -1687,7 +1687,7 @@
                <said who="#giez"> Admirationem quam putaui <app>
                      <lem>equiperatione</lem>
                      <rdg wit="codd.">equiperationem</rdg>
-                     <rdg wit="#Boll">aequiparatione</rdg>
+                     <rdg wit="#Boll.">aequiparatione</rdg>
                   </app> leuigare · mirabiliter frater in laude uirginis procedendo non solum mihi
                   augmentasti · uerum <app>
                      <lem>etiam</lem>
@@ -1698,7 +1698,7 @@
                      conburendum est</seg> · suppressa super <seg source="#Ps_35.7">iudiciis dei quę
                      sunt abyssus</seg> multa ammiratione <app>
                      <lem>hortar</lem>
-                     <rdg wit="#Goldast #Boll">hortor</rdg>
+                     <rdg wit="#Goldast #Boll.">hortor</rdg>
                   </app> te · si qua adhuc supersunt de tali uirgine loqui · et tamen si possis <app>
                      <lem>que</lem>
                      <rdg wit="#C"><note>deest</note></rdg>
@@ -1755,7 +1755,7 @@
                accipere · At ille quasi abhorrens eius dictis · iterando confirmat iuramenta · se
                non solum exinde de rebus sancti <persName ref="#gall">GALLI</persName> quid tale <app>
                   <lem><supplied>non</supplied></lem>
-                  <rdg wit="#Boll">non <note>add.</note></rdg>
+                  <rdg wit="#Boll.">non <note>add.</note></rdg>
                </app> accepturum · sed etiam inrationabiliter eis utentibus omni studio contraire ·
                In hac igitur sententia ab illa digressus · uenit ad monasterium · Susceptus est uero
                a fratribus ut scriptum est · terror diuitum exigit sibi honorem · ipse abbas nomine <app>
@@ -2011,7 +2011,7 @@
                </app> profluens · in prima eruptione uicinum conspersit murum · atque <app>
                   <lem>exin decurrens</lem>
                   <rdg wit="codd. #Goldast"><note>ita separant</note></rdg>
-                  <rdg wit="#Boll">exinde currens</rdg>
+                  <rdg wit="#Boll.">exinde currens</rdg>
                </app>
                <app>
                   <lem>riuis</lem>
@@ -2164,7 +2164,7 @@
             <p>IGITUR POST SEPULTURAM <app>
                   <lem>PRECLUIS</lem>
                   <rdg wit="codd."><note>ita</note></rdg>
-                  <rdg wit="#Boll">praedictae</rdg>
+                  <rdg wit="#Boll.">praedictae</rdg>
                </app> AGONISTĘ · DIUINA potentia quę ea adhuc in carne manente · signorum
                adtestatione dignata est mortalibus innotescere · <seg type="cf."
                   source="#Mil_Am_II_8">quam fideliter in mandatis eius incederet</seg> · ipsa etiam
@@ -2354,7 +2354,7 @@
                   <rdg wit="#Vad_70 #Sang_610 #Goldast">illa</rdg>
                   <rdg wit="#Basil_D.I.18">illi <note>ex <hi rend="rom">illis</hi>
                      corr.</note></rdg>
-                  <rdg wit="#Boll"><supplied>appropinquans</supplied> viridi illae senectae</rdg>
+                  <rdg wit="#Boll."><supplied>appropinquans</supplied> viridi illae senectae</rdg>
                </app> senecta cuius anni non deficient · debuit <app>
                   <lem>contingere</lem>
                   <rdg wit="#A">contigere</rdg>
@@ -2521,7 +2521,7 @@
                   <rdg wit="#B">quinque pestitis</rdg>
                   <rdg wit="#Vad_70 #Sang_610 #Goldast">quinque perticis</rdg>
                   <rdg wit="#Basil_D.I.18">perstitis</rdg>
-                  <rdg wit="#Boll">partitis</rdg>
+                  <rdg wit="#Boll.">partitis</rdg>
                </app> officiis ad plenum recuperata est · Tunc erumpens in uocem dixit · Gratias
                tibi refero christe · salus omnium in te sperantium · qui dolores meę ustionis
                medicamento gratię tuę fugasti · et tibi domina mea <persName ref="#wibo"
@@ -2537,7 +2537,7 @@
                </app> in ergastulis in quibus se pro eius amore incluserant tumulatas · <placeName
                   ref="#emag">basilicę sancti magni</placeName> intromitti reuelare dignatus est ·
                Quadam igitur nocte · sepedictę <persName ref="#kebi">kebeninę</persName> uisum est<app>
-                  <rdg wit="#Boll">per <note>add.</note></rdg>
+                  <rdg wit="#Boll.">per <note>add.</note></rdg>
                </app> somnium · quidam iuuenis · aspectu decorus · trahens redam · geminis rotis
                compositam · quadam cerea materia ut ei uisum est oneratam · Cumque illa interrogaret
                · qua de causa ueniret · uel quid ex hac <pb ed="#A" n="p. 542"
