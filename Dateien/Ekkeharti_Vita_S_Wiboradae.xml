@@ -1963,18 +1963,18 @@
       </body>
       <back>
          <div xml:id="vw1_epit" rend="break-before fn-reset">
-            <head><lg>
-                  <l>Appendix 1: <supplied><persName ref="#ekke">Ekkeharti
-                     IV</persName></supplied></l>
-                  <l><pb ed="#S" n="Stuttgart, Bibl. 2°58, fol. 138va"
+            <head>
+                  Appendix 1: <supplied><persName ref="#ekke">Ekkeharti
+                     IV</persName></supplied><lb/>
+                  <pb ed="#S" n="Stuttgart, Bibl. 2°58, fol. 138va"
                         facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/278"/><app>
                         <lem>Epitaphium sancte <persName ref="#wibo">Wiberade</persName></lem>
                         <rdg wit="#A">Incipit epitalmus beate <persName ref="#wibo"
                               >wiborade</persName></rdg>
                         <rdg wit="#Boll.">Epitaphium B. <persName ref="#wibo"
                            >Wiboradae</persName></rdg>
-                        </app> ·</l>
-               </lg></head>
+                        </app> ·
+               </head>
          </div>
          <div>
             <p><lg rend="align(center)">
@@ -2026,13 +2026,13 @@
             </p>
          </div>
          <div rend="break-before fn-reset">
-            <head><lg>
-                  <l>Appendix 2: <persName ref="#ekke">Ekkeharti IV</persName></l>
-                  <l><pb ed="#Cod." n="St. Gallen, Stiftsbibl. 393, p. 260"
+            <head>
+                  Appendix 2: <persName ref="#ekke">Ekkeharti IV</persName><lb/>
+                  <pb ed="#Cod." n="St. Gallen, Stiftsbibl. 393, p. 260"
                         facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>Epitaphium sanctę
-                        <persName ref="#rach">Rachildę</persName> uirginis reclusę ·</l>
-               </lg></head>
-            <lg rend="align(center)">
+                        <persName ref="#rach">Rachildę</persName> uirginis reclusę ·
+            </head>
+            <lg rend="align-center">
                <l><g rend="initial">I</g>n cruce confregit postquam uictorque subegit ·</l>
                <l><persName ref="#leui">Leuiathan</persName> hamo <persName ref="#mari"
                      >Uirgine</persName> natus homo</l>
