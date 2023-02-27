@@ -30,8 +30,8 @@
                         <cell></cell>
                     </row>
                     <row>
-                        <cell rend="rightbrace">I <lb/>II</cell>
-                        <cell rend="leftbrace">Erstes Buch</cell>
+                        <cell>I <lb/>II</cell>
+                        <cell><hi rend="bracket-2">}{</hi>Erstes Buch</cell>
                         <cell>I <lb/>II</cell>
                     </row>
                     <row>
@@ -145,8 +145,8 @@
                         <cell>XXI</cell>
                     </row>
                     <row>
-                        <cell rend="rightbrace">XIX <lb/>XX</cell>
-                        <cell></cell>
+                        <cell>XIX <lb/>XX</cell>
+                        <cell><hi rend="bracket-2" n="2">}</hi></cell>
                         <cell>XXII</cell>
                     </row>
                     <row>
@@ -190,13 +190,13 @@
                         <cell>XXIX</cell>
                     </row>
                     <row>
-                        <cell rend="rightbrace">XXV <lb/>XXVI <lb/> XXVII <lb/> XXVIII</cell>
-                        <cell></cell>
+                        <cell>XXV <lb/>XXVI <lb/> XXVII <lb/> XXVIII</cell>
+                        <cell><hi rend="bracket-4">}</hi>Erstes Buch</cell>
                         <cell>XXX</cell>
                     </row>
                     <row>
-                        <cell rend="rightbrace">XXIX <lb/>XXX</cell>
-                        <cell></cell>
+                        <cell>XXIX <lb/>XXX</cell>
+                        <cell><hi rend="bracket-2">}</hi></cell>
                         <cell>XXXI</cell>
                     </row>
                     <row>
@@ -225,9 +225,9 @@
                         <cell>XXXV</cell>
                     </row>
                     <row>
-                        <cell>XXXV</cell>
-                        <cell></cell>
-                        <cell rend="leftbrace">XXXVI <lb/>XXXVII <lb/>XXXVIII <lb/>XXXIX</cell>
+                        <cell>XXXV</cell>                        
+                        <cell><hi rend="bracket-4">{</hi></cell>
+                        <cell>XXXVI <lb/>XXXVII <lb/>XXXVIII <lb/>XXXIX</cell>
                     </row>
                     <row>
                         <cell>―</cell>
