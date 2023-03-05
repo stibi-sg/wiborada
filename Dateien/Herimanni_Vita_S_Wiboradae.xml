@@ -12,7 +12,7 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <listWit>
+            <listWit xml:id="codd.">
                <witness xml:id="A">
                   <msDesc>
                      <msIdentifier>
@@ -217,7 +217,7 @@
                falsitatis adnotet meę paginę · Tempore igitur quo uenerabilis <persName ref="#cral"
                   >gralo</persName> congregationem sancti <persName ref="#gall">Galli</persName>
                rexit · fuit in ea quidam frater nomine <persName ref="#egge">ekkehardus</persName> ·
-               uir totus ex sapientia uirtutibusque factus · <ref target="#vw1_XLV.40">Is cum quodam
+               uir totus ex sapientia uirtutibusque factus · <ref type="cf." target="#vw1_XLV.40">Is cum quodam
                   tempore ydrope ad extrema poene ductus esset · uouit beatae <persName ref="#wibo"
                      >wiboradae</persName> omnia quę de eius sanctitate posset comperire literis se
                   traditurum</ref> · si ei ad <pb ed="#A" n="p. 382"
@@ -422,7 +422,7 @@
                         <rdg>XLIII <note>scripsit A errorem supra notatum prosecutus</note>
                         </rdg>
                         <rdg><note>numerum oblitus est B, quo facto B numeros capitulorum ad XXXVIII
-                              tantum produxit.</note></rdg>
+                              tantum produxit</note></rdg>
                      </app> Quomodo <persName ref="#wito">uuito</persName> presbyter incredulus de
                         <persName ref="#unga">ungrorum</persName>
                      <pb ed="#A" n="p. 392" facs="https://www.e-codices.unifr.ch/de/csg/0560/392/0/"
@@ -636,7 +636,7 @@
                   <rdg wit="#C"><note>deest</note></rdg>
                </app> se <app>
                   <lem>cathezizaret</lem>
-                  <rdg wit="#A #C"><note>ita (pro catechizaret)</note></rdg>
+                  <rdg wit="#A #C"><note>ita</note><note type="suffix">(pro catechizaret)</note></rdg>
                   <rdg wit="#B">kathezizaret</rdg>
                </app> uerbo · Cuius desiderio se satisfacturum spondens · In ipsa inchoatione
                feruebat in erudiendo · sed studium eius paulatim tepescens · ad ultimum refrigerauit
@@ -1059,7 +1059,7 @@
                   sibi quisque facilia <app>
                      <lem>factu</lem>
                      <rdg wit="#Boll."><note>coni.</note></rdg>
-                     <rdg wit="codd.">facto</rdg>
+                     <rdg wit="#codd.">facto</rdg>
                   </app> putat ęquo animo accipit · supra ea ueluti ficta pro falsis ducit</seg> ·
                Erumpe tu queso potius <persName ref="#alar">alarice</persName> serue dei · dic quid
                caput ęcclesię <app>
@@ -1087,12 +1087,12 @@
                   confortent · nobis tamen minoribus multum est audire ad comparationem <seg
                      source="#Mt_11.11"><persName ref="#iohab"><app>
                            <lem>summum</lem>
-                           <rdg wit="codd."><note>ita</note></rdg>
+                           <rdg wit="#codd."><note>ita</note></rdg>
                            <rdg wit="#Goldast">summam <note>scripsit</note></rdg>
                            <rdg wit="#Boll.">summi</rdg>
                         </app> in natis mulierum</persName></seg> · neque uulgus urbanis <app>
                      <lem>nescius</lem>
-                     <rdg wit="codd.">nescimus</rdg>
+                     <rdg wit="#codd.">nescimus</rdg>
                      <rdg wit="#Goldast">nescius</rdg>
                      <rdg wit="#Boll.">nescium</rdg>
                   </app> loqui audet conscendere solium tetrarchę · Nisi quod utrobique in hac
@@ -1253,7 +1253,7 @@
                uidit non sine oraculo uisionem · beatum <persName ref="#gall">GALLUM</persName>
                sacerdotali infula albatum missas celebrare · et multitudinem animarum <app>
                   <lem>mere</lem>
-                  <rdg wit="codd."><note>ita</note></rdg>
+                  <rdg wit="#codd."><note>ita</note></rdg>
                   <rdg wit="#Boll.">mire</rdg>
                </app> fulgentium cum illo audiuit psallere · atque post expletionem missarum ad
                fenestellam accedere · sibique complura quę postea euentus probauit <app>
@@ -1399,7 +1399,7 @@
                </app> a paganis et malis christianis passurus eris · Sed in his omnibus superabis ·
                et in magna tranquillitate deinceps dum <app>
                   <lem>uiues</lem>
-                  <rdg wit="codd.">uiuis</rdg>
+                  <rdg wit="#codd.">uiuis</rdg>
                </app> tuum episcopium reges · Quę omnia iuxta eius praesagium <app>
                   <lem>in eo</lem>
                   <rdg wit="#C">in eo <note>deest</note></rdg>
@@ -1637,7 +1637,7 @@
                conualuit · Confestimque surgens · beatę <persName ref="#wibo">uuiboradę</persName>
                se presentauit ·</p>
             <p><said who="#heri"> Quid nunc <persName ref="#giez">iezi</persName>? <seg type="cf."
-                     source="#IV_Rg_4.25-37">Uideo te nescio unde mutato uultu · Forsan miraris per
+                     source="#IV_Rg_4.25-31">Uideo te nescio unde mutato uultu · Forsan miraris per
                      susceptionem baculi uirginis egram conualuisse cum cogitas per positionem
                      baculi domini tui defunctum non surrex<pb ed="#A" n="p. 478"
                         facs="https://www.e-codices.unifr.ch/de/csg/0560/478/0/" break="no"/>isse ·
@@ -1832,7 +1832,7 @@
                   <rdg wit="#C">se contritioni se</rdg>
                </app> ream fieri · quos prescientia periculi posset saluare · Postremo pertractans ·
                   <seg source="#Iob_12.12">quia in antiquis est sapientia</seg> · accersito cuidam
-               monacho nomine <persName ref="#wald">uualdrammo</persName> · <ref target="#vw2_XXIII"
+               monacho nomine <persName ref="#wald">uualdrammo</persName> · <ref type="cf." target="#vw2_XXIII"
                   >cuius etiam superius fecimus mentionem</ref> · prouectę aetatis uiro · denudauit
                ei omnem uisionem usque ad martyrium · et quomodo fluctuaret utrum occulenda foret
                uel propalanda · eumque huius rei gratia accersitum · quia speraret in eo <pb ed="#A"
@@ -2010,7 +2010,7 @@
                   <rdg wit="#B #C">nudatim</rdg>
                </app> profluens · in prima eruptione uicinum conspersit murum · atque <app>
                   <lem>exin decurrens</lem>
-                  <rdg wit="codd. #Goldast"><note>ita separant</note></rdg>
+                  <rdg wit="#codd. #Goldast"><note>ita separant</note></rdg>
                   <rdg wit="#Boll.">exinde currens</rdg>
                </app>
                <app>
@@ -2101,7 +2101,7 @@
                Expletis autem missarum solemniis · acceptaque cruce et his quę exequiis exhibentur ·
                usque ad locum sepulchri procedunt · Ibi deum cui omnia uiuunt fideliter pro ea
                deprecantes · uirginalem glebam spoliatę telluri uirginitate cum multa lacrima
-               commendauerunt · <date when="0926-05-08" type="!">anno nongentesimo uigesimo quinto
+               commendauerunt · <date when="0926-05-08" type="(!)">anno nongentesimo uigesimo quinto
                   incarnationis domini nostri iesu christi</date> · qui uiuit et regnat deus · per
                infinita sęcula amen ·</p>
          </div>
@@ -2163,7 +2163,7 @@
             <pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>
             <p>IGITUR POST SEPULTURAM <app>
                   <lem>PRECLUIS</lem>
-                  <rdg wit="codd."><note>ita</note></rdg>
+                  <rdg wit="#codd."><note>ita</note></rdg>
                   <rdg wit="#Boll.">praedictae</rdg>
                </app> AGONISTĘ · DIUINA potentia quę ea adhuc in carne manente · signorum
                adtestatione dignata est mortalibus innotescere · <seg type="cf."
@@ -2496,8 +2496,8 @@
          </div>
          <div xml:id="vw2_2_XIVa">
             <p rend="no-initial"><app>
-                  <lem><g rend="initial">I</g>GITUR</lem>
-                  <rdg wit="codd."><note>Litteram initialem pingunt</note></rdg>
+                  <lem>IGITUR</lem>
+                  <rdg wit="#codd."><note>Litteram initialem pingunt</note></rdg>
                </app> DOLORE HUIUS ustionis in lectum decidens · cum per aliquot dies grauiter
                laborasset · accidit ut quadam <app>
                   <lem>uespera</lem>
