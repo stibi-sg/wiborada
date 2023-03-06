@@ -38,7 +38,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/4000556-2</idno>
                     </person>
                     <person xml:id="agne">
-                        <persName>S. Agnetis festivitas</persName>
+                        <persName role="saint">Agnetis festivitas</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Agnes_von_Rom</idno>
                         <idno type="gnd">http://d-nb.info/gnd/114430704X</idno>
                     </person>
@@ -231,8 +231,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118639897</idno>
                     </person>
                     <person xml:id="iob">
-                        <persName>Iob</persName>
-                        <persName type="alternative">propheta</persName>
+                        <persName>Iob (propheta)</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Ijob</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118551353</idno>
                     </person>
@@ -358,8 +357,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118735640</idno>
                     </person>
                     <person xml:id="paul">
-                        <persName>Paulus apostolus</persName>
-                        <persName type="alternative">pastor ecclesiae</persName>
+                        <persName>Paulus apostolus (pastor ecclesiae)</persName>
                         <birth type="ca." when="0010"/>
                         <death type="ca." when="0060"/>
                         <idno type="wikipedia"
@@ -428,6 +426,10 @@
                     <person xml:id="sata">
                         <persName>Satan</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Satan</idno>
+                    </person>
+                    <person>
+                        <persName>Saxonicus</persName>
+                        <note>vide <persName ref="#hein">Heinricus rex</persName></note>
                     </person>
                     <person xml:id="sueu">
                         <persName xml:lang="la">Suevi</persName>
@@ -511,8 +513,7 @@
                         <persName>Waldrammus (Waltrammus), monachus et presbyter</persName>
                     </person>
                     <person xml:id="wibo">
-                        <persName type="normalisiert">Wiborada</persName>
-                        <persName type="alternativ">Wiberada, Wiborat</persName>
+                        <persName role="saint">Wiborada (Wiberada, Wiborat)</persName>
                         <death when="0926-05-01"/>
                         <note> fere ubique</note>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Wiborada</idno>
@@ -596,6 +597,9 @@
                         <placeName xml:lang="de">Italien</placeName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Italien</idno>
                         <idno type="gnd">http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+                    <place xml:id="lati">
+                        <placeName>Latinus sermo</placeName>
                     </place>
                     <place xml:id="lint">
                         <placeName xml:lang="la">Linthaugia</placeName>

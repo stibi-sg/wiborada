@@ -124,8 +124,8 @@
                      <rdg wit="#Boll.">numero</rdg>
                   </app> ineffabiliter disponentem</seg> · quasi quodam praesagio dignum sortita est
                nomen · Nam <persName ref="#wibo">wiborat</persName>
-               <placeName ref="#teut">teutonica lingua</placeName> prolatum · si latini sermonis
-               translatione mutetur · consilium mulierum sonat · Et reuera huic apte tale congruit
+               <placeName ref="#teut">teutonica lingua</placeName> prolatum · si <placeName ref="#lati">latini sermonis
+</placeName>               translatione mutetur · consilium mulierum sonat · Et reuera huic apte tale congruit
                nomen · quę sibi primitus consulens · <seg type="cf." source="#Lc_10.38-40">utrasque
                   sorores <app>
                      <lem>recte</lem>
@@ -792,7 +792,7 @@
                </app> maximo amore et honore ·</p>
          </div>
          <div n="XX (17)" xml:id="vw1_XX.17">
-            <p><date when="0920">In illo tempore <persName ref="#salo">salomone</persName> fratre et
+            <p><date when="0920"><g rend="initial">I</g>n illo tempore <persName ref="#salo">salomone</persName> fratre et
                   abbate nostro episcopo facto</date> · cum nos unice diligeret · post <app>
                   <lem>obitum</lem>
                   <rdg wit="#Boll.">abitum</rdg>

@@ -55,7 +55,7 @@
                 <witness xml:id="El17">
                     <msDesc>
                         <msIdentifier>
-                            <placeName rend="smallcaps"></placeName>
+                            <placeName rend="smallcaps">El Escorial</placeName>
                             <repository>Real Biblioteca</repository>
                             <idno>Vitrinas 17</idno>
                             <objectName>«Goldenes Evangelienbuch Heinrichs III.»</objectName>
@@ -378,9 +378,9 @@
                     <msDesc>
                         <msIdentifier>
                             <placeName rend="smallcaps">Stuttgart</placeName>
-                            <repository>Württembergische Landesbibliothek</repository>
+                            <repository>Württ. Landesbibliothek</repository>
                             <idno>Bibl. 2°58</idno>
-                            <objectName>Stuttgarter Passionale</objectName>
+                            <objectName>«Stuttgarter Passionale»</objectName>
                             <altIdentifier type="url">
                                 <idno>http://digital.wlb-stuttgart.de/purl/bsz332502295</idno>
                             </altIdentifier>
