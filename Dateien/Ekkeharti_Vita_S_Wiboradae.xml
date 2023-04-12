@@ -1589,7 +1589,7 @@
                peregrinatione ·</p>
          </div>
          <div n="XXXVIII (34)" xml:id="vw1_XXXVIII.34">
-            <cb ed="#S" n="136vb"/>
+            <cb ed="#S" n="136vb" rend="hidden"/>
             <p><app>
                   <lem>Isdem</lem>
                   <rdg wit="#Boll.">Eisdem</rdg>
@@ -1977,7 +1977,7 @@
                </head>
          </div>
          <div>
-            <p><lg rend="align(center)">
+            <p><lg rend="center">
                   <l><g rend="initial">F</g>ilius altithroni postquam resplenduit orbi ·</l>
                   <l><app>
                         <lem>Christus</lem>
@@ -2032,7 +2032,7 @@
                         facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>Epitaphium sanctę
                         <persName ref="#rach">Rachildę</persName> uirginis reclusę ·
             </head>
-            <lg rend="align-center">
+            <lg rend="center">
                <l><g rend="initial">I</g>n cruce confregit postquam uictorque subegit ·</l>
                <l><persName ref="#leui">Leuiathan</persName> hamo <persName ref="#mari"
                      >Uirgine</persName> natus homo</l>

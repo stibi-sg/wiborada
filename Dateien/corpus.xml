@@ -26,5 +26,6 @@
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Herimanni_Vita_S_Wiboradae_Uebersetzung.xml"/>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Register.xml"/>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Konkordanz.xml"/>
-   <!--xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Handschriftenverzeichnis.xml"/-->
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Handschriftenverzeichnis.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Klappentext.xml"/>
 </teiCorpus>
