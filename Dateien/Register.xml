@@ -457,8 +457,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118623567</idno>
                     </person>
                     <person xml:id="tucc">
-                        <persName>Tucca</persName>
-                        <note>Virgilii corrector</note>
+                        <persName>Tucca, <hi rend="it">Virgilii corrector</hi></persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Plotius_Tucca</idno>
                     </person>
                     <person xml:id="turi" next="#turl">
@@ -494,8 +493,7 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Ungarn</idno>
                     </person>
                     <person xml:id="vari">
-                        <persName>Varius</persName>
-                        <note>Virgilii corrector</note>
+                        <persName>Varius, <hi rend="it">Virgilii corrector</hi></persName>
                         <birth type="ca." when="-0075"/>
                         <death type="ca." when="-0015"/>
                         <idno type="wikipedia"
