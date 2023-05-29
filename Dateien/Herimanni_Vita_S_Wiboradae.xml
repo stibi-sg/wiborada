@@ -137,7 +137,7 @@
                            >Herimannus</persName> in autographo Sangall. cod. 560 (<ref target="#A"
                            >A</ref>), quod scriptor codicis 564 (<ref target="#B">B</ref>) imitatus
                         est</note></rdg>
-                  <rdg>Hepidanni <note type="wit"><ref target="#Vad_70">codex Vadianus 70</ref> et
+                  <rdg>Hepidanni <note><ref target="#Vad_70">codex Vadianus 70</ref> et
                            <ref target="#Sang_610">Sangallensis 610</ref></note></rdg>
                </app> CĘNOBITĘ SANCTI <persName ref="#gall">GALLI</persName> DE VITA SANCTĘ
                   <persName ref="#wibo">VVIBORADĘ</persName> VIRGINIS <app>
@@ -162,7 +162,7 @@
                            <rdg wit="#A">Leuii</rdg>
                            <rdg wit="#B">leui, <note>secunda <hi rend="rom">i</hi>
                               erasa</note></rdg>
-                           <rdg>leui <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                           <rdg>leui <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                                     target="#Sang_610">Sang. 610</ref> et <ref
                                     target="#Basil_D.I.18">Basil. D.I.18</ref></note></rdg>
                         </app></seg></l>
@@ -333,8 +333,10 @@
                         <persName ref="#salo">salomonem episcopum</persName> hortabatur · ut eam
                      fecisset <app>
                         <lem>morari</lem>
-                        <rdg><note>deest B, cod. Vad. 70, Sang. 610, Basil. D.I.18 et ed.
-                              Goldast</note></rdg>
+                        <rdg><note>deest <ref target="#B">B</ref>, cod. <ref target="#Vad_70">Vad.
+                                 70</ref>, <ref target="#Sang_610">Sang. 610</ref>, <ref
+                                 target="#Basil_D.I.18">Basil. D.I.18</ref> et <ref
+                                 target="#Goldast">ed. Goldast</ref></note></rdg>
                      </app>
                      <placeName ref="#lint">linthaugie</placeName> · et qualiter per uisionem
                      prohibita est ab hoc itinere · et <persName ref="#cili">ciliam</persName> post
@@ -367,8 +369,7 @@
                         magni</placeName> est inclusa · et quia a diabolo mox est temptata
                   ·</ref></item>
                <item n="XX"><ref target="#vw2_XX"><app>
-                        <lem>XX</lem>
-                        <rdg>xxx <note>A, quem errorem usque ad finem capitulorum
+                        <rdg>xxx <note><ref target="#A">A</ref>, quem errorem usque ad finem capitulorum
                            protraxit</note></rdg>
                      </app> Qualiter dissoluta cuba · eius precibus est reiuncta ·</ref></item>
                <item n="XXI"><ref target="#vw2_XXI">Quomodo in uigilia sancti <persName ref="#iohab"
@@ -423,11 +424,8 @@
                         >uuiborada</persName> eis promittente filię illorum nihil mali prouenire ·
                      laeti ad sua rediere ·</ref></item>
                <item n="XXXIII"><ref target="#vw2_XXXIII"><app>
-                        <lem/>
                         <rdg>XLIII <note>scripsit <ref target="#A">A</ref> errorem supra notatum
-                              prosecutus</note>
-                        </rdg>
-                        <rdg><note>numerum oblitus est <ref target="#B">B</ref>, quo facto <ref
+                              prosecutus; numerum oblitus est <ref target="#B">B</ref>, quo facto <ref
                                  target="#B">B</ref> numeros capitulorum ad XXXVIII tantum
                               produxit</note></rdg>
                      </app> Quomodo <persName ref="#wito">uuito</persName> presbyter incredulus de
@@ -559,7 +557,7 @@
                   non priuauit eam bonis</seg> · <pb ed="#A" n="p. 400"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/400/0/"/> quia <app>
                   <lem>ambulauit</lem>
-                  <rdg>ambulabat <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                  <rdg>ambulabat <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                            target="#Sang_610">Sang. 610</ref> et <ref target="#Goldast">ed.
                            Goldast</ref></note></rdg>
                   <rdg wit="#Basil_D.I.18">ambulavit</rdg>
@@ -644,7 +642,7 @@
                   <rdg wit="#C"><note>deest</note></rdg>
                </app> se <app>
                   <lem>cathezizaret</lem>
-                  <rdg wit="#A #C"><note>ita</note><note type="suffix">(pro
+                  <rdg><note>ita <ref target="#A">A</ref><ref target="#C">C</ref> (pro
                      catechizaret)</note></rdg>
                   <rdg wit="#B">kathezizaret</rdg>
                </app> uerbo · Cuius desiderio se satisfacturum spondens · In ipsa inchoatione
@@ -966,10 +964,10 @@
                   <rdg wit="#A #C"><note>ita</note></rdg>
                   <rdg>pecuniam <note>ex <hi rend="rom">prouintiam</hi> corr. <ref target="#B"
                            >B</ref> (saec. XV?)</note></rdg>
-                  <rdg>pecuniam <note type="wit"><ref target="#Vad_70">Cod. Vad. 70</ref>, <ref
+                  <rdg>pecuniam <note><ref target="#Vad_70">Cod. Vad. 70</ref>, <ref
                            target="#Sang_610">Sang. 610</ref> et <ref target="#Basil_D.I.18">Basil.
                            D.I.18</ref></note></rdg>
-               </app> · llla uero ut eius intentionem collegit dixit · <seg source="#Pers_3.21.22"><lg>
+               </app> · Illa uero ut eius intentionem collegit dixit · <seg source="#Pers_3.21.22"><lg>
                      <l rend="align(right)">Percussa maligne</l>
                      <l>respondet uiridi non cocta fidelia limo ·</l>
                   </lg></seg> crede mihi · conuersatio tua inutilis est sine oboedientia · perdis
@@ -1150,7 +1148,7 @@
                   in testimonium sumatur · nosti cum praedictus a te lacus in tantum proluit ut
                   plurimi dies transirent quam nauigando eum <app>
                      <lem>ullus</lem>
-                     <rdg>nullus <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                     <rdg>nullus <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                               target="#Sang_610">Sang. 610</ref> et <ref target="#Goldast"
                               >Goldast</ref></note></rdg>
                      <rdg wit="#Boll.">ullas</rdg>
@@ -1179,7 +1177,7 @@
                </app> · non sine magna claritate · Quę illam obambulans ·<pb ed="#A" n="p. 442"
                   facs="https://www.e-codices.unifr.ch/de/csg/0560/442"/> primum uigisimi <app>
                   <lem>primi</lem>
-                  <rdg>psalmi primi <note type="wit"><ref target="#B">B</ref><ref target="#C"
+                  <rdg>psalmi primi <note><ref target="#B">B</ref><ref target="#C"
                            >C</ref> (<hi rend="rom">primi</hi> supr. lin. <ref target="#C"
                         >C</ref>)</note></rdg>
                </app> psalmi uersiculum tribus uicibus dulci modulatione decantauit · moxque eadem
@@ -1350,7 +1348,7 @@
                etiam accedente uisione · cum et spiritus sanctus <app>
                   <lem>sursum</lem>
                   <rdg wit="#A"><note>ita</note></rdg>
-                  <rdg>surdum <note type="wit"><ref target="#B">B</ref><ref target="#C">C</ref>,
+                  <rdg>surdum <note><ref target="#B">B</ref><ref target="#C">C</ref>,
                            <ref target="#Vad_70">Vad. 70</ref>, <ref target="#Sang_610">Sang.
                            610</ref> et <ref target="#Basil_D.I.18">Basil. D.I.18</ref></note></rdg>
                   <rdg wit="#Goldast">surge</rdg>
@@ -1362,7 +1360,7 @@
                   <rdg wit="#A"><note>ex <hi rend="rom">quod</hi> corr.</note></rdg>
                </app> illis signis omnibus ageretur · <app>
                   <lem>Intellectualis</lem>
-                  <rdg>Intellexit <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                  <rdg>Intellexit <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                            target="#Sang_610">Sang. 610</ref> et <ref target="#Goldast"
                            >Goldast</ref></note></rdg>
                </app> uero ista spirituali inferiore non indiget · non enim fallitur
@@ -1395,7 +1393,7 @@
                   <rdg wit="#C">in corpore <note>in marg.</note></rdg>
                </app> constituti · cum eisdem uisionibus sunt usi? Erant plane · <app>
                   <lem>Qua</lem>
-                  <rdg>Qua si <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                  <rdg>Qua si <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                            target="#Sang_610">Sang. 610</ref> et <ref target="#Goldast"
                            >Goldast</ref></note></rdg>
                </app> de re cessent in <persName ref="#wibo">uuiborada</persName> quasi discredendo
@@ -1521,7 +1519,7 @@
                   altissimi</seg> · At illa ut in oratione iacuit · nullum profano responsum dedit ·
                Ille autem <app>
                   <lem>afflictim</lem>
-                  <rdg>afflictum <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                  <rdg>afflictum <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                            target="#Sang_610">Sang. 610</ref> et <ref target="#Goldast"
                            >Goldast</ref></note></rdg>
                   <rdg wit="#Boll.">efflictim</rdg>
@@ -1734,7 +1732,7 @@
                      conburendum est</seg> · suppressa super <seg source="#Ps_35.7">iudiciis dei quę
                      sunt abyssus</seg> multa ammiratione <app>
                      <lem>hortar</lem>
-                     <rdg>hortor <note type="wit"><ref target="#Goldast">ed. Goldast</ref> et <ref
+                     <rdg>hortor <note><ref target="#Goldast">ed. Goldast</ref> et <ref
                               target="#Boll">Boll.</ref></note></rdg>
                   </app> te · si qua adhuc supersunt de tali uirgine loqui · et tamen si possis <app>
                      <lem>que</lem>
@@ -1946,7 +1944,9 @@
                   <rdg wit="#C">Nvper uenerunt</rdg>
                </app> etiam parentes beatę <persName ref="#rach">rachildę</persName> · uolentes eam
                ad tutiora deducere loca · Quos beata <persName ref="#wibo">uuiborada</persName> sic
-               allocuta est · Nolite solliciti esse de filia mea · quia <seg><note type="citation">cf. <ref target="#Io_7.30"> etc.</ref></note>tempus eius nondum aduenit</seg> · sed adhuc per multa <app>
+               allocuta est · Nolite solliciti esse de filia mea · quia <seg><note type="citation"
+                     >cf. <ref target="#Io_7.30">Io 7,30 etc.</ref></note>tempus eius nondum aduenit</seg>
+               · sed adhuc per multa <app>
                   <lem>tempora</lem>
                   <rdg wit="#B">tempora <note>suppl. manus saec. XV</note></rdg>
                   <rdg wit="#C"><note>deest</note></rdg>
@@ -2092,7 +2092,9 @@
                cętereque multitudini omnia uti gesta erant per ordinem retexuit · qui fraternam <app>
                   <lem>commemorationem</lem>
                   <rdg wit="#B">commerationem</rdg>
-               </app> pro eius requie celebrantes · manserunt ibi octo dies <seg><note type="citation">cf. <ref target="#Io_7.13">Io 7,13</ref>; <ref target="#Io_19.38">19,38</ref></note>propter metum paganorum</seg> · </p>
+               </app> pro eius requie celebrantes · manserunt ibi octo dies <seg><note
+                     type="citation">cf. <ref target="#Io_7.13">Io 7,13</ref>; <ref
+                        target="#Io_19.38">19,38</ref></note>propter metum paganorum</seg> · </p>
          </div>
          <div n="XXXVII" xml:id="vw2_XXXVII">
             <p>UENIENTE AUTEM <date when="0926-05-08">die octaua</date> · <persName ref="#engi"
@@ -2198,7 +2200,8 @@
                      quod unus artificum pede lesus sospitati pristinae est redditus · </ref></item>
             </list>
          </div>
-         <div n="I" xml:id="vw2_2_I"><pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>
+         <div n="I" xml:id="vw2_2_I">
+            <pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>
             <p>IGITUR POST SEPULTURAM <app>
                   <lem>PRECLUIS</lem>
                   <rdg wit="#codd."><note>ita</note></rdg>
@@ -2390,7 +2393,7 @@
             <p>IAM ADERAT <seg type="cf." source="#Eph_1.10"><hi>PLENITU</hi>do temporis</seg> · quo
                ille uenerabilis <persName ref="#hitt">hitto</persName> · uiridis <app>
                   <lem>illi</lem>
-                  <rdg>illa <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                  <rdg>illa <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                            target="#Sang_610">Sang. 610</ref> et <ref target="#Goldast"
                            >Goldast</ref></note></rdg>
                   <rdg wit="#Basil_D.I.18">illi <note>ex <hi rend="rom">illis</hi>
@@ -2401,12 +2404,13 @@
                   <rdg wit="#A">contigere</rdg>
                </app> metam diuinę uocationis · Quo educto carnis ergastulo · quidam archiprespiter
                nomine <persName ref="#eggi">egibertus</persName> · successit ei in regimine
-                  <placeName ref="#emag">basilicę sancti magni</placeName> · Nam et is <seg><note type="citation">cf. <ref target="#Lc_5.11">Lc 5,11</ref> etc.</note>omnibus quę possidebat relictis</seg> · quo
-               christum perfectius cruce accepta <pb ed="#A" n="p. 529"
-                  facs="https://www.e-codices.unifr.ch/de/csg/0560/529"/> posset sequi · in coenobio
-               sancti <persName ref="#gall">GALLI</persName> ad regularem disciplinam ceruicem
-               cordis humiliauit · Cui post aliquot annos cum graui dolore coepit caligare uisus ·
-               adeo · ut illum apertis oculis nihil uidentem · deum diceres aliud <seg
+                  <placeName ref="#emag">basilicę sancti magni</placeName> · Nam et is <seg><note
+                     type="citation">cf. <ref target="#Lc_5.11">Lc 5,11</ref> etc.</note>omnibus quę
+                  possidebat relictis</seg> · quo christum perfectius cruce accepta <pb ed="#A"
+                  n="p. 529" facs="https://www.e-codices.unifr.ch/de/csg/0560/529"/> posset sequi ·
+               in coenobio sancti <persName ref="#gall">GALLI</persName> ad regularem disciplinam
+               ceruicem cordis humiliauit · Cui post aliquot annos cum graui dolore coepit caligare
+               uisus · adeo · ut illum apertis oculis nihil uidentem · deum diceres aliud <seg
                   source="#Act_9.15">uas electionis</seg> sibi in illo praeparare · Qui ad tumbam
                martyris <app>
                   <lem>christi</lem>
@@ -2479,7 +2483,8 @@
                   </rdg>
                </app> · sospes cunctis mirantibus surrexit · </p>
          </div>
-         <div n="XIV" xml:id="vw2_2_XIV"><pb ed="#A" n="p. 535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/>
+         <div n="XIV" xml:id="vw2_2_XIV">
+            <pb ed="#A" n="p. 535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/>
             <p>NEC HOC SILENTIO pretereundum · quantam pietatem uirtus diuina ostendere dignata est
                ob merita uirginis atque martyris suę planius declaranda · supra fidelem seruam eius
                   <persName ref="#kebi">kebininam</persName> · Post transitum igitur beatę <persName
@@ -2559,7 +2564,7 @@
                omnibusque <app>
                   <lem>quinquepertitis</lem>
                   <rdg wit="#B">quinque pestitis</rdg>
-                  <rdg>quinque perticis <note type="wit"><ref target="#Vad_70">Vad. 70</ref>, <ref
+                  <rdg>quinque perticis <note><ref target="#Vad_70">Vad. 70</ref>, <ref
                            target="#Sang_610">Sang. 610</ref> et <ref target="#Goldast">ed.
                            Goldast</ref></note></rdg>
                   <rdg wit="#Basil_D.I.18">perstitis</rdg>
@@ -2615,7 +2620,7 @@
                   <rdg wit="#C"><note>deest</note></rdg>
                </app> cęmentariis · sospes et lętus ad opus inceptum mature uenit<app>
                   <rdg wit="#B">finito libro <supplied>sit laus et gloria Christo</supplied></rdg>
-                  <rdg>Et sic est finis <note type="wit"><ref target="#Vad_70">Vad. 70</ref> et <ref
+                  <rdg>Et sic est finis <note><ref target="#Vad_70">Vad. 70</ref> et <ref
                            target="#Goldast">ed. Goldast</ref></note></rdg>
                   <rdg wit="#Sang_610">Explicit hystoria sancte wiborade virginis et martiris
                      christi anno domini 1459 in die sancti remigii confessoris et pontificis</rdg>
