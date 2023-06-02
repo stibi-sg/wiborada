@@ -297,7 +297,7 @@
                   <rdg wit="#A">in iumento</rdg>
                </app> · uel alicuius uehiculi adminiculo · <app>
                   <lem>quoad uiueret</lem>
-                  <rdg>quo aduiueret <note>separant <ref target="#S">S</ref> et <ref
+                  <rdg>quo aduiueret <note type="wit">separant <ref target="#S">S</ref> et <ref
                            target="#A">A</ref></note></rdg>
                </app> impositam uidit · excepto cum sicut dicturi sumus · <placeName ref="#rom"
                   >romam</placeName> orationis gratia peteret · si ei necessitas <app>
@@ -334,7 +334,7 @@
                   <lem><supplied>non</supplied>nullam</lem>
                   <rdg wit="#codd.">nullam</rdg>
                   <rdg>
-                     <note><ref target="#A">A</ref> postea delevit.</note></rdg>
+                     <note type="wit"><ref target="#A">A</ref> postea delevit.</note></rdg>
                </app> operam dedit partim ac sparsim ediscere cępit · Cunque ille tum diuinis
                operibus tum incidentibus causis aliis praepeditus · ab insinuanda ei lectione
                pigritaret · pro accipiendo psalmo quinquagesimo soror ei sedulo assidebat · nec
