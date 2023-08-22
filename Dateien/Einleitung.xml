@@ -8,12 +8,16 @@
                 <title type="main">VITAE SANCTAE WIBORADAE</title>
                 <title type="sub">Die ältesten Lebensbeschreibungen der heiligen Wiborada</title>
                 <respStmt>
-                    <resp>Einleitung, kritische Edition und Übersetzung,<lb/> besorgt von</resp>
-                    <persName>WALTER BERSCHIN</persName>
+                    <resp>Einleitung, Edition und Übersetzung<lb/> von</resp>
+                    <persName>Walter Berschin</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>2., verbesserte Auflage</resp>
+                    <name/>
                 </respStmt>
                 <respStmt>
                     <resp>Technische Umsetzung durch</resp>
-                    <persName>Svenja Berkensträter, Wolfgang Meier und Andreas Kränzle</persName>
+                    <persName>Svenja Berkensträter und Wolfgang Meier</persName>
                 </respStmt>
                 <respStmt>
                     <resp>Gefördert von</resp>
@@ -179,7 +183,7 @@
                             Biographie</ref></item>
                     <item><ref target="#intro_II.1">II Ekkeharts I. Vita S. Wiboradae</ref></item>
                     <item><ref target="#intro_III.1">III Herimanns Vita S. Wiboradae</ref></item>
-                    <item><ref target="#Lit">Literatur</ref></item>
+                    <item><ref target="#Lit">Literatur und Abkürzungen</ref></item>
                 </list>
                 <list>
                     <head><hi rend="it">Editionen</hi></head>
@@ -261,22 +265,23 @@
                                     feierte<note><bibl><title level="m">De pretioso sanguine domini
                                     nostri</title>
                                 <biblScope unit="chapter">c. 32</biblScope>, ed. <editor>T.
-                                    Klüppel</editor>, <title level="m">Reichenauer Hagiographie
-                                    zwischen Wahlafrid und Berno</title>,
-                                    <pubPlace>Sigmaringen</pubPlace>
-                                <date>1980</date>, <biblScope unit="page">p. 162</biblScope></bibl>.
-                            Zur Parallele und zum Kontrast <bibl><author>W. B.</author>, <title
-                                    level="a">«Eremus und Insula. St. Gallen und die Reichenau im
-                                    Mittelalter»</title>, <title level="s">Jahresbericht der
-                                    Görres-Gesellschaft für 1975</title>, <pubPlace>Köln</pubPlace>
-                                <date>1976</date>, <biblScope unit="page">p. 31-46</biblScope>, hier
-                                    <biblScope unit="page">p. 37</biblScope></bibl>.</note>. Die
-                        Verehrung der heiligen Wiborada entwickelte sich langsamer, zögernder aus
-                        dem historischen Gedächtnis, in dessen Treue sich St. Gallen kaum von einem
-                        anderen Ort übertreffen ließ. Wir dürfen die wenigen bedeutungsvollen Worte
-                        im <bibl corresp="#StiA_56">Profeßbuch</bibl> als eine Aufnahme Wiberats in
-                        das innerste Gedenken der Abtei interpretieren und als ein Zeugnis für den
-                        Beginn des Jahrtagsgedächtnisses unter Abt Engelbert (926-934).</p>
+                                    Klüppel</editor>, <title level="m">Die Reichenauer
+                                    Heiligblut-Reliquie</title>, <pubPlace>Heidelberg</pubPlace>
+                                <edition>3</edition><date>2015</date>, <biblScope unit="page">p.
+                                    62-64</biblScope></bibl>. Zur Parallele und zum Kontrast
+                                    <bibl><author>W. B.</author>, <title level="m">Eremus und
+                                    Insula.</title>
+                                <title type="sub">St. Gallen und die Reichenau im
+                                    Mittelalter</title>, <pubPlace>Wiesbaden</pubPlace>
+                                <edition>2</edition><date>2005</date>, <biblScope unit="page">p.
+                                    42</biblScope>, hier <biblScope unit="page">p.
+                                37</biblScope></bibl>.</note>. Die Verehrung der heiligen Wiborada
+                        entwickelte sich langsamer, zögernder aus dem historischen Gedächtnis, in
+                        dessen Treue sich St. Gallen kaum von einem anderen Ort übertreffen ließ.
+                        Wir dürfen die wenigen bedeutungsvollen Worte im <bibl corresp="#StiA_56"
+                            >Profeßbuch</bibl> als eine Aufnahme Wiberats in das innerste Gedenken
+                        der Abtei interpretieren und als ein Zeugnis für den Beginn des
+                        Jahrtagsgedächtnisses unter Abt Engelbert (926-934).</p>
                 </div>
                 <div xml:id="intro_I.2">
                     <p> Auf diesen liturgisch-commemorativen Eintrag im <bibl corresp="#StiA_56"
@@ -289,7 +294,7 @@
                                     Wiboradae</title>, <date>1970</date>, <biblScope unit="table"
                                     >tab. 11</biblScope>.</bibl> Das Endungs-<hi rend="it">s</hi>
                             von <hi rend="it">paganis</hi> ist durch Beschneiden des Blatts
-                            verlorengegangen. Neuer Überblick über die Handschrift <bibl><author>J.
+                            verlorengegangen. Überblick über die Handschrift <bibl><author>J.
                                     Autenrieth</author>, <title level="a">«Der Codex Sangallensis
                                     915. Ein Beitrag zur Erforschung der
                                     Kapiteloffiziumsbücher»</title>, in: <title level="s"
@@ -311,7 +316,7 @@
                                     unit="table">tab. 9 + 10</biblScope></bibl>. ↑ ist das
                             griechische Zahlzeichen für 900.</note>: ↑ XVI ... <hi rend="it"
                             >Uuiberat reclusa est</hi>. ↑ XXV ... <hi rend="it">Agareni monasterium
-                            sancti GALLI invaserunt Uuiberat martyrizata est</hi> «916 ... Wiberat
+                            sancti GALLI invaserunt Uuiberat martyrizata est.</hi> «916 ... Wiberat
                         wurde eingeschlossen. 925 (!) ... Die Ungarn<note>Über die Bezeichnung der
                             Ungarn mit <hi rend="it">Agareni</hi> («Araber»?) <bibl><author>J.
                                     Duft</author>, <title level="m">Die Ungarn in St.
@@ -346,11 +351,10 @@
                     <p>Der Eintrag unter den <bibl corresp="#Sang_915">Verbrüderungen</bibl> ist
                         also auf ganz ähnliche Weise zustandegekommen wie der im <bibl
                             corresp="#StiA_56">Profeßbuch</bibl>. Beide Male wurde ein für den
-                        Konvent zentraler und vielbenützter Codex für den eigentlich jeweils fremden
-                        Zweck genutzt, das Gedächtnis Wiberats festzuhalten, das eine Mal jedoch
-                        wurde in liturgischer Weise nur das Tages- und Monatsdatum notiert, das
-                        andere Mal mit Rücksicht auf ein historisches Interesse auch die
-                        Jahreszahl.</p>
+                        Konvent zentraler und vielbenützter Codex für den eigentlich fremden Zweck
+                        genutzt, das Gedächtnis Wiberats festzuhalten, das eine Mal jedoch wurde in
+                        liturgischer Weise nur das Tages- und Monatsdatum notiert, das andere Mal
+                        mit Rücksicht auf ein historisches Interesse auch die Jahreszahl.</p>
                     <p>In den Notizen der <bibl corresp="#Sang_915">Annales Sangallenses
                             maiores</bibl> steht wieder die deutsche Namensform Wiberat, wie im
                             <bibl corresp="#StiA_56">Profeßbuch</bibl>. Die beiden Daten geben schon
@@ -371,11 +375,15 @@
                                     >«Die annalistischen Aufzeichnungen des Klosters St.
                                     Gallen»</title>, <title level="j">MVG</title>
                                 <biblScope unit="volume">19</biblScope>, <date>1884</date>,
-                                    <biblScope unit="page">p. 360 sq.</biblScope></bibl></note>, war
-                        ein Vermerk über die heilige Wiborada in den Verbrüderungen nur mehr ein
-                        Irrläufer. Die historische Erinnerung war nunmehr in den Annalen ﬁxiert.
-                        Nicht unter den Verbrüderungen, sondern in der Annalenreihe würde man
-                        künftig die Eckdaten zum Leben der Heiligen suchen.</p>
+                                    <biblScope unit="page">p. 360 sq.</biblScope></bibl>;
+                                    <bibl><author>R. Zingg</author>, <title level="m">Die St. Galler
+                                    Annalistik</title>, <pubPlace>Ostfildern</pubPlace>
+                                <date>2019</date>, <biblScope unit="page">p.
+                            17</biblScope></bibl></note>, war ein Vermerk über die heilige Wiborada
+                        in den Verbrüderungen nur mehr ein Irrläufer. Die historische Erinnerung war
+                        nunmehr in den Annalen ﬁxiert. Nicht unter den Verbrüderungen, sondern in
+                        der Annalenreihe würde man künftig die Eckdaten zum Leben der Heiligen
+                        suchen.</p>
                 </div>
                 <div xml:id="intro_I.4">
                     <p>Binnen einer Generation vollzieht sich dieser Prozeß. Wenn die individuelle
@@ -474,18 +482,18 @@
                                 <date>1868</date>, <biblScope unit="page">p. 327</biblScope>
                                 <biblScope unit="entry">nr. 566</biblScope></bibl>. Die Sequenz
                             entspricht völlig der Sequenz <hi rend="it">De sancta Margareta</hi>,
-                                <bibl>edd. <title level="j">Cl. Blume - H. Bannister, Analecta
-                                    Hymnica</title>
-                                <biblScope unit="volume">53</biblScope>,
+                                <bibl>edd. <editor>Cl. Blume - H. Bannister</editor>, <title
+                                    level="j">Analecta Hymnica</title>
+                                <biblScope unit="volume">t. 53</biblScope>,
                                     <pubPlace>Leipzig</pubPlace>
                                 <date>1911</date>, <biblScope unit="page">p. 293</biblScope>
                                 <biblScope unit="entry">nr. 180</biblScope></bibl>. Sie ist noch in
                             weiteren vier sanktgallischen Handschriften erhalten, cf.
-                                    <bibl><author>G. Scherrer</author>, <title level="m">Verzeichniß
-                                    der Handschriften der Stiftsbibliothek von St. Gallen</title>,
-                                    <pubPlace>Halle</pubPlace>
+                                    <bibl><author>G. Scherrer</author>, <title level="m"
+                                    >Verzeichniss der Handschriften der Stiftsbibliothek von St.
+                                    Gallen</title>, <pubPlace>Halle</pubPlace>
                                 <date>1875</date>, <biblScope unit="page">p. 516</biblScope> s.v.
-                                    <hi rend="it">Gaude semper serena</hi></bibl>.</note> und
+                                    <hi rend="it">Gaude semper serena</hi></bibl>.</note>,
                                 Hymnus<note><bibl corresp="#Sang_503k">St. Gallen Stiftsbibliothek
                                 Cod. 503<hi rend="sup">k</hi></bibl> (saec. XIV), fol. 235<hi
                                 rend="sup">v</hi>. Inc. <hi rend="it">Festum diem Wiboradae Virginis
@@ -493,39 +501,24 @@
                                     level="m">Antiquae lectiones</title>
                                 <biblScope unit="part">t. 5</biblScope>,
                                     <pubPlace>Ingolstadt</pubPlace>
-                                <date>1604</date>, <biblScope unit="page">p. 789</biblScope></bibl>.
-                            Daraus <bibl><title level="j">Migne PL</title>
-                                <biblScope unit="volume">87</biblScope>, <biblScope unit="column"
-                                    >col. 69</biblScope>.</bibl> Die Zuschreibung <bibl><author>E.
-                                    Schlumpfs</author> an Ekkehart I., (<title level="j"
-                                    >ZSKG</title>
+                                <date>1604</date>, <biblScope unit="page">p. 789</biblScope></bibl>;
+                                <bibl>ed. <editor>G. M. Dreves</editor>, <title level="j">Analecta
+                                    Hymnica</title><biblScope unit="volume">t. 23</biblScope>,
+                                    <pubPlace>Leipzig</pubPlace>
+                                <date>1896</date>, <biblScope unit="page">p. 291sq.</biblScope>,
+                                    <biblScope unit="entry">nr. 519</biblScope></bibl>. Die
+                            Zuschreibung <bibl><author>E. Schlumpf</author>s an Ekkehart I., (<title
+                                    level="j">ZSKG</title>
                                 <biblScope unit="volume">45</biblScope>, <date>1951</date>,
                                     <biblScope unit="page">p. 109-114</biblScope></bibl>) ist kaum
-                            haltbar.</note>, eine nur fragmentarisch erhaltene, noch unedierte
-                            Ofﬁziendichtung<note>St. Gallen, Stadtarchiv s.n., Spiegelblatt aus dem
-                                <bibl corresp="#JM">Jahrzeitenbuch von St. Mangen zu St.
-                                Gallen</bibl>, saec. XI, neumiert, cf. <bibl><author>W. B.</author>,
-                                    <title level="a">«Sanktgallische Offiziendichtung aus
-                                    ottonischer Zeit»</title> (wie Anm. 11), <biblScope unit="entry"
-                                    >n. 36</biblScope>, <biblScope unit="page">p. 46
-                                sq.</biblScope></bibl> Die schon in voriger Anm. zitierte
-                            Handschrift <bibl corresp="#Sang_503k">St. Gallen Stiftsbibliothek
-                                    503<hi rend="sup">k</hi></bibl> enthält fol. 235<hi rend="sup"
-                                >v</hi>-236<hi rend="sup">v</hi> ein kurzes Wiborada-Offizium aus
-                            acht Antiphonen. Ich habe den Eindruck, daß diese Texte derselben
-                            Stilstufe angehören wie die im Fragment des Stadtarchivs überlieferten,
-                            so daß sich das alte große Offizium des XI. Jahrhunderts aus den beiden
-                            Überlieferungen zu einem erheblichen Teil wiederherstellen lassen
-                            dürfte. Die Vesperantiphon <hi rend="it">Gaudia de geminis</hi>, mit der
-                            das Offizium in der <bibl corresp="#Sang_503k">Hs. 503<hi rend="sup"
-                                    >k</hi></bibl> beginnt, findet sich, von der Hand Ekkeharts IV.
-                            eingetragen, in den Handschriften <bibl corresp="#Sang_425">425</bibl>
-                            (p. 84 und 85) und <bibl corresp="#Sang_174">174</bibl> (p. 1, neumiert,
-                            facs. <bibl><author>A. Bruckner</author>, <title level="j">Scriptoria
-                                    Medii Aevi Helvetica</title>
-                                <biblScope unit="part">t. 3</biblScope>, <pubPlace>Genf</pubPlace>
-                                <date>1938</date>, <biblScope unit="table">tab.
-                                39</biblScope></bibl>).</note>, Verse Ekkeharts
+                            haltbar.</note>, Ofﬁziendichtung<note><bibl>ed. <author>W. B.</author>,
+                                    <title level="a">«Historia S. Wiboradae. Das sanktgallische
+                                    Wiborada-Offizium des XI. Jahrhunderts»</title>, <title
+                                    level="j">Mittellateinische Studien</title>
+                                <biblScope unit="volume">t. 2</biblScope>,
+                                    <pubPlace>Heidelberg</pubPlace>
+                                <date>2010</date>, <biblScope unit="page">p.
+                                193-204</biblScope></bibl>.</note>, Verse Ekkeharts
                                     IV.<note><bibl><author>J. Egli</author>, <title level="m">Der
                                     Liber Benedictionum Ekkeharts IV. nebst den kleinern Dichtungen
                                     aus dem <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#Cod."
@@ -538,7 +531,7 @@
                             Ulrichsvita den Ungarneinfall des Jahres 926 nicht erwähnt, <hi
                                 rend="it">quando apud nos Uuiborada ab eis est passa</hi>.</note>
                         und Epitaphien<note>Zum ersten <ref target="#intro_II.9">unten</ref> und
-                                <ref target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_epit">im Appendix
+                                <ref target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_epit">in der Appendix
                                 der Edition der älteren Vita S. Wiboradae</ref>. Ein zweites
                             Epitaphium enthält <bibl corresp="#Sang_613">St. Gallen Stiftsbibliothek
                                 Cod. 613</bibl> («Codex Gaisbergianus» a. 1526), p. 73. Sein
@@ -547,15 +540,15 @@
                                     Benedictionum</title>, ed. <editor>Egli</editor>, <biblScope
                                     unit="page">p. 224</biblScope></bibl>.</note>. Dazu kommt die
                         vielfache Erwähnung der heiligen Wiborada in der bekannten sanktgallischen
-                        Klostergeschichtsschreibung. Vor allem Adolf Fäh hat im zweiten Band seiner
+                        Klostergeschichtsschreibung. Adolf Fäh hat im zweiten Band seiner
                         Millenniumsschrift von 1926 viel für die Erschließung dieses reichen
-                        Materials getan, das freilich noch nicht restlos aufgearbeitet ist. Manche
-                        dieser Texte werden um 1047, dem Jahr der Heiligsprechung Wiboradas,
-                        entstanden sein. <anchor xml:id="intro_I.6"/>Einen vorläuﬁgen Schlußpunkt
-                        dieser literarischen Tätigkeit zum Ruhme der Martyrin des X. Jahrhunderts
-                        bedeutet dann die um 1075 geschriebene zweite Vita S. Wiboradae des
-                        Herimannus, die eine inhaltliche und stilistische Umgestaltung der älteren
-                        Vita S. Wiboradae nach dem Geschmack des XI. Jahrhunderts darstellt.</p>
+                        Materials getan, das noch nicht restlos aufgearbeitet ist. Manche dieser
+                        Texte werden um 1047, dem Jahr der Heiligsprechung Wiboradas, entstanden
+                        sein. <anchor xml:id="intro_I.6"/>Einen vorläuﬁgen Schlußpunkt dieser
+                        literarischen Tätigkeit zum Ruhm der Martyrin des X. Jahrhunderts bedeutet
+                        dann die um 1075 geschriebene zweite Vita S. Wiboradae des Herimannus, die
+                        eine inhaltliche und stilistische Umgestaltung der älteren Vita S. Wiboradae
+                        nach dem Geschmack des XI. Jahrhunderts darstellt.</p>
                 </div>
                 <div xml:id="intro_I.7">
                     <p>Das XV. Jahrhundert hat wieder an den biographischen Texten gearbeitet. Aus
@@ -564,7 +557,7 @@
                             p. 220-236.</note>. Etwa gleichzeitig unternahm man deutsche
                         Übersetzungen der Wiboradavita. Der Mönch Friedrich Colner († 1451) brachte
                         Lebensbeschreibungen der sanktgallischen Hausheiligen Gallus, Magnus, Otmar,
-                        Wiborada und Asceticia «mit großer arbait vß dem subtilen latin zu disem
+                        Wiborada und Ascetica «mit großer arbait vß dem subtilen latin zu disem
                         ainfaltigen tutsch»<note><bibl corresp="#Sang_586">St. Gallen,
                                 Stiftsbibliothek Cod. 586</bibl>; cf. <bibl><author>Duft</author>,
                                     <title level="m">Die Ungarn in St. Gallen</title>, <biblScope
@@ -591,13 +584,9 @@
                                 sq.</biblScope></bibl>
                             <bibl><author>Irblich</author>, <title level="m">Die Vitae S.
                                     Wiboradae</title>, <biblScope unit="page">p.
-                                19-23</biblScope></bibl>. Noch gilt, was <bibl><author>Johannes
-                                    Duft</author>
-                                <date>1957</date></bibl> schrieb: «Die Germanistik hat sich mit
-                            diesen beiden deutschen Heiligenleben auffallenderweise noch nicht
-                            beschäftigt». Welchen Mißverständnissen das Reklusentum im XIX.
+                                19-23</biblScope></bibl>. Welchen Mißverständnissen das Reklusentum im XIX.
                             Jahrhundert ausgesetzt war, zeigt das Zerrbild der heiligen Wiborada in
-                                    <bibl><author>Victor von Scheffels</author>
+                                    <bibl>Victor von <author>Scheffel</author>s
                                 <title level="m">Ekkehard</title> (<date>1855</date>)</bibl>. Die
                             große Tradition des Reklusentums in St. Gallen macht sichtbar
                                     <bibl><author>[J. Duft-] E. Schlumpf</author>, «<title level="m"
@@ -611,9 +600,8 @@
                         reichsten ist das Wiboradaleben bebildert. Nicht weniger als 53 Miniaturen
                         begleiten den deutschen Text von Station zu Station. Auch diese zweite
                         deutsche Übersetzung war für die Frauen im Wiborada-Kloster zu St. Georgen
-                        bestimmt. Diese Übersetzungen des XV. Jahrhunderts sind noch nicht ediert,
-                        desgleichen die beiden Preislieder auf St. Wiborada in deutschen Versen, die
-                        der sanktgallische Konventual Anton Widenmann im Jahr 1641 schrieb. Sie sind
+                        bestimmt. Preislieder auf St. Wiborada schrieb in deutschen Versen
+                        der sanktgallische Konventual Anton Widenmann im Jahr 1641. Sie sind
                         im <bibl corresp="#Sang_1257">Codex 1257 der Stiftsbibliothek St.
                             Gallen</bibl> erhalten. </p>
                 </div>
@@ -1560,7 +1548,8 @@
                                         level="j">Montfort</title>
                                     <biblScope unit="volume">20</biblScope>, <date>1968</date>,
                                         <biblScope unit="page">p. 664</biblScope></bibl>.
-                                Paläographische Beschreibung in <bibl><author><foreign rend="no-hyphen">Chrousts</foreign></author>
+                                Paläographische Beschreibung in <bibl><author><foreign
+                                            rend="no-hyphen">Chrousts</foreign></author>
                                     <title level="j">Monumenta Palaeographica</title></bibl> (wie
                                 Anm. 53).</note>, enthält die Lebensbeschreibungen von Gallus, Otmar
                             und Wiborada, geschrieben in karolingischer Minuskel «schrägovalen
