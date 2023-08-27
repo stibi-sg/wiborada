@@ -96,6 +96,9 @@
                <bibl>Is 3,23</bibl>
                <quote>et specula et sindones et vittas et theristra</quote>
             </cit>
+            <cit xml:id="Virg_Aen_IX_759">
+               <bibl>Virg., Aen. IX 759</bibl>
+            </cit>
             <cit xml:id="Not_Gest_Karol_II_7">
                <bibl>Notker, Gesta Karoli II 7</bibl>
             </cit>
@@ -109,8 +112,15 @@
             <cit xml:id="Ado_Pass_Des_440C">
                <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 440 C</bibl>
             </cit>
+            <cit xml:id="Mt_28.1">
+               <bibl>Mt 28,1</bibl>
+               <quote>vespere autem sabbati quae lucescit in primam sabbati venit Maria Magdalene et altera Maria videre sepulchrum</quote>
+            </cit>
             <cit xml:id="Ado_Pass_Des_438A">
                <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 438 A</bibl>
+            </cit>
+            <cit xml:id="Sulp_Sev_Dial_I_14.8">
+               <bibl>Sulp. Sev., Dial. I 14,8</bibl>
             </cit>
             <cit xml:id="Lc_10.21">
                <bibl>Lc 10,21</bibl>
@@ -124,8 +134,15 @@
             <cit xml:id="Ven_Fort_Rad_17">
                <bibl>Venantius Fortunatus, Vita S. Radegundis c. 17</bibl>
             </cit>
+            <cit xml:id="Mt_16.19">
+               <bibl>Mt 16,19</bibl>
+               <quote>et tibi dabo claves regni caelorum et quodcumque ligaveris super terram erit ligatum in caelis et quodcumque solveris super terram erit solutum in caelis</quote>
+            </cit>
             <cit xml:id="Baud_Rad_8">
                <bibl>Baudonivia, Vita S. Radegundis c. 8</bibl>
+            </cit>
+            <cit xml:id="Virg_Georg_III_84">
+               <bibl>Virg., Georg. III 84</bibl>
             </cit>
             <cit xml:id="Ps_83.6">
                <bibl>Ps 83,6</bibl>
@@ -170,6 +187,9 @@
                <quote>haec in proverbiis locutus sum vobis venit hora cum iam non in proverbiis
                   loquar vobis sed palam de Patre adnuntiabo vobis</quote>
             </cit>
+            <cit xml:id="Virg_Georg_I_407">
+               <bibl>Virg., Georg. I 407</bibl>
+            </cit>
             <cit xml:id="Act_10.3">
                <bibl>Act 10,3</bibl>
                <quote>vidit in visu manifeste quasi hora nona diei angelum Dei introeuntem ad se et
@@ -181,6 +201,27 @@
             <cit xml:id="Sir_32.24">
                <bibl>Sir 32,24</bibl>
                <quote>fili sine consilio nihil facias et post factum non paeniteberis</quote>
+            </cit>
+            <cit xml:id="Virg_Aen_III_179">
+               <bibl>Virg., Aen. III 179</bibl>
+            </cit>
+            <cit xml:id="Virg_Aen_II_61">
+               <bibl>Virg., Aen. II 61</bibl>
+            </cit>
+            <cit xml:id="Sulp_Sev_Vita_S_Mart_5.3">
+               <bibl>Sulp. Sev., Vita S. Martini 5,3</bibl>
+            </cit>
+            <cit xml:id="Virg_Aen_I_218">
+               <bibl>Virg., Aen. I 218</bibl>
+            </cit>
+            <cit xml:id="Virg_Aen_VII_338">
+               <bibl>Virg., Aen. VII 338</bibl>
+            </cit>
+            <cit xml:id="Virg_Aen_X_696">
+               <bibl>Virg., Aen. X 696</bibl>
+            </cit>
+            <cit xml:id="Sulp_Sev_Vita_S_Mart_7.2">
+               <bibl>Sulp. Sev., Vita S. Martini 7,2</bibl>
             </cit>
             <cit xml:id="Mt_26.24">
                <bibl>Mt 26,24</bibl>
@@ -225,6 +266,16 @@
             </cit>
             <cit xml:id="Hor_carm_I_4.13">
                <bibl>Horat., Carm. I 4,13</bibl>
+            </cit>
+            <cit xml:id="Virg_Aen_III_639">
+               <bibl>Virg., Aen. III 639</bibl>
+            </cit>
+            <cit xml:id="Rm_1.30">
+               <bibl>Rm 1,30</bibl>
+               <quote>detractores Deo odibiles contumeliosos superbos elatos inventores malorum parentibus non oboedientes</quote>
+            </cit>
+            <cit xml:id="Pass_S_Afr_3">
+               <bibl>Passio (II) S. Afrae c. 3</bibl>
             </cit>
             <cit xml:id="Ado_Pass_Des_441C">
                <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 441 C</bibl>

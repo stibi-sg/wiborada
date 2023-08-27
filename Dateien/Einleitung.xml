@@ -35,12 +35,25 @@
             <sourceDesc>
                 <listBibl xml:id="Lit">
                     <head>LITERATUR</head>
+                    <bibl xml:id="becht91">
+                        <author>G. Becht</author>, <title level="a" type="main">«Sprachliches in den
+                            Vitae S. Wiboradae (II). Dabei: Ein Walthariuszitat in der jüngeren
+                            Vita»</title>, <title level="j">Mittellateinisches Jahrbuch</title>
+                        <biblScope unit="volume">24/25</biblScope>, <date>1991</date>, <biblScope
+                            unit="page">p. 1-9</biblScope>. </bibl>
+                    <bibl xml:id="becht02">
+                        <author>G. Becht</author>, <title level="a" type="main"
+                            >«Recentiores, non deteriores. Zur Überlieferungsgeschichte und
+                            Textkritik der Vita S. Wiboradae Ekkeharts I. von St. Gallen»</title>,
+                            <title level="j">Scripturus vitam</title>, ed. <editor>D. Walz</editor>,
+                         <pubPlace>Heidelberg</pubPlace>
+                        <date>2002</date>, <biblScope unit="page">p. 807-816</biblScope>. </bibl>
                     <bibl xml:id="berschin72">
                         <author>W. Berschin</author>, <title level="a">«Das Verfasserproblem der
                             Vita S. Wiboradae»</title>, <title level="j">Zs. für Schweizerische
                             Kirchengeschichte</title>
-                        <biblScope unit="volume">66</biblScope>, <date>1972</date>, p. <biblScope
-                            unit="page">250-277</biblScope>. </bibl>
+                        <biblScope unit="volume">66</biblScope>, <date>1972</date>, <biblScope
+                            unit="page">p. 250-277</biblScope>. </bibl>
                     <bibl xml:id="berschin76">
                         <author>W. Berschin</author>, <title level="a">«Drei
                             Wiborada-Handschriften»</title>, <title level="j">Alemannisches
@@ -48,19 +61,44 @@
                         <biblScope unit="volume">1973/1975</biblScope> (= <hi rend="it"
                             >Alemannica</hi>, Landeskundliche Beiträge. Festschrift für Bruno
                         Boesch, <pubPlace>Bühl/Baden</pubPlace>
-                        <date>1976</date>), p. <biblScope unit="page">326-334</biblScope>. </bibl>
+                        <date>1976</date>), <biblScope unit="page">p. 326-334</biblScope>. </bibl>
+                    <bibl xml:id="berschin_becht84">
+                        <author>W. Berschin</author> (mit <author>G.
+                            Becht</author>), <title level="a" type="main">«Sprachliches in den Vitae
+                            S. Wiboradae von Ekkehart I. (ca. 960/970) und Herimannus von St.
+                            Gallen»</title>, <title level="j">Archivum Latinitatis Medii
+                            Aevi</title>
+                        <biblScope unit="volume">43</biblScope>, <date>1984</date>, <biblScope
+                            unit="page">p. 5-20</biblScope>. </bibl>
                     <bibl xml:id="berschin80">
                         <author>W. Berschin</author>, <title level="a">«Notkers Metrum de vita S.
-                            Galli. Einleitung und Edition»</title>, in <title level="s">Florilegium
-                            Sangallense</title> (Festschrift Johannes Duft), <pubPlace>St.
-                            Gallen-Sigmaringen</pubPlace>
-                        <date>1980</date>, p. <biblScope unit="page">71-121</biblScope>. </bibl>
+                            Galli. Einleitung und Edition»</title>, <title level="m"
+                            >Mittellateinische Studien</title>
+                        <biblScope unit="volume">t. 4</biblScope>, <pubPlace>Heidelberg</pubPlace>
+                        <date>2022</date>, <biblScope unit="page">p. 119-167</biblScope>. </bibl>
                     <bibl xml:id="berschin82">
                         <author>W. Berschin</author>, <title level="a">«Verena und Wiborada. Mythos,
                             Geschichte und Kult im X. Jahrhundert»</title>, <title level="j"
                             >Freiburger Diözesan-Archiv</title>
-                        <biblScope unit="volume">102</biblScope>, <date>1982</date>, p. <biblScope
-                            unit="page">5-15</biblScope>. </bibl>
+                        <biblScope unit="volume">102</biblScope>, <date>1982</date>, <biblScope
+                            unit="page">p. 5-15</biblScope>. </bibl>
+                    <bibl xml:id="berschin10">
+                        <author>W. Berschin</author>, <title level="a"
+                            >«Historia S. Wiboradae. Das sanktgallische Wiborada-Offizium des XI.
+                            Jahrhunderts»</title>, <title level="m">Mittellateinische
+                            Studien</title>
+                        <biblScope unit="volume">t. 2</biblScope>, <pubPlace>Heidelberg</pubPlace>
+                        <date>2010</date>, <biblScope unit="page">p. 193-204</biblScope>. </bibl>
+                    <bibl xml:id="berschin20">
+                        <author>W. Berschin</author>, <title level="m"
+                            >Biographie und Epochenstil im lateinischen Mittelalter</title>
+                        <biblScope unit="volume">t. 4/1</biblScope>, <pubPlace>Stuttgart</pubPlace>
+                        <edition>2</edition><date>2020</date>, <biblScope unit="page">p.
+                            118-128</biblScope>: <title level="a">Vita (I) S. Wiboradae</title>;
+                            <biblScope unit="volume">t. 4/2</biblScope>,
+                            <edition>2</edition><date>2020</date>, <biblScope unit="page">p.
+                            525-527</biblScope>: <title level="a">Herimannus Vita (II) S.
+                            Wiboradae</title>. </bibl>
                     <bibl xml:id="duft57">
                         <author>J. Duft</author>, <title level="m" type="main">Die Ungarn in St.
                             Gallen</title>. <title type="sub"> Mittelalterliche Quellen zur
@@ -77,32 +115,44 @@
                             Georgen»</title>, in <title level="m">50 Jahre Katholische Kirche und
                             Pfarrei St. Georgen 1932-1982</title>, <pubPlace>St. Georgen-St.
                             Gallen</pubPlace>
-                        <date>1982</date>, p. <biblScope unit="page">12-18</biblScope>. </bibl>
+                        <date>1982</date>, <biblScope unit="page">p. 12-18</biblScope>. </bibl>
                     <bibl xml:id="faeh26">
                         <author>A. Fäh</author>, <title level="s">Die heilige Wiborada</title>
-                        <biblScope unit="volume"> t. 1 [: Das Leben der wundertätigen hl.
-                            Wiborada]</biblScope>, <biblScope unit="volume">t. 2: Die Verehrung der
-                            Heiligen</biblScope>, <pubPlace>St. Fiden-St. Gallen</pubPlace>
+                        <biblScope unit="volume"> t. 1</biblScope> [: <title level="a">Das Leben der wundertätigen hl.
+                        Wiborada</title>], <biblScope unit="volume">t. 2</biblScope>: <title level="a">Die Verehrung der
+                        Heiligen</title>, <pubPlace>St. Fiden-St. Gallen</pubPlace>
                         <date>1926</date>. </bibl>
+                    <bibl xml:id="grundmann76">
+                        <author>H. Grundmann</author>, <title level="a">«Deutsche Eremiten,
+                            Einsiedler und Klausner im Hochmittelalter (10.-12.
+                            Jahrhundert)»</title>, <title level="m">Ausgewählte Aufsätze</title>
+                        <biblScope unit="volume">t. 1</biblScope>: <title level="a">Religiöse
+                            Bewegungen</title>, <pubPlace>Stuttgart</pubPlace>
+                        <date>1976</date>, <biblScope unit="page">p. 93-124</biblScope>. </bibl>
                     <bibl xml:id="haefele80">
                         <author>H. F. Haefele</author>, <title level="a">«Ekkehard IV. von St.
                             Gallen»</title>, in <title level="j" type="main">Die deutsche Literatur
-                            des Mittelalters</title>. <title type="sub">Verfasserlexikon t.
-                            2</title>, <edition>2</edition><date>1980</date>, col. <biblScope
-                            unit="column">464</biblScope>. </bibl>
+                            des Mittelalters</title>. <title type="sub">Verfasserlexikon</title> <biblScope unit="volume">t. 2</biblScope>, <edition>2</edition><date>1980</date>, <biblScope
+                            unit="column">col. 464</biblScope>. </bibl>
                     <bibl xml:id="irblich68">
                         <author>E. Irblich</author>, <title level="a">«Heilige im Bodenseeraum:
                             Sankt Ulrich und Sankt Wiborada. Korrektur an der Datierung ihrer
                             Begegnung an Hand der Vitae S. Wiboradae»</title>, <title level="j"
                             >Montfort</title>
-                        <biblScope unit="volume">20</biblScope>, <date>1968</date>, p. <biblScope
-                            unit="page">663-681</biblScope>. </bibl>
+                        <biblScope unit="volume">20</biblScope>, <date>1968</date>, <biblScope
+                            unit="page">p. 663-681</biblScope>. </bibl>
                     <bibl xml:id="irblich70">
                         <author>E. Irblich</author>, <title level="m" type="main">Die Vitae Sanctae
                             Wiboradae</title>. <title type="sub">Ein Heiligenleben des 10.
                             Jahrhunderts als Zeitbild</title>, <pubPlace>St. Gallen</pubPlace>
                         <date>1970</date> (=Schriften des Vereins für Geschichte des Bodensees und
                         seiner Umgebung 88, p. 1-208). </bibl>
+                    <bibl xml:id="künze85">
+                        <author>K. Künze</author>, <title level="a">«Rezension von Vitae Sanctae
+                            Wiboradae, 1983»</title>, <title level="j">Anzeiger für deutsches
+                            Altertum</title>
+                        <biblScope unit="volume">96</biblScope>, <date>1985</date>, <biblScope
+                            unit="page">p. 108-112</biblScope>. </bibl>
                     <bibl xml:id="landolt68">
                         <author>J. Landolt</author>, <title level="m" type="main">Die heilige
                             Wiborada und die Filiale Sankt-Georgen bei Sankt-Gallen</title>. <title
@@ -113,25 +163,31 @@
                         <author>J. Müller</author>, <title level="a">«Das Millenarium einer
                             Schweizer Heiligen. S. Wiborada † 2. Mai 926»</title>, <title level="j"
                             >Schweizerische Rundschau</title>
-                        <biblScope unit="volume">26</biblScope>, <date>1926/1927</date>, p.
-                            <biblScope unit="page">107-115</biblScope>. </bibl>
+                        <biblScope unit="volume">26</biblScope>, <date>1926/1927</date>, <biblScope
+                            unit="page">p. 107-115</biblScope>. </bibl>
+                    <bibl xml:id="prinz86">
+                        <author>O. Prinz</author>, <title level="a">«Zur lexikalischen Auswertung
+                            der beiden ... Vitae sanctae Wiboradae»</title>, <title level="j"
+                            >Deutsches Archiv</title>
+                        <biblScope unit="volume">42</biblScope>, <date>1986</date>, <biblScope
+                            unit="page">p. 206-212</biblScope>. </bibl>
                     <bibl xml:id="schlumpf25">
                         <author>E. Schlumpf</author>
                         <title level="a">«Datierung des Ungarneinfalles in St. Gallen und des
                             Märtyrertodes der hl. Wiborada»</title>, <title level="j">Zs. für
                             Schweizerische Kirchengeschichte</title>
-                        <biblScope unit="volume">19</biblScope>, <date>1925</date>, p. <biblScope
-                            unit="page">230-234</biblScope>. </bibl>
+                        <biblScope unit="volume">19</biblScope>, <date>1925</date>, <biblScope
+                            unit="page">p. 230-234</biblScope>. </bibl>
                     <bibl xml:id="schlumpf26">
                         <author>E. Schlumpf</author>, <title level="a">«Die Biographen der hl.
                             Wiborada»</title>, <title level="j">ib.</title>
-                        <biblScope unit="volume">20</biblScope>, <date>1926</date>, p. <biblScope
-                            unit="page">161-167</biblScope>. </bibl>
+                        <biblScope unit="volume">20</biblScope>, <date>1926</date>, <biblScope
+                            unit="page">p. 161-167</biblScope>. </bibl>
                     <bibl xml:id="schlumpf27">
                         <author>E. Schlumpf</author>, <title level="a">«Die Heiligsprechung der hl.
                             Wiborada»</title>, <title level="j">ib.</title>
-                        <biblScope unit="volume">21</biblScope>, <date>1927</date>, p. <biblScope
-                            unit="page">142-145</biblScope>. </bibl>
+                        <biblScope unit="volume">21</biblScope>, <date>1927</date>, <biblScope
+                            unit="page">p. 142-145</biblScope>. </bibl>
                     <bibl xml:id="schlumpf53">
                         <author>E. Schlumpf</author>, <title level="m">Quellen zur Geschichte der
                             Inklusen in der Stadt St. Gallen</title>, <pubPlace>St.
@@ -140,9 +196,8 @@
                     <bibl xml:id="stotz80">
                         <author>P. Stotz</author>, <title level="a">«Ekkehard I. von St.
                             Gallen»</title>, in <title level="j" type="main">Die deutsche Literatur
-                            des Mittelalters</title>. <title type="sub">Verfasserlexikon t.
-                            2</title>, <edition>2</edition><date>1980</date>, col. <biblScope
-                            unit="column">451 sq.</biblScope>
+                            des Mittelalters</title>. <title type="sub">Verfasserlexikon</title> <biblScope unit="volume">t. 2</biblScope>, <edition>2</edition><date>1980</date>, <biblScope
+                            unit="column">col. 451 sq.</biblScope>
                     </bibl>
                     <bibl xml:id="widmer66">
                         <author>B. Widmer</author>, <title level="m" type="main">Wiborada</title>.
@@ -153,8 +208,8 @@
                         <author>A. M. Zimmermann</author>, <title level="a">«Die heilige Wiborada in
                             der Kunst»</title>, <title level="j" type="main">Sankt Wiborada</title>.
                             <title type="sub">Ein Jahrbuch für Bücherfreunde</title>
-                        <biblScope unit="volume">2</biblScope>, <date>1934</date>, p. <biblScope
-                            unit="page">1-11</biblScope>. </bibl>
+                        <biblScope unit="volume">2</biblScope>, <date>1934</date>, <biblScope
+                            unit="page">p. 1-11</biblScope>. </bibl>
                     <bibl xml:id="zoepf08">
                         <author>L. Zoepf</author>, <title level="m">Das Heiligen-Leben im 10.
                             Jahrhundert</title>, <pubPlace>Leipzig-Berlin</pubPlace>
@@ -165,6 +220,13 @@
                             Mittelalters</title>, <pubPlace>München</pubPlace>
                         <date>1915</date>. </bibl>
                 </listBibl>
+                <list>
+                    <head>Abkürzungen</head>
+                    <item xml:id="MGH"><abbr>MGH</abbr> <expan>Monumenta Germaniae Historica</expan></item>
+                    <item xml:id="Migne_PL"><abbr>Migne PL</abbr> <expan>J. P. Migne, Patrologia Latina</expan></item>
+                    <item xml:id="MVG"><abbr>MVG</abbr> <expan>Mitteilungen zur Vaterländischen Geschichte</expan></item>
+                    <item xml:id="ZSKG"><abbr>ZSKG</abbr> <expan>Zeitschrift für Schweizerische Kirchengeschichte</expan></item>
+                </list>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -373,7 +435,7 @@
                         Klosterannalistik wieder einsetzte, und das war ab 955/956 der
                                     Fall<note><bibl><author>C. Henking</author>, <title level="a"
                                     >«Die annalistischen Aufzeichnungen des Klosters St.
-                                    Gallen»</title>, <title level="j">MVG</title>
+                                    Gallen»</title>, <title level="j"><ref target="#MVG">MVG</ref></title>
                                 <biblScope unit="volume">19</biblScope>, <date>1884</date>,
                                     <biblScope unit="page">p. 360 sq.</biblScope></bibl>;
                                     <bibl><author>R. Zingg</author>, <title level="m">Die St. Galler
@@ -396,7 +458,7 @@
                                 target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XLV.40">c. XLV</ref>,
                             siehe unten. Dazu <bibl><author>W.B.</author>, <title level="a">«Das
                                     Verfasserproblem der Vita S. Wiboradae»</title>, <title
-                                    level="j">ZSKG</title>
+                                    level="j"><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 250 sqq.</biblScope></bibl></note>.
                         Wir haben auch keine ernsthafte Alternative zur Angabe im selben Kapitel,
@@ -416,7 +478,7 @@
                         anderer Stelle sind Gründe dafür angeführt, daß die Abfassung der älteren
                         Vita S. Wiboradae in das Jahrzehnt 960-970 fallen
                                     dürfte<note><bibl><author>W. B.</author>, <title level="j"
-                                    >ZSKG</title>
+                                    ><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 276 sq.</biblScope> und <title
                                     level="j">Alemannisches Jahrbuch</title>
@@ -508,7 +570,7 @@
                                 <date>1896</date>, <biblScope unit="page">p. 291sq.</biblScope>,
                                     <biblScope unit="entry">nr. 519</biblScope></bibl>. Die
                             Zuschreibung <bibl><author>E. Schlumpf</author>s an Ekkehart I., (<title
-                                    level="j">ZSKG</title>
+                                    level="j"><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">45</biblScope>, <date>1951</date>,
                                     <biblScope unit="page">p. 109-114</biblScope></bibl>) ist kaum
                             haltbar.</note>, Ofﬁziendichtung<note><bibl>ed. <author>W. B.</author>,
@@ -592,7 +654,7 @@
                             Tradition des Reklusentums in St. Gallen macht sichtbar
                                     <bibl><author>[J. Duft-] E. Schlumpf</author>, «<title level="m"
                                     >Quellen zur Geschichte der Inklusen in der Stadt St.
-                                    Gallen</title>», <title level="j">MVG</title>
+                                    Gallen</title>», <title level="j"><ref target="#MVG">MVG</ref></title>
                                 <biblScope unit="volume">41/2</biblScope>, <pubPlace>St.
                                     Gallen</pubPlace>
                                 <date>1953</date></bibl>.</note>. Trotzdem behielt sein Buch den
@@ -647,10 +709,10 @@
                         der Regel weniger zur Kenntnis als Werke bekannter, historisch gut
                         einzuordnender Autoren. Es darf füglich bezweifelt werden, ob sich Georg
                         Waitz den verstümmelnden Druck der älteren Wiboradavita im vierten
-                        Scriptoresband der MGH geleistet hätte, wenn ihm bewußt gewesen wäre, daß
+                        Scriptoresband der <ref target="#MGH">MGH</ref> geleistet hätte, wenn ihm bewußt gewesen wäre, daß
                         der Verfassername «Hartmannus» letztlich nur auf Melchior Goldast
                                     zurückgeht<note><bibl><author>W. B.</author>, <title level="j"
-                                    >ZSKG</title>
+                                    ><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 251 sq.</biblScope></bibl></note> und
                         gegenüber der Verfasserangabe der Vita selbst, die Ekkehart I. nennt, keine
@@ -1095,7 +1157,7 @@
                         literaturgeschichtlicher Untersuchung bemerkt wurde, nicht die bloße Vita
                         des X. Jahrhunderts, sondern ein überarbeiteter und ergänzter
                                     Text<note><bibl><author>W. B.</author>, <title level="j"
-                                    >ZSKG</title>
+                                    ><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 269-274</biblScope></bibl>.</note>.
                         Als Ergänzungen wurden namhaft gemacht:</p>
@@ -1177,7 +1239,7 @@
                         feierlich zu begehen»: <hi rend="it">recitata vita beate Wiborade eiusque
                             miraculis</hi><note><bibl>Continuatio casuum S. Galli c. 20, ed.
                                     <editor>G. Meyer v. Knonau</editor> (<title level="j"
-                                    >MVG</title>
+                                    ><ref target="#MVG">MVG</ref></title>
                                 <biblScope unit="volume">17</biblScope>), <pubPlace>St.
                                     Gallen</pubPlace>
                                 <date>1879</date>, <biblScope unit="page">p.
@@ -1265,8 +1327,10 @@
                                     <bibl><author>W. B.</author>, <title level="a">«Notkers Metrum
                                     de vita S. Galli»</title>, <title level="j">Mittellateinische
                                     Studien</title>
-                                <biblScope unit="volume">t. 4</biblScope>, <pubPlace>Heidelberg</pubPlace>
-                                <date>2022</date>, <biblScope unit="page">p. 119-167, hier p. 121 und 165sq.</biblScope></bibl></note>.</p>
+                                <biblScope unit="volume">t. 4</biblScope>,
+                                    <pubPlace>Heidelberg</pubPlace>
+                                <date>2022</date>, <biblScope unit="page">p. 119-167, hier p. 121
+                                    und 165sq.</biblScope></bibl></note>.</p>
                 </div>
                 <div xml:id="intro_II.12">
                     <p rend="smaller">Schematische Darstellung der Textgeschichte der älteren Vita
@@ -1275,7 +1339,8 @@
                         entweder vom Exemplar Ekkeharts IV. in späterem Zustand oder von einem
                         sanktgallischen Zweitexemplar abgeleitet sein. Zwischenglieder zwischen
                             <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#A" rend="it">A</bibl>,
-                        Dillingen und <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#W" rend="it">W</bibl> einerseits und <hi rend="it">X</hi> anderseits sind
+                        Dillingen und <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#W" rend="it"
+                            >W</bibl> einerseits und <hi rend="it">X</hi> anderseits sind
                         möglich.</p>
                     <p><graphic corresp="Bilder/Stemma_E.png"/></p>
                 </div>
@@ -1303,7 +1368,7 @@
                         Kopisten leisteten sich Lesefehler, der Setzer Druckfehler, und Henschen,
                         der auch in der Vorrede zur Wiboradavita keine Probe durchdringender Kritik
                                     ablegte<note><bibl><author>W. B.</author>, <title level="j"
-                                    >ZSKG</title>
+                                    ><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 253 sq.</biblScope></bibl></note>,
                         hatte offenbar nicht die Zeit, alles zu revidieren. Man findet 22 Lesefehler
@@ -1355,7 +1420,7 @@
                         in Händen, indem er <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#S"
                             rend="it">S</bibl> kollationieren konnte; aber man verﬁel auf den
                         unglücklichen Gedanken, nur die Passagen zu edieren, die man damals als
-                        historisch relevant ansah<note><bibl><title level="j">MGH Scriptores</title>
+                        historisch relevant ansah<note><bibl><title level="j"><ref target="#MGH">MGH</ref> Scriptores</title>
                                 <biblScope unit="part">t. 4</biblScope>,
                                     <pubPlace>Hannover</pubPlace>
                                 <date>1841</date>, <biblScope unit="page">p.
@@ -1388,7 +1453,8 @@
                         ist, wird man die Vorteile der hochmittelalterlichen Graphie und
                         Interpunktion bemerken. Erstere erleichtert die kritische Arbeit am Text,
                         letztere zeigt den rhetorischen Charakter der Vita.</p>
-                    <p><bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#A" rend="it">A</bibl><bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#W" rend="it">W</bibl> und <bibl
+                    <p><bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#A" rend="it">A</bibl><bibl
+                            corresp="Ekkeharti_Vita_S_Wiboradae.xml#W" rend="it">W</bibl> und <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#Boll" rend="it">Boll.</bibl>
                         wurden nur an den wenigen Stellen, wo <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it">S</bibl> Lücken hat
@@ -1412,10 +1478,9 @@
                         Vulgata-Ausgabe von R. Weber in der Württ. Bibelanstalt, sparsam beigegeben.
                         Dem Epitaphium B. Wiboradae ist am Schluß als Appendix das Epitaphium S.
                         Rachildae gegenübergestellt, um das für die Erkenntnis der Vita als eine von
-                        Ekkehart IV. ergänzte Fassung wichtige «Reklusendiptychon»
-                        vollständig vor Augen zu führen. Die Übersetzung ist als Lesehilfe gedacht
-                        und erhebt keinen Anspruch auf adäquate Wiedergabe des lateinischen
-                        Originals.</p>
+                        Ekkehart IV. ergänzte Fassung wichtige «Reklusendiptychon» vollständig vor
+                        Augen zu führen. Die Übersetzung ist als Lesehilfe gedacht und erhebt keinen
+                        Anspruch auf adäquate Wiedergabe des lateinischen Originals.</p>
                 </div>
             </div>
             <div n="III">
@@ -1496,26 +1561,29 @@
                             Zeitgenosse unseres Herimannus, der bald nach 1076 schreibende erste
                             Fortsetzer der Casus S. Galli Ekkeharts IV., zitiert<note>Continuatio
                                 casuum S. Galli, praef., <bibl>ed. <editor>Meyer v. Knonau</editor>
-                                        (<title level="j">MVG</title>
+                                        (<title level="j"><ref target="#MVG">MVG</ref></title>
                                     <biblScope unit="volume">17</biblScope>), <pubPlace>St.
                                         Gallen</pubPlace>
                                     <date>1879</date>, <biblScope unit="page">p.
                                     5</biblScope></bibl>. Cf. <bibl><author>W. B.</author>, <title
-                                        level="a">«Notkers Metrum de vita S. Galli»</title>, in
-                                        <title level="s">Florilegium Sangallense</title>,
-                                    (Festschrift Johannes Duft), <biblScope unit="page">p. 71-121,
-                                        hier p. 73 mit n. 8</biblScope></bibl>.</note>. Dieser
-                            Zeitgenosse des Herimannus hat auch sonst manche Interessen und
-                            Vorlieben mit dem zweiten Verfasser der Vita S. Wiboradae gemeinsam. Er
-                            ist ein künstlerisch orientierter Kopf<note>Der Wert der ersten
-                                Fortsetzung der Casus S. Galli Ekkeharts IV. liegt vor allem in den
-                                Nachrichten über Bauten und Stiftungen der Äbte Notker (971-975),
-                                Ymmo (976-984), Ulrich I. (984-990) und Purchart II.
-                                (1001-1022).</note> und neigt — vielleicht ein verderblicher Einﬂuß
-                            von Ekkehart IV. — zum Klatsch<note>Der Abt Kerhart (ca. 990-1001) wird
-                                von unserem Fortsetzer in einer ähnlich ungünstigen und mißgünstigen
-                                Weise geschildert, wie dies Ekkehart IV. beim Abt Craloh (942-958)
-                                getan hatte.</note>.</p>
+                                        level="a">«Notkers Metrum de vita S. Galli»</title>, <title
+                                        level="m">Mittellateinische Studien</title>
+                                    <biblScope unit="volume">t. 4</biblScope>,
+                                        <pubPlace>Heidelberg</pubPlace>
+                                    <date>2022</date><biblScope unit="page">p. 119-167, hier p.
+                                        121</biblScope> mit <biblScope unit="entry">n.
+                                    8</biblScope></bibl>.</note>. Dieser Zeitgenosse des Herimannus
+                            hat auch sonst manche Interessen und Vorlieben mit dem zweiten Verfasser
+                            der Vita S. Wiboradae gemeinsam. Er ist ein künstlerisch orientierter
+                                Kopf<note>Der Wert der ersten Fortsetzung der Casus S. Galli
+                                Ekkeharts IV. liegt vor allem in den Nachrichten über Bauten und
+                                Stiftungen der Äbte Notker (971-975), Ymmo (976-984), Ulrich I.
+                                (984-990) und Purchart II. (1001-1022).</note> und neigt —
+                            vielleicht ein verderblicher Einﬂuß von Ekkehart IV. — zum
+                                Klatsch<note>Der Abt Kerhart (ca. 990-1001) wird von unserem
+                                Fortsetzer in einer ähnlich ungünstigen und mißgünstigen Weise
+                                geschildert, wie dies Ekkehart IV. beim Abt Craloh (942-958) getan
+                                hatte.</note>.</p>
                     </div>
                     <div xml:id="intro_III.2">
                         <p>Man kann sich gut vorstellen, daß der Vitenautor Herimannus und der erste
@@ -1540,7 +1608,7 @@
                             Schriftsteller St. Gallens im Mittelalter. Nach ihm kommen die anonymen
                             Annalisten und Fortsetzer der Casus S. Galli, der anonyme Autor der Vita
                             Notkeri Balbuli<note><bibl><editor>E. Lechner</editor>, <title level="m"
-                                        >Vita Notkeri Balbuli</title> (<title level="j">MVG</title>
+                                        >Vita Notkeri Balbuli</title> (<title level="j"><ref target="#MVG">MVG</ref></title>
                                     <biblScope unit="volume">47</biblScope>), <pubPlace>St.
                                         Gallen</pubPlace>
                                     <date>1972</date></bibl>.</note> und Cuonradus de Fabaria.
@@ -1560,12 +1628,19 @@
                             Bild freilich nur etwas modiﬁzieren: die eine Handschrift liegt in der
                             Kantonsbibliothek (Vadiana) St. Gallen und hat das Kloster nur um ein
                             Geringes verlassen; die andere, Heidelberger, kommt aus Salem; sie ist
-                            unser einziger Zeuge dafür, daß die jüngere Vita S. Wiboradae des
-                            Herimannus während des Mittelalters auch außerhalb St. Gallens gelesen
-                            wurde. Hinzu kommt nun noch eine Basler Handschrift vom Jahr 1508.</p>
-                        <p><seg n="A"><bibl corresp="Herimanni_Vita_S_Wiboradae.xml#A">Cod.
-                                    560</bibl></seg> der Stiftsbibliothek, von Eva Irblich treffend
-                            «die Trilogie der Sankt-Galler Hausheiligen»
+                            unser einziger Zeuge<note>Eine (verschollene?) Hs. in Einsiedeln zeigt
+                                an <bibl><author>M. Ziegelbauer</author>, <title level="m">Historia
+                                        rei literariae Ordinis Sancti Benedicti</title>
+                                    <biblScope unit="volume">t. 1</biblScope>,
+                                        <pubPlace>Augsburg/Würzburg</pubPlace>
+                                    <date>1754</date>, <biblScope unit="page">p.
+                                    584</biblScope></bibl></note> dafür, daß die jüngere Vita S.
+                            Wiboradae des Herimannus während des Mittelalters auch außerhalb St.
+                            Gallens gelesen wurde. Hinzu kommt nun noch eine Basler Handschrift vom
+                            Jahr 1508.</p>
+                        <p><seg n="A" rend="sb"><bibl corresp="Herimanni_Vita_S_Wiboradae.xml#A"
+                                    >Cod. 560</bibl></seg> der Stiftsbibliothek, von Eva Irblich
+                            treffend «die Trilogie der Sankt-Galler Hausheiligen»
                                         genannt<note><bibl><author>E. Irblich</author>, <title
                                         level="a">«Heilige im Bodenseeraum»</title>, <title
                                         level="j">Montfort</title>
@@ -1666,32 +1741,35 @@
                                         level="j">Scriptoria Medii Aevi Helvetica</title>
                                     <biblScope unit="part">t. 3</biblScope>, <biblScope unit="page"
                                         >p. 110 mit tab. 49</biblScope></bibl>.</note>, <seg n="B"
-                                >Stiftsbibliothek <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#B"
-                                    >Cod. 564</bibl></seg>. Auch dieses Buch wurde in einer guten
-                            Form, aber doch nicht so üppig geschrieben wie die Vorlage. Das erste
-                            Buch der Wiboradavita steht auf p. 231-309 des Codex. Das zweite Buch
-                            ist auf einem Ternio p. 310-320 von einer Hand des XIII. Jahrhunderts
-                            ergänzt worden. Da es sich hier um die letzte Lage des Bandes handelt,
-                            ist anzunehmen, daß eine verdorbene oder verlorene Lage ersetzt wurde.
-                            Der Hauptschreiber dieses Exemplars verzichtete auf das Gold und die
-                            vielen dekorativen Textunterbrechungen durch verzierte Buchstaben. Er
-                            schrieb dem Zeitstil entsprechend die karolingische Minuskel auch
-                            wesentlich dichter als sein Vorgänger des XI. Jahrhunderts. Da zugleich
-                            die Zeilen enger aneinandergerückt wurden (21 statt 17 pro Seite),
-                            brauchte der Schreiber des XII. Jahrhunderts rund ein Drittel weniger
-                            Pergament als Herimann. Sei es, daß man den Vorteil der jüngeren
-                            Handschrift schätzte, den Text besser zu überblicken, sei es, daß man
-                            den Prachtcodex des Herimannus schonen wollte: Die Abschrift wurde das
-                            Gebrauchsexemplar der Abtei. Es wurde zur Lesung am Heiligenfest
-                                benützt<note>Im Gallusleben des <bibl
-                                    corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang. 564</bibl>
-                                findet sich an entsprechender Stelle der Vermerk, daß zusätzlich zu
-                                Walahfrids Vita Notkers Sermo S. Galli zu lesen sei.
-                                        <bibl><author>W. B.</author>, in <title level="m"
-                                        >Florilegium Sangallense</title> (Festschrift Johannes
-                                    Duft), <biblScope unit="page">p. 88</biblScope></bibl>.</note>,
-                            zur Lektüre (Noten des XV. Jahrhunderts) und zur Abschrift ausgeliehen.
-                            Für die Überlieferungsgeschichte der Wiboradavita des Herimann ist <bibl
+                                rend="sb">Stiftsbibliothek <bibl
+                                    corresp="Herimanni_Vita_S_Wiboradae.xml#B">Cod.
+                            564</bibl></seg>. Auch dieses Buch wurde in einer guten Form, aber doch
+                            nicht so üppig geschrieben wie die Vorlage. Das erste Buch der
+                            Wiboradavita steht auf p. 231-309 des Codex. Das zweite Buch ist auf
+                            einem Ternio p. 310-320 von einer Hand des XIII. Jahrhunderts ergänzt
+                            worden. Da es sich hier um die letzte Lage des Bandes handelt, ist
+                            anzunehmen, daß eine verdorbene oder verlorene Lage ersetzt wurde. Der
+                            Hauptschreiber dieses Exemplars verzichtete auf das Gold und die vielen
+                            dekorativen Textunterbrechungen durch verzierte Buchstaben. Er schrieb
+                            dem Zeitstil entsprechend die karolingische Minuskel auch wesentlich
+                            dichter als sein Vorgänger des XI. Jahrhunderts. Da zugleich die Zeilen
+                            enger aneinandergerückt wurden (21 statt 17 pro Seite), brauchte der
+                            Schreiber des XII. Jahrhunderts rund ein Drittel weniger Pergament als
+                            Herimann. Sei es, daß man den Vorteil der jüngeren Handschrift schätzte,
+                            den Text besser zu überblicken, sei es, daß man den Prachtcodex des
+                            Herimannus schonen wollte: Die Abschrift wurde das Gebrauchsexemplar der
+                            Abtei. Es wurde zur Lesung am Heiligenfest benützt<note>Im Gallusleben
+                                des <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang.
+                                    564</bibl> findet sich an entsprechender Stelle der Vermerk, daß
+                                zusätzlich zu Walahfrids Vita Notkers Sermo S. Galli zu lesen sei.
+                                        <bibl><author>W. B.</author>, <title level="m"
+                                        >Mittellateinische Studien</title>
+                                    <biblScope unit="volume">t. 4</biblScope>,
+                                        <pubPlace>Heidelberg</pubPlace>
+                                    <date>2022</date>, <biblScope unit="page">p.
+                                    134</biblScope></bibl>.</note>, zur Lektüre (Noten des XV.
+                            Jahrhunderts) und zur Abschrift ausgeliehen. Für die
+                            Überlieferungsgeschichte der Wiboradavita des Herimann ist <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#B" rend="it">B</bibl> der
                             zentrale Codex<note>Man vergleiche das <ref target="#intro_III.11"
                                     >Stemma</ref> unten.</note>.</p>
@@ -1702,14 +1780,22 @@
                             jetzigen <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang.
                                 564</bibl> (<hi rend="it">B</hi>) zur Abschrift erhalten (— oder es
                             durfte ein Salemer Schreiber in St. Gallen kopieren). Die jetzt in
-                                Heidelberg<note>Angezeigt und beschrieben <bibl><author>W.
-                                        B.</author>, <title level="j">Alemannisches Jahrbuch</title>
-                                    <biblScope unit="volume">1973/1975</biblScope>, <biblScope
-                                        unit="page">p. 334</biblScope></bibl>.</note> aufbewahrte
-                            Handschrift <seg n="C"><bibl corresp="Herimanni_Vita_S_Wiboradae.xml#C"
-                                    >Sal. IX 21</bibl></seg> zeigt die Merkmale der Handschriften
-                            aus der Epoche Abt Eberhards I. von Salem (1192-1240): eine für deutsche
-                            Verhältnisse weit fortgeschrittene Schaftbrechung, jedoch noch ohne
+                                        Heidelberg<note><bibl><author>W. Werner</author>, <title
+                                        level="m">Die mittelalterlichen nichtliturgischen
+                                        Handschriften des Zisterzienserklosters Salem</title>,
+                                        <pubPlace>Wiesbaden</pubPlace>
+                                    <date>2000</date>, <biblScope unit="page">p.
+                                    198-200</biblScope></bibl>. <bibl><author>A. Fleischer</author>,
+                                        <title level="m">Zisterzienserabt und Skriptorium</title>,
+                                        <title type="sub">Salem unter Eberhard I. von
+                                        Rohrdorf</title>, <pubPlace>Wiesbaden</pubPlace>
+                                    <date>2004</date>, <biblScope unit="page">p. 54sq.</biblScope>
+                                    und <biblScope unit="table">tab. 26</biblScope></bibl>.</note>
+                            aufbewahrte Handschrift <seg n="C" rend="sb"><bibl
+                                    corresp="Herimanni_Vita_S_Wiboradae.xml#C">Sal. IX
+                                21</bibl></seg> zeigt die Merkmale der Handschriften aus der Epoche
+                            Abt Eberhards I. von Salem (1191-1240): eine für deutsche Verhältnisse
+                            weit fortgeschrittene Schaftbrechung, jedoch noch ohne
                             Bogenverbindungen. Man kann diese Schrift mit gleichem Recht als eine
                             (der deutschen Spätromanik vergleichbare) letzte Ausprägung der
                             karolingischen Minuskel bezeichnen oder auch «frühgotisch» nennen. Das
@@ -1724,22 +1810,21 @@
                             Klostergeschichte, hat keine Abschrift unserer Wiboradavita überliefert;
                             zwei Exemplare dagegen das schreibfreudige XV. Jahrhundert. Einem
                             Schreiber, dessen Name noch zu ermitteln bleibt, verdanken wir beide
-                            Handschriften; die ältere<note>wie vorige Anmerkung.</note> ist der <seg
-                                n="Vad. 70"><bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70"
-                                    >Codex 70</bibl></seg> (L12) der Kantonsbibliothek (Vadiana) zu
-                            St. Gallen; die jüngere ist <bibl
-                                corresp="Herimanni_Vita_S_Wiboradae.xml#Sang_610">Stiftsbibliothek
-                                Cod. 610</bibl>. In letzterem hat der Schreiber den Tag der
-                            Vollendung der Wiboradavita festgehalten: 1. Oktober 1459. Diesen
-                            ﬂeißigen Zeitgenossen Gutenbergs kann man fast schon den ersten Editor
-                            der Wiboradavita nennen. Er schrieb zunächst den <bibl
+                            Handschriften; die ältere ist der <seg n="Vad. 70" rend="sb"><bibl
+                                    corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70">Codex
+                                70</bibl></seg> (L12) der Kantonsbibliothek (Vadiana) zu St. Gallen;
+                            die jüngere ist <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Sang_610"
+                                >Stiftsbibliothek Cod. 610</bibl>. In letzterem hat der Schreiber
+                            den Tag der Vollendung der Wiboradavita festgehalten: 1. Oktober 1459.
+                            Diesen ﬂeißigen Zeitgenossen Gutenbergs kann man fast schon den ersten
+                            Editor der Wiboradavita nennen. Er schrieb zunächst den <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang. 564</bibl> (<hi
                                 rend="it">B</hi>) ab, verglich diese Abschrift dann aber mit dem
                                 <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#A">Sang. 560</bibl>
                                 (<hi rend="it">A</hi>) und brachte auf diese Weise einen
                             vorzüglichen Text zustande: <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70">Vad. 70</bibl>.
-                            Diesen kopierte er sodann in <seg n="Sang. 610"><bibl
+                            Diesen kopierte er sodann in <seg n="Sang. 610" rend="sb"><bibl
                                     corresp="Herimanni_Vita_S_Wiboradae.xml#Sang_610">Sang.
                                     610</bibl></seg>, einem fast zeilengenau identischen
                             Exemplar.</p>
@@ -1761,8 +1846,8 @@
                     </div>
                     <div xml:id="intro_III.7">
                         <p>Schließlich fand sich noch eine handschriftliche Überlieferung des frühen
-                            XVI. Jahrhunderts in dem Sammelband <seg n="Basil. D.I.18"><bibl
-                                    corresp="Herimanni_Vita_S_Wiboradae.xml#Basil_D.I.18"
+                            XVI. Jahrhunderts in dem Sammelband <seg n="Basil. D.I.18" rend="sb"
+                                    ><bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Basil_D.I.18"
                                     >D.I.18</bibl></seg> der Basler Universitätsbibliothek. Er
                             enthält am Anfang eine bei Froben in Basel gedruckte Vita B. Brunonis
                             und unter verschiedenartigem Handschriftlichem zweispaltig zu 35 Zeilen
@@ -1955,7 +2040,7 @@
                             um die älteste Überlieferung besorgt; er war zufrieden, einen <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70">Codex aus Vadians
                                 Besitz</bibl> zur Verfügung zu haben, nach dem er die Vita wie auch
-                            anderes druckte<note><bibl>[<author>G. Scherer</author>], <title
+                            anderes druckte<note><bibl>[<author>G. Scherer</author>,] <title
                                         level="m">Verzeichniss der Manuscripte und Incunabeln der
                                         Vadianischen Bibliothek in St. Gallen</title>, <pubPlace>St.
                                         Gallen</pubPlace>
@@ -2043,17 +2128,13 @@
                             Gottfried <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Boll"
                                 >Henschen</bibl> (<hi rend="it">Boll.</hi>). Für die Übersetzung der
                             jüngeren Vita gilt dieselbe Bemerkung wie für die der älteren<note n="*"
-                                >Durch Kollation, Übersetzung, Korrektur und Register haben an
-                                diesem Buch mitgewirkt die Studenten des Heidelberger Seminars für
-                                Lateinische Philologie des Mittelalters und der Neuzeit:
-                                        <bibl><author>Gereon Becht</author>, <author>Peter
-                                        Burkhart</author>, <author>Andrea Jördens</author>,
-                                        <author>Peter König</author>, <author>Bettina
-                                        Klein-Ilbeck</author> und <author>Dorothea
-                                    Walz</author></bibl>. Die Stemmata schrieb <bibl><author>Erhard
-                                        Wagner</author></bibl>. Stiftsarchivar Dr.
-                                        <bibl><author>Werner Vogler</author></bibl>, St. Gallen, ist
-                                herzlich für die Betreuung des Buches zu danken.</note>. </p>
+                                >Frau Svenja <bibl><author>Berkensträter</author></bibl> hat sich um
+                                die Verbesserungen und Ergänzungen dieser Auflage verdient gemacht
+                                und die elektronische Fassung hergestellt. Das Stemma der
+                                Überlieferung der jüngeren Vita schrieb <bibl><author>Erhard
+                                        Wagner</author></bibl>. Stiftsarchivar Dr. Cornel
+                                        <bibl><author>Dora</author></bibl>, St. Gallen, ist herzlich
+                                für die Betreuung des Buches zu danken.</note>. </p>
                     </div>
                 </div>
             </div>
