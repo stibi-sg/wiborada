@@ -277,11 +277,21 @@
             <cit xml:id="Pass_S_Afr_3">
                <bibl>Passio (II) S. Afrae c. 3</bibl>
             </cit>
+            <cit xml:id="Hier_Vita_S_Pauli_7">
+               <bibl>Hieron., Vita S. Pauli c. 7</bibl>
+            </cit>
+            <cit xml:id="Hier_epist_22.30">
+               <bibl>Hieron., epist. 22,30</bibl>
+            </cit>
             <cit xml:id="Ado_Pass_Des_441C">
                <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 441 C</bibl>
             </cit>
             <cit xml:id="Wala_Gall_I_32">
                <bibl>Walahfrid, Vita S. Galli I 32</bibl>
+            </cit>
+            <cit xml:id="Apc_6.9">
+               <bibl>Apc 6,9</bibl>
+               <quote>et cum aperuisset quintum sigillum vidi subtus altare animas interfectorum propter verbum Dei et propter testimonium quod habebant</quote>
             </cit>
             <cit xml:id="Ct_4.1">
                <bibl>Ct 4,1</bibl>
@@ -298,6 +308,10 @@
                <bibl>II Tim 1,12</bibl>
                <quote>ob quam causam etiam haec patior sed non confundor scio enim cui credidi et
                   certus sum quia potens est depositum meum servare in illum diem</quote>
+            </cit>
+            <cit xml:id="Ex_25.5">
+               <bibl>Ex 25,5</bibl>
+               <quote>et pelles arietum rubricatas pelles ianthinas et ligna setthim</quote>
             </cit>
             <cit xml:id="Hor_epist_II_1.83">
                <bibl>Horat. Epist. II 1,83-85</bibl>
