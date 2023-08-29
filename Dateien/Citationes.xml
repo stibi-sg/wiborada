@@ -314,10 +314,10 @@
                <quote>et pelles arietum rubricatas pelles ianthinas et ligna setthim</quote>
             </cit>
             <cit xml:id="Hor_epist_II_1.83">
-               <bibl>Horat. Epist. II 1,83-85</bibl>
+               <bibl>Horat., Epist. II 1,83-85</bibl>
             </cit>
             <cit xml:id="Hor_epist_II_1.69">
-               <bibl>Horat. Epist. II 1,69 sq.</bibl>
+               <bibl>Horat., Epist. II 1,69 sq.</bibl>
             </cit>
             <cit xml:id="Hor_ars_359">
                <bibl>Horat., Ars poet. 359</bibl>
@@ -353,6 +353,10 @@
             <cit xml:id="Hor_carm_III_6.24">
                <bibl>Horat., Carm. III 6,24</bibl>
             </cit>
+            <cit xml:id="Tit_3.5">
+               <bibl>Tit 3,5</bibl>
+               <quote>non ex operibus iustitiae quae fecimus nos sed secundum suam misericordiam salvos nos fecit per lavacrum regenerationis et renovationis Spiritus Sancti</quote>
+            </cit>
             <cit xml:id="Ps_112.3">
                <bibl>Ps 112,3</bibl>
                <quote>a solis ortu usque ad occasum laudabile nomen Domini</quote>
@@ -362,6 +366,9 @@
                <quote>ab ortu enim solis usque ad occasum magnum est nomen meum in gentibus et in
                   omni loco sacrificatur et offertur nomini meo oblatio munda quia magnum nomen meum
                   in gentibus dicit Dominus exercituum</quote>
+            </cit>
+            <cit xml:id="Miss_Rom_nat_tert_intr">
+               <bibl>Miss. Rom., In nat. dom. tertiae missae Introitus</bibl>
             </cit>
             <cit xml:id="Ps_88.8">
                <bibl>Ps 88,8</bibl>
@@ -470,8 +477,14 @@
                <bibl>Lc 5,11</bibl>
                <quote>et subductis ad terram navibus relictis omnibus secuti sunt illum</quote>
             </cit>
+            <cit xml:id="Lucan_Phars_II_657">
+               <bibl>Lucan., Phars. II 657</bibl>
+            </cit>
             <cit xml:id="Iuv_I_1.159">
                <bibl>Iuvenal. I 1,159</bibl>
+            </cit>
+            <cit xml:id="Virg_Aen_II_268-269">
+               <bibl>Virg., Aen. II 268 sq.</bibl>
             </cit>
             <cit xml:id="Mt_8.28-32">
                <bibl>Mt 8,28-32</bibl>
@@ -571,6 +584,10 @@
                <bibl>Sir 44,16</bibl>
                <quote>Enoch placuit Deo et translatus est in paradiso ut det gentibus
                   paenitentiam</quote>
+            </cit>
+            <cit xml:id="Ps_111.9">
+               <bibl>Ps 111,9</bibl>
+               <quote>dispersit dedit pauperibus</quote>
             </cit>
             <cit xml:id="Cass_Inst_VII_6">
                <bibl>Cassian., Inst. VII 6</bibl>
@@ -692,6 +709,12 @@
                <quote>vos autem in carne non estis sed in Spiritu si tamen Spiritus Dei habitat in
                   vobis si quis autem Spiritum Christi non habet hic non est eius</quote>
             </cit>
+            <cit xml:id="Aug_gen_litt_XII_23">
+               <bibl>Augustin., De gen. ad litt. XII 23</bibl>
+            </cit>
+            <cit xml:id="Aug_gen_litt_XII_24">
+               <bibl>Augustin., De gen. ad litt. XII 24</bibl>
+            </cit>
             <cit xml:id="Gal_5.22-23">
                <bibl>Gal 5,22 sq.</bibl>
                <quote>fructus autem Spiritus est caritas gaudium pax longanimitas bonitas benignitas 23
@@ -701,6 +724,12 @@
                <bibl>Rm 11,36</bibl>
                <quote>quoniam ex ipso et per ipsum et in ipso omnia ipsi gloria in saecula
                   amen</quote>
+            </cit>
+            <cit xml:id="Aug_gen_litt_XII_11">
+               <bibl>Augustin., De gen. ad litt. XII 11</bibl>
+            </cit>
+            <cit xml:id="Aug_gen_litt_XII_12">
+               <bibl>Augustin., De gen. ad litt. XII 12</bibl>
             </cit>
             <cit xml:id="Act_10.13-15">
                <bibl>Act 10,13 sqq.</bibl>
@@ -717,6 +746,12 @@
                <bibl>Act 10,20</bibl>
                <quote>surge itaque et descende et vade cum eis nihil dubitans quia ego misi
                   illos</quote>
+            </cit>
+            <cit xml:id="Aug_gen_litt_XII_25">
+               <bibl>Augustin., De gen. ad litt. XII 25</bibl>
+            </cit>
+            <cit xml:id="Aug_gen_litt_XII_26">
+               <bibl>Augustin., De gen. ad litt. XII 26</bibl>
             </cit>
             <cit xml:id="Ex_19">
                <bibl>Ex 19</bibl>
@@ -763,7 +798,7 @@
                <bibl>Gerhard, Vita S. Uodalrici I 1</bibl>
             </cit>
             <cit xml:id="Bern_Uod_3">
-               <bibl>Berno, Vita S. Uodalrici c. 3</bibl>
+               <bibl>Bern, Vita S. Uodalrici c. 3</bibl>
             </cit>
             <cit xml:id="I_Sm_30.11-15">
                <bibl>I Sm 30,11 sqq.</bibl>
@@ -935,6 +970,9 @@
                   in terram bonam et ortum fecit fructum centuplum haec dicens clamabat qui habet
                   aures audiendi audiat</quote>
             </cit>
+            <cit xml:id="Ben_reg_53.15">
+               <bibl>Ben. Reg. 53,15</bibl>
+            </cit>
             <cit xml:id="Mt_8.9">
                <bibl>Mt 8,9</bibl>
                <quote>nam et ego homo sum sub potestate habens sub me milites et dico huic vade et
@@ -1001,8 +1039,17 @@
                <quote>quaerebant ergo eum adprehendere et nemo misit in illum manus quia nondum
                   venerat hora eius</quote>
             </cit>
+            <cit xml:id="Greg_Hom_ev_I_1.1">
+               <bibl>Greg., Hom. in ev. I 1,1</bibl>
+            </cit>
+            <cit xml:id="Grim_Reg_sol_16">
+               <bibl>Grimlaic, Regula solitariorum c. 16</bibl>
+            </cit>
             <cit xml:id="Mart_Cap_nupt_I_2">
-               <bibl>Martianus Capella, De nuptiis I 2</bibl>
+               <bibl>Mart. Cap., De nuptiis I 2</bibl>
+            </cit>
+            <cit xml:id="Walth_51">
+               <bibl>Waltharius, v. 51</bibl>
             </cit>
             <cit xml:id="Wala_Vita_Gall_I_12">
                <bibl>Walahfrid, Vita S. Galli I 12</bibl>
@@ -1047,8 +1094,11 @@
                <quote>qui solus habet inmortalitatem lucem habitans inaccessibilem quem vidit nullus
                   hominum sed nec videre potest cui honor et imperium sempiternum amen</quote>
             </cit>
+            <cit xml:id="Hier_epist_66.2.1">
+               <bibl>Hieron., epist. 66,2,1</bibl>
+            </cit>
             <cit xml:id="Boeth_Cons_I_pr_2">
-               <bibl>Boethius, Consolatio philosophiae I pr. 2</bibl>
+               <bibl>Boethius, Consolatio Philosophiae I pr. 2</bibl>
             </cit>
             <cit xml:id="Virg_ecl_III_54">
                <bibl>Virgil., Ecl. III 54</bibl>
@@ -1057,6 +1107,9 @@
                <bibl>Eph 1,10</bibl>
                <quote>in dispensationem plenitudinis temporum instaurare omnia in Christo quae in
                   caelis et quae in terra sunt in ipso</quote>
+            </cit>
+            <cit xml:id="Beda_Hist_IV_9">
+               <bibl>Beda, Hist. eccl. IV 9</bibl>
             </cit>
             <cit xml:id="Act_9.15">
                <bibl>Act 9,15</bibl>
@@ -1095,6 +1148,9 @@
                <bibl>Iob 2,6</bibl>
                <quote>dixit ergo Dominus ad Satan ecce in manu tua est verumtamen animam illius
                   serva</quote>
+            </cit>
+            <cit xml:id="Virg_Georg_IV_169">
+               <bibl>Virg., Georg. IV 169</bibl>
             </cit>
          </div>
       </back>
