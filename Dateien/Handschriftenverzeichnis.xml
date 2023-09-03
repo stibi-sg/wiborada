@@ -79,6 +79,23 @@
                         </msContents>
                     </msDesc>
                 </witness>
+                <witness corresp="Ekkeharti_Vita_S_Wiboradae.xml#W">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">London</placeName>
+                            <repository>British Library</repository>
+                            <idno>Add. 10933</idno>
+                            <altIdentifier type="url">
+                                <idno>http://searcharchives.bl.uk/permalink/f/79qrt5/IAMS032-002108747</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <bibl><biblScope>f. 156<hi rend="sup">rb</hi>-163<hi rend="sup">ra</hi></biblScope></bibl>
+                            </msItem>
+                        </msContents>
+                    </msDesc>
+                </witness>
                 <witness corresp="Herimanni_Vita_S_Wiboradae.xml#Vad_70">
                     <msDesc>
                     <msIdentifier>
