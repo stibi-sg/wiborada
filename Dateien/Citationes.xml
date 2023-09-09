@@ -110,14 +110,14 @@
 
             </cit>
             <cit xml:id="Ado_Pass_Des_440C">
-               <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 440 C</bibl>
+               <bibl>Ado, Passio S. Desiderii, <ref target="Einleitung.xml#Migne_PL"><hi rend="it">Migne PL</hi></ref> 123, col. 440 C</bibl>
             </cit>
             <cit xml:id="Mt_28.1">
                <bibl>Mt 28,1</bibl>
                <quote>vespere autem sabbati quae lucescit in primam sabbati venit Maria Magdalene et altera Maria videre sepulchrum</quote>
             </cit>
             <cit xml:id="Ado_Pass_Des_438A">
-               <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 438 A</bibl>
+               <bibl>Ado, Passio S. Desiderii, <ref target="Einleitung.xml#Migne_PL"><hi rend="it">Migne PL</hi></ref> 123, col. 438 A</bibl>
             </cit>
             <cit xml:id="Sulp_Sev_Dial_I_14.8">
                <bibl>Sulp. Sev., Dial. I 14,8</bibl>
@@ -284,7 +284,7 @@
                <bibl>Hieron., epist. 22,30</bibl>
             </cit>
             <cit xml:id="Ado_Pass_Des_441C">
-               <bibl>Ado, Passio S. Desiderii, <hi rend="it">Migne PL</hi> 123, col. 441 C</bibl>
+               <bibl>Ado, Passio S. Desiderii, <ref target="Einleitung.xml#Migne_PL"><hi rend="it">Migne PL</hi></ref> 123, col. 441 C</bibl>
             </cit>
             <cit xml:id="Wala_Gall_I_32">
                <bibl>Walahfrid, Vita S. Galli I 32</bibl>

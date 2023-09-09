@@ -270,7 +270,7 @@
                </app> quidem qua dicitur · <seg type="cf." source="#II_Th_3.10">qui non laborat <app>
                      <lem>nec</lem>
                      <rdg wit="#A #W #Boll.">non</rdg>
-                  <note>(Vetus latina teste <bibl><author>G. Becht-Jördens</author></bibl>)</note>
+                  <note>(Vetus latina teste <bibl corresp="Einleitung.xml#becht02"><author>G. Becht-Jördens</author></bibl>)</note>
                   </app> manducet</seg> · sponsionem autem quę sic exhortatur · <seg
                   source="#Ps_127.2">labores manuum tuarum <app>
                      <lem>quia</lem>
@@ -1974,7 +1974,7 @@
                dubitans <app>
                   <lem>eorum</lem>
                   <rdg>[multa] eorum <note>coniec. <ref target="#Boll">Boll.</ref> De hoc loco et de
-                        genetivo partitivo <hi rend="rom">eorum</hi> disputavi ZSKG <hi rend="rom"
+                        genetivo partitivo <hi rend="rom">eorum</hi> disputavi <ref target="Einleitung.xml#ZSKG">ZSKG</ref> <hi rend="rom"
                            >66, 1972, p. 253 sq.</hi> Cf. huius vitae <ref target="#vw1_XI.10">c.
                            XI</ref>
                         <hi rend="rom">cum nec <hi rend="wide">vicinorum</hi> nec aliquis ex ipsius
