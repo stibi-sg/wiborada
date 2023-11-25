@@ -123,7 +123,7 @@
             <head>
                <pb ed="#S" n="Stuttgart, Bibl. 2°58, fol. 130ra"
                   facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/><app>
-                     <lem>Incipit uita ·s· <persName ref="#wibo">wiberadę</persName> uirginis et
+                     <lem>Incipit uita <w>·s·</w> <persName ref="#wibo">wiberadę</persName> uirginis et
                      martyris</lem>
                   <rdg wit="#A #W">Incipit vita et passio sancte <persName ref="#wibo"
                         >Wiborade</persName> virginis et martiris · aput sanctum <persName
@@ -2019,7 +2019,7 @@
                </app> · </head>
          </div>
          <div>
-            <p><lg rend="center" type="elegiacCouplet">
+            <lg type="elegiacCouplet">
                   <l><g rend="initial">F</g>ilius altithroni postquam resplenduit orbi ·</l>
                   <l rend="indent"><app>
                         <lem>Christus</lem>
@@ -2065,14 +2065,13 @@
                         <rdg wit="#A">uenit</rdg>
                      </app> ouatque DEO<app><rdg wit="#W">Explicit epitalmus</rdg></app> ·</l>
                </lg>
-            </p>
          </div>
          <div rend="break-before fn-reset">
             <head> Appendix 2: <persName ref="#ekke">Ekkeharti IV</persName><lb/>
                <pb ed="#Cod." n="St. Gallen, Stiftsbibl. 393, p. 260"
                   facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>Epitaphium sanctę <persName
                   ref="#rach">Rachildę</persName> uirginis reclusę · </head>
-            <lg rend="center" type="elegiacCouplet">
+            <lg type="elegiacCouplet">
                <l><g rend="initial">I</g>n cruce confregit postquam uictorque subegit ·</l>
                <l rend="indent"><persName ref="#leui">Leuiathan</persName> hamo <persName ref="#mari"
                      >Uirgine</persName> natus homo</l>
