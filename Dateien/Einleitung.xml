@@ -8,7 +8,7 @@
                 <title type="main">VITAE SANCTAE WIBORADAE</title>
                 <title type="sub">Die ältesten Lebensbeschreibungen der heiligen Wiborada</title>
                 <respStmt>
-                    <resp>Einleitung, Edition und Übersetzung<lb/> von</resp>
+                    <resp>Einleitung, Edition und Übersetzung von</resp>
                     <persName>Walter Berschin</persName>
                 </respStmt>
                 <respStmt>
@@ -16,18 +16,13 @@
                     <name/>
                 </respStmt>
                 <respStmt>
-                    <resp>Technische Umsetzung durch</resp>
+                    <resp>Inhaltliche und technische Umsetzung durch</resp>
                     <persName>Svenja Berkensträter und Wolfgang Meier</persName>
-                </respStmt>
-                <respStmt>
-                    <resp>Gefördert von</resp>
-                    <orgName>X</orgName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Stiftsbibliothek St. Gallen <lb/>Klosterhof 6d <lb/>9000 St.
-                    Gallen</publisher>
-                <date>2023</date>
+                <publisher>Herausgegeben von der Stiftsbibliothek St. Gallen</publisher>
+                <pubPlace>St. Gallen</pubPlace> <date>2023</date>
                 <availability>
                     <licence>CC BY-SA</licence>
                 </availability>
@@ -224,7 +219,7 @@
                         <date>1915</date>. </bibl>
                 </listBibl>
                 <list>
-                    <head>Abkürzungen</head>
+                    <head>ABKÜRZUNGEN</head>
                     <item xml:id="MGH"><abbr>MGH</abbr>
                         <expan>Monumenta Germaniae Historica</expan></item>
                     <item xml:id="Migne_PL"><abbr>Migne PL</abbr>
@@ -274,7 +269,7 @@
                 <lg rend="center bottom">
                     <l>St. Wiborada. Schlußstein im Refektorium von Mariaberg/Rorschach,</l>
                     <l>Erasmus Grasser zugeschrieben, um 1515.</l>
-                    <l>Aufnahme: Karl Künzler, St. Gallen</l>
+                    <l>Aufnahme: Johannes Huber, St. Gallen</l>
                 </lg>
             </div>
             <div rend="break-before frontmatter">
@@ -359,13 +354,13 @@
                         Verbrüderungen am Anfang dieses Buchs, dem meistbenützten «Regelcodex» der
                         Abtei, steht die Notiz<note><bibl corresp="#Sang_915">St. Gallen,
                                 Stiftsbibliothek Cod. 915</bibl>, p. 8. Facsimile dieser Seite bei
-                                    <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m">Die Vitae S.
-                                    Wiboradae</title>, <date>1970</date>, <biblScope unit="table"
-                                    >tab. 11</biblScope>.</bibl> Das Endungs-<hi rend="it">s</hi>
-                            von <hi rend="it">paganis</hi> ist durch Beschneiden des Blatts
-                            verlorengegangen. Überblick über die Handschrift <bibl><author>J.
-                                    Autenrieth</author>, <title level="a">«Der Codex Sangallensis
-                                    915. Ein Beitrag zur Erforschung der
+                                <bibl corresp="#irblich70"><author>Irblich</author>, <title
+                                    level="m">Die Vitae S. Wiboradae</title>, <date>1970</date>,
+                                    <biblScope unit="table">tab. 11</biblScope>.</bibl> Das
+                                Endungs-<hi rend="it">s</hi> von <hi rend="it">paganis</hi> ist
+                            durch Beschneiden des Blatts verlorengegangen. Überblick über die
+                            Handschrift <bibl><author>J. Autenrieth</author>, <title level="a">«Der
+                                    Codex Sangallensis 915. Ein Beitrag zur Erforschung der
                                     Kapiteloffiziumsbücher»</title>, in: <title level="s"
                                     >Landesgeschichte und Geistesgeschichte</title> (Festschrift
                                 Otto Herding), <pubPlace>Stuttgart</pubPlace>
@@ -380,21 +375,22 @@
                 <div xml:id="intro_I.3">
                     <p>In den Annales Sangallenses maiores im <bibl corresp="#Sang_915">selben
                             Codex</bibl> heißt es<note><bibl corresp="#Sang_915">Stiftsbibl. Cod.
-                                915</bibl>, p. 208 und 209. Beide Seiten sind abgebildet bei
-                                    <bibl corresp="#irblich70"><author>Irblich</author> (wie Anm. 4), <biblScope
-                                    unit="table">tab. 9 + 10</biblScope></bibl>. ↑ ist das
-                            griechische Zahlzeichen für 900.</note>: ↑ XVI ... <hi rend="it"
+                                915</bibl>, p. 208 und 209. Beide Seiten sind abgebildet bei <bibl
+                                corresp="#irblich70"><author>Irblich</author> (wie Anm. 4),
+                                    <biblScope unit="table">tab. 9 + 10</biblScope></bibl>. ↑ ist
+                            das griechische Zahlzeichen für 900.</note>: ↑ XVI ... <hi rend="it"
                             >Uuiberat reclusa est</hi>. ↑ XXV ... <hi rend="it">Agareni monasterium
                             sancti GALLI invaserunt Uuiberat martyrizata est.</hi> «916 ... Wiberat
                         wurde eingeschlossen. 925 (!) ... Die Ungarn<note>Über die Bezeichnung der
-                            Ungarn mit <hi rend="it">Agareni</hi> («Araber»?) <bibl corresp="#duft57"><author>J.
-                                    Duft</author>, <title level="m">Die Ungarn in St.
-                                Gallen</title>, <pubPlace>Zürich-Lindau-Konstanz</pubPlace>
+                            Ungarn mit <hi rend="it">Agareni</hi> («Araber»?) <bibl
+                                corresp="#duft57"><author>J. Duft</author>, <title level="m">Die
+                                    Ungarn in St. Gallen</title>,
+                                    <pubPlace>Zürich-Lindau-Konstanz</pubPlace>
                                 <date>1957</date>, <biblScope unit="page">p. 57
-                                sq.</biblScope></bibl> und <bibl corresp="#irblich70"><author>Irblich</author> (wie Anm.
-                                4), <biblScope unit="page">p. 144 sq.</biblScope></bibl></note>
-                        ﬁelen in das Kloster des heiligen Gallus ein. Wiberat erlitt das
-                        Martyrium».</p>
+                                sq.</biblScope></bibl> und <bibl corresp="#irblich70"
+                                    ><author>Irblich</author> (wie Anm. 4), <biblScope unit="page"
+                                    >p. 144 sq.</biblScope></bibl></note> ﬁelen in das Kloster des
+                        heiligen Gallus ein. Wiberat erlitt das Martyrium».</p>
                     <p>Das Verhältnis der Notizen untereinander ist nicht leicht zu bestimmen. Der
                         Eintrag unter den Verbrüderungen (<hi rend="it">Anno ab</hi> ...) ist blau
                         überstrichen. Einzelne Buchstaben sind blau und rot gefüllt. Der Eintrag
@@ -430,20 +426,20 @@
                         ein Grundgerüst der Biographie der Heiligen: Rekludierung und Martyrium,
                         sacriﬁcium mentis und sacriﬁcium carnis. Freilich ist das zweite Datum
                         falsch. Die Ungarn ﬁelen nicht im Jahr 925, sondern, wie durch historische
-                        Untersuchungen dargetan wurde<note>Zuletzt <bibl corresp="#irblich70"><author>Irblich</author>
-                                (wie Anm. 4), <biblScope unit="page">p. 148-150</biblScope></bibl>
-                            [Lit.].</note>, im Jahr 926 in St. Gallen ein. Da sich die richtige
-                        Jahresangabe noch in der Notiz unter den <bibl corresp="#Sang_915"
-                            >Verbrüderungen</bibl> ﬁndet, nimmt man an, daß sie älter ist als die
-                        der <bibl corresp="#Sang_915">Annales Sangallenses maiores</bibl>. Das
-                        leuchtet auch vom codicologischen Befund her ein. Die historische Notiz
-                        unter den <bibl corresp="#Sang_915">Verbrüderungen</bibl> war sinnvoll,
-                        solange die Geschichtsschreibung im Kloster darniederlag. Sobald aber die
-                        Klosterannalistik wieder einsetzte, und das war ab 955/956 der
-                                    Fall<note><bibl><author>C. Henking</author>, <title level="a"
-                                    >«Die annalistischen Aufzeichnungen des Klosters St.
-                                    Gallen»</title>, <title level="j"><ref target="#MVG"
-                                    >MVG</ref></title>
+                        Untersuchungen dargetan wurde<note>Zuletzt <bibl corresp="#irblich70"
+                                    ><author>Irblich</author> (wie Anm. 4), <biblScope unit="page"
+                                    >p. 148-150</biblScope></bibl> [Lit.].</note>, im Jahr 926 in
+                        St. Gallen ein. Da sich die richtige Jahresangabe noch in der Notiz unter
+                        den <bibl corresp="#Sang_915">Verbrüderungen</bibl> ﬁndet, nimmt man an, daß
+                        sie älter ist als die der <bibl corresp="#Sang_915">Annales Sangallenses
+                            maiores</bibl>. Das leuchtet auch vom codicologischen Befund her ein.
+                        Die historische Notiz unter den <bibl corresp="#Sang_915"
+                            >Verbrüderungen</bibl> war sinnvoll, solange die Geschichtsschreibung im
+                        Kloster darniederlag. Sobald aber die Klosterannalistik wieder einsetzte,
+                        und das war ab 955/956 der Fall<note><bibl><author>C. Henking</author>,
+                                    <title level="a">«Die annalistischen Aufzeichnungen des Klosters
+                                    St. Gallen»</title>, <title level="j"><ref target="#MVG"
+                                        >MVG</ref></title>
                                 <biblScope unit="volume">19</biblScope>, <date>1884</date>,
                                     <biblScope unit="page">p. 360 sq.</biblScope></bibl>;
                                     <bibl><author>R. Zingg</author>, <title level="m">Die St. Galler
@@ -484,12 +480,13 @@
                                 <date>1981</date>, <biblScope unit="page">p. 13-48</biblScope>, bes.
                                     <biblScope unit="page">p. 28</biblScope>.</bibl></note>. An
                         anderer Stelle sind Gründe dafür angeführt, daß die Abfassung der älteren
-                        Vita S. Wiboradae in das Jahrzehnt 960-970 fallen
-                                    dürfte<note><bibl corresp="#berschin72"><author>W. B.</author>, <title level="j"><ref
+                        Vita S. Wiboradae in das Jahrzehnt 960-970 fallen dürfte<note><bibl
+                                corresp="#berschin72"><author>W. B.</author>, <title level="j"><ref
                                         target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
-                                    <biblScope unit="page">p. 276 sq.</biblScope></bibl> und <bibl corresp="#berschin76"><title
-                                    level="j">Alemannisches Jahrbuch</title>
+                                    <biblScope unit="page">p. 276 sq.</biblScope></bibl> und <bibl
+                                corresp="#berschin76"><title level="j">Alemannisches
+                                    Jahrbuch</title>
                                 <biblScope unit="volume">1973/1975</biblScope>, <biblScope
                                     unit="page">p. 326 sq.</biblScope></bibl></note>. So läßt sich
                         der Weg vom historischen Ereignis über commemoratio, historische Notiz und
@@ -581,10 +578,11 @@
                                     level="j"><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">45</biblScope>, <date>1951</date>,
                                     <biblScope unit="page">p. 109-114</biblScope></bibl>) ist kaum
-                            haltbar.</note>, Ofﬁziendichtung<note><bibl corresp="#berschin10">ed. <author>W. B.</author>,
-                                    <title level="a">«Historia S. Wiboradae. Das sanktgallische
-                                    Wiborada-Offizium des XI. Jahrhunderts»</title>, <title
-                                    level="j">Mittellateinische Studien</title>
+                            haltbar.</note>, Ofﬁziendichtung<note><bibl corresp="#berschin10">ed.
+                                    <author>W. B.</author>, <title level="a">«Historia S. Wiboradae.
+                                    Das sanktgallische Wiborada-Offizium des XI.
+                                    Jahrhunderts»</title>, <title level="j">Mittellateinische
+                                    Studien</title>
                                 <biblScope unit="volume">t. 2</biblScope>,
                                     <pubPlace>Heidelberg</pubPlace>
                                 <date>2010</date>, <biblScope unit="page">p.
@@ -611,15 +609,16 @@
                                 <editor>Egli</editor>, <biblScope unit="page">p.
                                 224</biblScope></bibl>.</note>. Dazu kommt die vielfache Erwähnung
                         der heiligen Wiborada in der bekannten sanktgallischen
-                        Klostergeschichtsschreibung. Adolf Fäh hat im zweiten Band seiner
-                        <bibl corresp="#faeh26">Millenniumsschrift</bibl> von 1926 viel für die Erschließung dieses reichen
-                        Materials getan, das noch nicht restlos aufgearbeitet ist. Manche dieser
-                        Texte werden um 1047, dem Jahr der Heiligsprechung Wiboradas, entstanden
-                        sein. <anchor xml:id="intro_I.6"/>Einen vorläuﬁgen Schlußpunkt dieser
-                        literarischen Tätigkeit zum Ruhm der Martyrin des X. Jahrhunderts bedeutet
-                        dann die um 1075 geschriebene zweite Vita S. Wiboradae des Herimannus, die
-                        eine inhaltliche und stilistische Umgestaltung der älteren Vita S. Wiboradae
-                        nach dem Geschmack des XI. Jahrhunderts darstellt.</p>
+                        Klostergeschichtsschreibung. Adolf Fäh hat im zweiten Band seiner <bibl
+                            corresp="#faeh26">Millenniumsschrift</bibl> von 1926 viel für die
+                        Erschließung dieses reichen Materials getan, das noch nicht restlos
+                        aufgearbeitet ist. Manche dieser Texte werden um 1047, dem Jahr der
+                        Heiligsprechung Wiboradas, entstanden sein. <anchor xml:id="intro_I.6"
+                        />Einen vorläuﬁgen Schlußpunkt dieser literarischen Tätigkeit zum Ruhm der
+                        Martyrin des X. Jahrhunderts bedeutet dann die um 1075 geschriebene zweite
+                        Vita S. Wiboradae des Herimannus, die eine inhaltliche und stilistische
+                        Umgestaltung der älteren Vita S. Wiboradae nach dem Geschmack des XI.
+                        Jahrhunderts darstellt.</p>
                 </div>
                 <div xml:id="intro_I.7">
                     <p>Das XV. Jahrhundert hat wieder an den biographischen Texten gearbeitet. Aus
@@ -630,40 +629,40 @@
                         Lebensbeschreibungen der sanktgallischen Hausheiligen Gallus, Magnus, Otmar,
                         Wiborada und Ascetica «mit großer arbait vß dem subtilen latin zu disem
                         ainfaltigen tutsch»<note><bibl corresp="#Sang_586">St. Gallen,
-                                Stiftsbibliothek Cod. 586</bibl>; cf. <bibl corresp="#duft57"><author>Duft</author>,
-                                    <title level="m">Die Ungarn in St. Gallen</title>, <biblScope
-                                    unit="page">p. 72</biblScope></bibl>.
-                                <bibl><author>Id.</author>, <title level="m">Sankt Otmar in Kult und
-                                    Kunst</title>, <pubPlace>St. Gallen</pubPlace>
+                                Stiftsbibliothek Cod. 586</bibl>; cf. <bibl corresp="#duft57"
+                                    ><author>Duft</author>, <title level="m">Die Ungarn in St.
+                                    Gallen</title>, <biblScope unit="page">p. 72</biblScope></bibl>.
+                                    <bibl><author>Id.</author>, <title level="m">Sankt Otmar in Kult
+                                    und Kunst</title>, <pubPlace>St. Gallen</pubPlace>
                                 <date>1966</date>, <biblScope unit="page">p. 64
                                 sq.</biblScope></bibl>
-                            <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m">Die Vitae S.
-                                    Wiboradae</title>, <biblScope unit="page">p. 18
-                                sq.</biblScope></bibl></note>. Grundlage seiner Übersetzung war die
-                        jüngere Vita S. Wiboradae des Herimannus. Empfänger des deutschen Codex war
-                        — wie so oft bei deutscher Literatur des späten Mittelalters — ein
+                            <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m"
+                                    >Die Vitae S. Wiboradae</title>, <biblScope unit="page">p. 18
+                                    sq.</biblScope></bibl></note>. Grundlage seiner Übersetzung war
+                        die jüngere Vita S. Wiboradae des Herimannus. Empfänger des deutschen Codex
+                        war — wie so oft bei deutscher Literatur des späten Mittelalters — ein
                         Frauenkloster, St. Georgen oberhalb St. Gallen.</p>
                     <p>Colners Arbeit wurde alsbald überboten durch die des St. Galler Bürgers
                         Konrad Sailer, der mit dem Leben der vier sanktgallischen Hausheiligen eine
                         Reihe anderer Heiligenviten verband<note><bibl corresp="#Sang_602">St.
-                                Gallen, Stiftsbibliothek Cod. 602</bibl>; cf.
-                                    <bibl corresp="#duft57"><author>Duft</author>, <title level="m">Die Ungarn in St.
-                                    Gallen</title>, <biblScope unit="page">p. 63-67 und 72
+                                Gallen, Stiftsbibliothek Cod. 602</bibl>; cf. <bibl
+                                corresp="#duft57"><author>Duft</author>, <title level="m">Die Ungarn
+                                    in St. Gallen</title>, <biblScope unit="page">p. 63-67 und 72
                                     sq.</biblScope></bibl>
                             <bibl><author>Id.</author>, <title level="m">Sankt Otmar in Kult und
                                     Kunst</title>, <biblScope unit="page">p. 65
                                 sq.</biblScope></bibl>
-                            <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m">Die Vitae S.
-                                    Wiboradae</title>, <biblScope unit="page">p.
-                                19-23</biblScope></bibl>. Welchen Mißverständnissen das Reklusentum
-                            im XIX. Jahrhundert ausgesetzt war, zeigt das Zerrbild der heiligen
-                            Wiborada in <bibl>Victor von <author>Scheffel</author>s <title level="m"
-                                    >Ekkehard</title> (<date>1855</date>)</bibl>. Die große
-                            Tradition des Reklusentums in St. Gallen macht sichtbar
-                                    <bibl corresp="#schlumpf53"><author>[J. Duft-] E. Schlumpf</author>, «<title level="m"
-                                    >Quellen zur Geschichte der Inklusen in der Stadt St.
-                                    Gallen</title>», <title level="j"><ref target="#MVG"
-                                    >MVG</ref></title>
+                            <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m"
+                                    >Die Vitae S. Wiboradae</title>, <biblScope unit="page">p.
+                                    19-23</biblScope></bibl>. Welchen Mißverständnissen das
+                            Reklusentum im XIX. Jahrhundert ausgesetzt war, zeigt das Zerrbild der
+                            heiligen Wiborada in <bibl>Victor von <author>Scheffel</author>s <title
+                                    level="m">Ekkehard</title> (<date>1855</date>)</bibl>. Die große
+                            Tradition des Reklusentums in St. Gallen macht sichtbar <bibl
+                                corresp="#schlumpf53"><author>[J. Duft-] E. Schlumpf</author>,
+                                    «<title level="m">Quellen zur Geschichte der Inklusen in der
+                                    Stadt St. Gallen</title>», <title level="j"><ref target="#MVG"
+                                        >MVG</ref></title>
                                 <biblScope unit="volume">41/2</biblScope>, <pubPlace>St.
                                     Gallen</pubPlace>
                                 <date>1953</date></bibl>.</note>. Trotzdem behielt sein Buch den
@@ -720,8 +719,9 @@
                         Waitz den verstümmelnden Druck der älteren Wiboradavita im vierten
                         Scriptoresband der <ref target="#MGH">MGH</ref> geleistet hätte, wenn ihm
                         bewußt gewesen wäre, daß der Verfassername «Hartmannus» letztlich nur auf
-                        Melchior Goldast zurückgeht<note><bibl corresp="#berschin72"><author>W. B.</author>, <title
-                                    level="j"><ref target="#ZSKG">ZSKG</ref></title>
+                        Melchior Goldast zurückgeht<note><bibl corresp="#berschin72"><author>W.
+                                    B.</author>, <title level="j"><ref target="#ZSKG"
+                                    >ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 251 sq.</biblScope></bibl></note> und
                         gegenüber der Verfasserangabe der Vita selbst, die Ekkehart I. nennt, keine
@@ -736,10 +736,11 @@
                                     >Übersicht über die lateinische Litteratur</title>, (Grundriß
                                 der romanischen Philologie II 1) <pubPlace>Straßburg</pubPlace>
                                 <date>1902</date>, <biblScope unit="page">p. 142</biblScope></bibl>.
-                                    <bibl corresp="#zoepf08"><author>Zoepf</author>, <title level="m">Das
-                                    Heiligen-Leben im 10. Jahrhundert</title>, <date>1908</date>,
-                                passim</bibl>. <bibl corresp="#zoepf15"><author>Id.</author>, <title level="m"
-                                    type="main">Lioba, Hathumot, Wiborada.</title>
+                                <bibl corresp="#zoepf08"><author>Zoepf</author>, <title level="m"
+                                    >Das Heiligen-Leben im 10. Jahrhundert</title>,
+                                    <date>1908</date>, passim</bibl>. <bibl corresp="#zoepf15"
+                                    ><author>Id.</author>, <title level="m" type="main">Lioba,
+                                    Hathumot, Wiborada.</title>
                                 <title type="sub">Drei Heilige des deutschen Mittelalters</title>,
                                     <date>1915</date></bibl>.</note>.</p>
                 </div>
@@ -823,9 +824,9 @@
                                 potuit</hi> «Leben und Leiden der Wunschmartyrin konnte er nicht
                             lichtvoller zusammenfassen» - so kommentiert Ekkehart IV. die Verse. Man
                             hat immer wieder die beiden Verse als Zitat aus einem größeren Gedicht
-                            angesehen; am scharfsinnigsten argumentierte in dieser Richtung
-                                    <bibl corresp="#stotz80"><author>P. Stotz</author>, Art. <title level="a">«Ekkehard
-                                    I. von St. Gallen»</title>, <title level="m"
+                            angesehen; am scharfsinnigsten argumentierte in dieser Richtung <bibl
+                                corresp="#stotz80"><author>P. Stotz</author>, Art. <title level="a"
+                                    >«Ekkehard I. von St. Gallen»</title>, <title level="m"
                                     >Verfasserlexikon</title>
                                 <biblScope unit="part">t. 2</biblScope>,
                                     <edition>2</edition><date>1980</date>, <biblScope unit="column"
@@ -849,6 +850,15 @@
                 </div>
                 <div xml:id="intro_II.4">
                     <head rend="align(center)">Die Handschriften</head>
+                    <p><graphic corresp="Bilder/Stuttgarter_Passionale"/>
+                        <desc>Der Anfang der Vita Wiborada I von Ekkehart I. im 3. Band des
+                            Stuttgarter Passionales. <bibl
+                                corresp="Ekkeharti_Vita_S_Wiboradae.xml#S">Stuttgart,
+                                Württembergische Landesbibliothek, Cod. Bibl. Fol. 58, <biblScope
+                                    unit="page"
+                                    facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"
+                                    >Bl. 130r</biblScope></bibl>.</desc>
+                    </p>
                     <div>
                         <p>Die erste Vita S. Wiboradae ist in drei Handschriften erhalten. Die
                             älteste und beste ist <seg n="S" rend="sb"><bibl
@@ -937,7 +947,9 @@
                                     <biblScope unit="volume">t. 5</biblScope>,
                                         <pubPlace>Stuttgart</pubPlace>
                                     <date>2004</date>, <biblScope unit="table">tab.
-                                    90</biblScope></bibl>. Freundlicher Hinweis von <bibl><author>T. Licht</author></bibl> und <bibl><author>J. Büge</author></bibl>.</note></p>
+                                    90</biblScope></bibl>. Freundlicher Hinweis von <bibl><author>T.
+                                        Licht</author></bibl> und <bibl><author>J.
+                                    Büge</author></bibl>.</note></p>
                     </div>
                 </div>
                 <div xml:id="intro_II.5">
@@ -1166,8 +1178,8 @@
                         abgeschrieben worden sein. Dieses Exemplar war, wie früher schon auf Grund
                         literaturgeschichtlicher Untersuchung bemerkt wurde, nicht die bloße Vita
                         des X. Jahrhunderts, sondern ein überarbeiteter und ergänzter
-                                    Text<note><bibl corresp="#berschin72"><author>W. B.</author>, <title level="j"><ref
-                                        target="#ZSKG">ZSKG</ref></title>
+                                Text<note><bibl corresp="#berschin72"><author>W. B.</author>, <title
+                                    level="j"><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 269-274</biblScope></bibl>.</note>.
                         Als Ergänzungen wurden namhaft gemacht:</p>
@@ -1295,15 +1307,15 @@
                         den griechisch-orientalischen Anachoreten stand nun als vierte in der Reihe
                         der in Rom zu Kanonisierenden eine Rekluse und Martyrin der Ungarneinfälle.
                         Ein Zusammenhang mit der damaligen Ungarnpolitik des Reiches ist nicht von
-                        der Hand zu weisen<note>Treffend <bibl corresp="#widmer66"><author>B. Widmer</author>, <title
-                                    level="m" type="main">Wiborada</title>. <title type="sub">Die
-                                    Klausnerin mit Hellebarde und Buch</title>, <pubPlace>St.
-                                    Gallen</pubPlace>
+                        der Hand zu weisen<note>Treffend <bibl corresp="#widmer66"><author>B.
+                                    Widmer</author>, <title level="m" type="main">Wiborada</title>.
+                                    <title type="sub">Die Klausnerin mit Hellebarde und
+                                Buch</title>, <pubPlace>St. Gallen</pubPlace>
                                 <date>1966</date>, <biblScope unit="page">p. 16
                                 sq.</biblScope></bibl>
-                            <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m">Die Vitae S.
-                                    Wiboradae</title>, <biblScope unit="page">p. 162
-                                sq.</biblScope></bibl></note>. Man muß sich aber auch die großen
+                            <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m"
+                                    >Die Vitae S. Wiboradae</title>, <biblScope unit="page">p. 162
+                                    sq.</biblScope></bibl></note>. Man muß sich aber auch die großen
                         Lebenselemente vergegenwärtigen, die die alemannische Heilige verkörperte
                         und die nun ins Licht gerückt wurden: Strengste Lebensform als Rekluse,
                         Martyrium und nicht zuletzt, daß es eine Frau war, die durch eine römische
@@ -1334,9 +1346,9 @@
                         Kanonisationsverfahren eine Abschrift gefertigt haben; doch gewiß ist das
                             nicht<note>Man vergleiche das in etwa rekonstruierbare Verfahren der
                             Bearbeitung von Notkers Metrum der Vita S. Galli durch Ekkehart IV.,
-                                    <bibl corresp="#berschin22"><author>W. B.</author>, <title level="a">«Notkers Metrum
-                                    de vita S. Galli»</title>, <title level="j">Mittellateinische
-                                    Studien</title>
+                                <bibl corresp="#berschin22"><author>W. B.</author>, <title level="a"
+                                    >«Notkers Metrum de vita S. Galli»</title>, <title level="j"
+                                    >Mittellateinische Studien</title>
                                 <biblScope unit="volume">t. 4</biblScope>,
                                     <pubPlace>Heidelberg</pubPlace>
                                 <date>2022</date>, <biblScope unit="page">p. 119-167, hier p. 121
@@ -1377,8 +1389,8 @@
                         unbekannt; die Textvorlagen in Dillingen und Wiblingen waren nicht gut, die
                         Kopisten leisteten sich Lesefehler, der Setzer Druckfehler, und Henschen,
                         der auch in der Vorrede zur Wiboradavita keine Probe durchdringender Kritik
-                                    ablegte<note><bibl corresp="#berschin72"><author>W. B.</author>, <title level="j"><ref
-                                        target="#ZSKG">ZSKG</ref></title>
+                                ablegte<note><bibl corresp="#berschin72"><author>W. B.</author>,
+                                    <title level="j"><ref target="#ZSKG">ZSKG</ref></title>
                                 <biblScope unit="volume">66</biblScope>, <date>1972</date>,
                                     <biblScope unit="page">p. 253 sq.</biblScope></bibl></note>,
                         hatte offenbar nicht die Zeit, alles zu revidieren. Man findet 22 Lesefehler
@@ -1576,9 +1588,10 @@
                                     <biblScope unit="volume">17</biblScope>), <pubPlace>St.
                                         Gallen</pubPlace>
                                     <date>1879</date>, <biblScope unit="page">p.
-                                    5</biblScope></bibl>. Cf. <bibl corresp="#berschin22"><author>W. B.</author>, <title
-                                        level="a">«Notkers Metrum de vita S. Galli»</title>, <title
-                                        level="m">Mittellateinische Studien</title>
+                                    5</biblScope></bibl>. Cf. <bibl corresp="#berschin22"><author>W.
+                                        B.</author>, <title level="a">«Notkers Metrum de vita S.
+                                        Galli»</title>, <title level="m">Mittellateinische
+                                        Studien</title>
                                     <biblScope unit="volume">t. 4</biblScope>,
                                         <pubPlace>Heidelberg</pubPlace>
                                     <date>2022</date><biblScope unit="page">p. 119-167, hier p.
@@ -1629,6 +1642,12 @@
                     </div>
                     <div xml:id="intro_III.3">
                         <head rend="align(center)">Die Handschriften</head>
+                        <p><graphic corresp="Bilder/Cod_Sang_560.png"/><desc>Der Anfang der Vita
+                                Wiborada II im Autograph von Herimannus. <bibl
+                                    corresp="Herimanni_Vita_S_Wiboradae.xml#A">St. Gallen,
+                                    Stiftsbibliothek, Cod. Sang. 560, <biblScope unit="page"
+                                        facs="https://www.e-codices.unifr.ch/en/doubleview/csg/0560/394/"
+                                        >S. 394-395</biblScope></bibl>.</desc></p>
                         <p>Die jüngere Vita S. Wiboradae hat eine hervorragende und sehr
                             geschlossene Überlieferung, die sich in St. Gallen konzentriert. Bis vor
                             kurzem schien es, als wäre die jüngere Wiboradavita ausschließlich in
@@ -1652,8 +1671,8 @@
                             Jahr 1508.</p>
                         <p><seg n="A" rend="sb"><bibl corresp="Herimanni_Vita_S_Wiboradae.xml#A"
                                     >Cod. 560</bibl></seg> der Stiftsbibliothek, von Eva Irblich
-                            treffend «die Trilogie der Sankt-Galler Hausheiligen»
-                                        genannt<note><bibl corresp="#irblich68"><author>E. Irblich</author>, <title
+                            treffend «die Trilogie der Sankt-Galler Hausheiligen» genannt<note><bibl
+                                    corresp="#irblich68"><author>E. Irblich</author>, <title
                                         level="a">«Heilige im Bodenseeraum»</title>, <title
                                         level="j">Montfort</title>
                                     <biblScope unit="volume">20</biblScope>, <date>1968</date>,
@@ -1774,8 +1793,8 @@
                                 des <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang.
                                     564</bibl> findet sich an entsprechender Stelle der Vermerk, daß
                                 zusätzlich zu Walahfrids Vita Notkers Sermo S. Galli zu lesen sei.
-                                        <bibl corresp="#berschin22"><author>W. B.</author>, <title level="m"
-                                        >Mittellateinische Studien</title>
+                                    <bibl corresp="#berschin22"><author>W. B.</author>, <title
+                                        level="m">Mittellateinische Studien</title>
                                     <biblScope unit="volume">t. 4</biblScope>,
                                         <pubPlace>Heidelberg</pubPlace>
                                     <date>2022</date>, <biblScope unit="page">p.
