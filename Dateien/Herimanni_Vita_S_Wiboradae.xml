@@ -1599,7 +1599,7 @@
                               <ref target="#Sang_610">Sang. 610</ref> et <ref target="#Basil_D.I.18"
                               >Basil. D.I.18</ref></note></rdg>
                      <rdg><note>Eo loci <hi rend="rom">sic</hi> legitur apud Johannem Diaconum, Vita
-                           S. Gregorii II 44, <ref target="Einleitung.xml#Migne_PL">Migne PL</ref> 75, col. 106.</note></rdg>
+                           S. Gregorii II 44, <ref target="Einleitung.xml#Migne_PL">Migne PL</ref> 75, col. 106</note></rdg>
                   </app> per dei autem iustitiam cunctos equaliter non ualet exurere · Nam
                   uniuscuiusque quantum meruit culpa · <pb ed="#A" n="p. 471"
                      facs="https://www.e-codices.unifr.ch/de/csg/0560/471/0/"/> iusto dei iudicio
@@ -2505,10 +2505,9 @@
                   <rdg>-rumpentibus <note>textus <ref target="#B">B</ref> bifolio exciso iterum
                         incipit</note>
                   </rdg>
-               </app> · sospes cunctis mirantibus surrexit · </p>
+               </app> · sospes cunctis mirantibus surrexit · <pb ed="#A" n="p. 535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/></p>
          </div>
          <div n="XIV" xml:id="vw2_2_XIV">
-            <pb ed="#A" n="p. 535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/>
             <p>NEC HOC SILENTIO pretereundum · quantam pietatem uirtus diuina ostendere dignata est
                ob merita uirginis atque martyris suę planius declaranda · supra fidelem seruam eius
                   <persName ref="#kebi">kebininam</persName> · Post transitum igitur beatę <persName

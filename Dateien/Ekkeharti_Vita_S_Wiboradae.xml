@@ -269,7 +269,7 @@
                   <rdg wit="#A">suam <note>add.</note></rdg>
                </app> quidem qua dicitur · <seg type="cf." source="#II_Th_3.10">qui non laborat <app>
                      <lem>nec</lem>
-                     <rdg wit="#A #W #Boll.">non</rdg>
+                     <rdg wit="#A #W #Boll.">non</rdg> 
                   <note>(Vetus latina teste <bibl corresp="Einleitung.xml#becht02"><author>G. Becht-Jördens</author></bibl>)</note>
                   </app> manducet</seg> · sponsionem autem quę sic exhortatur · <seg
                   source="#Ps_127.2">labores manuum tuarum <app>
@@ -383,8 +383,7 @@
                   <rdg wit="#A #W #Boll">feruore <note>deest</note></rdg>
                   <rdg><note>seriem verborum <ref target="#A">A</ref> confundit ita: <hi rend="rom"
                            >ex prioris desiderii studio · sed eciam fratris ieiunio
-                        absoluendi</hi></note></rdg>
-               </app> desiderii · sed etiam studio <persName ref="#hitt">fratris</persName> ieiunio
+                        absoluendi</hi></note></rdg></app> desiderii · sed etiam studio <persName ref="#hitt">fratris</persName> ieiunio
                absoluendi · propinata scripturę pocula sitibundo pectore hauriens · psalmum cum omni
                celeritate excepit · ac memorie fundamento firmauit · Quinquaginta ergo psalmis
                sparsim ut dictum est a memorato <persName ref="#hitt">germano suo</persName>
@@ -403,8 +402,7 @@
                               rend="rom">relaturus sum</hi> suppleverunt <hi rend="rom">rem</hi>.
                            Paulo post contra fidem codicis Augustani aliam fallacem lectionem
                            contulerunt: <hi rend="rom">Rem roboraturus sum</hi>, Acta SS Maii t. 7,
-                           p. 552.</note></rdg>
-                  </app> relaturus sum</seg> huic non dissimilem · et <app>
+                           p. 552</note></rdg></app> relaturus sum</seg> huic non dissimilem · et <app>
                   <lem>nimis</lem>
                   <rdg wit="#Boll.">magis</rdg>
                </app> admirandam · <seg source="#Mt_28.1">Uespere sabbati quę <app><lem>lucescit</lem><rdg wit="#W">lucessit</rdg></app></seg> in dominicam incipientis
@@ -582,8 +580,7 @@
                   <lem>praeparabantur</lem>
                   <rdg>cetera <note>suppl. <ref target="#Boll">Boll.</ref>, quam coniecturam Actis
                         Sanctorum Maii t. 7, p. 552 revocaverunt et alia
-                     compensaverunt</note></rdg>
-               </app> · in cibos pauperum et peregrinorum superuenientium quorum illi maxima ut
+                     compensaverunt</note></rdg></app> · in cibos pauperum et peregrinorum superuenientium quorum illi maxima ut
                diximus cura fuit · seu etiam astantis familię erogata sunt · Orationis ergo iugi
                tutamine se aduersus inimici <app>
                   <lem>infestantis</lem>
@@ -891,7 +888,7 @@
                reliquum temporis quod in posterum uixeris cum magna <app><lem>tranquillitate</lem><rdg wit="#W">transquillitate</rdg></app> pacis te ducere
                scias · Hęc ille audiens · laudes et gratias deo et sanctę uirgini reddens · <seg>
                   <note type="citation">cf. <ref target="#vw1_XXIX.24">c. XXIX</ref>; cf. <ref
-                     target="#Virg_Aen_I_218">Virg., Aen. I 218</ref>inter spem metumque positus</note></seg> · lętus <app>
+                     target="#Virg_Aen_I_218">Virg., Aen. I 218</ref></note>inter spem metumque positus</seg> · lętus <app>
                   <lem>abces<pb ed="#S" n="133va"
                         facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/268/"
                         break="no"/>sit</lem>
@@ -960,7 +957,7 @@
                </app> manibus panem accepi · sed <app>
                   <lem>minime</lem>
                   <rdg rend="lem-prefixed"><note>scriba <ref target="#A">A</ref> inepte inter <hi
-                        rend="rom">manibus</hi> et <hi rend="rom">panem accepi</hi> posuit.</note></rdg>
+                        rend="rom">manibus</hi> et <hi rend="rom">panem accepi</hi> posuit</note></rdg>
                   <rdg wit="#W"><note>in marg. suppl.</note></rdg>
                </app> de eo propter peccata mea gustaui · tradens <app>
                   <lem>illud</lem>
