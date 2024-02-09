@@ -22,7 +22,8 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Herausgegeben von der Stiftsbibliothek St. Gallen</publisher>
-                <pubPlace>St. Gallen</pubPlace> <date>2023</date>
+                <pubPlace>St. Gallen</pubPlace>
+                <date>2023</date>
                 <availability>
                     <licence>CC BY-SA</licence>
                 </availability>
@@ -236,6 +237,61 @@
         <front>
             <div type="dedication" rend="recto frontmatter">
                 <p rend="center">CUM SANCTIS TUIS IN AETERNUM</p>
+            </div>
+            <div type="preface" rend="recto frontmatter">
+                <head>VORWORT</head>
+                <p>Die heilige Wiborada von St. Gallen gilt als erste Frau, die aufgrund eines
+                    kanonischen Verfahrens in Rom vom Papst heiliggesprochen wurde. Ihre
+                    Kanonisation erfolgte wahrscheinlich kurz nach der Wende zum Jahr 1047 durch
+                    Suidger von Bamberg als Papst Clemens II. (reg. 24. Dezember 1046 bis 9. Oktober
+                    1047). Die Mönche von St. Gallen hatten die Heiligsprechung seit dem grausamen
+                    Tod Wiboradas am 2. Mai 926 hartnäckig verfolgt und sukzessive die Grundlagen
+                    dafür geschaffen. Die Legitimation war gegeben, denn Wiborada war als
+                    Märtyrerin, die unter den Axthieben ungarischer Reiterhorden gestorben war, aber
+                    auch als mutige Frau mit einer herausragenden Spiritualität unzweifelhaft eine
+                    Heilige.</p>
+                <p>Die Aufzeichnung der Lebensgeschichte ist für das Erinnern aller Heiligen zentral
+                    und eine wichtige Voraussetzung für eine Kanonisation. Ekkehart I. (910–973),
+                    der Dekan des Klosters St. Gallen, ging um 960/970 an diese Aufgabe heran, wobei
+                    er noch auf die Erzählungen von Augenzeugen zählen konnte. Neben Ulrich von
+                    Augsburg waren das insbesondere Wiboradas Bruder Hitto und ihre Helferin und
+                    Freundin Kebini. Die Vita I von Ekkehart I. ist in einer wohl von dessen
+                    Namensvetter Ekkehart IV. (nach 980 – nach 1057) gegen Mitte des 11.
+                    Jahrhunderts leicht überarbeiteten Fassung überliefert. Sie dürfte als Grundlage
+                    für die Heiligsprechung gedient haben. </p>
+                <p>Als der Kult der nun Heiligen sich nach 1047 stärker entwickelte, entstand das
+                    Bedürfnis nach einer überarbeiteten Vita im Geschmack der Zeit. Mit Herimannus
+                    (um 1030 – um 1080) übernahm erneut ein St. Galler Konventuale diese Aufgabe.
+                    Seine in der Zeit Abt Ulrichs II. um 1072/1076 geschaffene Vita II der Wiborada
+                    ist in einer schönen eigenhändigen Abschrift erhalten (Cod. Sang. 560).
+                    Herimannus erweiterte den Stoff Ekkeharts I. umfangmässig um rund einen Drittel
+                    und unterteilte ihn in zwei Bücher, das eine mit dem Leben und das andere mit
+                    den Wundern Wiboradas.</p>
+                <p>Die Vita II von Herimannus liegt nicht nur im erwähnten Autograph der
+                    Stiftsbibliothek, sondern in sechs weiteren Abschriften vor. In der
+                    Wiboradaverehrung vor Ort verdrängte sie die Vita I von Ekkehart I. vollständig,
+                    die deshalb nur noch drei Mal ausserhalb St. Gallens überliefert ist.</p>
+                <p>1983 hat Walter Berschin diese für die Frauengeschichte und für die Geschichte
+                    St. Gallens gleichermassen bedeutsamen Texte in einer modernen Ausgabe mit
+                    deutscher Übersetzung zugänglich gemacht, die leider seit einiger Zeit
+                    vergriffen ist. Im Hinblick auf den im Jahr 2026 bevorstehenden 1100. Todestag
+                    Wiboradas sollen die Viten nun neu greifbar gemacht werden. Einerseits geschieht
+                    dies durch diese elektronische Neuausgabe der wissenschaftlichen Edition, die
+                    auch eine inzwischen neu entdeckte dritte Handschrift der Vita I einbezieht.
+                    Andrerseits wird im Frühjahr 2025 im Reclam-Verlag eine günstige Leseausgabe in
+                    Buchform erscheinen.</p>
+                <p>Es ist ein grosses Glück, dass sich mit Walter Berschin einer der besten Kenner
+                    der Viten-Literatur des Mittelalters seit Jahrzehnten für die
+                    Wiborada-Überlieferung eingesetzt hat. Für den erneuten Effort zur Neuausgabe
+                    der beiden Viten danke ich ihm von Herzen. Damit leistet er dem st. gallischen
+                    Überlieferungsschatz einmal mehr seinen wertvollen Dienst.</p>
+                <p>Dank gebührt auch Svenja Berkensträter, die den Text im TEI-Standard aufbereitet
+                    und das gesamte Vorhaben sorgfältig begleitet hat, und Wolfgang Meier für die
+                    elektronische Umsetzung.</p>
+                <signed>
+                    <date>St. Gallen, am Wiboradatag 2024</date>
+                    <persName>Cornel Dora, Stiftsbibliothekar</persName>
+                </signed>
             </div>
         </front>
         <body>
