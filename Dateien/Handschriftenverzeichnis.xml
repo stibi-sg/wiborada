@@ -52,6 +52,15 @@
                         </head>
                     </msDesc>
                 </witness>
+                <witness xml:id="Ei113">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">Einsiedeln</placeName>
+                            <repository>Stiftsbibliothek</repository>
+                            <idno>113 (466)</idno>
+                        </msIdentifier>
+                    </msDesc>
+                </witness>
                 <witness xml:id="El17">
                     <msDesc>
                         <msIdentifier>

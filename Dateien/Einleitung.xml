@@ -16,14 +16,14 @@
                     <name/>
                 </respStmt>
                 <respStmt>
-                    <resp>Inhaltliche und technische Umsetzung durch</resp>
+                    <resp>Texterfassung und technische Umsetzung durch</resp>
                     <persName>Svenja Berkensträter und Wolfgang Meier</persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>Herausgegeben von der Stiftsbibliothek St. Gallen</publisher>
                 <pubPlace>St. Gallen</pubPlace>
-                <date>2023</date>
+                <date>2024</date>
                 <availability>
                     <licence>CC BY-SA</licence>
                 </availability>
@@ -40,7 +40,7 @@
                     <bibl xml:id="becht02">
                         <author>G. Becht</author>, <title level="a" type="main">«Recentiores, non
                             deteriores. Zur Überlieferungsgeschichte und Textkritik der Vita S.
-                            Wiboradae Ekkeharts I. von St. Gallen»</title>, <title level="j"
+                            Wiboradae Ekkeharts I. von St. Gallen»</title>, in <title level="j"
                             >Scripturus vitam</title>, ed. <editor>D. Walz</editor>,
                             <pubPlace>Heidelberg</pubPlace>
                         <date>2002</date>, <biblScope unit="page">p. 807-816</biblScope>. </bibl>
@@ -117,6 +117,9 @@
                             2</biblScope>: <title level="a">Die Verehrung der Heiligen</title>,
                             <pubPlace>St. Fiden-St. Gallen</pubPlace>
                         <date>1926</date>. </bibl>
+                    <bibl>
+                        <editor>A.-K. Gässlein</editor>/<editor>G. Emmenegger</editor> (edd.), <title level="m">Wiborada von St. Gallen</title>, <pubPlace>Basel</pubPlace> <date>2022</date>.
+                    </bibl>
                     <bibl xml:id="grundmann76">
                         <author>H. Grundmann</author>, <title level="a">«Deutsche Eremiten,
                             Einsiedler und Klausner im Hochmittelalter (10.-12.
@@ -145,7 +148,7 @@
                         <date>1970</date> (=Schriften des Vereins für Geschichte des Bodensees und
                         seiner Umgebung 88, p. 1-208). </bibl>
                     <bibl xml:id="kuenze85">
-                        <author>K. Künze</author>, <title level="a">«Rezension von Vitae Sanctae
+                        <author>K. Kunze</author>, <title level="a">«Rezension von Vitae Sanctae
                             Wiboradae, 1983»</title>, <title level="j">Anzeiger für deutsches
                             Altertum</title>
                         <biblScope unit="volume">96</biblScope>, <date>1985</date>, <biblScope
@@ -205,7 +208,7 @@
                         <date>1966</date>. </bibl>
                     <bibl xml:id="zimmermann34">
                         <author>A. M. Zimmermann</author>, <title level="a">«Die heilige Wiborada in
-                            der Kunst»</title>, <title level="j" type="main">Sankt Wiborada</title>.
+                            der Kunst»</title>, in <title level="j" type="main">Sankt Wiborada</title>.
                             <title type="sub">Ein Jahrbuch für Bücherfreunde</title>
                         <biblScope unit="volume">2</biblScope>, <date>1934</date>, <biblScope
                             unit="page">p. 1-11</biblScope>. </bibl>
@@ -579,18 +582,20 @@
                 </div>
                 <div xml:id="intro_I.5">
                     <p>Nach und neben der ersten Vita gibt es noch andere lateinische Texte zur
-                        Verherrlichung der Heiligen: Eintrag in Kalendar<note>zum Beispiel <bibl
-                                corresp="#Sang_339">St. Gallen, Stiftsbibliothek Cod. 339</bibl>,
-                                <bibl corresp="#Sang_340">340</bibl> und <bibl corresp="#Sang_341"
-                                >341</bibl>, saec. XI. In den Kalendarien aller dreier Sakramentare
-                            stehen auch Bischof Ulrich von Augsburg († 973) und Adalbert von Prag (†
-                            997), die neuen ottonischen «Reichsheiligen».</note> und
-                                Litanei<note><bibl corresp="#Sang_360">St. Gallen, Stiftsbibliothek
-                                Cod. 360</bibl> (saec. XII), p. 17.</note>, Meßformulare<note>zum
-                            Beispiel <bibl corresp="#Sang_339">St. Gallen, Stiftsbibliothek Cod.
-                                339</bibl>, p. 288 (388), <bibl corresp="#Sang_340">Cod. 340</bibl>,
-                            p. 767 und <bibl corresp="#Sang_341">Cod. 341</bibl>, p. 734. Das
-                            Wiboradafest wurde am 2. Mai gefeiert. Ekkehart IV. (<ref
+                        Verherrlichung der Heiligen: Eintrag in Kalendar<note>zum Beispiel in den
+                            Sakramentaren <bibl corresp="#Sang_339">St. Gallen, Stiftsbibliothek
+                                Cod. 339</bibl>, <bibl corresp="#Sang_340">340</bibl> und <bibl
+                                corresp="#Sang_341">341</bibl>, saec. XI, sowie dem Missale <bibl
+                                corresp="#Ei113">Einsiedeln, Siftsbibliothek 113 (466)</bibl>, saec.
+                            XI ex. In den Kalendarien aller vier Handschriften stehen auch Bischof
+                            Ulrich von Augsburg († 973) und Adalbert von Prag († 997), die neuen
+                            ottonischen «Reichsheiligen».</note> und Litanei<note><bibl
+                                corresp="#Sang_360">St. Gallen, Stiftsbibliothek Cod. 360</bibl>
+                            (saec. XII), p. 17.</note>, Meßformulare<note>zum Beispiel <bibl
+                                corresp="#Sang_339">St. Gallen, Stiftsbibliothek Cod. 339</bibl>, p.
+                            288 (388), <bibl corresp="#Sang_340">Cod. 340</bibl>, p. 767 und <bibl
+                                corresp="#Sang_341">Cod. 341</bibl>, p. 734. Das Wiboradafest wurde
+                            am 2. Mai gefeiert. Ekkehart IV. (<ref
                                 target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_epit">unten</ref>) und
                             ihm folgend Herimann (<ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_XXXVI">unten</ref>)
@@ -626,7 +631,8 @@
                                     <pubPlace>Ingolstadt</pubPlace>
                                 <date>1604</date>, <biblScope unit="page">p. 789</biblScope></bibl>;
                                 <bibl>ed. <editor>G. M. Dreves</editor>, <title level="j">Analecta
-                                    Hymnica</title><biblScope unit="volume">t. 23</biblScope>,
+                                    Hymnica</title>
+                                <biblScope unit="volume">t. 23</biblScope>,
                                     <pubPlace>Leipzig</pubPlace>
                                 <date>1896</date>, <biblScope unit="page">p. 291sq.</biblScope>,
                                     <biblScope unit="entry">nr. 519</biblScope></bibl>. Die
@@ -839,21 +845,21 @@
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XXXVII.33">c.
                         XXXVII</ref>).</p>
                     <p>Wiberat selbst ist von Ekkehart in schroffen Kontrasten geschildert.
-                        Liebevoll verweilt der Biograph zu Anfang der Vita bei der Pracht der
-                        äußeren Erscheinung der Heiligen: «Als sie an einem großen Festtag zur
-                        Kirche ziehen wollte und von den Eltern gezwungen feinere Kleider anzog, den
-                        Scheitel mit Schmuck zierte und die schlaffen Falten des sehr kostbaren
-                        Gewandes mit goldfarbenen Fibeln raffte, zu Pferd saß und mit ihrer Mutter
-                        und Gefährten dahinritt, da überﬁel sie plötzlich mitten auf dem Weg
-                        heftiges Kopfweh, und sogleich fühlte sie sich durch den Geist in göttlicher
-                        Heimsuchung ermahnt, sprang vom Pferd, setzte sich auf die blanke Erde, zog
-                        die Hände in den Übermantel zurück und löste zuerst das Gold von der Brust.
-                        Dann zog sie unter dem Schleier den kunstvollen Kopfputz<note>Zu diesem <hi
-                                rend="it">theristrum</hi> genannten orientalischen Kleidungsstück
-                            cf. <bibl><author>Du Cange</author>, <title level="m">Glossarium mediae
-                                    et infimae latinitatis</title></bibl> s.v.</note> herab, riß ihn
-                        ab und barg ihn im inneren Gewandbausch ... Das war der letzte Tag, der an
-                        ihr etwas von geziertem Überﬂuß oder überﬂüssiger Zier sah...» (<ref
+                        Liebevoll verweilt der Biograph zu Anfang der Vita bei der äußeren
+                        Erscheinung der Heiligen: «Als sie an einem großen Festtag zur Kirche ziehen
+                        wollte und von den Eltern gezwungen feinere Kleider anzog, den Scheitel mit
+                        Schmuck zierte und die schlaffen Falten des sehr kostbaren Gewandes mit
+                        goldfarbenen Fibeln raffte, zu Pferd saß und mit ihrer Mutter und Gefährten
+                        dahinritt, da überﬁel sie plötzlich mitten auf dem Weg heftiges Kopfweh, und
+                        sogleich fühlte sie sich durch den Geist in göttlicher Heimsuchung ermahnt,
+                        sprang vom Pferd, setzte sich auf die blanke Erde, zog die Hände in den
+                        Übermantel zurück und löste zuerst das Gold von der Brust. Dann zog sie
+                        unter dem Schleier den kunstvollen Kopfputz<note>Zu diesem <hi rend="it"
+                                >theristrum</hi> genannten orientalischen Kleidungsstück cf.
+                                    <bibl><author>Du Cange</author>, <title level="m">Glossarium
+                                    mediae et infimae latinitatis</title></bibl> s.v.</note> herab,
+                        riß ihn ab und barg ihn im inneren Gewandbausch ... Das war der letzte Tag,
+                        der an ihr etwas von geziertem Überﬂuß oder überﬂüssiger Zier sah...» (<ref
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_V.4">c. V</ref>). Am Ende
                         steht das Extrem eines armseligen nackten Restes, des durch Mangel
                         verzehrten und verbildeten Körpers, den Ekkehart nüchtern beschreibt (<ref
@@ -907,10 +913,10 @@
                 <div xml:id="intro_II.4">
                     <head rend="align(center)">Die Handschriften</head>
                     <p><graphic corresp="Bilder/Stuttgarter_Passionale"/>
-                        <desc>Der Anfang der Vita Wiborada I von Ekkehart I. im 3. Band des
+                        <desc>Der Anfang der Vita Wiboradae I von Ekkehart I. im 3. Band des
                             Stuttgarter Passionales. <bibl
                                 corresp="Ekkeharti_Vita_S_Wiboradae.xml#S">Stuttgart,
-                                Württembergische Landesbibliothek, Cod. Bibl. Fol. 58, <biblScope
+                                Württembergische Landesbibliothek, Cod. Bibl. 2° 58, <biblScope
                                     unit="page"
                                     facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"
                                     >Bl. 130r</biblScope></bibl>.</desc>
@@ -923,8 +929,9 @@
                             «Stuttgarter Passionale», der um «1130-1135» geschrieben
                                         wurde<note><bibl><author>S. von Borries-Schulten</author>,
                                         <title level="m">Die romanischen Handschriften der Württ.
-                                        Landesbibliothek</title><biblScope unit="volume">t.
-                                        1</biblScope>, <pubPlace>Stuttgart</pubPlace>
+                                        Landesbibliothek</title>
+                                    <biblScope unit="volume">t. 1</biblScope>,
+                                        <pubPlace>Stuttgart</pubPlace>
                                     <date>1987</date>, <biblScope unit="page">p.
                                     65</biblScope></bibl>.</note>. Nach älterer, von der
                             Kunstwissenschaft begründeter Meinung wäre das dreibändige illuminierte
@@ -960,7 +967,7 @@
                                     <biblScope unit="volume">t. 3</biblScope>,
                                         <pubPlace>Wiesbaden</pubPlace>
                                     <date>1984</date>, <biblScope unit="page">p.
-                                    193-196</biblScope></bibl></note>.</p>
+                                    193-196</biblScope></bibl>.</note>.</p>
                     </div>
                     <div>
                         <p>Der Text zweier weiterer Handschriften ist in die Ausgabe der älteren
@@ -978,20 +985,21 @@
                                 in den <bibl><title level="j">Acta
                             Sanctorum</title></bibl></seg>.</p>
                         <p>Das Wiblinger Exemplar ist von Guy Philippart wiedergefunden worden in
-                                <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#W">London, British
-                                Library Add. 10933</bibl><note><bibl><author>G. Philippart</author>,
-                                        <title level="a">«Les légendes de sainte Verena»</title>,
-                                        <title level="j">Analecta Bollandiana</title>
+                                <seg n="W" rend="sb"><bibl
+                                    corresp="Ekkeharti_Vita_S_Wiboradae.xml#W">London, British
+                                    Library Add. 10933</bibl></seg><note><bibl><author>G.
+                                        Philippart</author>, <title level="a">«Les légendes de
+                                        sainte Verena»</title>, <title level="j">Analecta
+                                        Bollandiana</title>
                                     <biblScope unit="volume">103</biblScope>, <date>1985</date>,
                                         <biblScope unit="page">p. 253-302
                                 passim</biblScope></bibl>.</note>. Das in gotischer Minuskel um 1450
-                            geschriebene Legendar enthält auf <seg n="W" rend="sb"><bibl><biblScope
-                                        unit="column">fol. 156<hi rend="sup">rb</hi>-163<hi
-                                            rend="sup">ra</hi></biblScope></bibl></seg> die ältere
-                            Vita S. Wiboradae, deren varia lectio Konrad Kunze in seiner Rezension
-                            der ersten Auflage dieses Buches publiziert hat<note><bibl><author>K.
-                                        Kunze</author>, <title level="m">Anzeiger für deutsches
-                                        Altertum</title>
+                            geschriebene Legendar enthält auf <bibl><biblScope unit="column">fol.
+                                        156<hi rend="sup">rb</hi>-163<hi rend="sup"
+                                    >ra</hi></biblScope></bibl> die ältere Vita S. Wiboradae, deren
+                            varia lectio Konrad Kunze in seiner Rezension der ersten Auflage dieses
+                            Buches publiziert hat<note><bibl><author>K. Kunze</author>, <title
+                                        level="m">Anzeiger für deutsches Altertum</title>
                                     <biblScope unit="volume">96</biblScope>, <date>1985</date>,
                                         <biblScope unit="page">p. 108-112, hier p.
                                     111</biblScope></bibl>. Die paläographische Datierung von <bibl
@@ -1005,7 +1013,8 @@
                                     <date>2004</date>, <biblScope unit="table">tab.
                                     90</biblScope></bibl>. Freundlicher Hinweis von <bibl><author>T.
                                         Licht</author></bibl> und <bibl><author>J.
-                                    Büge</author></bibl>.</note></p>
+                                    Büge</author></bibl>.</note>. Sie ist in diese Ausgabe
+                            eingearbeitet.</p>
                     </div>
                 </div>
                 <div xml:id="intro_II.5">
@@ -1115,7 +1124,7 @@
                         Stelle, an der man fast sehen zu können glaubt, wie die Fehler aller
                         späteren Handschriften entstanden sind. In <ref
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_IV.3">c. IV</ref> (vgl.
-                        Apparat unter <hi rend="sup">x</hi>) ist das <hi rend="it">si iam</hi> fast
+                        Apparat unter <hi rend="sup">z</hi>) ist das <hi rend="it">si iam</hi> fast
                         wie <hi rend="it">suā</hi> geschrieben; der in <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#A" rend="it">A</bibl><bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#W" rend="it">W</bibl>
@@ -1131,9 +1140,9 @@
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it">S</bibl> und <hi
                             rend="it">X</hi> gehen vielmehr unabhängig voneinander auf eine Vorlage,
                         vermutlich des XI. Jahrhunderts zurück.</p>
-                    <p>Aus ganz wenigen Lücken, die alle Handschriften gemeinsam haben, (<ref
+                    <p>Aus ganz wenigen Lücken, die alle Handschriften gemeinsam haben (<ref
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_VI.5">c. VI</ref> und <ref
-                            target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XII.11">XII</ref>) mag man
+                            target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XII.11">XII</ref>), mag man
                         mit Vorsicht schließen, daß auch dieses Exemplar nicht absolut fehlerfrei
                         war. Wichtiger ist eine andere Beobachtung. In <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it">S</bibl> ist der
@@ -1255,7 +1264,7 @@
                             demselben Kapitel der Vita, wo die meisten «Ergänzungen» von <bibl
                                 corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it">S</bibl>
                             gegenüber <hi rend="it">X</hi> festzustellen sind (<ref
-                                target="#intro_II.6">s.o.</ref>).</item>
+                                target="#intro_II.6">s.o.</ref>);</item>
                         <item n="4)">das ganze <ref
                                 target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XLV.40">Kapitel
                             XLV</ref>, der literaturgeschichtliche Epilog;</item>
@@ -1280,7 +1289,7 @@
                         Ekkehart IV. hat beide Werke in ganz ähnlicher Weise «philologisch»
                         bearbeitet: Literaturgeschichtlicher Prolog (Metrum de vita S. Galli) bzw.
                         Epilog (Vita S. Wiboradae), Glossen, kleine Ergänzungen. Seine beiden
-                        «Ausgaben» hat er übrigens in seinem Geschichtswerk gleicherweise mit
+                        'Ausgaben' hat er übrigens in seinem Geschichtswerk gleicherweise mit
                         Schweigen übergangen; dennoch gibt es Querverbindungen zwischen den Casus S.
                         Galli und Ekkeharts Ausgaben der Vita S. Wiboradae und des Metrum de vita S.
                         Galli. In allen dreien hat Ekkehart IV. seine starke Verehrung für die
@@ -1288,7 +1297,7 @@
                 </div>
                 <div xml:id="intro_II.10">
                     <p>Ist das eine Verehrung, die einfach aus der Liebe kommt, die Ekkehart IV.
-                        allen grossen alten sanktgallischen Gestalten entgegenbringt, oder gibt es
+                        allen großen alten sanktgallischen Gestalten entgegenbringt, oder gibt es
                         einen konkreten Anlaß für die besondere Hervorhebung der Martyrin des
                         Ungarneinfalls von 926? Ekkehart IV. erwähnt in seinen Casus S. Galli die
                         Kanonisation Wiboradas, und einer seiner Fortsetzer<note>Nach
@@ -1306,22 +1315,27 @@
                                     Geschichtswerk 'Casus sancti Galli'</title>, <pubPlace>St.
                                     Gallen</pubPlace>
                                 <date>1969</date>, <biblScope unit="page">p.
-                                34-38</biblScope></bibl>.</note> berichtet Genaueres: «[Der Abt
-                        Norbert, 1034-1072] erreichte auch mit Hilfe Kaiser Heinrichs [III.] und
-                        seiner Gemahlin Agnes beim apostolischen Herrn Clemens II. (Suidger von
-                        Bamberg; Papst vom 24.XII.1046 bis 9.X.1047) <hi rend="it">nach Verlesung
-                            der Lebensbeschreibung der seligen Wiborada und ihrer Wunder</hi> und
-                        getadelt vom Papst wegen der so langen Vernachlässigung der Sache, daß er
-                        sie in Gegenwart des Bischofs Theoderich von Konstanz kanonisierte und
-                        vorschrieb, sie als Heilige anzusehen, und einrichtete, ihren Jahrtag
-                        feierlich zu begehen»: <hi rend="it">recitata vita beate Wiborade eiusque
-                            miraculis</hi><note><bibl>Continuatio casuum S. Galli c. 20, ed.
-                                    <editor>G. Meyer v. Knonau</editor> (<title level="j"><ref
-                                        target="#MVG">MVG</ref></title>
+                                34-38</biblScope></bibl>. Anders <bibl><editor>H. Leuppi</editor>,
+                                    <title level="m">Casuum sancti Galli continuatio
+                                anonyma</title>, <pubPlace>Zürich</pubPlace>
+                                <date>1987</date></bibl>. Danach stammt die Nachricht über die
+                            Kanonisation vom ersten Fortsetzer der Casus.</note> berichtet
+                        Genaueres: «[Der Abt Norbert, 1034-1072] erreichte auch mit Hilfe Kaiser
+                        Heinrichs [III.] und seiner Gemahlin Agnes beim apostolischen Herrn Clemens
+                        II. (Suidger von Bamberg; Papst vom 24.XII.1046 bis 9.X.1047) <hi rend="it"
+                            >nach Verlesung der Lebensbeschreibung der seligen Wiborada und ihrer
+                            Wunder</hi> und getadelt vom Papst wegen der so langen Vernachlässigung
+                        der Sache, daß er sie in Gegenwart des Bischofs Theoderich von Konstanz
+                        kanonisierte und vorschrieb, sie als Heilige anzusehen, und einrichtete,
+                        ihren Jahrtag feierlich zu begehen»: <hi rend="it">recitata vita beate
+                            Wiborade eiusque miraculis</hi><note><bibl>Continuatio casuum S. Galli
+                                c. 20, ed. <editor>G. Meyer v. Knonau</editor> (<title level="j"
+                                        ><ref target="#MVG">MVG</ref></title>
                                 <biblScope unit="volume">17</biblScope>), <pubPlace>St.
                                     Gallen</pubPlace>
-                                <date>1879</date>, <biblScope unit="page">p.
-                            40</biblScope></bibl>.</note>. Wenn es für Ekkehart IV. eines Anlasses
+                                <date>1879</date>, <biblScope unit="page">p. 40</biblScope></bibl>;
+                            ed. <bibl><editor>Leuppi</editor>, <biblScope>p.
+                            122</biblScope></bibl>.</note>. Wenn es für Ekkehart IV. eines Anlasses
                         zur Arbeit an der Vita S. Wiboradae bedurfte, so war er durch die
                         Vorbereitung auf die römische Kanonisation gegeben. Seit der ersten
                         römischen Kanonisation, derjenigen Ulrichs von Augsburg im Jahr 993, war
@@ -1336,37 +1350,41 @@
                                     ...</title>, <pubPlace>Rom</pubPlace>
                                 <date>1961</date></bibl>. In <bibl><author>Schlafkes</author></bibl>
                             Katalog fehlt leider die Heiligsprechung Wiboradas.</note>. Zu allen
-                        frühen Heiligsprechungsverfahren wurden hervorragende Biographien — im
-                        spätantik-mittelalterlichen Verständnis der Gattung und ihrer Gesetze —
-                        geschrieben. Zur Heiligsprechung Ulrichs (993) die Vita Gerhards von
-                                    Augsburg<note><bibl><title level="m">Gerhard von Augsburg: Vita
-                                    Sancti Uodalrici</title>, edd. <editor>W. B./A. Häse</editor>,
-                                    <pubPlace>Heidelberg</pubPlace>
+                        frühen, direkt in Rom durchgeführten Heiligsprechungsverfahren wurden
+                        hervorragende Biographien — im spätantik-mittelalterlichen Verständnis der
+                        Gattung und ihrer Gesetze — geschrieben. Zur Heiligsprechung Ulrichs (993)
+                        die Vita Gerhards von Augsburg<note><bibl><title level="m">Gerhard von
+                                    Augsburg: Vita Sancti Uodalrici</title>, edd. <editor>W. B./A.
+                                    Häse</editor>, <pubPlace>Heidelberg</pubPlace>
+                                <edition>2</edition><date>2020</date></bibl>.</note>, zu der des
+                        armenischen Einsiedlers Symeon von Polirone (zwischen 1016 und 1024) eine
+                        interessante Reisearetalogie<note><bibl corresp="#berschin20"><author>W.
+                                    B.</author>, <title level="m">Biographie und Epochenstil</title>
+                                <biblScope unit="volume">t. 4/1</biblScope>,
+                                    <pubPlace>Stuttgart</pubPlace>
                                 <edition>2</edition><date>2020</date>, <biblScope unit="page">p.
-                                    381-425</biblScope></bibl>.</note>, zu der des armenischen
-                        Einsiedlers Symeon von Polirone (zwischen 1016 und 1024) eine interessante
-                                    Reisearetalogie<note><bibl><title level="j">Acta SS</title>
-                                <biblScope unit="volume">Jul. t. 6</biblScope>,
-                                    <pubPlace>Antwerpen</pubPlace>
-                                <date>1729</date>, <biblScope unit="page">p.
-                                324-337</biblScope></bibl>. Neue Ausgabe von <bibl><author>P.
-                                    Golinelli</author>, <title level="j">Studi Medievali</title>
-                                <biblScope unit="volume">III 20</biblScope>, <date>1979</date>,
-                                    <biblScope unit="page">p. 745-786</biblScope></bibl>.</note>, zu
-                        der des unteritalischen Griechen Symeon von Trier (1042) die
-                        wahrheitsliebende Vita Abt Eberwins<note><bibl><title level="j">Acta
-                                    SS</title>
-                                <biblScope unit="volume">Jun. t. 1</biblScope>,
-                                    <pubPlace>Antwerpen</pubPlace>
-                                <date>1695</date>, <biblScope unit="page">p.
-                                89-95</biblScope></bibl>.</note>. Nach dem ottonischen Bischof und
-                        den griechisch-orientalischen Anachoreten stand nun als vierte in der Reihe
-                        der in Rom zu Kanonisierenden eine Rekluse und Martyrin der Ungarneinfälle.
-                        Ein Zusammenhang mit der damaligen Ungarnpolitik des Reiches ist nicht von
-                        der Hand zu weisen<note>Treffend <bibl corresp="#widmer66"><author>B.
-                                    Widmer</author>, <title level="m" type="main">Wiborada</title>.
-                                    <title type="sub">Die Klausnerin mit Hellebarde und
-                                Buch</title>, <pubPlace>St. Gallen</pubPlace>
+                                    267</biblScope></bibl>.</note>, zu der des unteritalischen
+                        Griechen Symeon von Trier (1036) die wahrheitsliebende Vita Abt
+                                Eberwins<note><bibl corresp="#berschin20">Ib., <biblScope
+                                    unit="page">p. 217</biblScope></bibl>.</note>. Nach dem
+                        ottonischen Bischof und den griechisch-orientalischen Anachoreten stand nun
+                        als vierte in der Reihe der <hi rend="it">in Rom</hi> zu
+                            Kanonisierenden<note>Zählt man auch die Heiligsprechungen, die nicht
+                            direkt durch den Papst, sondern mit päpstlicher Zustimmung anderenorts
+                            erfolgten, dann ist die Kanonisation Wiboradas in chronologischer Folge
+                            die siebte. Sie bleibt aber die erste römische Heiligsprechung einer
+                            Frau, cf. <bibl><author>T. Klauser</author>, <title level="a">«Die
+                                    Liturgie der Heiligsprechung»</title>, <title level="j"
+                                    >Gesammelte Arbeiten zur Liturgiegeschichte...</title>,
+                                    <pubPlace>Münster i. W.</pubPlace>
+                                <date>1974</date>, <biblScope>p. 161-176</biblScope>, hier
+                                    <biblScope>p. 173</biblScope></bibl>.</note> eine Rekluse und
+                        Martyrin der Ungarneinfälle. Ein Zusammenhang mit der damaligen
+                        Ungarnpolitik des Reiches ist nicht von der Hand zu weisen<note>Treffend
+                                <bibl corresp="#widmer66"><author>B. Widmer</author>, <title
+                                    level="m" type="main">Wiborada</title>. <title type="sub">Die
+                                    Klausnerin mit Hellebarde und Buch</title>, <pubPlace>St.
+                                    Gallen</pubPlace>
                                 <date>1966</date>, <biblScope unit="page">p. 16
                                 sq.</biblScope></bibl>
                             <bibl corresp="#irblich70"><author>Irblich</author>, <title level="m"
@@ -1376,12 +1394,11 @@
                         und die nun ins Licht gerückt wurden: Strengste Lebensform als Rekluse,
                         Martyrium und nicht zuletzt, daß es eine Frau war, die durch eine römische
                         Bulle zur Ehre der Altäre erhoben wurde. Diese <hi rend="it">erste römische
-                            Heiligsprechung einer Frau</hi> besiegelt auf ihre Weise die
-                        unübersehbare Rolle großer Frauen im Leben der sächsisch-frühsalischen
-                        Epoche des Imperiums<note>Hierzu ist immer noch wertvoll <bibl><author>E.
-                                    Rosenstock</author>, <title level="m">Königshaus und Stämme in
-                                    Deutschland zwischen 911 und 1250</title>,
-                                    <pubPlace>Leipzig</pubPlace>
+                            Heiligsprechung einer Frau</hi> besiegelt auf ihre Weise die Rolle
+                        großer Frauen im Leben der sächsisch-frühsalischen Epoche des
+                            Imperiums<note>Hierzu <bibl><author>E. Rosenstock</author>, <title
+                                    level="m">Königshaus und Stämme in Deutschland zwischen 911 und
+                                    1250</title>, <pubPlace>Leipzig</pubPlace>
                                 <date>1914</date>, <biblScope unit="page">p. 18
                                 sqq.</biblScope></bibl>: «Das Haus des Königs».</note>.</p>
                 </div>
@@ -1445,14 +1462,10 @@
                         unbekannt; die Textvorlagen in Dillingen und Wiblingen waren nicht gut, die
                         Kopisten leisteten sich Lesefehler, der Setzer Druckfehler, und Henschen,
                         der auch in der Vorrede zur Wiboradavita keine Probe durchdringender Kritik
-                                ablegte<note><bibl corresp="#berschin72"><author>W. B.</author>,
-                                    <title level="j"><ref target="#ZSKG">ZSKG</ref></title>
-                                <biblScope unit="volume">66</biblScope>, <date>1972</date>,
-                                    <biblScope unit="page">p. 253 sq.</biblScope></bibl></note>,
-                        hatte offenbar nicht die Zeit, alles zu revidieren. Man findet 22 Lesefehler
-                            (<hi rend="it">hoc</hi> statt <hi rend="it">hora</hi>, <hi rend="it"
-                            >observavit</hi> statt <hi rend="it">obseravit</hi>, <hi rend="it"
-                            >amarum</hi> statt <hi rend="it">animarum</hi>, <hi rend="it"
+                        ablegte, hatte offenbar nicht die Zeit, alles zu revidieren. Man findet 22
+                        Lesefehler (<hi rend="it">hoc</hi> statt <hi rend="it">hora</hi>, <hi
+                            rend="it">observavit</hi> statt <hi rend="it">obseravit</hi>, <hi
+                            rend="it">amarum</hi> statt <hi rend="it">animarum</hi>, <hi rend="it"
                             >sancta</hi> statt <hi rend="it">sacrata</hi>, <hi rend="it">diu</hi>
                         statt <hi rend="it">dixi</hi> usw.)‚ Druckfehler (<hi rend="it">inmento</hi>
                         für <hi rend="it">iumento</hi> usw.) und etliche Stellen, an denen das
@@ -1471,9 +1484,9 @@
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">Augsburger Handschrift</bibl>
                         wieder bekannt ist, kann man sich davon überzeugen, wie ﬂüchtig Gamans
                         gelesen hat<note>Vgl. <ref target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_VII.6"
-                                >c. VII</ref>, Apparat<hi rend="sup">y</hi> und <ref
+                                >c. VII</ref>, Apparat<hi rend="sup">a</hi> und <ref
                                 target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XI.10">c. XI</ref>,
-                                Apparat<hi rend="sup">z</hi>.</note> — bis zum Datum der
+                                Apparat<hi rend="sup">c</hi>.</note> — bis zum Datum der
                         Handschrift, das er falsch aufgenommen hat.</p>
                 </div>
                 <div xml:id="intro_II.14">
@@ -1606,11 +1619,12 @@
                             einem Hepidan auch die Annales Sangallenses maiores zuschrieb<note><bibl
                                     corresp="Herimanni_Vita_S_Wiboradae.xml#Gold"><author>M.
                                         Goldast</author>, <title level="m">Alamannicarum rerum
-                                        scriptores aliquot vetusti</title>,
+                                        scriptores aliquot vetusti</title>
+                                    <biblScope unit="volume">t. 1/1</biblScope>,
                                         <pubPlace>Frankfurt</pubPlace>
                                     <date>1606</date>, <biblScope unit="page">p. 1 (Vorbemerkung)
-                                        und p. 6-18 (Edition)</biblScope></bibl>.</note>.</p>
-                        <p>Von <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Gold">Goldast</bibl>
+                                        und p. 6-18 (Edition)</biblScope></bibl>.</note>.Von <bibl
+                                corresp="Herimanni_Vita_S_Wiboradae.xml#Gold">Goldast</bibl>
                             übernahmen den Namen die <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#Boll">Bollandisten</bibl>,
                             und so kam ein Autor, den es nie gegeben hat, allmählich zu einem
@@ -1638,19 +1652,20 @@
                             in den Dialog verfällt, den und jenen Handelnden vor sein Schreibpult
                             zitiert und mit ihm disputiert. Das erinnert an Notkers Metrum, das ein
                             Zeitgenosse unseres Herimannus, der bald nach 1076 schreibende erste
-                            Fortsetzer der Casus S. Galli Ekkeharts IV., zitiert<note>Continuatio
-                                casuum S. Galli, praef., <bibl>ed. <editor>Meyer v. Knonau</editor>
+                            Fortsetzer der Casus S. Galli Ekkeharts IV., zitiert<note><bibl>Continuatio
+                                casuum S. Galli, praef., ed. <editor>Meyer v. Knonau</editor>
                                         (<title level="j"><ref target="#MVG">MVG</ref></title>
                                     <biblScope unit="volume">17</biblScope>), <pubPlace>St.
                                         Gallen</pubPlace>
                                     <date>1879</date>, <biblScope unit="page">p.
-                                    5</biblScope></bibl>. Cf. <bibl corresp="#berschin22"><author>W.
-                                        B.</author>, <title level="a">«Notkers Metrum de vita S.
-                                        Galli»</title>, <title level="m">Mittellateinische
-                                        Studien</title>
+                                    5</biblScope></bibl>; <bibl><editor>Leuppi</editor> (wie oben n.
+                                    37), <biblScope unit="page">p. 62</biblScope></bibl>. Cf. <bibl
+                                    corresp="#berschin22"><author>W. B.</author>, <title level="a"
+                                        >«Notkers Metrum de vita S. Galli»</title>, <title level="m"
+                                        >Mittellateinische Studien</title>
                                     <biblScope unit="volume">t. 4</biblScope>,
                                         <pubPlace>Heidelberg</pubPlace>
-                                    <date>2022</date><biblScope unit="page">p. 119-167, hier p.
+                                    <date>2022</date>, <biblScope unit="page">p. 119-167, hier p.
                                         121</biblScope> mit <biblScope unit="entry">n.
                                     8</biblScope></bibl>.</note>. Dieser Zeitgenosse des Herimannus
                             hat auch sonst manche Interessen und Vorlieben mit dem zweiten Verfasser
@@ -1674,7 +1689,7 @@
                                 <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Gold">Goldast</bibl>
                             die Bezeichnung «Annales Hepidanni» für die Annales Sangallenses maiores
                             nicht ganz frei erfunden hat<note><bibl><author>Goldast</author>, <title
-                                        level="m">Alamannicarum rerum Scriptores</title>,
+                                        level="m">Alamannicarum rerum Scriptores</title> <biblScope unit="volume">t. 1/1</biblScope>,
                                         <date>1606</date>, <biblScope unit="page">p. 6
                                         sqq.</biblScope></bibl></note>, liegt in dieser Zuschreibung
                             ein schwaches Indiz dafür, daß Herimannus — denn so ist «Hepidannus»
@@ -1721,7 +1736,7 @@
                                     <biblScope unit="volume">t. 1</biblScope>,
                                         <pubPlace>Augsburg/Würzburg</pubPlace>
                                     <date>1754</date>, <biblScope unit="page">p.
-                                    584</biblScope></bibl></note> dafür, daß die jüngere Vita S.
+                                    584</biblScope></bibl>.</note> dafür, daß die jüngere Vita S.
                             Wiboradae des Herimannus während des Mittelalters auch außerhalb St.
                             Gallens gelesen wurde. Hinzu kommt nun noch eine Basler Handschrift vom
                             Jahr 1508.</p>
@@ -1740,9 +1755,9 @@
                             und Wiborada, geschrieben in karolingischer Minuskel «schrägovalen
                             Stils» von einem Schreiber, der sich dem heiligen Gallus so
                             empﬁehlt:</p>
-                        <lg>
-                            <l rend="centered">Servum, Galle, tuum libri decus hoc Herimannum</l>
-                            <l rend="centered">Divite cum voto tibi perfecisse memento!</l>
+                        <lg type="elegiacCouplet" rend="centered">
+                            <l>Servum, Galle, tuum libri decus hoc Herimannum</l>
+                            <l rend="indent">Divite cum voto tibi perfecisse memento!</l>
                         </lg>
                         <p rend="no-indent">«Gallus, sei eingedenk, daß dein Knecht Herimann dir
                             dieses Schmuckstück von einem Buch<note>Denkbar wäre auch die
@@ -1788,13 +1803,13 @@
                         <p>Gegen die Identität von Autor und Schreiber sprechen einige sinnstörende
                             Fehler im <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#A">Sangallensis
                                 560</bibl> (<ref target="Herimanni_Vita_S_Wiboradae.xml#vw2_prol"
-                                >Vorrede</ref> App.<hi rend="sup">c</hi>; <ref
+                                >Vorrede</ref> App.<hi rend="sup">d</hi>; <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_cont1">Kapitelverzeichnis
-                                zum I. Buch</ref> App.<hi rend="sup">l</hi>; <ref
+                                zum I. Buch</ref> App.<hi rend="sup">n</hi>; <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_XVI">c. XVI</ref> App.<hi
-                                rend="sup">h</hi>; <ref
+                                rend="sup">k</hi>; <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_XXIV">c. XXIV</ref>
-                                App.<hi rend="sup">p</hi>).</p>
+                                App.<hi rend="sup">t</hi>).</p>
                         <p>Ein Kalligraph ist bekanntermaßen nicht sehr zuverlässig in der
                             Textwiedergabe; seine Aufmerksamkeit richtet sich mehr auf die
                             Formgestalt der Wörter und Sätze als auf ihre grammatische Richtigkeit.
@@ -1816,7 +1831,7 @@
                             Gegenbeispiel einer Verbindung von Kalligraphie und Schriftstellerei.
                             Otloh von St. Emmeran († 1067) war zugleich ein hochangesehener Autor
                             und ein Meister des «schrägovalen Stils» der
-                                        Schreibkunst<note><bibl><author>Chroust</author>
+                                        karolingischen Minuskel<note><bibl><author>Chroust</author>
                                     <biblScope unit="volume">ser. I, fasc. 3</biblScope>, <biblScope
                                         unit="table">tab. 7</biblScope></bibl>.</note>.</p>
                     </div>
@@ -1830,7 +1845,7 @@
                                         >p. 110 mit tab. 49</biblScope></bibl>.</note>, <seg n="B"
                                 rend="sb">Stiftsbibliothek <bibl
                                     corresp="Herimanni_Vita_S_Wiboradae.xml#B">Cod.
-                            564</bibl></seg>. Auch dieses Buch wurde in einer guten Form, aber doch
+                            564</bibl></seg>. Auch dieses Buch wurde in einer guten Form, aber
                             nicht so üppig geschrieben wie die Vorlage. Das erste Buch der
                             Wiboradavita steht auf p. 231-309 des Codex. Das zweite Buch ist auf
                             einem Ternio p. 310-320 von einer Hand des XIII. Jahrhunderts ergänzt
@@ -1873,7 +1888,7 @@
                                         <pubPlace>Wiesbaden</pubPlace>
                                     <date>2000</date>, <biblScope unit="page">p.
                                     198-200</biblScope></bibl>. <bibl><author>A. Fleischer</author>,
-                                        <title level="m">Zisterzienserabt und Skriptorium</title>,
+                                        <title level="m">Zisterzienserabt und Skriptorium</title>.
                                         <title type="sub">Salem unter Eberhard I. von
                                         Rohrdorf</title>, <pubPlace>Wiesbaden</pubPlace>
                                     <date>2004</date>, <biblScope unit="page">p. 54sq.</biblScope>
@@ -1886,8 +1901,7 @@
                             Bogenverbindungen. Man kann diese Schrift mit gleichem Recht als eine
                             (der deutschen Spätromanik vergleichbare) letzte Ausprägung der
                             karolingischen Minuskel bezeichnen oder auch «frühgotisch» nennen. Das
-                            Schriftbild ist abermals erheblich verdichtet (29 Zeilen pro Seite).</p>
-                        <p>Im Text hat der Salemer Schreiber so viele Lücken und Änderungen, daß man
+                            Schriftbild ist abermals erheblich verdichtet (29 Zeilen pro Seite). Im Text hat der Salemer Schreiber so viele Lücken und Änderungen, daß man
                             annehmen muß, er habe bewußt den Text etwas zu straffen versucht. Den
                             Prolog des Herimann und die Kapitelverzeichnisse zu den beiden Büchern
                             der Vita hat er ausgelassen.</p>
@@ -1990,8 +2004,8 @@
                                 rend="it">C</bibl> auftauchen. In <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_2_XIV">c. 14</ref> und
                                 <ref target="Herimanni_Vita_S_Wiboradae.xml#vw2_2_XV">15</ref> des
-                            II. Buches (Apparat <hi rend="sup">x</hi>, <hi rend="sup">z</hi> und <hi
-                                rend="sup">a</hi>) gehen <bibl
+                            II. Buches (Apparat <hi rend="sup">o</hi>, <hi rend="sup">q</hi> und <hi
+                                rend="sup">r</hi>) gehen <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#A" rend="it">A</bibl> und
                                 <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#C" rend="it">C</bibl>
                             zusammen gegen <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#B"
@@ -2003,7 +2017,7 @@
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#B" rend="it">B</bibl> zu der
                             Zeit, als <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#C" rend="it"
                                 >C</bibl> abschrieb, noch einen anderen Text hatte als heute. Denn
-                            das zweite Buch der Wiboradavita ist, wie erwähnt, in <bibl
+                            das zweite Buch der Wiboradavita ist in <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#B" rend="it">B</bibl> in
                             einer Schrift des frühen XIII. Jahrhunderts geschrieben, die wohl als
                             eine Restauration anzusehen ist.</p>
@@ -2038,7 +2052,7 @@
                             folgendes vergessen <lg rend="centered">
                                 <l><hi rend="it">non rarescere, nisus est eandem
                                     frequentiam</hi></l>
-                            </lg> Er ergänzte am unteren Rand aber <lg rend="centered">
+                            </lg> Er ergänzte am unteren Rand aber <lg>
                                 <l><hi rend="it">frequentiam orationum eius non rarescere ·</hi></l>
                                 <l><hi rend="it">nisus est eandem frequentiam</hi></l>
                             </lg> Durch ein falsch gesetztes Auslassungszeichen komplizierte er den
@@ -2060,13 +2074,13 @@
                                 >Melchior Goldast</bibl><note><bibl
                                     corresp="Herimanni_Vita_S_Wiboradae.xml#Gold"
                                         ><editor>Goldast</editor>, <title level="m">Alamannicarum
-                                        rerum scriptores</title>, <date>1606</date>, <biblScope
+                                        rerum scriptores</title>, <biblScope unit="volume">t. 1/2</biblScope>, <date>1606</date>, <biblScope
                                         unit="page">p. 323-352</biblScope></bibl>.</note> zu
                             bestimmen. Wer die Geschicke der durch Goldasts Hände gegangenen
                             Handschriften kennt, wird sogleich vermuten, daß die Vorlage Goldasts —
                             der laut Titelblatt der <hi rend="it">Alamannicarum Rerum
                                 Scriptores</hi> nur aus seiner eigenen Bibliothek publizierte —
-                            jedenfalls nicht mehr in der Stiftsbibliothek zu suchen sein dürfte. So
+                            jedenfalls nicht mehr in der <hi rend="it">Stiftsbibliothek</hi> zu suchen sein dürfte. So
                             ist es auch. Der oben geschilderte Nachtragsfehler in <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_XI">I 11</ref>, den
                             Goldast nachvollzieht, grenzt die möglichen Vorlagen auf die beiden
@@ -2218,9 +2232,7 @@
                                 >Frau <name><forename>Svenja</forename>
                                     <surname>Berkensträter</surname></name> hat sich um die
                                 Verbesserungen und Ergänzungen dieser Auflage verdient gemacht und
-                                die elektronische Fassung hergestellt. Das Stemma der Überlieferung
-                                der jüngeren Vita schrieb <name><forename>Erhard</forename>
-                                    <surname>Wagner</surname></name>. Stiftsbibliothekar Dr.
+                                die elektronische Fassung hergestellt. Stiftsbibliothekar Dr.
                                         <name><forename>Cornel </forename>
                                     <surname>Dora</surname></name>, St. Gallen, ist herzlich für die
                                 Betreuung des Buches zu danken.</note>. </p>
