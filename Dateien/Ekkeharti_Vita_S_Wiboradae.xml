@@ -868,7 +868,7 @@
                   <rdg wit="#A" rend="lem-prefixed">virgine</rdg>
                </app> sua indutiis adueniens stetit ante fenestram · Quam illa aperiens · dixit ad
                eum · Fili · habes in animo libenter te fieri monachum et abbatem in isto loco? At
-               ille respondit · Si dei uoluntas est · <seg source="#Virg_Aen_II_61">libenti animo <app>
+               ille respondit · Si dei uoluntas est · libenti animo <seg source="#Virg_Aen_II_61"><app>
                   <lem>ad utrumque</lem>
                   <rdg wit="#A">ad utrumque <note>omisit</note></rdg>
                </app> paratus</seg> sum · At illa · uerte inquit animum tuum aliorsum · nec monachus nec abbas<app>
@@ -1483,7 +1483,7 @@
          <div n="XXXIII (29)" xml:id="vw1_XXXIII.29">
             <p>Interea <persName ref="#unga">uesanus quidam et <seg source="#Rm_1.30">deo odibilis</seg> ascitis sibi similibus
                   sociis</persName> · ad <placeName ref="#emag">sancti magni basilicam</placeName>
-               una properant · <seg><note type="citation"><ref target="#Pass_S_Afr_3">Passio S. Afrae c. 3</ref> etc.</note>ignique supposito</seg> · cum mansiunculam sanctę uirginis exurere uellent
+               una properant · <seg><note type="citation"><ref target="#Pass_S_Afr_3">Passio (II) S. Afrae c. 3</ref> etc.</note>ignique supposito</seg> · cum mansiunculam sanctę uirginis exurere uellent
                · diuina uirtute flammę restinctę sunt · Cunque effectum peruersę <pb ed="#S"
                   n="136ra" facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/273"/>
                uoluntatis se non posse perficere cernerent · <seg source="#Greg_Tur_Hist_VI_6"><app>
@@ -2006,7 +2006,7 @@
       </body>
       <back>
          <div xml:id="vw1_epit" rend="break-before fn-reset">
-            <head> Appendix 1: <supplied><persName ref="#ekke">Ekkeharti IV</persName></supplied><lb/>
+            <head> Appendix 1: <supplied><persName ref="#ekke">Ekkeharti IV.</persName></supplied><lb/>
                <pb ed="#S" n="Stuttgart, Bibl. 2°58, fol. 138va"
                   facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/278"/><app>
                   <lem>Epitaphium sancte <persName ref="#wibo">Wiberade</persName></lem>
@@ -2064,7 +2064,7 @@
                </lg>
          </div>
          <div rend="break-before fn-reset">
-            <head> Appendix 2: <persName ref="#ekke">Ekkeharti IV</persName><lb/>
+            <head> Appendix 2: <persName ref="#ekke">Ekkeharti IV.</persName><lb/>
                <pb ed="#Cod." n="St. Gallen, Stiftsbibl. 393, p. 260"
                   facs="https://www.e-codices.unifr.ch/de/csg/0393/260"/>Epitaphium sanctę <persName
                   ref="#rach">Rachildę</persName> uirginis reclusę · </head>
