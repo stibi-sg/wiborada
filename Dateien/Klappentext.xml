@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
 <?xml-model href="../../tei-vanilla/tei_vanilla.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -29,14 +30,17 @@
                     Vita war nach glaubhafter Tradition Ekkehart I. von St. Gallen. Um 1075 ist
                     diese älteste «ottonische» Vita in den Stil des XI. Jahrhunderts umgeschrieben
                     worden von dem St. Galler Mönch Herimannus.</p>
-                <p>Das Buch enthält die kritische Edition dieser beiden vorzüglichen, zu wenig
+                <p>Das Buch enthält die kritische Edition dieser beiden vorzüglichen, wenig
                     bekannten lateinischen Lebensbeschreibungen, die für die Geschichte im
                     allgemeinen, die Kirchen-, Literatur- und Kulturgeschichte im besonderen von
                     Interesse sind. Eine deutsche Übersetzung ist als Paralleltext beigegeben. In
                     der Einleitung sind die wesentlichen kult- und literaturgeschichtlichen Fragen,
-                    die handschriftliche Überlieferung und die Prinzipien der Edition behandelt, die
-                    die vor über 300 Jahren erschienene Ausgabe der <hi rend="it">Acta Sanctorum</hi> ersetzen
-                    soll.</p>
+                    die handschriftliche Überlieferung und die Prinzipien der Edition behandelt.</p>
+                <p>Die erste Ausgabe der Wiborada-Viten (1983) war Band 51 der Mitteilungen zur
+                    Vaterländischen Geschichte des Historischen Vereins St. Gallen. Diese zweite,
+                    verbesserte Auflage erscheint zum 1100-jährigen Todesjahr Wiboradas, einer
+                    markanten Frauengestalt des ʻEisernen Jahrhundertsʼ (<hi rend="it">saeculum
+                        ferreum</hi>), die im alemannischen Raum viel verehrt wurde.</p>
             </div>
         </body>
     </text>

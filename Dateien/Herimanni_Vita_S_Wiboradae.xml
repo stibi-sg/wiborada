@@ -991,7 +991,7 @@
                </app> secrete uerba miscere · Quo adueniente · postquam semotis cęteris multa
                perfide quasi fideliter <app>
                   <lem>de uirgine</lem>
-                  <rdg>de virgine <note>deest <ref target="#B">B</ref><ref target="#C">C</ref> et
+                  <rdg>de virgine <note>desunt <ref target="#B">B</ref><ref target="#C">C</ref> et
                            <ref target="#Basil_D.I.18">Basil. D.I.18</ref></note></rdg>
                   <rdg><note>in marg. suppl. <ref target="#Vad_70">Cod. Vad. 70</ref></note></rdg>
                </app> locuta est · etiam hanc sententiam subintulit · Compertam habeo uestram
@@ -1134,7 +1134,7 @@
                   arbor · siue fructuosa uel infructuosa · dum uiua terra radix tegitur in
                   uiriditate poterit permanere · <app>
                      <lem>et fructibus uel frondibus se obducere</lem>
-                     <rdg>et – obducere <note>deest <ref target="#B">B</ref><ref target="#C">C</ref>
+                     <rdg>et – obducere <note>desunt <ref target="#B">B</ref><ref target="#C">C</ref>
                            et <ref target="#Basil_D.I.18">Basil. D.I.18</ref></note></rdg>
                   </app> · At si terram quę foueat abesse contingat · nudata radice · necesse est ut
                   arbor arescat · Quapropter deo ammonita · parcas tibi aliquid de nimia abstinentia
@@ -1589,7 +1589,7 @@
                   etc.</note>percutere ciuitatem in ore gladii</seg> · cum populus in illa habitans
                percutiatur · tendens ad hoc · <persName ref="trai">traianum</persName> a cruciatibus
                inferni refrigerium esse consecutum · non autem ex inferno eductum · <seg><note
-                     type="citation"><ref target="#Joh_Diac_Greg_II_44">Johannes Diac.,
+                     type="citation"><ref target="#Joh_Diac_Greg_II_44">Iohannes Diac.,
                      ib.</ref></note>Ualet enim anima et in inferno existere · et inferni cruciatus
                   per dei misericordiam non sentire · sicuti unus gehennę ignis ualet omnes
                   peccatores pariter detinere · <app>
@@ -1598,7 +1598,7 @@
                      <rdg><note>deest <ref target="#C">C</ref>, <ref target="#Vad_70">Vad. 70</ref>,
                               <ref target="#Sang_610">Sang. 610</ref> et <ref target="#Basil_D.I.18"
                               >Basil. D.I.18</ref></note></rdg>
-                     <rdg><note>Eo loci <hi rend="rom">sic</hi> legitur apud Johannem Diaconum, Vita
+                     <rdg><note>Eo loci <hi rend="rom">sic</hi> legitur apud Iohannem Diaconum, Vita
                            S. Gregorii II 44, <ref target="Einleitung.xml#Migne_PL">Migne PL</ref> 75, col. 106</note></rdg>
                   </app> per dei autem iustitiam cunctos equaliter non ualet exurere · Nam
                   uniuscuiusque quantum meruit culpa · <pb ed="#A" n="p. 471"
@@ -2018,9 +2018,9 @@
             <p>CUM HĘC AGERENTUR · iam tum non fama uolabat per cellam de <date when="0926-05-01"
                   >aduentu <persName ref="#unga">ungrorum</persName></date> · sed illorum rabies
                undique eam circumsepserat ·</p>
-            <p rend="no-initial"><l><seg source="#Walth_51">Mox ad praedandum cuneus dispergitur
+            <l><seg source="#Walth_51">Mox ad praedandum cuneus dispergitur
                      omnis ·</seg></l>
-               <seg type="cf." source="#Prud_Psych_454"><app>
+               <p rend="no-initial"><seg type="cf." source="#Prud_Psych_454"><app>
                      <lem>ingemitque</lem>
                      <rdg wit="#C">ingemuitque</rdg>
                   </app> auaritia contra eius patentes sinus uacua patere ęraria</seg> · Exstruuntur
