@@ -16,8 +16,8 @@
     </teiHeader>
     <text>
         <body>
-            <head rend="break-before">KONKORDANZ DER VITAE SANCTAE WIBORADAE</head>
-            <div xml:id="Konk" rend="two-column">
+            <div xml:id="Konk" rend="two-column" type="konkordanz">
+                <head rend="break-before">KONKORDANZ DER VITAE SANCTAE WIBORADAE</head>
                 <table rows="62" cols="3">
                     <row role="label">
                         <cell>Ekkehart</cell>

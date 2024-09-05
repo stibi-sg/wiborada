@@ -20,8 +20,8 @@
             <div rend="recto frontmatter">
                 <p rend="center no-initial">REGISTER</p>
             </div>
-            <head rend="break-before">INDEX NOMINUM zu den Editionen</head>
             <div type="register" rend="two-column" xml:id="Pers">
+                <head rend="break-before">INDEX NOMINUM zu den Editionen</head>
                 <listPerson>
                     <person xml:id="abra">
                         <persName>Abraham</persName>

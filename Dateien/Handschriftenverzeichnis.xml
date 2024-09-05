@@ -16,7 +16,7 @@
     </teiHeader>
     <text>
         <body>
-            <head rend="break-before">Zitierte Handschriften und Urkunde</head>
+            <head rend="break-before">Zitierte Handschriften und Urkunden</head>
             <listWit xml:id="Hss">
                 <witness corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">
                     <msDesc>

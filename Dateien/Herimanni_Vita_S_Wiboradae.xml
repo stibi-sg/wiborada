@@ -2169,7 +2169,7 @@
                infinita sęcula amen ·</p>
          </div>
          <div type="contents" xml:id="vw2_cont2">
-            <head><pb ed="#A" n="p. 513" facs="https://www.e-codices.unifr.ch/de/csg/0560/513"
+            <head rend="break-before"><pb ed="#A" n="p. 513" facs="https://www.e-codices.unifr.ch/de/csg/0560/513"
                   /><supplied>Liber secundus</supplied></head>
             <head><app>
                   <lem><supplied>Capitula</supplied></lem>
@@ -2222,9 +2222,8 @@
                      quod unus artificum pede lesus sospitati pristinae est redditus · </ref></item>
             </list>
          </div>
-         <div n="I" xml:id="vw2_2_I">
-            <pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>
-            <p>IGITUR POST SEPULTURAM <app>
+         <div n="I" xml:id="vw2_2_I" rend="break-before">
+            <p><pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>IGITUR POST SEPULTURAM <app>
                   <lem>PRECLUIS</lem>
                   <rdg wit="#codd."><note>ita</note></rdg>
                   <rdg wit="#Boll.">praedictae</rdg>
