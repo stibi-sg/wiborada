@@ -298,7 +298,7 @@
             </div>
         </front>
         <body>
-            <div type="contents" rend="frontmatter recto">
+            <div xml:id="main-contents" type="contents" rend="frontmatter recto">
                 <head>INHALT</head>
                 <list>
                     <head><hi rend="it">Einleitung</hi></head>
@@ -912,7 +912,7 @@
                 </div>
                 <div xml:id="intro_II.4">
                     <head rend="align(center)">Die Handschriften</head>
-                    <p><graphic corresp="Bilder/Stuttgarter_Passionale"/>
+                    <p><graphic corresp="Bilder/Stuttgarter_Passionale.png"/>
                         <desc>Der Anfang der Vita Wiboradae I von Ekkehart I. im 3. Band des
                             Stuttgarter Passionales. <bibl
                                 corresp="Ekkeharti_Vita_S_Wiboradae.xml#S">Stuttgart,
@@ -1204,7 +1204,7 @@
                         nicht vielmehr <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it"
                             >S</bibl> einen erweiterten Text hat, den man sich als glossenähnliche
                         Ergänzung des Textes <hi rend="it">X</hi> vorstellen kann? <graphic
-                            corresp="Bilder/Cara.png"/> Prüft man daraufhin alle Stellen, an denen
+                            corresp="Bilder/Cara.svg"/> Prüft man daraufhin alle Stellen, an denen
                             <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it">S</bibl> ein
                         Mehr gegenüber <hi rend="it">X</hi> hat (d.h. die im Apparat mit <hi
                             rend="it">deest</hi>
@@ -1437,7 +1437,9 @@
                         Dillingen und <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#W" rend="it"
                             >W</bibl> einerseits und <hi rend="it">X</hi> anderseits sind
                         möglich.</p>
-                    <p><graphic corresp="Bilder/Stemma_E.png"/></p>
+                    <figure>
+                        <graphic corresp="Bilder/Stemma_E.png"/>
+                    </figure>
                 </div>
                 <div xml:id="intro_II.13">
                     <head rend="align(center)">Die Ausgaben</head>
@@ -2129,7 +2131,7 @@
                         <p>Die Überlieferungsgeschichte der jüngeren Vita bietet den seltenen Fall,
                             daß, ohne jedes spekulative Element, ein wirklich gesichertes Stemma
                             gegeben werden kann: </p>
-                        <p><graphic corresp="Bilder/Stemma_H.png"/></p>
+                        <p><graphic corresp="Bilder/Stemma_H.svg"/></p>
                     </div>
                     <div xml:id="intro_III.12">
                         <head rend="align(center)">Die Ausgaben</head>
