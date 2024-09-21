@@ -8,11 +8,11 @@
                 <title type="main">VITAE SANCTAE WIBORADAE</title>
                 <title type="sub">Die ältesten Lebensbeschreibungen der heiligen Wiborada</title>
                 <respStmt>
-                    <resp>Einleitung, Edition und Übersetzung von</resp>
-                    <persName>Walter Berschin</persName>
+                   <resp>Einleitung, Edition und Übersetzung von</resp><name/></respStmt>
+                    <respStmt><resp/><persName>Walter Berschin</persName>
                 </respStmt>
                 <respStmt>
-                    <resp>2., verbesserte Auflage</resp>
+                    <resp>2., verbesserte und erweiterte Auflage</resp>
                     <name/>
                 </respStmt>
                 <respStmt>
@@ -321,7 +321,7 @@
                     <head><hi rend="it">Register</hi></head>
                     <item><ref target="#Pers">Index nominum zu den Editionen</ref></item>
                     <item><ref target="#Konk">Konkordanz der Vitae S. Wiboradae</ref></item>
-                    <item><ref target="#Hss">Zitierte Handschriften und Urkunde</ref></item>
+                    <item><ref target="#Hss">Zitierte Handschriften und Urkunden</ref></item>
                 </list>
             </div>
             <div rend="break-before frontmatter">
@@ -586,7 +586,7 @@
                             Sakramentaren <bibl corresp="#Sang_339">St. Gallen, Stiftsbibliothek
                                 Cod. 339</bibl>, <bibl corresp="#Sang_340">340</bibl> und <bibl
                                 corresp="#Sang_341">341</bibl>, saec. XI, sowie dem Missale <bibl
-                                corresp="#Ei113">Einsiedeln, Siftsbibliothek 113 (466)</bibl>, saec.
+                                corresp="#Ei113">Einsiedeln, Stiftsbibliothek 113 (466)</bibl>, saec.
                             XI ex. In den Kalendarien aller vier Handschriften stehen auch Bischof
                             Ulrich von Augsburg († 973) und Adalbert von Prag († 997), die neuen
                             ottonischen «Reichsheiligen».</note> und Litanei<note><bibl
@@ -594,7 +594,7 @@
                             (saec. XII), p. 17.</note>, Meßformulare<note>zum Beispiel <bibl
                                 corresp="#Sang_339">St. Gallen, Stiftsbibliothek Cod. 339</bibl>, p.
                             288 (388), <bibl corresp="#Sang_340">Cod. 340</bibl>, p. 767 und <bibl
-                                corresp="#Sang_341">Cod. 341</bibl>, p. 734. Das Wiboradafest wurde
+                                corresp="#Sang_341">Cod. 341</bibl>, p. 734; <bibl corresp="#Ei113">Einsiedeln, Stiftsbibliothek 113 (466)</bibl>, p. 12. Das Wiboradafest wurde
                             am 2. Mai gefeiert. Ekkehart IV. (<ref
                                 target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_epit">unten</ref>) und
                             ihm folgend Herimann (<ref
@@ -655,7 +655,7 @@
                                         >Codex Sangallensis 393</bibl></title>, <pubPlace>St.
                                     Gallen</pubPlace>
                                 <date>1909</date>, s.v. Wiborada</bibl>. Dazu auch Ekkeharts
-                            eigenhändige Anmerkungen im santgallischen Exemplar der Ulrichsvita
+                            eigenhändige Anmerkungen im sanktgallischen Exemplar der Ulrichsvita
                             Berns von der Reichenau, <bibl corresp="#Sang_565">Stiftsbibliothek Cod.
                                 565</bibl>. Dort bemängelt Ekkehart z.B. auf p. 372, daß die
                             Ulrichsvita den Ungarneinfall des Jahres 926 nicht erwähnt, <hi
@@ -1663,11 +1663,7 @@
                                     5</biblScope></bibl>; <bibl><editor>Leuppi</editor> (wie oben n.
                                     37), <biblScope unit="page">p. 62</biblScope></bibl>. Cf. <bibl
                                     corresp="#berschin22"><author>W. B.</author>, <title level="a"
-                                        >«Notkers Metrum de vita S. Galli»</title>, <title level="m"
-                                        >Mittellateinische Studien</title>
-                                    <biblScope unit="volume">t. 4</biblScope>,
-                                        <pubPlace>Heidelberg</pubPlace>
-                                    <date>2022</date>, <biblScope unit="page">p. 119-167, hier p.
+                                        >«Notkers Metrum de vita S. Galli»</title> (wie oben n. 46), <biblScope unit="page">p. 119-167, hier p.
                                         121</biblScope> mit <biblScope unit="entry">n.
                                     8</biblScope></bibl>.</note>. Dieser Zeitgenosse des Herimannus
                             hat auch sonst manche Interessen und Vorlieben mit dem zweiten Verfasser
@@ -1751,7 +1747,7 @@
                                     <biblScope unit="volume">20</biblScope>, <date>1968</date>,
                                         <biblScope unit="page">p. 664</biblScope></bibl>.
                                 Paläographische Beschreibung in <bibl><author><foreign
-                                            rend="no-hyphen">Chrousts</foreign></author>
+                                            rend="no-hyphen">Chroust</foreign></author>,
                                     <title level="j">Monumenta Palaeographica</title></bibl> (wie
                                 Anm. 53).</note>, enthält die Lebensbeschreibungen von Gallus, Otmar
                             und Wiborada, geschrieben in karolingischer Minuskel «schrägovalen
