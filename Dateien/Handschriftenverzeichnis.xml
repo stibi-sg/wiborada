@@ -122,15 +122,6 @@
                     </msContents>
                 </msDesc>
                 </witness>
-                <witness xml:id="JM">
-                    <msDesc>
-                        <msIdentifier>
-                            <placeName rend="smallcaps">St. Gallen</placeName>
-                            <repository>Stadtarchiv (Vadiana)</repository>
-                            <idno>s. n. «Jahrzeitenbuch von St. Mangen»</idno>
-                        </msIdentifier>
-                    </msDesc>
-                </witness>
                 <witness xml:id="StiA_56">
                     <msDesc>
                         <msIdentifier>
@@ -152,18 +143,6 @@
                             <idno>Urk. IV 495 (Wartmannn 807)</idno>
                             <altIdentifier type="url">
                                 <idno>https://www.e-chartae.ch/de/charters/view/804</idno>
-                            </altIdentifier>
-                        </msIdentifier>
-                    </msDesc>
-                </witness>
-                <witness xml:id="Sang_174">
-                    <msDesc>
-                        <msIdentifier>
-                            <placeName rend="smallcaps">St. Gallen</placeName>
-                            <repository>Stiftsbibliothek</repository>
-                            <idno>174</idno>
-                            <altIdentifier type="url">
-                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0174</idno>
                             </altIdentifier>
                         </msIdentifier>
                     </msDesc>
@@ -208,7 +187,7 @@
                     <msDesc>
                         <msIdentifier>
                             <placeName rend="smallcaps">St. Gallen</placeName>
-                            <repository>Stiftsbiblitohek</repository>
+                            <repository>Stiftsbibliothek</repository>
                             <idno>360</idno>
                             <altIdentifier type="url">
                                 <idno>https://e-codices.unifr.ch/de/list/one/csg/0360</idno>
@@ -234,18 +213,6 @@
                         </msContents>
                     </msDesc>
                 </witness>
-                <witness xml:id="Sang_425">
-                    <msDesc>
-                        <msIdentifier>
-                            <placeName rend="smallcaps">St. Gallen</placeName>
-                            <repository>Stiftsbibliothek</repository>
-                            <idno>425</idno>
-                            <altIdentifier type="url">
-                                <idno>https://e-codices.unifr.ch/de/list/one/csg/0425</idno>
-                            </altIdentifier>
-                        </msIdentifier>
-                    </msDesc>
-                </witness>
                 <witness xml:id="Sang_503k">
                     <msDesc>
                         <msIdentifier>
@@ -261,6 +228,7 @@
                             <placeName rend="smallcaps">St. Gallen</placeName>
                             <repository>Stiftsbibliothek</repository>
                             <idno>546</idno>
+                            <objectName>«Codex Branderi»</objectName>
                             <altIdentifier type="url">
                                 <idno>https://e-codices.unifr.ch/de/list/one/csg/0546</idno>
                             </altIdentifier>
@@ -360,6 +328,7 @@
                             <placeName rend="smallcaps">St. Gallen</placeName>
                             <repository>Stiftsbibliothek</repository>
                             <idno>613</idno>
+                            <objectName>«Codex Geisbergianus»</objectName>
                             <altIdentifier type="url">
                                 <idno>https://e-codices.unifr.ch/de/list/one/csg/0613</idno>
                             </altIdentifier>
@@ -421,6 +390,15 @@
                                 </bibl>
                             </msItem>
                         </msContents>
+                    </msDesc>
+                </witness>
+                <witness xml:id="Wuerz_25">
+                    <msDesc>
+                        <msIdentifier>
+                            <placeName rend="smallcaps">Würzburg</placeName>
+                            <repository>Universitätsbibliothek</repository>
+                            <idno>M.p.th.o.25</idno>
+                        </msIdentifier>
                     </msDesc>
                 </witness>
             </listWit>

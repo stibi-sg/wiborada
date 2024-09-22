@@ -741,7 +741,7 @@
                <seg source="#Lucan_Phars_II_657">nil credens actum</seg> · si non et illa augeret
                propositum · uocatis <persName ref="#kebi #pert">duabus de domesticis suis</persName>
                quę sibi fidę <pb ed="#A" n="p. 413"
-                  facs="https://www.e-codices.unifr.ch/de/csg/0560/413/0/"/> prę coeteris uidebantur
+                  facs="https://www.e-codices.unifr.ch/de/csg/0560/413/0/"/> prę ceteris uidebantur
                · denudauit eis uoluntatem suam · quod neque ita <app>
                   <lem>deliciosis</lem>
                   <rdg wit="#C"><note>ex <hi rend="rom">delicioseis</hi> corr.</note></rdg>
@@ -1453,9 +1453,9 @@
                donum prophetię ei a domino concessum esse · non ista solummodo lectio loquitur ·
                uerum etiam alie complures · ut istum libellum legentibus liquet · quas nos
                continuare diuersitas temporum non permisit · Quasdam etiam in nostris auctoribus
-               legendas reseruauimus · ut est <ref target="#vw1_XXI.18">per spiritum cognosce<pb
+               legendas reseruauimus · ut est <seg><note type="citation"><ref target="#vw1_XXI.18">per spiritum cognosce<pb
                      ed="#A" n="p. 461" facs="https://www.e-codices.unifr.ch/de/csg/0560/461/0/"
-                     break="no"/>re gallum uicisse uulpeculam</ref> · claues <app>
+                     break="no"/>re gallum uicisse uulpeculam</ref></note></seg> · claues <app>
                   <lem>perditas</lem>
                   <rdg wit="#A">perditos</rdg>
                </app> monstrare · hospitum aduentum prophetare ·</p>
@@ -2223,7 +2223,7 @@
             </list>
          </div>
          <div n="I" xml:id="vw2_2_I" rend="break-before">
-            <p><pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>IGITUR POST SEPULTURAM <app>
+            <pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/><p>IGITUR POST SEPULTURAM <app>
                   <lem>PRECLUIS</lem>
                   <rdg wit="#codd."><note>ita</note></rdg>
                   <rdg wit="#Boll.">praedictae</rdg>
