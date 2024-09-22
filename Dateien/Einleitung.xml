@@ -8,8 +8,12 @@
                 <title type="main">VITAE SANCTAE WIBORADAE</title>
                 <title type="sub">Die ältesten Lebensbeschreibungen der heiligen Wiborada</title>
                 <respStmt>
-                   <resp>Einleitung, Edition und Übersetzung von</resp><name/></respStmt>
-                    <respStmt><resp/><persName>Walter Berschin</persName>
+                    <resp>Einleitung, Edition und Übersetzung von</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp/>
+                    <persName>Walter Berschin</persName>
                 </respStmt>
                 <respStmt>
                     <resp>2., verbesserte und erweiterte Auflage</resp>
@@ -118,8 +122,10 @@
                             <pubPlace>St. Fiden-St. Gallen</pubPlace>
                         <date>1926</date>. </bibl>
                     <bibl>
-                        <editor>A.-K. Gässlein</editor>/<editor>G. Emmenegger</editor> (edd.), <title level="m">Wiborada von St. Gallen</title>, <pubPlace>Basel</pubPlace> <date>2022</date>.
-                    </bibl>
+                        <editor>A.-K. Gässlein</editor>/<editor>G. Emmenegger</editor> (edd.),
+                            <title level="m">Wiborada von St. Gallen</title>,
+                            <pubPlace>Basel</pubPlace>
+                        <date>2022</date>. </bibl>
                     <bibl xml:id="grundmann76">
                         <author>H. Grundmann</author>, <title level="a">«Deutsche Eremiten,
                             Einsiedler und Klausner im Hochmittelalter (10.-12.
@@ -208,8 +214,9 @@
                         <date>1966</date>. </bibl>
                     <bibl xml:id="zimmermann34">
                         <author>A. M. Zimmermann</author>, <title level="a">«Die heilige Wiborada in
-                            der Kunst»</title>, in <title level="j" type="main">Sankt Wiborada</title>.
-                            <title type="sub">Ein Jahrbuch für Bücherfreunde</title>
+                            der Kunst»</title>, in <title level="j" type="main">Sankt
+                            Wiborada</title>. <title type="sub">Ein Jahrbuch für
+                            Bücherfreunde</title>
                         <biblScope unit="volume">2</biblScope>, <date>1934</date>, <biblScope
                             unit="page">p. 1-11</biblScope>. </bibl>
                     <bibl xml:id="zoepf08">
@@ -586,16 +593,17 @@
                             Sakramentaren <bibl corresp="#Sang_339">St. Gallen, Stiftsbibliothek
                                 Cod. 339</bibl>, <bibl corresp="#Sang_340">340</bibl> und <bibl
                                 corresp="#Sang_341">341</bibl>, saec. XI, sowie dem Missale <bibl
-                                corresp="#Ei113">Einsiedeln, Stiftsbibliothek 113 (466)</bibl>, saec.
-                            XI ex. In den Kalendarien aller vier Handschriften stehen auch Bischof
-                            Ulrich von Augsburg († 973) und Adalbert von Prag († 997), die neuen
-                            ottonischen «Reichsheiligen».</note> und Litanei<note><bibl
+                                corresp="#Ei113">Einsiedeln, Stiftsbibliothek 113 (466)</bibl>,
+                            saec. XI ex. In den Kalendarien aller vier Handschriften stehen auch
+                            Bischof Ulrich von Augsburg († 973) und Adalbert von Prag († 997), die
+                            neuen ottonischen «Reichsheiligen».</note> und Litanei<note><bibl
                                 corresp="#Sang_360">St. Gallen, Stiftsbibliothek Cod. 360</bibl>
                             (saec. XII), p. 17.</note>, Meßformulare<note>zum Beispiel <bibl
                                 corresp="#Sang_339">St. Gallen, Stiftsbibliothek Cod. 339</bibl>, p.
                             288 (388), <bibl corresp="#Sang_340">Cod. 340</bibl>, p. 767 und <bibl
-                                corresp="#Sang_341">Cod. 341</bibl>, p. 734; <bibl corresp="#Ei113">Einsiedeln, Stiftsbibliothek 113 (466)</bibl>, p. 12. Das Wiboradafest wurde
-                            am 2. Mai gefeiert. Ekkehart IV. (<ref
+                                corresp="#Sang_341">Cod. 341</bibl>, p. 734; <bibl corresp="#Ei113"
+                                >Einsiedeln, Stiftsbibliothek 113 (466)</bibl>, p. 12. Das
+                            Wiboradafest wurde am 2. Mai gefeiert. Ekkehart IV. (<ref
                                 target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_epit">unten</ref>) und
                             ihm folgend Herimann (<ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_XXXVI">unten</ref>)
@@ -1654,29 +1662,30 @@
                             in den Dialog verfällt, den und jenen Handelnden vor sein Schreibpult
                             zitiert und mit ihm disputiert. Das erinnert an Notkers Metrum, das ein
                             Zeitgenosse unseres Herimannus, der bald nach 1076 schreibende erste
-                            Fortsetzer der Casus S. Galli Ekkeharts IV., zitiert<note><bibl>Continuatio
-                                casuum S. Galli, praef., ed. <editor>Meyer v. Knonau</editor>
-                                        (<title level="j"><ref target="#MVG">MVG</ref></title>
+                            Fortsetzer der Casus S. Galli Ekkeharts IV.,
+                                    zitiert<note><bibl>Continuatio casuum S. Galli, praef., ed.
+                                        <editor>Meyer v. Knonau</editor> (<title level="j"><ref
+                                            target="#MVG">MVG</ref></title>
                                     <biblScope unit="volume">17</biblScope>), <pubPlace>St.
                                         Gallen</pubPlace>
                                     <date>1879</date>, <biblScope unit="page">p.
                                     5</biblScope></bibl>; <bibl><editor>Leuppi</editor> (wie oben n.
                                     37), <biblScope unit="page">p. 62</biblScope></bibl>. Cf. <bibl
                                     corresp="#berschin22"><author>W. B.</author>, <title level="a"
-                                        >«Notkers Metrum de vita S. Galli»</title> (wie oben n. 46), <biblScope unit="page">p. 119-167, hier p.
-                                        121</biblScope> mit <biblScope unit="entry">n.
-                                    8</biblScope></bibl>.</note>. Dieser Zeitgenosse des Herimannus
-                            hat auch sonst manche Interessen und Vorlieben mit dem zweiten Verfasser
-                            der Vita S. Wiboradae gemeinsam. Er ist ein künstlerisch orientierter
-                                Kopf<note>Der Wert der ersten Fortsetzung der Casus S. Galli
-                                Ekkeharts IV. liegt vor allem in den Nachrichten über Bauten und
-                                Stiftungen der Äbte Notker (971-975), Ymmo (976-984), Ulrich I.
-                                (984-990) und Purchart II. (1001-1022).</note> und neigt —
-                            vielleicht ein verderblicher Einﬂuß von Ekkehart IV. — zum
-                                Klatsch<note>Der Abt Kerhart (ca. 990-1001) wird von unserem
-                                Fortsetzer in einer ähnlich ungünstigen und mißgünstigen Weise
-                                geschildert, wie dies Ekkehart IV. beim Abt Craloh (942-958) getan
-                                hatte.</note>.</p>
+                                        >«Notkers Metrum de vita S. Galli»</title> (wie oben n. 46),
+                                        <biblScope unit="page">p. 119-167, hier p. 121</biblScope>
+                                    mit <biblScope unit="entry">n. 8</biblScope></bibl>.</note>.
+                            Dieser Zeitgenosse des Herimannus hat auch sonst manche Interessen und
+                            Vorlieben mit dem zweiten Verfasser der Vita S. Wiboradae gemeinsam. Er
+                            ist ein künstlerisch orientierter Kopf<note>Der Wert der ersten
+                                Fortsetzung der Casus S. Galli Ekkeharts IV. liegt vor allem in den
+                                Nachrichten über Bauten und Stiftungen der Äbte Notker (971-975),
+                                Ymmo (976-984), Ulrich I. (984-990) und Purchart II.
+                                (1001-1022).</note> und neigt — vielleicht ein verderblicher Einﬂuß
+                            von Ekkehart IV. — zum Klatsch<note>Der Abt Kerhart (ca. 990-1001) wird
+                                von unserem Fortsetzer in einer ähnlich ungünstigen und mißgünstigen
+                                Weise geschildert, wie dies Ekkehart IV. beim Abt Craloh (942-958)
+                                getan hatte.</note>.</p>
                     </div>
                     <div xml:id="intro_III.2">
                         <p>Man kann sich gut vorstellen, daß der Vitenautor Herimannus und der erste
@@ -1687,16 +1696,16 @@
                                 <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#Gold">Goldast</bibl>
                             die Bezeichnung «Annales Hepidanni» für die Annales Sangallenses maiores
                             nicht ganz frei erfunden hat<note><bibl><author>Goldast</author>, <title
-                                        level="m">Alamannicarum rerum Scriptores</title> <biblScope unit="volume">t. 1/1</biblScope>,
-                                        <date>1606</date>, <biblScope unit="page">p. 6
-                                        sqq.</biblScope></bibl></note>, liegt in dieser Zuschreibung
-                            ein schwaches Indiz dafür, daß Herimannus — denn so ist «Hepidannus»
-                            jedenfalls zu lesen — auch an den sanktgallischen Annalen beteiligt war.
-                            Es ist jedenfalls erforderlich, ausgehend vom gesicherten Werk unseres
-                            Herimannus, nochmals die lateinische Literatur St. Gallens des XI.
-                            Jahrhunderts zu mustern. Es wäre verwunderlich, wenn Herimannus neben
-                            seinem ehrgeizigen Unternehmen einer neuen Vita S. Wiboradae nicht noch
-                            anderes geschrieben hätte.</p>
+                                        level="m">Alamannicarum rerum Scriptores</title>
+                                    <biblScope unit="volume">t. 1/1</biblScope>, <date>1606</date>,
+                                        <biblScope unit="page">p. 6 sqq.</biblScope></bibl></note>,
+                            liegt in dieser Zuschreibung ein schwaches Indiz dafür, daß Herimannus —
+                            denn so ist «Hepidannus» jedenfalls zu lesen — auch an den
+                            sanktgallischen Annalen beteiligt war. Es ist jedenfalls erforderlich,
+                            ausgehend vom gesicherten Werk unseres Herimannus, nochmals die
+                            lateinische Literatur St. Gallens des XI. Jahrhunderts zu mustern. Es
+                            wäre verwunderlich, wenn Herimannus neben seinem ehrgeizigen Unternehmen
+                            einer neuen Vita S. Wiboradae nicht noch anderes geschrieben hätte.</p>
                         <p>Herimannus ist einer der letzten namentlich bekannten lateinischen
                             Schriftsteller St. Gallens im Mittelalter. Nach ihm kommen die anonymen
                             Annalisten und Fortsetzer der Casus S. Galli, der anonyme Autor der Vita
@@ -1747,12 +1756,11 @@
                                     <biblScope unit="volume">20</biblScope>, <date>1968</date>,
                                         <biblScope unit="page">p. 664</biblScope></bibl>.
                                 Paläographische Beschreibung in <bibl><author><foreign
-                                            rend="no-hyphen">Chroust</foreign></author>,
-                                    <title level="j">Monumenta Palaeographica</title></bibl> (wie
-                                Anm. 53).</note>, enthält die Lebensbeschreibungen von Gallus, Otmar
-                            und Wiborada, geschrieben in karolingischer Minuskel «schrägovalen
-                            Stils» von einem Schreiber, der sich dem heiligen Gallus so
-                            empﬁehlt:</p>
+                                            rend="no-hyphen">Chroust</foreign></author>, <title
+                                        level="j">Monumenta Palaeographica</title></bibl> (wie Anm.
+                                53).</note>, enthält die Lebensbeschreibungen von Gallus, Otmar und
+                            Wiborada, geschrieben in karolingischer Minuskel «schrägovalen Stils»
+                            von einem Schreiber, der sich dem heiligen Gallus so empﬁehlt:</p>
                         <lg type="elegiacCouplet" rend="centered">
                             <l>Servum, Galle, tuum libri decus hoc Herimannum</l>
                             <l rend="indent">Divite cum voto tibi perfecisse memento!</l>
@@ -1828,8 +1836,8 @@
                             Aber blickt man über St. Gallen hinaus, dann ﬁndet man auch das
                             Gegenbeispiel einer Verbindung von Kalligraphie und Schriftstellerei.
                             Otloh von St. Emmeran († 1067) war zugleich ein hochangesehener Autor
-                            und ein Meister des «schrägovalen Stils» der
-                                        karolingischen Minuskel<note><bibl><author>Chroust</author>
+                            und ein Meister des «schrägovalen Stils» der karolingischen
+                                        Minuskel<note><bibl><author>Chroust</author>
                                     <biblScope unit="volume">ser. I, fasc. 3</biblScope>, <biblScope
                                         unit="table">tab. 7</biblScope></bibl>.</note>.</p>
                     </div>
@@ -1843,27 +1851,27 @@
                                         >p. 110 mit tab. 49</biblScope></bibl>.</note>, <seg n="B"
                                 rend="sb">Stiftsbibliothek <bibl
                                     corresp="Herimanni_Vita_S_Wiboradae.xml#B">Cod.
-                            564</bibl></seg>. Auch dieses Buch wurde in einer guten Form, aber
-                            nicht so üppig geschrieben wie die Vorlage. Das erste Buch der
-                            Wiboradavita steht auf p. 231-309 des Codex. Das zweite Buch ist auf
-                            einem Ternio p. 310-320 von einer Hand des XIII. Jahrhunderts ergänzt
-                            worden. Da es sich hier um die letzte Lage des Bandes handelt, ist
-                            anzunehmen, daß eine verdorbene oder verlorene Lage ersetzt wurde. Der
-                            Hauptschreiber dieses Exemplars verzichtete auf das Gold und die vielen
-                            dekorativen Textunterbrechungen durch verzierte Buchstaben. Er schrieb
-                            dem Zeitstil entsprechend die karolingische Minuskel auch wesentlich
-                            dichter als sein Vorgänger des XI. Jahrhunderts. Da zugleich die Zeilen
-                            enger aneinandergerückt wurden (21 statt 17 pro Seite), brauchte der
-                            Schreiber des XII. Jahrhunderts rund ein Drittel weniger Pergament als
-                            Herimann. Sei es, daß man den Vorteil der jüngeren Handschrift schätzte,
-                            den Text besser zu überblicken, sei es, daß man den Prachtcodex des
-                            Herimannus schonen wollte: Die Abschrift wurde das Gebrauchsexemplar der
-                            Abtei. Es wurde zur Lesung am Heiligenfest benützt<note>Im Gallusleben
-                                des <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang.
-                                    564</bibl> findet sich an entsprechender Stelle der Vermerk, daß
-                                zusätzlich zu Walahfrids Vita Notkers Sermo S. Galli zu lesen sei.
-                                    <bibl corresp="#berschin22"><author>W. B.</author>, <title
-                                        level="m">Mittellateinische Studien</title>
+                            564</bibl></seg>. Auch dieses Buch wurde in einer guten Form, aber nicht
+                            so üppig geschrieben wie die Vorlage. Das erste Buch der Wiboradavita
+                            steht auf p. 231-309 des Codex. Das zweite Buch ist auf einem Ternio p.
+                            310-320 von einer Hand des XIII. Jahrhunderts ergänzt worden. Da es sich
+                            hier um die letzte Lage des Bandes handelt, ist anzunehmen, daß eine
+                            verdorbene oder verlorene Lage ersetzt wurde. Der Hauptschreiber dieses
+                            Exemplars verzichtete auf das Gold und die vielen dekorativen
+                            Textunterbrechungen durch verzierte Buchstaben. Er schrieb dem Zeitstil
+                            entsprechend die karolingische Minuskel auch wesentlich dichter als sein
+                            Vorgänger des XI. Jahrhunderts. Da zugleich die Zeilen enger
+                            aneinandergerückt wurden (21 statt 17 pro Seite), brauchte der Schreiber
+                            des XII. Jahrhunderts rund ein Drittel weniger Pergament als Herimann.
+                            Sei es, daß man den Vorteil der jüngeren Handschrift schätzte, den Text
+                            besser zu überblicken, sei es, daß man den Prachtcodex des Herimannus
+                            schonen wollte: Die Abschrift wurde das Gebrauchsexemplar der Abtei. Es
+                            wurde zur Lesung am Heiligenfest benützt<note>Im Gallusleben des <bibl
+                                    corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang. 564</bibl>
+                                findet sich an entsprechender Stelle der Vermerk, daß zusätzlich zu
+                                Walahfrids Vita Notkers Sermo S. Galli zu lesen sei. <bibl
+                                    corresp="#berschin22"><author>W. B.</author>, <title level="m"
+                                        >Mittellateinische Studien</title>
                                     <biblScope unit="volume">t. 4</biblScope>,
                                         <pubPlace>Heidelberg</pubPlace>
                                     <date>2022</date>, <biblScope unit="page">p.
@@ -1899,7 +1907,8 @@
                             Bogenverbindungen. Man kann diese Schrift mit gleichem Recht als eine
                             (der deutschen Spätromanik vergleichbare) letzte Ausprägung der
                             karolingischen Minuskel bezeichnen oder auch «frühgotisch» nennen. Das
-                            Schriftbild ist abermals erheblich verdichtet (29 Zeilen pro Seite). Im Text hat der Salemer Schreiber so viele Lücken und Änderungen, daß man
+                            Schriftbild ist abermals erheblich verdichtet (29 Zeilen pro Seite). Im
+                            Text hat der Salemer Schreiber so viele Lücken und Änderungen, daß man
                             annehmen muß, er habe bewußt den Text etwas zu straffen versucht. Den
                             Prolog des Herimann und die Kapitelverzeichnisse zu den beiden Büchern
                             der Vita hat er ausgelassen.</p>
@@ -2072,14 +2081,15 @@
                                 >Melchior Goldast</bibl><note><bibl
                                     corresp="Herimanni_Vita_S_Wiboradae.xml#Gold"
                                         ><editor>Goldast</editor>, <title level="m">Alamannicarum
-                                        rerum scriptores</title>, <biblScope unit="volume">t. 1/2</biblScope>, <date>1606</date>, <biblScope
-                                        unit="page">p. 323-352</biblScope></bibl>.</note> zu
-                            bestimmen. Wer die Geschicke der durch Goldasts Hände gegangenen
-                            Handschriften kennt, wird sogleich vermuten, daß die Vorlage Goldasts —
-                            der laut Titelblatt der <hi rend="it">Alamannicarum Rerum
-                                Scriptores</hi> nur aus seiner eigenen Bibliothek publizierte —
-                            jedenfalls nicht mehr in der <hi rend="it">Stiftsbibliothek</hi> zu suchen sein dürfte. So
-                            ist es auch. Der oben geschilderte Nachtragsfehler in <ref
+                                        rerum scriptores</title>, <biblScope unit="volume">t.
+                                        1/2</biblScope>, <date>1606</date>, <biblScope unit="page"
+                                        >p. 323-352</biblScope></bibl>.</note> zu bestimmen. Wer die
+                            Geschicke der durch Goldasts Hände gegangenen Handschriften kennt, wird
+                            sogleich vermuten, daß die Vorlage Goldasts — der laut Titelblatt der
+                                <hi rend="it">Alamannicarum Rerum Scriptores</hi> nur aus seiner
+                            eigenen Bibliothek publizierte — jedenfalls nicht mehr in der <hi
+                                rend="it">Stiftsbibliothek</hi> zu suchen sein dürfte. So ist es
+                            auch. Der oben geschilderte Nachtragsfehler in <ref
                                 target="Herimanni_Vita_S_Wiboradae.xml#vw2_XI">I 11</ref>, den
                             Goldast nachvollzieht, grenzt die möglichen Vorlagen auf die beiden
                             Handschriften des XV. Jahrhunderts ein, <bibl
