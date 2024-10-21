@@ -34,7 +34,7 @@
             </publicationStmt>
             <sourceDesc>
                 <listBibl xml:id="Lit">
-                    <head>LITERATUR</head>
+                    <head>Literatur</head>
                     <bibl xml:id="becht91">
                         <author>G. Becht</author>, <title level="a" type="main">«Sprachliches in den
                             Vitae S. Wiboradae (II). Dabei: Ein Walthariuszitat in der jüngeren
@@ -230,7 +230,7 @@
                         <date>1915</date>. </bibl>
                 </listBibl>
                 <list>
-                    <head>ABKÜRZUNGEN</head>
+                    <head>Abkürzungen</head>
                     <item xml:id="MGH"><abbr>MGH</abbr>
                         <expan>Monumenta Germaniae Historica</expan></item>
                     <item xml:id="Migne_PL"><abbr>Migne PL</abbr>
@@ -245,12 +245,9 @@
     </teiHeader>
     <text>
         <front>
-            <div type="dedication" rend="recto frontmatter">
-                <p rend="center">CUM SANCTIS TUIS IN AETERNUM</p>
-            </div>
             <div type="preface" rend="recto frontmatter">
-                <head>VORWORT</head>
-                <p>Die heilige Wiborada von St. Gallen gilt als erste Frau, die aufgrund eines
+                <head>Vorwort</head>
+                <p rend="no-indent">Die heilige Wiborada von St. Gallen gilt als erste Frau, die aufgrund eines
                     kanonischen Verfahrens in Rom vom Papst heiliggesprochen wurde. Ihre
                     Kanonisation erfolgte wahrscheinlich kurz nach der Wende zum Jahr 1047 durch
                     Suidger von Bamberg als Papst Clemens II. (reg. 24. Dezember 1046 bis 9. Oktober
@@ -306,7 +303,7 @@
         </front>
         <body>
             <div xml:id="main-contents" type="contents" rend="frontmatter recto">
-                <head>INHALT</head>
+                <head>Inhalt</head>
                 <list>
                     <head><hi rend="it">Einleitung</hi></head>
                     <item><ref target="#intro_I.1">I Vom liturgischen Gedächtnis zur historischen
@@ -342,10 +339,10 @@
                 <p><graphic corresp="Bilder/Schlussstein.png"/></p>
             </div>
             <div rend="recto frontmatter">
-                <p rend="center">EINLEITUNG</p>
+                <p rend="center">Einleitung</p>
             </div>
             <div n="I" rend="recto reset-page">
-                <head>VOM LITURGISCHEN GEDÄCHTNIS ZUR HISTORISCHEN BIOGRAPHIE</head>
+                <head>Vom liturgischen Gedächtnis zur historischen Biographie</head>
                 <div type="content">
                     <ab type="content" rend="smaller"><ref target="#intro_I.1">Die erste
                             Aufzeichnung über die heilige Wiborada im Profeßbuch der Abtei St.
@@ -362,7 +359,7 @@
                 </div>
 
                 <div xml:id="intro_I.1">
-                    <p>Am 1. Mai 926 erlitt die Rekluse Wiberat den Martyrertod durch die in St.
+                    <p rend="no-indent">Am 1. Mai 926 erlitt die Rekluse Wiberat den Martyrertod durch die in St.
                         Gallen einfallenden Ungarn. Sie hatte ihre vermauerte Zelle bei der
                         Magnuskirche (St. Mangen) nicht verlassen wollen und war als einzige am Ort
                         zurückgeblieben.</p>
@@ -588,7 +585,7 @@
                         </table></p>
                 </div>
                 <div xml:id="intro_I.5">
-                    <p>Nach und neben der ersten Vita gibt es noch andere lateinische Texte zur
+                    <p rend="no-indent">Nach und neben der ersten Vita gibt es noch andere lateinische Texte zur
                         Verherrlichung der Heiligen: Eintrag in Kalendar<note>zum Beispiel in den
                             Sakramentaren <bibl corresp="#Sang_339">St. Gallen, Stiftsbibliothek
                                 Cod. 339</bibl>, <bibl corresp="#Sang_340">340</bibl> und <bibl
@@ -748,7 +745,7 @@
                 </div>
             </div>
             <div n="II">
-                <head>EKKEHARTS I. VITA S. WIBORADAE</head>
+                <head>Ekkeharts I. Vita S. Wiboradae</head>
 
                 <div type="content">
                     <ab type="content" rend="smaller"><ref target="#intro_II.1">Verfasserproblem und
@@ -772,7 +769,7 @@
                             Ausgabe.</ref></ab>
                 </div>
                 <div xml:id="intro_II.1">
-                    <p>Die ältere Vita S. Wiboradae hat im allgemeinen Bewußtsein der Literatur- und
+                    <p rend="no-indent">Die ältere Vita S. Wiboradae hat im allgemeinen Bewußtsein der Literatur- und
                         Geistesgeschichte noch nicht den Platz gefunden, den sie verdient. Das liegt
                         zunächst gewiß am Stoff, der eine Frau in einer uns unbekannt gewordenen
                         Lebensform schildert, als Rekluse. Sodann ist trotz vieler
@@ -832,7 +829,7 @@
                             target="Ekkeharti_Vita_S_Wiboradae.xml#vw1_XXVII.23">c. XXVII</ref>).
                         Die Beschreibung der großangelegten Italienexpedition des Schwabenherzogs
                         ist in ihrer scheinbaren Umständlichkeit eine Stilisierung des Geschehens
-                        als Folge von Kontrastbildern: Glanz und Elend (<hi rend="it">magno
+                        als Folge von Kontrastbildern: Glanz und Elend (<hi rend="it">mag&#xad;no
                             comitatu</hi> — <hi rend="it">miserabiliter vitam ﬁnivit</hi>), «der
                         Mensch denkt, Gott lenkt» (<hi rend="it">sicut mente conceperat</hi> — <hi
                             rend="it">insperato obitu</hi>), der gestürzte Unterwerfer (<hi
@@ -919,7 +916,7 @@
                         geschrieben wurde.</p>
                 </div>
                 <div xml:id="intro_II.4">
-                    <head rend="align(center)">Die Handschriften</head>
+                    <head>Die Handschriften</head>
                     <p><graphic corresp="Bilder/Stuttgarter_Passionale.png"/>
                         <desc>Der Anfang der Vita Wiboradae I von Ekkehart I. im 3. Band des
                             Stuttgarter Passionales. <bibl
@@ -930,7 +927,7 @@
                                     >Bl. 130r</biblScope></bibl>.</desc>
                     </p>
                     <div>
-                        <p>Die erste Vita S. Wiboradae ist in drei Handschriften erhalten. Die
+                        <p rend="no-indent">Die erste Vita S. Wiboradae ist in drei Handschriften erhalten. Die
                             älteste und beste ist <seg n="S" rend="sb"><bibl
                                     corresp="Ekkeharti_Vita_S_Wiboradae.xml#S">Stuttgart, Württ.
                                     Landesbibliothek Bibl. 2°58</bibl></seg>, der dritte Band des
@@ -960,7 +957,7 @@
                                         unit="page">p. 68-70</biblScope></bibl></note>.</p>
                     </div>
                     <div>
-                        <p>Die zweite erhaltene Handschrift der älteren Wiboradavita ist <seg n="A"
+                        <p rend="no-indent">Die zweite erhaltene Handschrift der älteren Wiboradavita ist <seg n="A"
                                 rend="sb"><bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">Augsburg,
                                     Staats- und Stadtbibliothek 2°203, fol. 80<hi rend="sup"
                                         >r</hi>-110<hi rend="sup">r</hi></bibl></seg>, geschrieben
@@ -978,7 +975,7 @@
                                     193-196</biblScope></bibl>.</note>.</p>
                     </div>
                     <div>
-                        <p>Der Text zweier weiterer Handschriften ist in die Ausgabe der älteren
+                        <p rend="no-indent">Der Text zweier weiterer Handschriften ist in die Ausgabe der älteren
                             Wiboradavita durch die <bibl
                                 corresp="Ekkeharti_Vita_S_Wiboradae.xml#Boll">Bollandisten</bibl>
                             eingegangen. Sie zitieren in <bibl><title level="j">Acta
@@ -992,7 +989,7 @@
                             gilt, steht für sie der <seg n="Boll." rend="sb">Druck der Bollandisten
                                 in den <bibl><title level="j">Acta
                             Sanctorum</title></bibl></seg>.</p>
-                        <p>Das Wiblinger Exemplar ist von Guy Philippart wiedergefunden worden in
+                        <p rend="no-indent">Das Wiblinger Exemplar ist von Guy Philippart wiedergefunden worden in
                                 <seg n="W" rend="sb"><bibl
                                     corresp="Ekkeharti_Vita_S_Wiboradae.xml#W">London, British
                                     Library Add. 10933</bibl></seg><note><bibl><author>G.
@@ -1026,8 +1023,8 @@
                     </div>
                 </div>
                 <div xml:id="intro_II.5">
-                    <head rend="align(center)">Rezension</head>
-                    <p>Die typische Siglengruppierung des Apparats ist <bibl
+                    <head>Rezension</head>
+                    <p rend="no-indent">Die typische Siglengruppierung des Apparats ist <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#A" rend="it">A</bibl><bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#W" rend="it">W</bibl>
                         <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#Boll" rend="it">Boll.</bibl>,
@@ -1235,7 +1232,7 @@
                 </div>
 
                 <div xml:id="intro_II.8">
-                    <head rend="align(center)">Literatur- und Kultgeschichte</head>
+                    <head >Literatur- und Kultgeschichte</head>
                     <p rend="no-indent">Die Überlieferung beider Zweige der älteren Wiboradavita
                         ging von St. Gallen aus. Spätester Zeitpunkt für die Ausbreitung von St.
                         Gallen ist paläographisch ca. 1135 (Datierung von <bibl
@@ -1428,15 +1425,11 @@
                             nicht<note>Man vergleiche das in etwa rekonstruierbare Verfahren der
                             Bearbeitung von Notkers Metrum der Vita S. Galli durch Ekkehart IV.,
                                 <bibl corresp="#berschin22"><author>W. B.</author>, <title level="a"
-                                    >«Notkers Metrum de vita S. Galli»</title>, <title level="j"
-                                    >Mittellateinische Studien</title>
-                                <biblScope unit="volume">t. 4</biblScope>,
-                                    <pubPlace>Heidelberg</pubPlace>
-                                <date>2022</date>, <biblScope unit="page">p. 119-167, hier p. 121
+                                    >«Notkers Metrum de vita S. Galli»</title> (wie oben n. 46) <biblScope unit="page">p. 119-167, hier p. 121
                                     und 165sq.</biblScope></bibl></note>.</p>
                 </div>
                 <div xml:id="intro_II.12">
-                    <p rend="smaller">Schematische Darstellung der Textgeschichte der älteren Vita
+                    <p rend="smaller no-indent">Schematische Darstellung der Textgeschichte der älteren Vita
                         S. Wiboradae. Das Alter der verlorenen Dillinger Handschrift ist unbekannt.
                             <bibl corresp="Ekkeharti_Vita_S_Wiboradae.xml#S" rend="it">S</bibl> kann
                         entweder vom Exemplar Ekkeharts IV. in späterem Zustand oder von einem
@@ -1450,8 +1443,8 @@
                     </figure>
                 </div>
                 <div xml:id="intro_II.13">
-                    <head rend="align(center)">Die Ausgaben</head>
-                    <p>Gottfried Henschen druckte als erster die ältere Vita S. Wiboradae im <bibl
+                    <head>Die Ausgaben</head>
+                    <p rend="no-indent">Gottfried Henschen druckte als erster die ältere Vita S. Wiboradae im <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#Boll">ersten Mai-Band der Acta
                             Sanctorum</bibl><note><bibl
                                 corresp="Ekkeharti_Vita_S_Wiboradae.xml#Boll"><title level="j">Acta
@@ -1529,7 +1522,7 @@
                                 452-457</biblScope></bibl>.</note>.</p>
                 </div>
                 <div xml:id="intro_II.16">
-                    <head rend="align(center)">Diese Ausgabe</head>
+                    <head>Diese Ausgabe</head>
                     <p rend="no-indent">wurde möglich und nötig durch das Wiederauffinden der <bibl
                             corresp="Ekkeharti_Vita_S_Wiboradae.xml#A">Augsburger Handschrift
                         </bibl> (<hi rend="it">A</hi>) im Jahr 1975, das Rolf Schmidt zu verdanken
@@ -1586,7 +1579,7 @@
                 </div>
             </div>
             <div n="III">
-                <head>HERIMANNS VITA S. WIBORADAE</head>
+                <head>Herimanns Vita S. Wiboradae</head>
                 <div type="content">
                     <ab type="content" rend="smaller"><ref target="#intro_III.1">Das
                             Verfasserproblem.</ref> — <ref target="#intro_III.2">Weitere Werke
@@ -1607,7 +1600,7 @@
                 </div>
                 <div>
                     <div xml:id="intro_III.1">
-                        <p>Auch der Name des Autors der zweiten Vita ist lange verschüttet gewesen.
+                        <p rend="no-indent">Auch der Name des Autors der zweiten Vita ist lange verschüttet gewesen.
                             Im <bibl corresp="Herimanni_Vita_S_Wiboradae.xml#A">Codex Sang.
                                 560</bibl>, vermutlich Autograph unseres Autors, ist er unter
                             Benützung eines griechischen Rho und dem für abendländisches Griechisch
@@ -1719,8 +1712,8 @@
                             Kraft zurückgeht, aber sich nicht unwürdig noch behauptet.</p>
                     </div>
                     <div xml:id="intro_III.3">
-                        <head rend="align(center)">Die Handschriften</head>
-                        <p><graphic corresp="Bilder/Cod_Sang_560.png"/><desc>Der Anfang der Vita
+                        <head>Die Handschriften</head>
+                        <p rend="no-indent"><graphic corresp="Bilder/Cod_Sang_560.png"/><desc>Der Anfang der Vita
                                 Wiborada II im Autograph von Herimannus. <bibl
                                     corresp="Herimanni_Vita_S_Wiboradae.xml#A">St. Gallen,
                                     Stiftsbibliothek, Cod. Sang. 560, <biblScope unit="page"
@@ -1967,8 +1960,8 @@
                             Kleinbasel.</p>
                     </div>
                     <div xml:id="intro_III.8">
-                        <head rend="align(center)">Rezension und Überlieferungsgeschichte</head>
-                        <p>Alle Handschriften sind von <bibl
+                        <head>Rezension und Überlieferungsgeschichte</head>
+                        <p rend="no-indent">Alle Handschriften sind von <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#A">Sangallensis 560</bibl>
                                 (<hi rend="it">A</hi>) abhängig, teils direkt, wie <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#B">Sang. 564</bibl> (<hi
@@ -2140,7 +2133,7 @@
                         <p><graphic corresp="Bilder/Stemma_H.svg"/></p>
                     </div>
                     <div xml:id="intro_III.12">
-                        <head rend="align(center)">Die Ausgaben</head>
+                        <head>Die Ausgaben</head>
                         <p rend="no-indent">Es ist nicht verwunderlich, daß die jüngere Wiboradavita
                             lange vor der älteren publiziert wurde. Die jüngere ist wesentlich
                             besser überliefert und wurde am Ort der Verehrung tradiert. Freilich hat
@@ -2212,7 +2205,7 @@
                                 Sanctorum</bibl> abhängig.</p>
                     </div>
                     <div xml:id="intro_III.13">
-                        <head rend="align(center)">Diese Ausgabe</head>
+                        <head>Diese Ausgabe</head>
                         <p rend="no-indent">folgt der fast fehlerlosen Hs. <bibl
                                 corresp="Herimanni_Vita_S_Wiboradae.xml#A" rend="it">A</bibl> und
                             gibt aus überlieferungsgeschichtlichen Gründen die Varia lectio aus den

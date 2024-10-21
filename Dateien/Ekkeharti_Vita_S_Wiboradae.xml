@@ -116,12 +116,12 @@
    <text>
       <body>
          <div rend="recto frontmatter">
-            <p rend="center no-initial">EDITIONEN</p>
+            <p rend="center no-initial">Editionen</p>
          </div>
          <div xml:id="vw1_head" rend="fn-reset">
             <head><supplied>Ekkeharti Vita S. Wiboradae</supplied></head>
             <head>
-               <pb ed="#S" n="Stuttgart, Bibl. 2°58, fol. 130ra"
+               <pb ed="#S" n="(Stuttgart, Bibl. 2°58, fol. 130ra)"
                   facs="http://digital.wlb-stuttgart.de/purl/bsz332502295/page/261"/><app>
                   <lem>Incipit uita <w>·s·</w>
                      <persName ref="#wibo">wiberadę</persName> uirginis et martyris</lem>
@@ -403,8 +403,7 @@
          </div>
          <div n="VII (6)" xml:id="vw1_VII.6">
             <p>
-               <seg type="cf." source="#Ado_Pass_Des_440C"><app>
-                     <lem><g rend="initial">R</g>em</lem>
+               <seg type="cf." source="#Ado_Pass_Des_440C"><app><lem><g rend="initial">R</g>em</lem>
                      <rdg>Deinde <note>legerunt <ref target="#Boll">Boll.</ref> et post <hi
                               rend="rom">relaturus sum</hi> suppleverunt <hi rend="rom">rem</hi>.
                            Paulo post contra fidem codicis Augustani aliam fallacem lectionem

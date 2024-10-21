@@ -224,10 +224,10 @@
             </list>
          </div>
          <div corresp="#vw2_head" rend="break-before">
-            <head>Das Leben der heiligen Wiborada, Jungfrau und Martyrin Christi</head>
+            <head rend="level2">Das Leben der heiligen Wiborada, Jungfrau und Martyrin Christi</head>
          </div>
          <div corresp="#vw2_I">
-            <p>Die selige Jungfrau Gottes Wiborada stammte aus alemannischer Familie und leitete
+            <p rend="no-indent">Die selige Jungfrau Gottes Wiborada stammte aus alemannischer Familie und leitete
                ihre Herkunft von Eltern ab, die gemäß weltlicher Würde nicht ohne Rang, gemäß
                christlicher Freiheit aber von allerhöchstem Adel waren. Deshalb war sie schon von
                der Wiege an Gott ergeben, war im Wachstum ihrer Tugenden ihrem Lebensalter voraus
@@ -1339,7 +1339,7 @@
             </list>
          </div>
          <div corresp="#vw2_2_I" rend="break-before">
-            <p>Also geruhte nach dem Begräbnis der berühmten Streiterin der machtvolle Gott, der
+            <p rend="no-indent">Also geruhte nach dem Begräbnis der berühmten Streiterin der machtvolle Gott, der
                schon, als sie noch im Fleisch lebte, durch das Zeugnis von Wundern den Sterblichen
                offenbaren wollte, wie treu sie in seinen Geboten wandelte, auch nach ihrer
                Beisetzung durch zahlreiche Wunder der Welt zu erkennen zu geben, mit welchem Ruhm

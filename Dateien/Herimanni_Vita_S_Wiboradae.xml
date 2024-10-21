@@ -318,10 +318,9 @@
                         ref="#salo">salomone episcopo</persName> · copiosaque multitudine eius
                      innocentiam per iudicium comprobabat ·</ref></item>
                <item n="XII"><ref target="#vw2_XII">Quomodo ultio diuinitus illata est eidem ancillę
-                     ·</ref>
-                  <pb ed="#A" n="p. 388" facs="https://www.e-codices.unifr.ch/de/csg/0560/388/0/"
-                  /></item>
-               <item n="XIII"><ref target="#vw2_XIII">Quod <persName ref="#salo">salomon
+                     ·</ref></item>
+               <item n="XIII"><pb ed="#A" n="p. 388" facs="https://www.e-codices.unifr.ch/de/csg/0560/388/0/"
+                  /><ref target="#vw2_XIII">Quod <persName ref="#salo">salomon
                         episcopus</persName> post iudicium eam in tantum amare coepit · quod etiam
                      cum equitatu illam ad <placeName ref="#cons">constantiam</placeName> perduci
                      precepit · illaque spreto equitatu ad pedes eundo eo peruenit ·</ref></item>
@@ -1453,9 +1452,10 @@
                donum prophetię ei a domino concessum esse · non ista solummodo lectio loquitur ·
                uerum etiam alie complures · ut istum libellum legentibus liquet · quas nos
                continuare diuersitas temporum non permisit · Quasdam etiam in nostris auctoribus
-               legendas reseruauimus · ut est <seg><note type="citation"><ref target="#vw1_XXI.18">per spiritum cognosce<pb
+               legendas reseruauimus · ut est <seg><note type="citation"><ref target="#vw1_XXI.18">Vita I c. 21</ref></note>
+                  per spiritum cognosce<pb
                      ed="#A" n="p. 461" facs="https://www.e-codices.unifr.ch/de/csg/0560/461/0/"
-                     break="no"/>re gallum uicisse uulpeculam</ref></note></seg> · claues <app>
+                     break="no"/>re gallum uicisse uulpeculam</seg> · claues <app>
                   <lem>perditas</lem>
                   <rdg wit="#A">perditos</rdg>
                </app> monstrare · hospitum aduentum prophetare ·</p>
@@ -2223,7 +2223,7 @@
             </list>
          </div>
          <div n="I" xml:id="vw2_2_I" rend="break-before">
-            <pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/><p>IGITUR POST SEPULTURAM <app>
+            <p><pb ed="#A" n="p. 515" facs="https://www.e-codices.unifr.ch/de/csg/0560/515/0/"/>IGITUR POST SEPULTURAM <app>
                   <lem>PRECLUIS</lem>
                   <rdg wit="#codd."><note>ita</note></rdg>
                   <rdg wit="#Boll.">praedictae</rdg>
@@ -2504,10 +2504,10 @@
                   <rdg>-rumpentibus <note>textus <ref target="#B">B</ref> bifolio exciso iterum
                         incipit</note>
                   </rdg>
-               </app> · sospes cunctis mirantibus surrexit · <pb ed="#A" n="p. 535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/></p>
+               </app> · sospes cunctis mirantibus surrexit ·</p>
          </div>
          <div n="XIV" xml:id="vw2_2_XIV">
-            <p>NEC HOC SILENTIO pretereundum · quantam pietatem uirtus diuina ostendere dignata est
+            <p><pb ed="#A" n="p. 535" facs="https://www.e-codices.unifr.ch/de/csg/0560/535/0/"/>NEC HOC SILENTIO pretereundum · quantam pietatem uirtus diuina ostendere dignata est
                ob merita uirginis atque martyris suę planius declaranda · supra fidelem seruam eius
                   <persName ref="#kebi">kebininam</persName> · Post transitum igitur beatę <persName
                   ref="#wibo">uuiboradę</persName> commissione et praecepto illius · beatę <persName

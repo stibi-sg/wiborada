@@ -18,10 +18,10 @@
     <text>
         <body>
             <div rend="recto frontmatter">
-                <p rend="center no-initial">REGISTER</p>
+                <p rend="center no-initial">Register</p>
             </div>
             <div type="register" rend="two-column" xml:id="Pers">
-                <head rend="break-before">INDEX NOMINUM zu den Editionen</head>
+                <head rend="break-before">Index Nominum zu den Editionen</head>
                 <listPerson>
                     <person xml:id="abra">
                         <persName>Abraham</persName>
@@ -200,7 +200,7 @@
                         <idno type="gnd">http://d-nb.info/gnd/118541838</idno>
                     </person>
                     <person xml:id="hein">
-                        <persName xml:lang="la">Heinricus [I], Saxonicus, rex</persName>
+                        <persName xml:lang="la">Heinricus I., Saxonicus, rex</persName>
                         <persName xml:lang="de">König Heinrich, der Sachse</persName>
                         <birth type="ca." when="0875"/>
                         <death when="0936-07-02"/>
@@ -328,11 +328,11 @@
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Mose</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118641190</idno>
                     </person>
-                    <person corresp="#nabo">
-                        <persName>Israelita, Naboth</persName>
+                    <!--person corresp="nabo">
+                        <persName>Israelita</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Nabot</idno>
                         <idno type="gnd">http://d-nb.info/gnd/118586122</idno>
-                    </person>
+                    </person-->
                     <person xml:id="nabo">
                         <persName>Naboth Israelita</persName>
                         <idno type="wikipedia">https://de.wikipedia.org/wiki/Nabot</idno>
